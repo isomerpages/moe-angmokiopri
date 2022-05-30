@@ -2,5 +2,4 @@ collections:
   about-us:
     output: true
     order:
-      - Adfds/.keep
       - Principal's Message 2022.md
