@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Asdfsd/Principal's Message 2022.md
       - Asdfsd/.keep
