@@ -3,9 +3,11 @@ title: Principal's Message 2022
 permalink: /about-us/principals-message-2022
 description: ""
 ---
+> ![](/images/About%20Us/banner2-with%20bg.jpg)
 
 
-PRINCIPAL'S MESSAGE 2022 
+
+**PRINCIPAL'S MESSAGE 2022** 
 
 
 
