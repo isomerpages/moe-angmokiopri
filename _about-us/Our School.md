@@ -7,15 +7,16 @@ description: ""
 
 **<center>Our Vision</center>**
 
-Every Child, a Confident Person, a Joyful Learner and a Caring Citizen
+<center>Every Child, a Confident Person, a Joyful Learner and a Caring Citizen</center>
+
 **<center>Our Mission</center>**
 
-To Care, To Guide, To Inspire
+<center>To Care, To Guide, To Inspire</center>
 
 **<center>Our Motto</center>**
 
-Aspire and Be Inspired
+<center>Aspire and Be Inspire</center>
 
 **<center>Our R3IC2E Values</center>**
 
-Resilience, Respect, Responsibility, Integrity, Care, Courage, Excellence
+<center>Resilience, Respect, Responsibility, Integrity, Care, Courage, Excellence</center>
