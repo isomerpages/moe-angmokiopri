@@ -9,6 +9,3 @@ On 10th April 1978, the pupils moved into its premises at 22, Ang Mo Kio Avenue 
 
 
 ![](/images/About%20Us/AMK%20History%201.jpg)
-
-
-
