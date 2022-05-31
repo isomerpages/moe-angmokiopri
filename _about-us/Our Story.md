@@ -3,7 +3,6 @@ title: Our Story
 permalink: /about-us/our-story
 description: ""
 ---
-
 <img src="/images/About%20Us/AMK%20History%201.jpg"  
      style="width:50%">
 
@@ -46,3 +45,75 @@ These facilities will be able to support implementation of MOE-initiated Program
 <img src="/images/About%20Us/AMK%20History%207.jpg"  
      style="width:50%">
 <p style="text-align:center;">View of the whole school</p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-i5i7{background-color:#E5E5E5;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-mfxt{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig" colspan="2">ANG MO KIO PRIMARY (Pre-2000)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i5i7">Mr Oh Choon Eng </td>
+    <td class="tg-i5i7">1978 - 1982 </td>
+  </tr>
+  <tr>
+    <td class="tg-mfxt">Mr Low Yong Kee</td>
+    <td class="tg-mfxt">1982 - 1992</td>
+  </tr>
+  <tr>
+    <td class="tg-i5i7">Mrs Toh Boon Keng</td>
+    <td class="tg-i5i7">1992 - 1998</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Mr Tan Kee Hai</td>
+    <td class="tg-0pky">1999 - 2001 </td>
+  </tr>
+  <tr>
+    <td class="tg-i5i7" colspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:bold">KEBUN BARU PRIMARY</span></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">Mr Anthony Cheok </td>
+    <td class="tg-faf8">1983 - 1996 </td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Mr Tan Ah Khai </td>
+    <td class="tg-cly1">1996 - 2000</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8" colspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:bold">ANG MO KIO PRIMARY (Post-2000)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">Mr Patrick Sih </td>
+    <td class="tg-faf8">2002 - 2006 </td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Mdm Chua Lay Tin</td>
+    <td class="tg-cly1">2006 - 2012 </td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">Mr Chew Mun Wai </td>
+    <td class="tg-faf8">2012 - Current </td>
+  </tr>
+</tbody>
+</table>
