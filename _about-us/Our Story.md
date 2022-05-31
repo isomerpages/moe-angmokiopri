@@ -46,6 +46,8 @@ These facilities will be able to support implementation of MOE-initiated Program
      style="width:50%">
 <p style="text-align:center;">View of the whole school</p>
 
+
+<center>Principal List</center>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
