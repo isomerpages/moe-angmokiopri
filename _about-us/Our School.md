@@ -8,7 +8,6 @@ description: ""
 **<center>Our Vision</center>**
 
 Every Child, a Confident Person, a Joyful Learner and a Caring Citizen
-
 **<center>Our Mission</center>**
 
 To Care, To Guide, To Inspire
