@@ -3,6 +3,9 @@ title: Our School
 permalink: /about-us/our-school
 description: ""
 ---
+> ![](/images/About%20Us/banner2-with%20bg.jpg)
+> Our School
+
 **SCHOOL VISION, MISSION AND VALUES**
 
 **<center>Our Vision</center>**
