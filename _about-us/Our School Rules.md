@@ -3,6 +3,10 @@ title: Our School Rules
 permalink: /about-us/our-school-rules
 description: ""
 ---
+> ![](/images/About%20Us/banner2-with%20bg.jpg)
+> Our School Rules
+
+
 **1. Respect for Singapore and the School**
 * Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
 
