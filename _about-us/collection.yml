@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
-      - Our People.md
-      - Our School Rules.md
       - Principal's Message 2022.md
       - Our Story.md
       - Our School.md
       - Our AMKPians' Promise.md
+      - Our School Rules.md
+      - Our People.md
+      - Contact Us.md
