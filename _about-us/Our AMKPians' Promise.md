@@ -3,7 +3,7 @@ title: Our AMKPians' Promise
 permalink: /about-us/our-amkpians-promise
 description: ""
 ---
-**We, the AMKPians, promise to uphold our R3IC2E values.**
+**We, the AMKPians, promise to uphold our R<sup>3</sup>IC<sup>2</sup>E values.**
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
