@@ -4,3 +4,12 @@ links:
     collection: about-us
   - title: Resources
     resource_room: true
+  - title: Our AMKP Experience
+    url: /our-amkp-experience
+    sublinks:
+      - title: Our Curriculum
+        url: /our-curriculum
+      - title: Our Co-Curriculum
+        url: /our-co-curriculum
+      - title: CCA
+        url: /CCA
