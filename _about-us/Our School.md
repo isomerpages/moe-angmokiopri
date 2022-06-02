@@ -23,6 +23,6 @@ description: ""
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
-**<center>Our R3IC2E Values</center>**
+**<center>Our R<sup>3</sup>IC<sup>2</sup>E Values</center>**
 
 <center>Resilience, Respect, Responsibility, Integrity, Care, Courage, Excellence</center>
