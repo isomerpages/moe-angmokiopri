@@ -42,7 +42,8 @@ description: ""
 </tbody>
 </table>
 
-![](/images/About%20Us/AMKPS%20Map.png)
+<img src="/images/About%20Us/AMKPS%20Map.png"  
+     style="width:50%">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
