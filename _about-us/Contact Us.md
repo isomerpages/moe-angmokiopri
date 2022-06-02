@@ -44,7 +44,7 @@ description: ""
 
 <img src="/images/About%20Us/AMKPS%20Map.png"  
      style="width:50%">
-
+<center>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -69,6 +69,7 @@ description: ""
   </tr>
 </tbody>
 </table>
+</center>
 
 For parents who are driving, you may wish to park at the HDB carpark located beside the school.
 
