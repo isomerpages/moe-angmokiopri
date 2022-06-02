@@ -3,6 +3,10 @@ title: Our Story
 permalink: /about-us/our-story
 description: ""
 ---
+
+> ![](/images/About%20Us/banner2-with%20bg.jpg)
+> Our Story
+
 <img src="/images/About%20Us/AMK%20History%201.jpg"  
      style="width:50%">
 
