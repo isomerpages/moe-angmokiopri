@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People.md
       - Our School Rules.md
       - Principal's Message 2022.md
       - Our Story.md
