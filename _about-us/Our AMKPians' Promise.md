@@ -3,6 +3,9 @@ title: Our AMKPians' Promise
 permalink: /about-us/our-amkpians-promise
 description: ""
 ---
+> ![](/images/About%20Us/banner2-with%20bg.jpg)
+Our AMKPians' Promise
+
 **We, the AMKPians, promise to uphold our R<sup>3</sup>IC<sup>2</sup>E values.**
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
