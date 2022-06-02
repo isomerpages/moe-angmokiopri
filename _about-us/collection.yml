@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Our AMKPians' Promise.md
       - Principal's Message 2022.md
       - Our Story.md
       - Our School.md
+      - Our AMKPians' Promise.md
