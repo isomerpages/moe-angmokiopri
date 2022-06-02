@@ -62,10 +62,10 @@ description: ""
 
 **4. Conduct**
 * Students are expected to adhere to the 4 B’s.
-    Be Here: Attendance
-    Be On Time: Punctuality
-    Be Kind: Good behavior and conduct
-    Be Safe: Overall safety and well-being
+    <br>Be Here: Attendance
+    <br>Be On Time: Punctuality
+    <br>Be Kind: Good behavior and conduct
+    <br>Be Safe: Overall safety and well-being
 
 * All students must finish all homework and assignments on time.
 
@@ -119,7 +119,7 @@ description: ""
 * Students must not smoke. Smoking is prohibited by law for those under 21 years of age.
 
 **IMPORTANT NOTE:
-Non-compliance with and infringement of any of the school rules will result in action being taken against the offender. These actions include parental involvement, in-house suspension, counselling, caning and possible suspension from school.**
+<br>Non-compliance with and infringement of any of the school rules will result in action being taken against the offender. These actions include parental involvement, in-house suspension, counselling, caning and possible suspension from school.**
  
 For the complete list of **Offences and Consequences**, 
 please refer to the <u>2022 Student Handbook Page 12-13.</u>
