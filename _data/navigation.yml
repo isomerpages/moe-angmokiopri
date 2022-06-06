@@ -13,6 +13,10 @@ links:
         url: /our-amkp-experience/cca/table-tennis
   - title: Achievements
     collection: achievements
+  - title: E-Learning
+    collection: e-learning
+  - title: MOE Kindergarten@AMK
+    collection: moe-kindergarten-at-amk
   - title: Resources
     url: /resources/parents/parents-support-group-psg
     sublinks:
