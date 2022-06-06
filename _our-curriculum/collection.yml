@@ -2,10 +2,10 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Art.md
-      - Music.md
-      - Physical Education.md
-      - Mother Tongue.md
-      - Science.md
-      - Mathematics.md
       - Our Curriculum.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue.md
+      - Physical Education.md
+      - Music.md
+      - Art.md
