@@ -32,6 +32,7 @@ Programs such as the School wide Reading Program, Project Reading Star, GGRP, th
 
 **Project Reading Star**
 <br>The programme was set up in 2016 for all primary 1 and 2 pupils and is conducted in a contest format whereby pupils complete the activities in the booklet provided to earn stars.
+
 The aim of the programme is:
 * To inculcate the love of reading through fun-filled activities.
 * To motivate pupils to read, especially reluctant readers, by providing the opportunities for them to achieve small successes.
