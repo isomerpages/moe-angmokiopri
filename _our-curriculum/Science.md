@@ -23,8 +23,9 @@ Our Science curriculum is anchored on teaching and learning through inquiry. Ang
 * To provide pupils with opportunities to develop process skills and adopt mental attitudes that are important in scientific inquiry
 
 Singapore Science Centre, ZOO and Butterfly Park are some of the places pupils go, to experience learning outside school.  Learning journeys serve as alternative avenues to provide the authentic and vibrant experiences for pupils to construct meaning from Scientific phenomena they observed and be engaged in. Pupils investigate and make connections of what they already know to what they learn during these learning journeys.  After the learning journey, they carry on with research or de-brief activities to further enhance their understanding.
+<img src="/images/About%20Us/Our%20AMKP%20Experience/Science%20Block%201.png"  
+     style="width:75%">
 
-![](/images/About%20Us/Our%20AMKP%20Experience/Science%20Block%201.png)
 
 **Hydroponics Programme**
 
@@ -36,7 +37,8 @@ P4 pupils embark on the Hydroponics Programme which aims to allow pupils to gain
 
 During the programme, pupils have first-hand experience in growing green leafy vegetables using the Dynamic Root Floating Technique (DRF). Pupils also learnt the technique of seeding, maintenance of the nutrients supply and the process of harvesting.
 
-![](/images/About%20Us/Our%20AMKP%20Experience/Science%20Block%202.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/Science%20Block%202.png"  
+     style="width:75%">
 
 
 **Science Note-Booking**
@@ -45,12 +47,15 @@ Note-booking encourages and enhances pupils’ natural curiosity and motivation 
 
 The Science notebooks are also an excellent tool for pupils to communicate their understanding of science concepts, for teachers to provide pupils with feedback, and, finally to assess pupils (Shepardson & Britsch, 2000, 2001)
 
-![](/images/Science%20Block%203.png)
+<img src="/images/Science%20Block%203.png"  
+     style="width:75%">
+
 
 **<font size="5">Note to Parents</font>**
 
 The learning of Science should not be restricted to the textbook or workbook. Let’s encourage our children to look beyond curriculum resources. In your daily interactions with them, seize “teaching moments” at home and link scientific concepts to activities that they do at home. Indeed, Science is Everywhere.  
 
-![](/images/About%20Us/Our%20AMKP%20Experience/SCIENCE_0820_P1.jpg)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/SCIENCE_0820_P1.jpg"  
+     style="width:75%">
 
 From left: Back Row - Mr Mohd Riaz, Mr Ronald Lee, Mr Jex Nicholas, Mr Goh Leng Huat. Middle Row - Miss Victoria Wong, Mdm Azlyna, Mrs Yau Siew Cheng. Front Row - Mrs Wong Choo Lat, Ms Sri Halikmawati, Mdm Noorhafidzah (HOD), Mrs Amy Tan (SH), Ms Zaynn Bte Arifin.
