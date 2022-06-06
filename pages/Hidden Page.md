@@ -3,6 +3,9 @@ title: Hidden Page
 permalink: /hidden-page/news-n-announcement
 description: ""
 ---
+>![](/images/About%20Us/banner2-with%20bg.jpg)
+>News & Announcement
+
 **<font size="5">2022 Term 3 CCA Schedule</font>**
 
 Dear parents,
