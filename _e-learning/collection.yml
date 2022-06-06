@@ -2,5 +2,6 @@ collections:
   e-learning:
     output: true
     order:
+      - Student Learning Space (MOE).md
       - Ezhishi.md
       - MC Online.md
