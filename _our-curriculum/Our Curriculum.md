@@ -9,16 +9,17 @@ description: ""
 
 From left: Front Row – Mdm Jessie Yeo, Mdm Suzana, Mr Sudhesh (HOD), Mdm Justina Yim, Miss Pamela Tock. Middle Row – Mdm Siti Noorbiyah, Mrs Liang Hui Bing, Mdm Norsinah, Mdm Avonne Tan, Miss Nicolette Pereira, Mrs Vijaya Shankar. Back Row – Mdm Sharifah, Mr Marcus Leong, Miss Judith Lin, Mdm Michelle Wong, Mdm Kristin Hamton.
 
-**Learning Outcomes**
-<br>To empower pupils to be appreciative, creative and effective English language users
-To develop pupils to be Critical Readers, Confident Speakers and Competent Writer
+<font size="5">**Learning Outcomes**</font>
+* To empower pupils to be appreciative, creative and effective English language users
+* To develop pupils to be Critical Readers, Confident Speakers and Competent Writer
 
-**Teaching Approaches**
+<font size="5">**Teaching Approaches**</font>
 <br>
 The English department strives to create awareness among pupils of the importance of reading as well as to motivate and create an interest of the use of English among the pupils.
+
 Programs such as the School wide Reading Program, Project Reading Star, GGRP, the English Language Festival and Little Red Dot programme provide opportunities for pupils to develop competencies in the English language.
 
-**Key Programmes**
+<font size="5">**Key Programmes**</font>
 
 **School Wide Reading Programme**
 <br>The department’s focus is on reading and a reading committee of teachers has been set up with programmes such as
@@ -71,6 +72,6 @@ The objectives of this program are:
 
 Pupils reinforce their learning of regular and irregular words and acquire basic reading skills during this programme. They also develop their listening, reading, viewing and speaking skills. A pre-test is conducted at the beginning of the year to ascertain the pupil’s reading age. A post test is conducted in both May and November to determine the progress of the pupils.
 
-**For Parents**
+<font size="5">**For Parents**</font>
 <br>The English department urges you to join our efforts to inculcate in your children the love for reading and the English Language. Research shows that children tend to emulate the reading habits of significant adults in their lives so setting a good example at home will go a long way in influencing their reading behaviour.
 Together we can make our children better readers and learner of English!
