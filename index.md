@@ -4,12 +4,12 @@ title: Ang Mo Kio Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/About Us/Our AMKP Experience/AMKPS Gif.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -33,5 +33,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
-
