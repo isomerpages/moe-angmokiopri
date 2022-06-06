@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/AMKPS Gif 4.gif
+      background: /images/About Us/Our AMKP Experience/AMKPS Gif.gif
   - infobar:
       title: News & Announcement
       button: Click Here
