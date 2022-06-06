@@ -13,3 +13,5 @@ links:
         url: /our-amkp-experience/cca/table-tennis
   - title: Resources
     resource_room: true
+  - title: Achievements
+    collection: achievements
