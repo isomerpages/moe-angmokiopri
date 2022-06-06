@@ -14,7 +14,7 @@ From left: Front Row – Mdm Jessie Yeo, Mdm Suzana, Mr Sudhesh (HOD), Mdm Justi
 * To develop pupils to be Critical Readers, Confident Speakers and Competent Writer
 
 <font size="5">**Teaching Approaches**</font>
-<br>
+
 The English department strives to create awareness among pupils of the importance of reading as well as to motivate and create an interest of the use of English among the pupils.
 
 Programs such as the School wide Reading Program, Project Reading Star, GGRP, the English Language Festival and Little Red Dot programme provide opportunities for pupils to develop competencies in the English language.
@@ -35,6 +35,7 @@ Programs such as the School wide Reading Program, Project Reading Star, GGRP, th
 The aim of the programme is:
 * To inculcate the love of reading through fun-filled activities.
 * To motivate pupils to read, especially reluctant readers, by providing the opportunities for them to achieve small successes.
+
 Accumulated stars will be translated into different categories of awards/prizes (Gold/Silver/Bronze, Top Star, Best Free Expression). These awards are given out to recognise 
 pupils’ improvement in reading and comprehension.
 
@@ -55,6 +56,7 @@ To enhance pupils’ skills in listening and speaking, there were activities suc
 
 **Little Red Dot Programme**
 <br>The Little Red Dot programme was conceptualised so that Primary 4 to Primary 6 pupils can leverage on the Straits Times and Little Red Dot newspaper resource as a tool to improve their visual literacy and reading comprehension skills. 
+
 The objectives of the programme are:
 * To expose pupils to current issues in local and international news and cultivate the habit of reading the newspapers
 * To encourage pupils to interact with the issues – read, reflect and respond
@@ -65,6 +67,7 @@ Teachers carry out the programme throughout the year from Term 1 to Term 4. Thro
 
 **Guided Graded Reading Programme**
 <br>The Guided Graded Reading Programme (GGRP)  is carried out for all P1 classes with the aim to improve the reading fluency of pupils.  Pupils who have undergone this program in the past 2 years have shown promising results with the majority of pupils almost meeting or surpassing their reading age.
+
 The objectives of this program are:
 * To promote reading skills and reading fluency
 * To acquire language structures and vocabulary through exposure
@@ -73,5 +76,7 @@ The objectives of this program are:
 Pupils reinforce their learning of regular and irregular words and acquire basic reading skills during this programme. They also develop their listening, reading, viewing and speaking skills. A pre-test is conducted at the beginning of the year to ascertain the pupil’s reading age. A post test is conducted in both May and November to determine the progress of the pupils.
 
 <font size="5">**For Parents**</font>
-<br>The English department urges you to join our efforts to inculcate in your children the love for reading and the English Language. Research shows that children tend to emulate the reading habits of significant adults in their lives so setting a good example at home will go a long way in influencing their reading behaviour.
+
+The English department urges you to join our efforts to inculcate in your children the love for reading and the English Language. Research shows that children tend to emulate the reading habits of significant adults in their lives so setting a good example at home will go a long way in influencing their reading behaviour.
+
 Together we can make our children better readers and learner of English!
