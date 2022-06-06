@@ -23,9 +23,11 @@ Our Science curriculum is anchored on teaching and learning through inquiry. Ang
 * To provide pupils with opportunities to develop process skills and adopt mental attitudes that are important in scientific inquiry
 
 Singapore Science Centre, ZOO and Butterfly Park are some of the places pupils go, to experience learning outside school.  Learning journeys serve as alternative avenues to provide the authentic and vibrant experiences for pupils to construct meaning from Scientific phenomena they observed and be engaged in. Pupils investigate and make connections of what they already know to what they learn during these learning journeys.  After the learning journey, they carry on with research or de-brief activities to further enhance their understanding.
+
 <img src="/images/About%20Us/Our%20AMKP%20Experience/Science%20Block%201.png"  
      style="width:75%">
 
+<hr style="height:1px;border-width:0;color:gray;background-color:black">
 
 **Hydroponics Programme**
 
@@ -39,7 +41,7 @@ During the programme, pupils have first-hand experience in growing green leafy v
 
 <img src="/images/About%20Us/Our%20AMKP%20Experience/Science%20Block%202.png"  
      style="width:75%">
-
+<hr style="height:1px;border-width:0;color:gray;background-color:black">
 
 **Science Note-Booking**
 
