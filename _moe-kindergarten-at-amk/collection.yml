@@ -1,4 +1,5 @@
 collections:
   moe-kindergarten-at-amk:
     output: true
-    order: []
+    order:
+      - Home.md
