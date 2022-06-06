@@ -10,9 +10,7 @@ description: ""
 
 Dear parents,
 
-Here is the Term 3 CCA schedule for your reference.
-
-[https://angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars-2022]
+[(https://angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars-2022)]
 
 The school will continue to ensure that the students attend CCA in a progressive and safe manner.
 
