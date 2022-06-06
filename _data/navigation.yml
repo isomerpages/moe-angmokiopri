@@ -11,7 +11,10 @@ links:
         url: /our-amkp-experience/our-co-curriculum/info-communication-technology
       - title: CCA
         url: /our-amkp-experience/cca/table-tennis
-  - title: Resources
-    resource_room: true
   - title: Achievements
     collection: achievements
+  - title: Resources
+    url: /resources/parents/parents-support-group-psg
+    sublinks:
+      - title: Parents
+        url: /resources/parents/parents-support-group-psg
