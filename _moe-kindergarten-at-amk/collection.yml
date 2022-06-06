@@ -2,6 +2,6 @@ collections:
   moe-kindergarten-at-amk:
     output: true
     order:
-      - 2022 Open House.md
-      - Orientation.md
       - Home.md
+      - Orientation.md
+      - 2022 Open House.md
