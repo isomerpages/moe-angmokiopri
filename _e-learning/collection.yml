@@ -2,4 +2,5 @@ collections:
   e-learning:
     output: true
     order:
+      - Ezhishi.md
       - MC Online.md
