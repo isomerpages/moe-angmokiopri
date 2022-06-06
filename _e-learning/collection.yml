@@ -2,7 +2,7 @@ collections:
   e-learning:
     output: true
     order:
-      - pazhahutamil.md
+      - Pazhahutamil.md
       - Student Learning Space (MOE).md
       - Ezhishi.md
       - MC Online.md
