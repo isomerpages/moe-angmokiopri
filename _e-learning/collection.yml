@@ -2,6 +2,7 @@ collections:
   e-learning:
     output: true
     order:
+      - Zoom.md
       - Pazhahutamil.md
       - Student Learning Space (MOE).md
       - Ezhishi.md
