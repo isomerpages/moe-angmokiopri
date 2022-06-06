@@ -2,8 +2,6 @@ logo: /images/About Us/school logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: Resources
-    resource_room: true
   - title: Our AMKP Experience
     url: /our-amkp-experience
     sublinks:
@@ -13,3 +11,5 @@ links:
         url: /our-amkp-experience/our-co-curriculum/info-communication-technology
       - title: CCA
         url: /our-amkp-experience/cca/table-tennis
+  - title: Resources
+    resource_room: true
