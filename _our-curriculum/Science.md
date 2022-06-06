@@ -52,6 +52,7 @@ The Science notebooks are also an excellent tool for pupils to communicate their
 <img src="/images/Science%20Block%203.png"  
      style="width:75%">
 
+<br>
 
 **<font size="5">Note to Parents</font>**
 
