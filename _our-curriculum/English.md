@@ -3,11 +3,12 @@ title: English
 permalink: /our-amkp-experience/our-curriculum/english
 description: ""
 ---
-
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >ENGLISH
 
-![](/images/About%20Us/Our%20AMKP%20Experience/English.jpg)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/English.jpg"  
+     style="width:75%">
+
 
 From left: Front Row – Mdm Jessie Yeo, Mdm Suzana, Mr Sudhesh (HOD), Mdm Justina Yim, Miss Pamela Tock. Middle Row – Mdm Siti Noorbiyah, Mrs Liang Hui Bing, Mdm Norsinah, Mdm Avonne Tan, Miss Nicolette Pereira, Mrs Vijaya Shankar. Back Row – Mdm Sharifah, Mr Marcus Leong, Miss Judith Lin, Mdm Michelle Wong, Mdm Kristin Hamton.
 
