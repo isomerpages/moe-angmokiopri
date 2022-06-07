@@ -33,12 +33,13 @@ In the **Expression and Enrich** domains, pupils are able to demonstrate a maste
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ffcc{background-color:#EFF7FF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-hr0h{background-color:#EFF7FF;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-cpzc{background-color:#024C45;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-6uks{background-color:#EFF7FF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-r1fi{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-pdeq{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-cjnq{background-color:#EFF7FF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
@@ -65,12 +66,12 @@ In the **Expression and Enrich** domains, pupils are able to demonstrate a maste
     <td class="tg-pdeq">Recorder / Ukulele (Module 1) <span style="color:#000;background-color:#FFF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-cjnq"><span style="background-color:#EFF7FF">Primary 5</span></td>
-    <td class="tg-6uks">Ukulele (Module 2)<span style="color:#000;background-color:#EFF7FF"> </span></td>
+    <td class="tg-hr0h">Primary 5</td>
+    <td class="tg-hr0h">Ukulele (Module 2)</td>
   </tr>
   <tr>
-    <td class="tg-r1fi"><span style="color:#000;background-color:#FFF">Primary 6</span></td>
-    <td class="tg-r1fi"><span style="color:#000;background-color:#FFF">Guitar</span></td>
+    <td class="tg-1wig">Primary 6 </td>
+    <td class="tg-1wig">Guitar</td>
   </tr>
 </tbody>
 </table>
