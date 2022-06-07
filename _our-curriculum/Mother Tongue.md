@@ -41,10 +41,10 @@ engage the National Library Board for mass borrowing to promote MTL reading acti
 **E-Learning Portals**
 <br>E-Learning is an integral part in the teaching and learning of the students. Students are able to have self-directed and self-paced continuous learning beyond classroom hours using the following portals:
 
-* IMTL portal: https://imtl.moe.edu.sg
-* Xue Le (CL): http://xuele.moe.edu.sg
-* Etutoronline (CL): http://ezhishi.net
-* Pazhahutamil (TL): https://www.pazhahutamil.com/login/
+* [IMTL Portal](https://imtl.moe.edu.sg)
+* [Xue Le (CL)](http://xuele.moe.edu.sg)
+* [Etutoronline (CL)](http://ezhishi.net)
+* [Pazhahutamil (TL)](https://www.pazhahutamil.com/login/)
 
 **<font size="5">Engaging Parents in MTL Learning</font>**
 
