@@ -116,7 +116,7 @@ Here is a break down of the modules that we conduct in AMKPS:
 ![](/images/About%20Us/Our%20AMKP%20Experience/PE%20block%205.png)
 <br>
 
-**4. P5 Camp Resilience**<br>
+**2. P5 Camp Resilience**<br>
 Every year, the Primary 5 cohort participates in a 3D2N adventure camp at one of the four MOE Outdoor Adventure Learning Centres (OALC). Usually conducted in the first week of Term 3, the camp aims to develop resilience and fortitudein our students, hence the name "Camp Resilience". The learning outcomes include:
 * To develop confidence, resilience, ruggedness and a positive mindset to face new challenges;
 * To develop 21st century competencies such as critical thinking and sound decision-making skills; and
@@ -124,7 +124,7 @@ Every year, the Primary 5 cohort participates in a 3D2N adventure camp at one of
 
 During the camp, activities such as team-building games, high and low rope elements and caving are conducted. To end the camp on a high note, everyone comes together at a campfire on the final night. This year (2018), the camp was successfully carried out from 28 to 30 June at Jalan Bahtera MOE OALC. Following are some highlights from the camp:
 
-**2. Lower Primary Games Day (P1-P2)**
+**3. Lower Primary Games Day (P1-P2)**
 
 Every year, the P1 and P2 pupils look forward to the Lower Primary Games Day which takes place in conjunction with the Children’s Day celebration in October. This event is organised with the following objectives in mind:
 
@@ -143,7 +143,7 @@ The school would also like to place on record our appreciation to the parent vol
 ![](/images/About%20Us/Our%20AMKP%20Experience/PE%20block%206.png)
 <br>
 
-**3. P4 Swimsafer Programme**<br>
+**4. P4 Swimsafer Programme**<br>
 SwimSafer is a national water safety programme developed to raise the standard of swimming proficiency in Singapore. The SwimSafer programme consists of six progressive stages, each comprising 12 hours of lesson time. Survival and activity skills are taught at each stage of the programme, with the pupil working progressively towards the next stage. At the end of each stage, each child receives a certificate indicating his/her individual skill achievements.
 
 AMKP adopted this programme in an effort to ensure that all the pupils are water-safe and to also promote swimming as a healthy physical activity amongst the pupils. Being proficient in swimming also helps to open up the gateway for pupils to be involved in other water-related activities in future to adopt a healthy lifestyle.
