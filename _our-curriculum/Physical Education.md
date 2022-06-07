@@ -123,7 +123,8 @@ Here is a break down of the modules that we conduct in AMKPS:
      style="width:75%">
 <br>
 
-**2. P5 Camp Resilience**<br>
+**2. P5 Camp Resilience**
+
 Every year, the Primary 5 cohort participates in a 3D2N adventure camp at one of the four MOE Outdoor Adventure Learning Centres (OALC). Usually conducted in the first week of Term 3, the camp aims to develop resilience and fortitudein our students, hence the name "Camp Resilience". The learning outcomes include:
 * To develop confidence, resilience, ruggedness and a positive mindset to face new challenges;
 * To develop 21st century competencies such as critical thinking and sound decision-making skills; and
@@ -151,7 +152,8 @@ The school would also like to place on record our appreciation to the parent vol
      style="width:75%">
 <br>
 
-**4. P4 Swimsafer Programme**<br>
+**4. P4 Swimsafer Programme**
+
 SwimSafer is a national water safety programme developed to raise the standard of swimming proficiency in Singapore. The SwimSafer programme consists of six progressive stages, each comprising 12 hours of lesson time. Survival and activity skills are taught at each stage of the programme, with the pupil working progressively towards the next stage. At the end of each stage, each child receives a certificate indicating his/her individual skill achievements.
 
 AMKP adopted this programme in an effort to ensure that all the pupils are water-safe and to also promote swimming as a healthy physical activity amongst the pupils. Being proficient in swimming also helps to open up the gateway for pupils to be involved in other water-related activities in future to adopt a healthy lifestyle.
@@ -216,7 +218,8 @@ In AMKP, we hope to expose our pupils to special sports activities that are not 
 <img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%209.png"  
      style="width:75%">
 
-**6. P3 to P6 InterClass Competition (After Curricular Hours)**<br>
+**6. P3 to P6 InterClass Competition (After Curricular Hours)**
+
 To further provide more opportunities for the pupils to be active and resilient, AMKP PE department also organises after school activities such as inter-class competitions. These activities generate fun and promote a positive attitude towards continual participation in physical activities for health, fitness and enjoyment. They also provide authentic learning experiences for pupils to build their confidence and develop social skills.
 
 **2018 Winners**
