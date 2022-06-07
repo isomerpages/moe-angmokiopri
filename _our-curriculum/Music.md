@@ -19,7 +19,7 @@ To develop pupils' confidence in learning and singing meaningful songs and movin
 In Ang Mo Kio Primary School, music lessons are planned and developed to instill a deep appreciation in the aesthetic domain. This is done via the **4E approach**; experience, exposure, expression and enrichment.
 In the **Experience** domain, pupils are given a wide variety of experiences in playing different pitched instruments. Pupils are also exposed to a variety of songs through the different repertoires of the songs introduced at different levels.
 
-In the **Exposure domain**, theatrical experiences are planned for Primary 2 pupils via the Music Learning Journey. The whole school is also introduced to different music forms through Music assemblies.
+In the **Exposure** domain, theatrical experiences are planned for Primary 2 pupils via the Music Learning Journey. The whole school is also introduced to different music forms through Music assemblies.
 
 In the **Expression and Enrich** domains, pupils are able to demonstrate a mastery of the different musical skills taught at the different levels and to perform on stage. Pupils are able to showcase their various musical talents, whether singing, dancing or playing an instrument through the Open Mic platform during the annual AWESOME week and the Primary 6 graduation concert.  
 
