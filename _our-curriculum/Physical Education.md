@@ -152,10 +152,58 @@ This year, a total of 173 Primary 4 pupils participated in this programme. The l
 
 The school would like to thank the parent volunteers and teachers who acted as chaperones for this programme. Because of their dedicated supervision, the programme was carried out successfully.
 
-
+![](/images/About%20Us/Our%20AMKP%20Experience/PE%20block%207.png)
 
 **5. Sports Education Programme**
 
 The Sports Education Programme (SEP) is a collaborative partnership between Sport Singapore (SportsSG) and the Ministry of Education (MOE). Under SEP, every school is provided with financial grants to aid the pupils to take up sports programmes at a subsidised rate. The SEP aims to advocate the importance of sports education, encourage sports participation in schools and increase sporting opportunities for our young learners.
 
 In AMKP, we hope to expose our pupils to special sports activities that are not covered in the PE curriculum. Over the four years from P3-P6, pupils will be exposed to 4 different sports, conducted outside the curriculum hours. This year, these were the sports that our pupils were introduced to:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cpzc{background-color:#024C45;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-6uks{background-color:#EFF7FF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ffnn{background-color:#EFF7FF;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-415u{background-color:#EFF7FF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cpzc"><span style="font-weight:bold;color:#FFF;background-color:#024C45">Level </span></th>
+    <th class="tg-cpzc"><span style="font-weight:bold;color:#FFF;background-color:#024C45">Programme</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-6uks">Primary 3</td>
+    <td class="tg-ffnn"><span style="color:#000;background-color:#EFF7FF">Inline Skating</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Primary 4</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Bowling</span></td>
+  </tr>
+  <tr>
+    <td class="tg-415u"><span style="color:#000;background-color:#EFF7FF"> </span>Primary 5</td>
+    <td class="tg-415u"><span style="color:#000;background-color:#EFF7FF"> Rock Climbing</span></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> </span>Primary 6</td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF"> Archery</span></td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%208.png)<br>
+![](/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%209.png)
+
+**6. P3 to P6 InterClass Competition (After Curricular Hours)**<br>
+To further provide more opportunities for the pupils to be active and resilient, AMKP PE department also organises after school activities such as inter-class competitions. These activities generate fun and promote a positive attitude towards continual participation in physical activities for health, fitness and enjoyment. They also provide authentic learning experiences for pupils to build their confidence and develop social skills.
+
+**2018 Winners**
