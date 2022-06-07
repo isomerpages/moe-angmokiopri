@@ -49,10 +49,8 @@ Note-booking encourages and enhances pupils’ natural curiosity and motivation 
 
 The Science notebooks are also an excellent tool for pupils to communicate their understanding of science concepts, for teachers to provide pupils with feedback, and, finally to assess pupils (Shepardson & Britsch, 2000, 2001)
 
-<img src="/images/Science%20Block%203.png"  
+<img src="/images/About%20Us/Our%20AMKP%20Experience/Science%20Block%203.png"  
      style="width:75%">
-
-<br>
 
 **<font size="5">Note to Parents</font>**
 
