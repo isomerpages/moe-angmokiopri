@@ -28,13 +28,15 @@ description: ""
 **Mother Tongue Fortnight / P3 Language & Cultural Programme**
 <br>Creating an environment more conducive for authentic usage and learning. Students are exposed to culture and values which will enhance their learning experience and inspire their interest in MTL.
 
-![](/images/About%20Us/Our%20AMKP%20Experience/Mother%20Tongue%20Block%201.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/Mother%20Tongue%20Block%201.png"  
+     style="width:75%">
 
 **Reading Programme**
 <br>To ensure strong MTL reading programmes, schools has purchased more interesting and age-appropriate story books, set up reading corners in the classroom and organize wide ranging reading-promotion activities such as book review and reading portfolio. We also 
 engage the National Library Board for mass borrowing to promote MTL reading activities.
 
-![](/images/About%20Us/Our%20AMKP%20Experience/Mother%20Tongue%20Block%202.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/Mother%20Tongue%20Block%202.png"  
+     style="width:75%">
 
 **E-Learning Portals**
 <br>E-Learning is an integral part in the teaching and learning of the students. Students are able to have self-directed and self-paced continuous learning beyond classroom hours using the following portals:
@@ -43,3 +45,12 @@ engage the National Library Board for mass borrowing to promote MTL reading acti
 * Xue Le (CL): http://xuele.moe.edu.sg
 * Etutoronline (CL): http://ezhishi.net
 * Pazhahutamil (TL): https://www.pazhahutamil.com/login/
+
+**<font size="5">Engaging Parents in MTL Learning</font>**
+
+Support of parents is vital to language learning and development. The MT Department of Ang Mo Kio Primary School has the Let’s Read Reading Programme that encourages parents to support their children in their efforts at learning MTL, where they read together with the child and guide pupils in doing the reading activity sheet.
+
+<img src="/images/About%20Us/Our%20AMKP%20Experience/MOTHER%20TONGUE_0829_P1.jpg"  
+     style="width:75%">
+		 
+From Left: Fourth Row - Mdm Ng Peng Yong, Ms Komalavalli, Mdm Dai Siming. Third Row - Mr Wu Weixiang, Miss Tam Sook Lai, Mrs Tan Tay Kee, Miss Lee Mei Xuan, Ms Tan Shu Jun. Second Row - Miss Hariyati, Mdm Nur Adawiyah, Miss Amirah, Mdm Chang Shuyun, Miss Suganthi, Mdm Tok Ann Kee, Miss Lim Ching Yin. First Row - Ms A Gayathree, Mr Yazid, Mdm Zarinah (HOD), Mdm Lum Hai Yean, Miss Vanessa Tan.
