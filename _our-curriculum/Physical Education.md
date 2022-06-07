@@ -8,7 +8,8 @@ description: ""
 
 **<font size="5">PE Committee</font>**
 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE%20Dept.jpg)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Dept.jpg"  
+     style="width:75%">
 
 From Left: Ms Soh Mei Ling, Mr Melvin Ong, Mrs Nurlina Diyanah Goh, Mr Mark Chin, Mdm Nadzirah, Mr Alan Yong (SH), Mdm Leny Sriwahyuto, Mrs Tay Kok Chay.
 
@@ -26,7 +27,9 @@ We, as Physical Education teachers, consciously make use of movement as the prim
 By the end of P6, all pupils will have experienced the 7 key PE learning areas namely, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness, Athletics (P3 to P6) and Swimming (P4 only).
 
 **PE Lesson Pics**
-![](/images/About%20Us/Our%20AMKP%20Experience/PE%20block%201.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%201.png"  
+     style="width:75%">
+
 
 **<font size="5">Key Programmes</font>**
 
@@ -38,13 +41,15 @@ During the carnival, pupils take part in either carnival-style games or represen
 
 We would also like to convey our appreciation to the Parent Support Group for their continual patronage during the Sports Carnival!
 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE%20block%202.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%202.png"  
+     style="width:75%">
 <br><br>
 **<font size="5">For Parents</font>**
 
 The PE department seeks the support of all stakeholders to instil in our pupils the importance ofeating healthy and exercising regularly. Therefore, here are some health tips that can be reiterated at home:
 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE%20block%203.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%203.png"  
+     style="width:75%">
 <br>
 
 **<font size="5">Programme for Active Learning</font>**
@@ -110,10 +115,12 @@ Here is a break down of the modules that we conduct in AMKPS:
 </table>
 
 **Games & Sports Module:**
-![](/images/About%20Us/Our%20AMKP%20Experience/PE%20block%204.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%204.png"  
+     style="width:75%">
 
 **Outdoor Education Module:**
-![](/images/About%20Us/Our%20AMKP%20Experience/PE%20block%205.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%205.png"  
+     style="width:75%">
 <br>
 
 **2. P5 Camp Resilience**<br>
@@ -140,7 +147,8 @@ At the end of the day, tokens in the form of sports equipmentare given to every 
 
 The school would also like to place on record our appreciation to the parent volunteers who took time off from their busy schedules to support this event.
 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE%20block%206.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%206.png"  
+     style="width:75%">
 <br>
 
 **4. P4 Swimsafer Programme**<br>
@@ -152,7 +160,9 @@ This year, a total of 173 Primary 4 pupils participated in this programme. The l
 
 The school would like to thank the parent volunteers and teachers who acted as chaperones for this programme. Because of their dedicated supervision, the programme was carried out successfully.
 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE%20block%207.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%207.png"  
+     style="width:75%">
+<br>
 
 **5. Sports Education Programme**
 
@@ -200,13 +210,18 @@ In AMKP, we hope to expose our pupils to special sports activities that are not 
 </tbody>
 </table>
 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%208.png)<br>
-![](/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%209.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%208.png"  
+     style="width:75%">
+<br>
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%209.png"  
+     style="width:75%">
 
 **6. P3 to P6 InterClass Competition (After Curricular Hours)**<br>
 To further provide more opportunities for the pupils to be active and resilient, AMKP PE department also organises after school activities such as inter-class competitions. These activities generate fun and promote a positive attitude towards continual participation in physical activities for health, fitness and enjoyment. They also provide authentic learning experiences for pupils to build their confidence and develop social skills.
 
 **2018 Winners**
 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%2012.png)
-![](/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%2013.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%2012.png"  
+     style="width:75%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%2013.png"  
+     style="width:75%">
