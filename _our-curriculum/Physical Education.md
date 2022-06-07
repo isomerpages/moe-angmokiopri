@@ -207,3 +207,6 @@ In AMKP, we hope to expose our pupils to special sports activities that are not 
 To further provide more opportunities for the pupils to be active and resilient, AMKP PE department also organises after school activities such as inter-class competitions. These activities generate fun and promote a positive attitude towards continual participation in physical activities for health, fitness and enjoyment. They also provide authentic learning experiences for pupils to build their confidence and develop social skills.
 
 **2018 Winners**
+
+![](/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%2012.png)
+![](/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%2013.png)
