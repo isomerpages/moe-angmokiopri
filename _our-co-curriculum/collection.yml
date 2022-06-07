@@ -2,7 +2,7 @@ collections:
   our-co-curriculum:
     output: true
     order:
-      - Sexuality Education.md
-      - Student Development.md
-      - Character and Citizenship Education.md
       - Info Communication Technology.md
+      - Character and Citizenship Education.md
+      - Student Development.md
+      - Sexuality Education.md
