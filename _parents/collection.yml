@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Education & Career Guidance.md
       - 2022 Meet the Parents.md
       - Letters & Circulars (2022).md
       - 2022 Booklists & Name Tag Guide.md
