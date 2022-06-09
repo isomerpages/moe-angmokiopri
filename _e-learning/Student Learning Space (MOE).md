@@ -12,7 +12,7 @@ Unsure of how to reset your password or what to do when you are logged out of yo
 
 **<font size="5">Navigating SLS</font>**
 
-<img src="/images/E%20Learning/SLS_Login.jpg" style="width:75%"/>
+<img src="/images/E%20Learning/SLS_Login.jpg" style="width:50%"/>
 
 **A) <u>Logging In</u>**
 
