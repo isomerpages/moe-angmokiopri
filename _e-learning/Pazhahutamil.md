@@ -9,10 +9,7 @@ description: ""
 **<font size="5">Login Instructions</font>**
 
 <img src="/images/E%20Learning/pazha%20login.jpg"  
-     style="width:75%">
-
-<center>
+     style="width:100%">
 
 Click [here](https://www.pazhahutamil.com/login/) to access Pazhahutamil
 	
-</center>
