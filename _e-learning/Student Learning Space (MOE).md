@@ -50,5 +50,5 @@ Saturdays<br>
 *Closed on Sundays & Public Holidays
 
 
-Email: <a href="mailto:helpdesk@sls.ufinity.com">_Help Desk_</a><br>
+Email: <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a><br>
 Tel: 6702 6513
