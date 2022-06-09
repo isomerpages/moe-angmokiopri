@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Brass Band.md
       - Robotics.md
       - Infocomm Technology (Computing).md
       - Scouts.md
