@@ -38,7 +38,7 @@ To find your homework, go to the "Due Soon/To Do" tab.
 
 **School Based (Mon - Fri, 8am - 4pm)**<br>
 Phone:                6459 0247 <br>
-Online Form:     [Preferred Method](https://go.gov.sg/amkpicthelp)
+Online Form:     [https://go.gov.sg/amkpicthelp](https://go.gov.sg/amkpicthelp) (preferred method)
 
 **SLS Helpdesk**<br>
 Operating Hours<br>
