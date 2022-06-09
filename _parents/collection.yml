@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Letters & Circulars 2022/Letters & Circulars (2022).md
       - Letters & Circulars 2022/.keep
       - Parents Support Group (PSG).md
       - P1 Orientation for 2022.md
