@@ -123,11 +123,11 @@ At Ang Mo Kio Primary School, the following lessons from the Growing Years Progr
 .tg .tg-a2ml{background-color:#EFF7FF;border-color:inherit;color:#484848;text-align:left;vertical-align:top}
 .tg .tg-2j30{background-color:#EFF7FF;border-color:inherit;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1186px">
+<table class="tg" style="undefined;table-layout: fixed; width: 816px">
 <colgroup>
-<col style="width: 290px">
-<col style="width: 286px">
-<col style="width: 610px">
+<col style="width: 121px">
+<col style="width: 166px">
+<col style="width: 529px">
 </colgroup>
 <thead>
   <tr>
