@@ -2,12 +2,12 @@ collections:
   parents:
     output: true
     order:
-      - Letters & Circulars 2022/.keep
-      - Letters & Circulars 2022/Letters & Circulars (2022).md
-      - Letters & Circulars 2022/2022 Meet The Parents.md
       - Parents Support Group (PSG).md
       - P1 Orientation for 2022.md
       - 2022 Booklists & Name Tag Guide.md
+      - Letters & Circulars 2022/.keep
+      - Letters & Circulars 2022/Letters & Circulars (2022).md
+      - Letters & Circulars 2022/2022 Meet The Parents.md
       - Education & Career Guidance.md
       - Parents Gateway.md
       - Important Helplines.md
