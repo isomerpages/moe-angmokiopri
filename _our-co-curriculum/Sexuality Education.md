@@ -84,58 +84,59 @@ c.      Character and Citizenship Education (CCE)
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-pxye"><span style="font-weight:bold;color:#FFF;background-color:#024C45">UNIT</span><br><br></th>
-    <th class="tg-pxye"><span style="font-weight:bold;color:#FFF;background-color:#024C45">LESSONS / DURATION</span></th>
-    <th class="tg-pxye"><span style="font-weight:bold;color:#FFF;background-color:#024C45">LESSON OBJECTIVES</span><br><span style="font-weight:bold;color:#FFF;background-color:#024C45">At the end of the lesson, students will be able to:</span></th>
-    <th class="tg-pxye"><span style="font-weight:bold;color:#FFF;background-color:#024C45">TIME PERIOD</span></th>
+    <th class="tg-pxye"><span style="font-weight:bold;font-style:inherit;color:#FFF;background-color:#024C45">UNIT</span><br><br></th>
+    <th class="tg-pxye"><span style="font-weight:bold;font-style:inherit;color:#FFF;background-color:#024C45">LESSONS / DURATION</span></th>
+    <th class="tg-pxye"><span style="font-weight:bold;font-style:inherit;color:#FFF;background-color:#024C45">LESSON OBJECTIVES</span><br><span style="font-weight:bold;font-style:inherit;color:#FFF;background-color:#024C45">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-pxye"><span style="font-weight:bold;font-style:inherit;color:#FFF;background-color:#024C45">TIME PERIOD</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-g57u" rowspan="4"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold;font-style:inherit;color:#000">Gosh! I Am</span><br><br><span style="font-weight:bold;color:#484848;background-color:#EFF7FF">Changing</span></td>
-    <td class="tg-bvad"><span style="color:#484848;background-color:#EFF7FF">What Is Happening To Me?</span><br><span style="color:#484848;background-color:#EFF7FF">(30 min)</span></td>
-    <td class="tg-a2ml"><span style="background-color:#EFF7FF">- know what puberty is</span><br><span style="background-color:#EFF7FF">- identify the physical changes during puberty</span></td>
-    <td class="tg-bvad"><span style="background-color:#EFF7FF">Term 3</span><br><span style="background-color:#EFF7FF">Week 5</span><br><span style="background-color:#EFF7FF">(25 Jul)</span></td>
+    <td class="tg-g57u" rowspan="4"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold;font-style:inherit;color:#000">Gosh! I Am</span><br><br><span style="font-weight:bold;font-style:inherit;color:#484848;background-color:#EFF7FF">Changing</span></td>
+    <td class="tg-bvad"><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#EFF7FF">What Is Happening To Me?</span><br><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#EFF7FF">(30 min)</span></td>
+    <td class="tg-a2ml"><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">- know what puberty is</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">- identify the physical changes during puberty</span></td>
+    <td class="tg-bvad"><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">Term 3</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">Week 5</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">(25 Jul)</span></td>
   </tr>
   <tr>
-    <td class="tg-t18x"><br><span style="color:#484848;background-color:#FFF">What Can I Do?</span><br><br><span style="color:#484848;background-color:#FFF">(Part 1)</span><br><span style="color:#484848;background-color:#FFF">(30 min)</span></td>
-    <td class="tg-acgv"><span style="background-color:#FFF">- identify the stresses caused by physical and emotional changes during puberty</span><br><span style="background-color:#FFF">- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</span><br><span style="background-color:#FFF">- describe the emotions caused by physical changes during puberty</span><br><span style="background-color:#FFF">- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</span></td>
-    <td class="tg-t18x"><br><br><span style="background-color:#FFF">Term 3</span><br><span style="background-color:#FFF">Week 5</span><br><span style="background-color:#FFF">(25 Jul)</span></td>
+    <td class="tg-t18x"><br><br><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#FFF">What Can I Do?</span><br><br><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#FFF">(Part 1)</span><br><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#FFF">(30 min)</span></td>
+    <td class="tg-acgv"><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">- identify the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">- describe the emotions caused by physical changes during puberty</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</span></td>
+    <td class="tg-t18x"><br><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">Term 3</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">Week 5</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">(25 Jul)</span></td>
   </tr>
   <tr>
-    <td class="tg-bvad"><br><span style="font-weight:400;font-style:inherit;color:#000">What Can I Do?</span><br><br><span style="color:#484848;background-color:#EFF7FF">(Part 2)</span><br><span style="color:#484848;background-color:#EFF7FF">(30 min)</span></td>
-    <td class="tg-a2ml"><span style="background-color:#EFF7FF">- identify the stresses caused by physical and emotional changes during puberty</span><br><span style="background-color:#EFF7FF">- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty</span><br><span style="background-color:#EFF7FF">- describe the emotions caused by physical changes during puberty</span><br><span style="background-color:#EFF7FF">- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</span></td>
-    <td class="tg-bvad"><br><br><span style="background-color:#EFF7FF">Term 3</span><br><span style="background-color:#EFF7FF">Week 6</span><br><span style="background-color:#EFF7FF">(01 Aug)</span></td>
+    <td class="tg-bvad"><br><br><span style="font-style:inherit;color:#000">What Can I Do?</span><br><br><br><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#EFF7FF">(Part 2)</span><br><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#EFF7FF">(30 min)</span></td>
+    <td class="tg-a2ml"><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">- identify the stresses caused by physical and emotional changes during puberty</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">- describe the emotions caused by physical changes during puberty</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</span></td>
+    <td class="tg-bvad"><br><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">Term 3</span><br><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">Week 6</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">(01 Aug)</span></td>
   </tr>
   <tr>
-    <td class="tg-t18x"><br><br><span style="color:#484848;background-color:#FFF">Main Task</span><br><span style="color:#484848;background-color:#FFF">(30 min)</span></td>
-    <td class="tg-acgv"><span style="font-weight:400;font-style:inherit;color:#000">Description of the Main Task:</span><br><br><span style="background-color:#FFF">Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</span></td>
-    <td class="tg-t18x"><br><br><span style="background-color:#FFF">Term 3</span><br><span style="background-color:#FFF">Week 6</span><br><span style="background-color:#FFF">(01 Aug)</span></td>
+    <td class="tg-t18x"><br><br><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#FFF">Main Task</span><br><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#FFF">(30 min)</span></td>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:inherit;color:#000">Description of the Main Task:</span><br><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</span></td>
+    <td class="tg-t18x"><br><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">Term 3</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">Week 6</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">(01 Aug)</span></td>
   </tr>
   <tr>
-    <td class="tg-g57u" rowspan="2"><br><br><br><span style="font-weight:bold;color:#484848;background-color:#EFF7FF">Where I Belong</span></td>
-    <td class="tg-bvad"><span style="color:#484848;background-color:#EFF7FF">What Are Families?</span><br><span style="color:#484848;background-color:#EFF7FF">(30 min)</span></td>
-    <td class="tg-a2ml"><span style="background-color:#EFF7FF">- know that there are different types of family structures</span><br><span style="background-color:#EFF7FF">- know that every family is unique</span><br><span style="background-color:#EFF7FF">- state that the three basic functions of families are to provide love, protection and guidance</span><br><span style="background-color:#EFF7FF">- identify the right sources of help to turn to when in need</span></td>
-    <td class="tg-bvad"><br><span style="background-color:#EFF7FF">Term 3</span><br><span style="background-color:#EFF7FF">Week 8</span><br><span style="background-color:#EFF7FF">(15 Aug)</span></td>
+    <td class="tg-g57u" rowspan="2"><br><br><br><span style="font-weight:bold;font-style:inherit;color:#484848;background-color:#EFF7FF">Where I Belong</span></td>
+    <td class="tg-bvad"><br><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#EFF7FF">What Are Families?</span><br><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#EFF7FF">(30 min)</span></td>
+    <td class="tg-a2ml"><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">- know that there are different types of family structures</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">- know that every family is unique</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">- state that the three basic functions of families are to provide love, protection and guidance</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">- identify the right sources of help to turn to when in need</span></td>
+    <td class="tg-bvad"><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">Term 3</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">Week 8</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">(15 Aug)</span></td>
   </tr>
   <tr>
-    <td class="tg-t18x"><span style="color:#484848;background-color:#FFF">What is My Role?</span><br><br><span style="color:#484848;background-color:#FFF">(30 min)</span></td>
-    <td class="tg-acgv"><span style="background-color:#FFF">- know that gender is about being male or female</span><br><span style="background-color:#FFF">- choose not to stereotype by gender</span></td>
-    <td class="tg-t18x"><span style="background-color:#FFF">Term 3</span><br><span style="background-color:#FFF">Week 8</span><br><span style="background-color:#FFF">(15 Aug)</span></td>
+    <td class="tg-t18x"><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#FFF">What is My Role?</span><br><br><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#FFF">(30 min)</span></td>
+    <td class="tg-acgv"><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">- know that gender is about being male or female</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">- choose not to stereotype by gender</span></td>
+    <td class="tg-t18x"><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">Term 3</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">Week 8</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">(15 Aug)</span></td>
   </tr>
   <tr>
-    <td class="tg-g57u" rowspan="2"><span style="font-weight:bold;color:#484848;background-color:#EFF7FF">How Do I Keep Myself Safe?</span></td>
-    <td class="tg-bvad"><span style="color:#484848;background-color:#EFF7FF">What is Safety?</span><br><span style="color:#484848;background-color:#EFF7FF">(30 min)</span></td>
-    <td class="tg-a2ml"><span style="background-color:#EFF7FF">- know what sexual abuse is</span><br><span style="background-color:#EFF7FF">- know that there are laws in Singapore that can protect them from sexual abuse</span><br><span style="background-color:#EFF7FF">- know their rights in keeping themselves safe from sexual abuse</span></td>
-    <td class="tg-bvad"><br><span style="background-color:#EFF7FF">Term 3</span><br><span style="background-color:#EFF7FF">Week 9</span><br><span style="background-color:#EFF7FF">(22 Aug)</span></td>
+    <td class="tg-g57u" rowspan="2"><br><br><br><span style="font-weight:bold;font-style:inherit;color:#484848;background-color:#EFF7FF">How Do I Keep Myself Safe?</span></td>
+    <td class="tg-bvad"><br><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#EFF7FF">What is Safety?</span><br><span style="font-weight:inherit;font-style:inherit;color:#484848;background-color:#EFF7FF">(30 min)</span></td>
+    <td class="tg-a2ml"><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">- know what sexual abuse is</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">- know that there are laws in Singapore that can protect them from sexual abuse</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">- know their rights in keeping themselves safe from sexual abuse</span></td>
+    <td class="tg-bvad"><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">Term 3</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">Week 9</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EFF7FF">(22 Aug)</span></td>
   </tr>
   <tr>
-    <td class="tg-t18x"><span style="background-color:#FFF">Stop It! Run! Tell!</span><br><span style="background-color:#FFF">(30 min)</span></td>
-    <td class="tg-acgv"><span style="background-color:#FFF">- protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult</span><br><span style="background-color:#FFF">- know their responsibilities in minimising the risk of sexual harm</span></td>
-    <td class="tg-t18x"><span style="background-color:#FFF">Term 3</span><br><span style="background-color:#FFF">Week 9</span><br><span style="background-color:#FFF">(22 Aug)</span></td>
+    <td class="tg-t18x"><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">Stop It! Run! Tell!</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">(30 min)</span></td>
+    <td class="tg-acgv"><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">- protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">- know their responsibilities in minimising the risk of sexual harm</span></td>
+    <td class="tg-t18x"><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">Term 3</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">Week 9</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#FFF">(22 Aug)</span></td>
   </tr>
 </tbody>
 </table>
+
 **Primary 6**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -143,6 +144,7 @@ c.      Character and Citizenship Education (CCE)
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-bvad{background-color:#EFF7FF;border-color:inherit;color:#484848;text-align:center;vertical-align:top}
 .tg .tg-t18x{background-color:#FFF;border-color:inherit;color:#484848;text-align:center;vertical-align:top}
 .tg .tg-acgv{background-color:#FFF;border-color:inherit;color:#484848;text-align:left;vertical-align:top}
@@ -167,45 +169,50 @@ c.      Character and Citizenship Education (CCE)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-g57u" rowspan="4"><span style="font-weight:bold;font-style:inherit">Are we more than friends?</span><br></td>
+    <td class="tg-g57u"><span style="font-style:inherit">Are we more than friends?</span><br><br></td>
     <td class="tg-bvad"><span style="font-weight:normal;font-style:inherit">Who Are My Friends?</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
     <td class="tg-a2ml"><span style="font-weight:normal;font-style:inherit">- identify the qualities of a healthy friendship</span><br><span style="font-weight:normal;font-style:inherit">- recognise the importance of making wise choices in friendship</span><br></td>
     <td class="tg-bvad"><span style="background-color:#EFF7FF">Term 3 Week 5</span><br><span style="font-weight:normal;font-style:inherit">(25 Jul)</span></td>
   </tr>
   <tr>
+    <td class="tg-8vr4"><span style="font-weight:bold;font-style:inherit">Are we more than friends?</span><br></td>
     <td class="tg-t18x"><span style="color:#484848;background-color:#FFF">Am I A Good Friend?</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
     <td class="tg-acgv"><span style="background-color:#FFF">- identify the qualities that they have as a friend</span><span style="font-weight:normal;font-style:inherit">- recognise the importance of developing in oneself the qualities of a good friend</span><br></td>
     <td class="tg-t18x"><span style="background-color:#FFF">Term 3</span><br><span style="background-color:#FFF">Week 5</span><br><span style="font-weight:normal;font-style:inherit">(25 Jul)</span></td>
   </tr>
   <tr>
+    <td class="tg-g57u"><br><span style="font-weight:bold;font-style:inherit">Are we more than friends?</span><br></td>
     <td class="tg-bvad"><br><span style="font-weight:normal;font-style:inherit">What is Love?</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
     <td class="tg-a2ml"><span style="background-color:#EFF7FF">-</span> <span style="font-weight:normal;font-style:inherit">identify the characteristics of love and infatuation</span><br><span style="background-color:#EFF7FF">- distinguish between the characteristics of love versus infatuation</span><span style="font-weight:normal;font-style:inherit">- identify strong feelings arising from infatuation</span></td>
     <td class="tg-bvad"><span style="font-weight:normal;font-style:inherit">Term 3</span><br><span style="font-weight:normal;font-style:inherit">Week 6</span><br><span style="font-weight:normal;font-style:inherit">(01 Aug)</span></td>
   </tr>
   <tr>
+    <td class="tg-8vr4"><span style="font-weight:bold;font-style:inherit">Are we more than friends?</span></td>
     <td class="tg-t18x"><span style="font-weight:normal;font-style:inherit">Am I Falling In Love?</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
     <td class="tg-acgv"><span style="font-weight:normal;font-style:inherit">- manage strong feelings arising from infatuation</span><br><span style="font-weight:normal;font-style:inherit">- identify ways to manage and cope with teasing from peers</span></td>
     <td class="tg-t18x"><span style="background-color:#FFF">Term 3</span><br><span style="background-color:#FFF">Week 6</span><br><span style="font-weight:normal;font-style:inherit">(01 Aug)</span></td>
   </tr>
   <tr>
-    <td class="tg-g57u" rowspan="2"><br><br><br><span style="font-weight:bold;font-style:inherit">Friends or Foes?</span><br></td>
-    <td class="tg-bvad"><br><br><br><br><span style="font-weight:normal;font-style:inherit">Main Task</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
+    <td class="tg-g57u"><br><br><br><span style="font-style:inherit">Friends or Foes?</span><br><br></td>
+    <td class="tg-bvad"><br><br><br><span style="font-style:inherit">Main Task</span><br><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
     <td class="tg-a2ml"><span style="font-weight:normal;font-style:inherit">Description of the Main Task:</span><br><br><span style="font-weight:normal;font-style:inherit">Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</span><br></td>
     <td class="tg-bvad"><br><br><br><span style="font-weight:normal;font-style:inherit">Term 3</span><br><span style="font-weight:normal;font-style:inherit">Week 9</span><br><span style="font-weight:normal;font-style:inherit">(22 Aug)</span></td>
   </tr>
   <tr>
-    <td class="tg-t18x"><span style="font-weight:normal;font-style:inherit">Are You Really My Friend?</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
+    <td class="tg-8vr4"><br><span style="font-style:inherit">Friends or Foes?</span><br><br></td>
+    <td class="tg-t18x"><br><span style="font-weight:normal;font-style:inherit">Are You Really My Friend?</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
     <td class="tg-acgv"><span style="font-weight:normal;font-style:inherit">- identify the pros and cons of forming relationships through social networking websites</span><br><span style="font-weight:normal;font-style:inherit">- know ways to keep themselves safe when using social networking websites</span><br></td>
     <td class="tg-t18x"><span style="background-color:#FFF">Term 3 Week 9</span><br><span style="font-weight:normal;font-style:inherit">(22 Aug)</span></td>
   </tr>
   <tr>
-    <td class="tg-g57u" rowspan="2"><span style="font-weight:bold;color:#484848;background-color:#EFF7FF">Friends or Foes?</span><br></td>
-    <td class="tg-bvad"><span style="color:#484848;background-color:#EFF7FF">Is It All Safe?</span><br><br><span style="color:#484848;background-color:#EFF7FF">(30 min)</span></td>
+    <td class="tg-g57u"><br><span style="background-color:#EFF7FF">Friends or Foes?</span><br><br></td>
+    <td class="tg-bvad"><br><span style="color:#484848;background-color:#EFF7FF">Is It All Safe?</span><br><br><span style="color:#484848;background-color:#EFF7FF">(30 min)</span></td>
     <td class="tg-a2ml"><span style="font-weight:normal;font-style:inherit">- know that some information (like pornography) received through the Internet may be harmful</span><br><span style="font-weight:normal;font-style:inherit">- know ways to keep themselves safe when using the Internet</span><br></td>
     <td class="tg-bvad"><span style="font-weight:normal;font-style:inherit">Term 4</span><br><span style="font-weight:normal;font-style:inherit">Week 5</span><br><span style="font-weight:normal;font-style:inherit">(10 Oct)</span></td>
   </tr>
   <tr>
-    <td class="tg-t18x"><br><br><br><br><br><span style="font-weight:normal;font-style:inherit">Main Task</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
+    <td class="tg-8vr4"><br><br><br><br><span style="font-weight:bold;font-style:inherit">Friends or Foes?</span></td>
+    <td class="tg-t18x"><br><br><br><br><span style="font-style:inherit">Main Task</span><br><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
     <td class="tg-acgv"><span style="font-weight:normal;font-style:inherit">Description of the Main Task:</span><br><br><br><span style="font-weight:normal;font-style:inherit">Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span><br></td>
     <td class="tg-t18x"><br><br><br><br><br><span style="font-weight:normal;font-style:inherit">Term 4</span><br><span style="font-weight:normal;font-style:inherit">Week 5</span><br><span style="font-weight:normal;font-style:inherit">(10 Oct)</span></td>
   </tr>
