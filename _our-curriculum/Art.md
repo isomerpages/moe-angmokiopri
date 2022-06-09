@@ -92,11 +92,11 @@ src="/images/About%20Us/Our%20AMKP%20Experience/art%203.png"
 **2. Art Assembly Program**
 
 <img
-src="/images/About%20Us/Our%20AMKP%20Experience/art%20block%201.png"  
+src="/images/About%20Us/Our%20AMKP%20Experience/Art%20Block%20Fixed%203.png"  
      style="width:75%">
-
+		 
 <img
-src="/images/About%20Us/Our%20AMKP%20Experience/art%20block%202.png"  
+src="/images/About%20Us/Our%20AMKP%20Experience/Art%20Block%20Fixed%204.png"  
      style="width:75%">
 
 **3. Aesthetic Week**
@@ -122,4 +122,4 @@ The Art Department of Ang Mo Kio Primary School urges you to join us in our effo
 
 The SYF 2019 Art Exhibition, Artist and Citizenship features artworks by students from Primary Schools, Full Schools (primary section) and Special Education Schools (primary section). This year, one of our pupils’ artworks were selected for the exhibition which will be open to schools and public from 6 July to 21 July, 10.00 am to 7.00 pm daily.
 
-Please visit [here](https://www.singaporeyouthfestival.sg/art-exhibition/the-online-art-gallery) for more information about SYF Exhibition. 
+Please visit [here](https://www.singaporeyouthfestival.sg/art-exhibition/the-online-art-gallery) for more information about SYF Exhibition.
