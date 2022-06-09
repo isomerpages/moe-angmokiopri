@@ -33,6 +33,8 @@ d) Abstinence before marriage is the best protection against STIs/HIV and uninte
 
 You may click [here](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fprogrammes%2fsocial-and-emotional-learning%2fsexuality-education&user=extranet%5cAnonymous&site=moe-website) for more information on MOE Sexuality Education. 
 
+<br>
+
 **<font size="5">Overview of Ang Mo Kio Primary School’s Sexuality Education Programme</font>**
 
 
@@ -73,12 +75,12 @@ c.      Character and Citizenship Education (CCE)
 .tg .tg-g57u{background-color:#EFF7FF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-a2ml{background-color:#EFF7FF;border-color:inherit;color:#484848;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 694px">
+<table class="tg" style="undefined;table-layout: fixed; width: 699px">
 <colgroup>
 <col style="width: 96px">
 <col style="width: 131px">
 <col style="width: 396px">
-<col style="width: 71px">
+<col style="width: 76px">
 </colgroup>
 <thead>
   <tr>
@@ -134,7 +136,6 @@ c.      Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
-
 **Primary 6**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -142,83 +143,75 @@ c.      Character and Citizenship Education (CCE)
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8vr4{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-bvad{background-color:#EFF7FF;border-color:inherit;color:#484848;text-align:center;vertical-align:top}
 .tg .tg-t18x{background-color:#FFF;border-color:inherit;color:#484848;text-align:center;vertical-align:top}
-.tg .tg-3y5x{background-color:#EFF7FF;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-l5mr{background-color:#EFF7FF;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-nbj5{background-color:#FFF;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-q0sa{background-color:#024C45;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-acgv{background-color:#FFF;border-color:inherit;color:#484848;text-align:left;vertical-align:top}
 .tg .tg-pxye{background-color:#024C45;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-g57u{background-color:#EFF7FF;border-color:inherit;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a2ml{background-color:#EFF7FF;border-color:inherit;color:#484848;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 694px">
+<table class="tg" style="undefined;table-layout: fixed; width: 699px">
 <colgroup>
 <col style="width: 96px">
 <col style="width: 131px">
 <col style="width: 396px">
-<col style="width: 71px">
+<col style="width: 76px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-q0sa"><span style="font-weight:bold;color:#FFF;background-color:#024C45">UNIT</span></th>
-    <th class="tg-q0sa"><span style="font-weight:bold;color:#FFF;background-color:#024C45">LESSONS /</span><br><span style="font-weight:bold;color:#FFF;background-color:#024C45">DURATION</span></th>
-    <th class="tg-pxye">LESSON OBJECTIVES <br>At the end of the lesson, students will be able to:</th>
-    <th class="tg-q0sa"><span style="font-weight:bold;color:#FFF;background-color:#024C45"> TIME PERIOD</span></th>
+    <th class="tg-pxye"><span style="font-weight:bold;font-style:inherit;color:#FFF;background-color:#024C45">UNIT</span></th>
+    <th class="tg-pxye"><span style="font-weight:bold;font-style:inherit;color:#FFF;background-color:#024C45">LESSONS /</span><br><span style="font-weight:bold;font-style:inherit;color:#FFF;background-color:#024C45">DURATION</span></th>
+    <th class="tg-pxye"><span style="font-weight:bold;color:#FFF;background-color:#024C45">LESSON OBJECTIVES</span><br><span style="font-weight:bold;color:#FFF;background-color:#024C45">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-pxye"><span style="font-weight:bold;font-style:inherit;color:#FFF;background-color:#024C45">TIME PERIOD</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bvad"><span style="font-weight:bold">Are we more than friends?</span><br></td>
-    <td class="tg-bvad"><span style="font-weight:normal">Who Are My Friends? </span><br><span style="font-weight:normal">(30 min)</span></td>
-    <td class="tg-l5mr"><span style="font-weight:normal">- identify the qualities of a healthy friendship</span><br><span style="font-weight:normal">- recognise the importance of making wise choices in friendship</span><br></td>
-    <td class="tg-3y5x">Term 3 Week 5<br><span style="font-weight:normal">(25 Jul) </span></td>
+    <td class="tg-g57u" rowspan="4"><span style="font-weight:bold;font-style:inherit">Are we more than friends?</span><br></td>
+    <td class="tg-bvad"><span style="font-weight:normal;font-style:inherit">Who Are My Friends?</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
+    <td class="tg-a2ml"><span style="font-weight:normal;font-style:inherit">- identify the qualities of a healthy friendship</span><br><span style="font-weight:normal;font-style:inherit">- recognise the importance of making wise choices in friendship</span><br></td>
+    <td class="tg-bvad"><span style="background-color:#EFF7FF">Term 3 Week 5</span><br><span style="font-weight:normal;font-style:inherit">(25 Jul)</span></td>
   </tr>
   <tr>
-    <td class="tg-8vr4"><br><span style="font-weight:bold">Are we more than friends?</span><br></td>
-    <td class="tg-t18x"><span style="font-weight:normal"> </span>Am I A Good Friend? <br><span style="font-weight:normal">(30 min)</span></td>
-    <td class="tg-jxgv">- identify the qualities that they have as a friend<span style="font-weight:normal">- recognise the importance of developing in oneself the qualities of a good friend</span><br></td>
-    <td class="tg-nbj5">Term 3 <br>Week 5<br><span style="font-weight:normal">(25 Jul) </span></td>
+    <td class="tg-t18x"><span style="color:#484848;background-color:#FFF">Am I A Good Friend?</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
+    <td class="tg-acgv"><span style="background-color:#FFF">- identify the qualities that they have as a friend</span><span style="font-weight:normal;font-style:inherit">- recognise the importance of developing in oneself the qualities of a good friend</span><br></td>
+    <td class="tg-t18x"><span style="background-color:#FFF">Term 3</span><br><span style="background-color:#FFF">Week 5</span><br><span style="font-weight:normal;font-style:inherit">(25 Jul)</span></td>
   </tr>
   <tr>
-    <td class="tg-g57u"><span style="font-weight:normal"> </span><br><span style="font-weight:bold">Are we more than friends?</span><br></td>
-    <td class="tg-bvad"><span style="font-weight:normal"> </span><br><span style="font-weight:normal">What is Love? </span><br><span style="font-weight:normal">(30 min)</span></td>
-    <td class="tg-l5mr">- <span style="font-weight:normal">identify the characteristics of love and infatuation</span><br>- distinguish between the characteristics of love versus infatuation<span style="font-weight:normal">- identify strong feelings arising from infatuation</span></td>
-    <td class="tg-3y5x"><span style="font-weight:normal"> Term 3 </span><br><span style="font-weight:normal">Week 6</span><br><span style="font-weight:normal">(01 Aug)</span></td>
+    <td class="tg-bvad"><br><span style="font-weight:normal;font-style:inherit">What is Love?</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
+    <td class="tg-a2ml"><span style="background-color:#EFF7FF">-</span> <span style="font-weight:normal;font-style:inherit">identify the characteristics of love and infatuation</span><br><span style="background-color:#EFF7FF">- distinguish between the characteristics of love versus infatuation</span><span style="font-weight:normal;font-style:inherit">- identify strong feelings arising from infatuation</span></td>
+    <td class="tg-bvad"><span style="font-weight:normal;font-style:inherit">Term 3</span><br><span style="font-weight:normal;font-style:inherit">Week 6</span><br><span style="font-weight:normal;font-style:inherit">(01 Aug)</span></td>
   </tr>
   <tr>
-    <td class="tg-8vr4"><span style="font-weight:bold">Are we more than friends?</span></td>
-    <td class="tg-t18x"><span style="font-weight:normal"> Am I Falling In Love? </span><br><span style="font-weight:normal">(30 min)</span></td>
-    <td class="tg-jxgv"><span style="font-weight:normal">- manage strong feelings arising from infatuation</span><br><span style="font-weight:normal">- identify ways to manage and cope with teasing from peers</span></td>
-    <td class="tg-nbj5">Term 3 <br>Week 6<br><span style="font-weight:normal">(01 Aug) </span></td>
+    <td class="tg-t18x"><span style="font-weight:normal;font-style:inherit">Am I Falling In Love?</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
+    <td class="tg-acgv"><span style="font-weight:normal;font-style:inherit">- manage strong feelings arising from infatuation</span><br><span style="font-weight:normal;font-style:inherit">- identify ways to manage and cope with teasing from peers</span></td>
+    <td class="tg-t18x"><span style="background-color:#FFF">Term 3</span><br><span style="background-color:#FFF">Week 6</span><br><span style="font-weight:normal;font-style:inherit">(01 Aug)</span></td>
   </tr>
   <tr>
-    <td class="tg-bvad"><br><br><br><br><span style="font-weight:bold">Friends or Foes?</span><br></td>
-    <td class="tg-bvad"><span style="font-weight:normal"> </span><br><br><br><br><span style="font-weight:normal">Main Task </span><br><span style="font-weight:normal">(30 min)</span></td>
-    <td class="tg-l5mr"><span style="font-weight:normal"> Description of the Main Task: </span><br><br><span style="font-weight:normal">Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</span><br></td>
-    <td class="tg-3y5x"><span style="font-weight:normal"> </span><br><br><br><span style="font-weight:normal">Term 3 </span><br><span style="font-weight:normal">Week 9</span><br><span style="font-weight:normal">(22 Aug)</span></td>
+    <td class="tg-g57u" rowspan="2"><br><br><br><span style="font-weight:bold;font-style:inherit">Friends or Foes?</span><br></td>
+    <td class="tg-bvad"><br><br><br><br><span style="font-weight:normal;font-style:inherit">Main Task</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
+    <td class="tg-a2ml"><span style="font-weight:normal;font-style:inherit">Description of the Main Task:</span><br><br><span style="font-weight:normal;font-style:inherit">Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</span><br></td>
+    <td class="tg-bvad"><br><br><br><span style="font-weight:normal;font-style:inherit">Term 3</span><br><span style="font-weight:normal;font-style:inherit">Week 9</span><br><span style="font-weight:normal;font-style:inherit">(22 Aug)</span></td>
   </tr>
   <tr>
-    <td class="tg-8vr4"><br><span style="font-weight:bold">Friends or Foes?</span><br></td>
-    <td class="tg-t18x"><span style="font-weight:normal">Are You Really My Friend? </span><br><span style="font-weight:normal">(30 min) </span></td>
-    <td class="tg-jxgv"><span style="font-weight:normal">- identify the pros and cons of forming relationships through social networking websites</span><br><span style="font-weight:normal">- know ways to keep themselves safe when using social networking websites</span><br></td>
-    <td class="tg-nbj5">Term 3 Week 9<br><span style="font-weight:normal">(22 Aug) </span></td>
+    <td class="tg-t18x"><span style="font-weight:normal;font-style:inherit">Are You Really My Friend?</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
+    <td class="tg-acgv"><span style="font-weight:normal;font-style:inherit">- identify the pros and cons of forming relationships through social networking websites</span><br><span style="font-weight:normal;font-style:inherit">- know ways to keep themselves safe when using social networking websites</span><br></td>
+    <td class="tg-t18x"><span style="background-color:#FFF">Term 3 Week 9</span><br><span style="font-weight:normal;font-style:inherit">(22 Aug)</span></td>
   </tr>
   <tr>
-    <td class="tg-g57u">Friends or Foes?<br></td>
-    <td class="tg-bvad">Is It All Safe? <br><br>(30 min)<span style="font-weight:normal"> </span></td>
-    <td class="tg-l5mr"><span style="font-weight:normal">- know that some information (like pornography) received through the Internet may be harmful</span><br><span style="font-weight:normal">- know ways to keep themselves safe when using the Internet</span><br></td>
-    <td class="tg-3y5x"><span style="font-weight:normal"> Term 4</span><br><span style="font-weight:normal">Week 5</span><br><span style="font-weight:normal">(10 Oct)</span></td>
+    <td class="tg-g57u" rowspan="2"><span style="font-weight:bold;color:#484848;background-color:#EFF7FF">Friends or Foes?</span><br></td>
+    <td class="tg-bvad"><span style="color:#484848;background-color:#EFF7FF">Is It All Safe?</span><br><br><span style="color:#484848;background-color:#EFF7FF">(30 min)</span></td>
+    <td class="tg-a2ml"><span style="font-weight:normal;font-style:inherit">- know that some information (like pornography) received through the Internet may be harmful</span><br><span style="font-weight:normal;font-style:inherit">- know ways to keep themselves safe when using the Internet</span><br></td>
+    <td class="tg-bvad"><span style="font-weight:normal;font-style:inherit">Term 4</span><br><span style="font-weight:normal;font-style:inherit">Week 5</span><br><span style="font-weight:normal;font-style:inherit">(10 Oct)</span></td>
   </tr>
   <tr>
-    <td class="tg-nbj5"><br><br><br><br><br><span style="font-weight:bold">Friends or Foes?</span></td>
-    <td class="tg-nbj5"><span style="font-weight:normal"> </span><br><br><br><br><br><span style="font-weight:normal">Main Task </span><br><span style="font-weight:normal">(30 min)</span></td>
-    <td class="tg-jxgv"><span style="font-weight:normal"> Description of the Main Task:</span><br><br><br><span style="font-weight:normal">Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span><br></td>
-    <td class="tg-nbj5"><span style="font-weight:normal"> </span><br><br><br><br><br><span style="font-weight:normal">Term 4 </span><br><span style="font-weight:normal">Week 5</span><br><span style="font-weight:normal">(10 Oct)</span></td>
+    <td class="tg-t18x"><br><br><br><br><br><span style="font-weight:normal;font-style:inherit">Main Task</span><br><span style="font-weight:normal;font-style:inherit">(30 min)</span></td>
+    <td class="tg-acgv"><span style="font-weight:normal;font-style:inherit">Description of the Main Task:</span><br><br><br><span style="font-weight:normal;font-style:inherit">Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span><br></td>
+    <td class="tg-t18x"><br><br><br><br><br><span style="font-weight:normal;font-style:inherit">Term 4</span><br><span style="font-weight:normal;font-style:inherit">Week 5</span><br><span style="font-weight:normal;font-style:inherit">(10 Oct)</span></td>
   </tr>
 </tbody>
 </table>
+
 
 **<font size="5">Information for Parents</font>**
 
@@ -229,4 +222,4 @@ c.      Character and Citizenship Education (CCE)
 2. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be disseminated to parents at the start of the year via Parents Gateway.
 
 
-3. Parents can contact the school at 64520794 or email our school staff – Miss Audrey Kwek (SH CCE) kwek_audrey@moe.edu.sg for a discussion or to seek clarification about the school’s sexuality education programme. 
+3. Parents can contact the school at 64520794 or email our school staff – Miss Audrey Kwek (SH CCE) kwek_audrey@moe.edu.sg for a discussion or to seek clarification about the school’s sexuality education programme.
