@@ -2,6 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Swimsafer.md
-      - Direct Schools Admission (DSA).md
       - Latest Happenings.md
+      - Direct Schools Admission (DSA).md
+      - Swimsafer.md
