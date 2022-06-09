@@ -7,7 +7,7 @@ description: ""
 >PARENTS SUPPORT GROUP (PSG)
 
 <img src="/images/Resources/PSG%201.jpg"  
-     style="width:75%">
+     style="width:100%">
 
 Chair:                                 &nbsp;&nbsp;    Mdm Jaishree Nimesh  
 PSG EXCO Members: &nbsp;Mdm Magdalene Yeo  
