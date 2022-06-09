@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - 2022 Meet the Parents.md
       - Letters & Circulars (2022).md
       - 2022 Booklists & Name Tag Guide.md
       - P1 Orientation for 2022.md
