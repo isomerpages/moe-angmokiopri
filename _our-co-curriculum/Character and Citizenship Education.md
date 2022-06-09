@@ -116,55 +116,60 @@ At Ang Mo Kio Primary School, the following lessons from the Growing Years Progr
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bycj{background-color:#eff7ff;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-fyfk{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-l5mr{background-color:#EFF7FF;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-w0la{background-color:#FFF;border-color:inherit;color:#000000;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-mfxt{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-nq8e{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lvf6{background-color:#FFF;border-color:inherit;color:#484848;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-acgv{background-color:#FFF;border-color:inherit;color:#484848;text-align:left;vertical-align:top}
+.tg .tg-3ugf{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a2ml{background-color:#EFF7FF;border-color:inherit;color:#484848;text-align:left;vertical-align:top}
+.tg .tg-2j30{background-color:#EFF7FF;border-color:inherit;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 486px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1186px">
+<colgroup>
+<col style="width: 290px">
+<col style="width: 286px">
+<col style="width: 610px">
+</colgroup>
 <thead>
   <tr>
-    <th class="tg-w0la">UNIT</th>
-    <th class="tg-w0la">LESSONS / DURATION</th>
-    <th class="tg-fyfk">Lesson Objectives<br><br>At the end of the lesson, pupils will be able to:</th>
+    <th class="tg-nq8e"><span style="font-weight:bold;color:#000;background-color:#FFF">UNIT</span></th>
+    <th class="tg-nq8e"><span style="font-weight:bold;color:#000;background-color:#FFF">LESSONS / DURATION</span></th>
+    <th class="tg-3ugf"><span style="font-weight:bold;color:#323232;background-color:#FFF">Lesson Objectives</span><br><br><span style="font-weight:bold;color:#323232;background-color:#FFF">At the end of the lesson, pupils will be able to:</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mfxt" rowspan="5">Are We More <br>Than Friends?       </td>
-    <td class="tg-jxgv"><span style="font-weight:400;color:#000">Who Are My Friends?</span><br><span style="color:#000">(30 min)</span><br></td>
-    <td class="tg-jxgv"> - Identify the qualities of a healthy friendship<br><br> - Recognise the importance of making wise choices in friendship</td>
+    <td class="tg-lvf6" rowspan="5"><span style="background-color:#FFF">Are We More</span><br><span style="background-color:#FFF">Than Friends?</span></td>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:inherit;color:#000">Who Are My Friends?</span><br><span style="font-weight:inherit;font-style:inherit;color:#000">(30 min)</span><br></td>
+    <td class="tg-acgv"><span style="background-color:#FFF">- Identify the qualities of a healthy friendship</span><br><br><span style="background-color:#FFF">- Recognise the importance of making wise choices in friendship</span></td>
   </tr>
   <tr>
-    <td class="tg-l5mr"><span style="font-weight:400;color:#000">Am I A Good Friend?</span><br><span style="font-weight:400;color:#000">(30 min)</span></td>
-    <td class="tg-l5mr"> - Identify the qualities that they have as a friend<br><br> - Recognise the importance of developing in oneself the qualities of a good friend</td>
+    <td class="tg-a2ml"><span style="font-weight:400;font-style:inherit;color:#000">Am I A Good Friend?</span><br><span style="font-weight:400;font-style:inherit;color:#000">(30 min)</span></td>
+    <td class="tg-a2ml"><span style="background-color:#EFF7FF">- Identify the qualities that they have as a friend</span><br><br><span style="background-color:#EFF7FF">- Recognise the importance of developing in oneself the qualities of a good friend</span></td>
   </tr>
   <tr>
-    <td class="tg-jxgv"><span style="font-weight:400;color:#000">What is Love?</span><br><span style="font-weight:400;color:#000">(30 min)</span></td>
-    <td class="tg-jxgv"> - Identify the characteristics of love and infatuation<br><br> - Distinguish between the characteristics of love versus infatuation</td>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:inherit;color:#000">What is Love?</span><br><span style="font-weight:400;font-style:inherit;color:#000">(30 min)</span></td>
+    <td class="tg-acgv"><span style="background-color:#FFF">- Identify the characteristics of love and infatuation</span><br><br><span style="background-color:#FFF">- Distinguish between the characteristics of love versus infatuation</span></td>
   </tr>
   <tr>
-    <td class="tg-l5mr"><span style="font-weight:400;color:#000">Am I Falling In Love?</span><br><span style="color:#000">(30 min)</span><br></td>
-    <td class="tg-l5mr"> - Identify strong feelings arising from infatuation.<br><br> - Manage strong feelings arising from infatuation<br><br> - Identify ways to manage and cope with teasing from peers</td>
+    <td class="tg-a2ml"><span style="font-weight:400;font-style:inherit;color:#000">Am I Falling In Love?</span><br><span style="font-weight:inherit;font-style:inherit;color:#000">(30 min)</span><br></td>
+    <td class="tg-a2ml"><span style="background-color:#EFF7FF">- Identify strong feelings arising from infatuation.</span><br><br><span style="background-color:#EFF7FF">- Manage strong feelings arising from infatuation</span><br><br><span style="background-color:#EFF7FF">- Identify ways to manage and cope with teasing from peers</span></td>
   </tr>
   <tr>
-    <td class="tg-jxgv"><span style="font-weight:400;color:#000">Main Task</span><br><span style="font-weight:400;color:#000"> </span><span style="color:#000">(30 min)</span></td>
-    <td class="tg-jxgv">Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:inherit;color:#000">Main Task</span><br><span style="font-weight:inherit;font-style:inherit;color:#000">(30 min)</span></td>
+    <td class="tg-acgv"><span style="background-color:#FFF">Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</span></td>
   </tr>
   <tr>
-    <td class="tg-bycj" rowspan="3"><br><br><br><br><br><br><br><br>Friends or Foes?<br><br></td>
-    <td class="tg-l5mr"><span style="font-weight:400;color:#000">Are You Really My Friend?</span><br><span style="font-weight:400;color:#000">(30 min)</span></td>
-    <td class="tg-l5mr"> - Identify the pros and cons of forming relationships through social networking websites<br><br> - Know ways to keep themselves safe when using social networking websites</td>
+    <td class="tg-2j30" rowspan="3"><br><br><br><br><br><br><br><span style="background-color:#EFF7FF">Friends or Foes?</span><br><br></td>
+    <td class="tg-a2ml"><span style="font-weight:400;font-style:inherit;color:#000">Are You Really My Friend?</span><br><span style="font-weight:400;font-style:inherit;color:#000">(30 min)</span></td>
+    <td class="tg-a2ml"><span style="background-color:#EFF7FF">- Identify the pros and cons of forming relationships through social networking websites</span><br><br><span style="background-color:#EFF7FF">- Know ways to keep themselves safe when using social networking websites</span></td>
   </tr>
   <tr>
-    <td class="tg-jxgv"><span style="font-weight:400;color:#000">Is It All Safe?</span><br><span style="font-weight:400;color:#000">(30 min)</span></td>
-    <td class="tg-jxgv"> - Know that some information (like pornography) received through the Internet may be harmful<br><br> - Know ways to keep themselves safe when using the Internet</td>
+    <td class="tg-acgv"><span style="font-weight:400;font-style:inherit;color:#000">Is It All Safe?</span><br><span style="font-weight:400;font-style:inherit;color:#000">(30 min)</span></td>
+    <td class="tg-acgv"><span style="background-color:#FFF">- Know that some information (like pornography) received through the Internet may be harmful</span><br><br><span style="background-color:#FFF">- Know ways to keep themselves safe when using the Internet</span></td>
   </tr>
   <tr>
-    <td class="tg-l5mr"><span style="font-weight:400;color:#000">Main Task</span><br><span style="font-weight:400;color:#000"> (30 min)</span></td>
-    <td class="tg-l5mr"><span style="font-weight:400;color:#000">Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span><br></td>
+    <td class="tg-a2ml"><span style="font-weight:400;font-style:inherit;color:#000">Main Task</span><br><span style="font-weight:400;font-style:inherit;color:#000">(30 min)</span></td>
+    <td class="tg-a2ml"><span style="font-weight:400;font-style:inherit;color:#000">Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span></td>
   </tr>
 </tbody>
 </table>
