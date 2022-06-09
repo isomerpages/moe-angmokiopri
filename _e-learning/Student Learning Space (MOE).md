@@ -37,8 +37,8 @@ To find your homework, go to the "Due Soon/To Do" tab.
 **<font size="5">Helplines</font>**
 
 **School Based (Mon - Fri, 8am - 4pm)**<br>
-Phone:                6459 0247 
-Online Form:     https://go.gov.sg/amkpicthelp (preferred method)
+Phone:                6459 0247 <br>
+Online Form:     [Preferred Method](https://go.gov.sg/amkpicthelp)
 
 **SLS Helpdesk**<br>
 Operating Hours<br>
@@ -49,5 +49,6 @@ Saturdays<br>
 9am - 3pm<br>
 *Closed on Sundays & Public Holidays
 
-Email: helpdesk@sls.ufinity.com<br>
+
+Email: <a href="mailto:helpdesk@sls.ufinity.com">_Help Desk_</a><br>
 Tel: 6702 6513
