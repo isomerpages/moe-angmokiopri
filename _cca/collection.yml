@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Badminton.md
       - Netball.md
       - Track and Field.md
       - Table Tennis.md
