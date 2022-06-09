@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Arts & Crafts.md
       - English Drama.md
       - Modern Dance.md
       - Brass Band.md
