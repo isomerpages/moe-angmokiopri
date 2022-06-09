@@ -2,12 +2,12 @@ collections:
   parents:
     output: true
     order:
-      - Instructional Videos.md
-      - Important Helplines.md
-      - Parents Gateway.md
-      - Education & Career Guidance.md
-      - 2022 Meet the Parents.md
-      - Letters & Circulars (2022).md
-      - 2022 Booklists & Name Tag Guide.md
-      - P1 Orientation for 2022.md
       - Parents Support Group (PSG).md
+      - P1 Orientation for 2022.md
+      - 2022 Booklists & Name Tag Guide.md
+      - Letters & Circulars (2022).md
+      - 2022 Meet the Parents.md
+      - Education & Career Guidance.md
+      - Parents Gateway.md
+      - Important Helplines.md
+      - Instructional Videos.md
