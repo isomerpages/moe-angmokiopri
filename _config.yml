@@ -3,7 +3,7 @@ url: ""
 favicon: /images/About Us/AMKPS Logo.jpg
 colors:
   primary-color: "#00266d"
-  secondary-color: "#3f6ed5"
+  secondary-color: "#1e5ad8"
   media-colors:
     - title: media-color-one
       color: "#49759a"
