@@ -15,17 +15,17 @@ Please find the 2022 School Calendar here.
 **Term 2:**
 [2022 Term 2 AMKP School Calendar_Student Version_updated 22 Mar 2022.pdf](/files/Resources/2022%20AMKP%20T2%20School%20Calendar_Student%20Version_updated%2022%20Mar%202022.pdf)
 
-**2022 Photo-Taking Schedule:**[https://sites.google.com/moe.edu.sg/phototaking/home](https://sites.google.com/moe.edu.sg/phototaking/home)
 
 **<font size=5>Termly Letters</font>** <br>
 Please refer to the links below for the school's termly letters.
 
-Term 1:
+**Term 1:**
 [AMKP_SCH-22_002 AMKP Term 1 Letter.pdf](/files/Resources/AMKP_SCH-22_002%20%20AMKP%20Term%201%20Letter.pdf)
 
-Term 2:
+**Term 2:**
 [AMKP_SCH-22_042 AMKP Term 2 Letter.pdf](/files/Resources/AMKP_SCH-22_042%20%20AMKP%20Term%202%20Letter.pdf)
 
+**2022 Photo-Taking Schedule:**[https://sites.google.com/moe.edu.sg/phototaking/home](https://sites.google.com/moe.edu.sg/phototaking/home)
 
 **<font size=5>CCA Letters and Schedule</font>**<br>
 Please refer to the links below for the school's CCA letters and schedule.
