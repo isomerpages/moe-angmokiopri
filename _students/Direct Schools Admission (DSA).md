@@ -98,6 +98,24 @@ If you have any clarification, please do not hesitate to contact Mayflower Sec k
 <br>Mr Eric Wong (HOD PE/CCA) at [wong\_yih\_chon\_eric@schools.gov.sg](mailto:wong_yih_chon_eric@schools.gov.sg), Ms Tang Suyun (SH Aesthetics) at [tang\_suyun@schools.gov.sg](mailto:tang_suyun@schools.gov.sg) or 
 <br>Mrs Lucinda Leong (SH CCA) at [cheam\_phaik\_tin@schools.gov.sg](mailto:cheam_phaik_tin@schools.gov.sg).
 
-  
 
 Do note that the closing date for application is 5 June 2020.
+
+**<font size=5>Raffles Institution (RI)</font>**
+![](/images/Resources/CaptureRI.jpg)
+
+RI has scheduled a ‘live’ online Q&A on 29 May (Friday, 10.30am) with P6 parents/students on RI’s 2020 Direct School Admission (DSA) Exercise. Details of the online Q&A are shown below.
+
+  
+
+Registration for the online Q&A is via the link 
+[https://www.eventnook.com/event/ridsa2020qna](https://www.eventnook.com/event/ridsa2020qna%C2%A0)   
+
+  
+
+or by scanning the QR code in the banner above. Registration for the online Q&A closes on 26 May (Tuesday) at 9am.  
+
+  
+
+If there are queries on RI’s DSA or related matters, please email to
+[admissions@ri.edu.sg](mailto:admissions@ri.edu.sg).
