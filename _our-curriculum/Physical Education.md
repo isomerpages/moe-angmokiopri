@@ -28,7 +28,7 @@ By the end of P6, all pupils will have experienced the 7 key PE learning areas n
 
 **PE Lesson Pics**
 <img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%201.png"  
-     style="width:75%">
+     style="width:50%">
 
 
 **<font size="5">Key Programmes</font>**
@@ -42,7 +42,7 @@ During the carnival, pupils take part in either carnival-style games or represen
 We would also like to convey our appreciation to the Parent Support Group for their continual patronage during the Sports Carnival!
 
 <img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%202.png"  
-     style="width:75%">
+     style="width:50%">
 <br><br>
 **<font size="5">For Parents</font>**
 
@@ -116,11 +116,11 @@ Here is a break down of the modules that we conduct in AMKPS:
 
 **Games & Sports Module:**
 <img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%204.png"  
-     style="width:75%">
+     style="width:50%">
 
 **Outdoor Education Module:**
 <img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%205.png"  
-     style="width:75%">
+     style="width:50%">
 <br>
 
 **2. P5 Camp Resilience**
@@ -149,7 +149,7 @@ At the end of the day, tokens in the form of sports equipmentare given to every 
 The school would also like to place on record our appreciation to the parent volunteers who took time off from their busy schedules to support this event.
 
 <img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%206.png"  
-     style="width:75%">
+     style="width:50%">
 <br>
 
 **4. P4 Swimsafer Programme**
@@ -163,7 +163,7 @@ This year, a total of 173 Primary 4 pupils participated in this programme. The l
 The school would like to thank the parent volunteers and teachers who acted as chaperones for this programme. Because of their dedicated supervision, the programme was carried out successfully.
 
 <img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%207.png"  
-     style="width:75%">
+     style="width:50%">
 <br>
 
 **5. Sports Education Programme**
@@ -213,10 +213,10 @@ In AMKP, we hope to expose our pupils to special sports activities that are not 
 </table>
 
 <img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%208.png"  
-     style="width:75%">
+     style="width:50%">
 <br>
 <img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%209.png"  
-     style="width:75%">
+     style="width:50%">
 
 **6. P3 to P6 InterClass Competition (After Curricular Hours)**
 
