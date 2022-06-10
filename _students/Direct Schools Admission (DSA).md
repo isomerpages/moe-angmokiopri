@@ -105,7 +105,9 @@ Do note that the closing date for application is 5 June 2020.
 
 **<font size=5>Raffles Institution (RI)</font>**
 
-![](/images/Resources/CaptureRI.jpg)
+<img src="/images/Resources/CaptureRI.jpg"  
+     style="width:75%">
+
 
 RI has scheduled a ‘live’ online Q&A on 29 May (Friday, 10.30am) with P6 parents/students on RI’s 2020 Direct School Admission (DSA) Exercise. Details of the online Q&A are shown below.
 
@@ -189,7 +191,7 @@ Please click [here](/files/Resources/Students/DSA%20Publicity%20to%20P6%20Paren
 Click on image below to find out more
 
 <p><a href="/files/Resources/Students/2020%20SOTA%20Outreach%20Slides.pdf">
-<img src="/images/Resources/CaptureSOTA.jpg">
+<img src="/images/Resources/CaptureSOTA.jpg"style="width:75%">
 </a></p>
 
 <br>
@@ -199,18 +201,24 @@ Click on image below to find out more
 Click on image below to find out more.
 
 <p><a href="/files/Resources/Students/DHS%20Prospectus%202020-compressed.pdf">
-<img src="/images/Resources/DHS%20e-Open%20House%20Poster%202020.jpg">
+<img src="/images/Resources/DHS%20e-Open%20House%20Poster%202020.jpg"style="width:75%">
 </a></p>
 
 <br>
 
 **<font size=5>Deyi Secondary School</font>**
-![](/images/Resources/2020%20-%20DEYI%20DSA%20Poster%20vJPG.jpg)
+
+<img src="/images/Resources/2020%20-%20DEYI%20DSA%20Poster%20vJPG.jpg"  
+     style="width:75%">
+
+
 
 <br>
 
 **<font size=5>Raffles Girl School</font>**
-![](/images/Resources/CaptureRGS.jpg)
+
+<img src="/images/Resources/CaptureRGS.jpg"  
+     style="width:75%">
 
 <br>
 
@@ -233,7 +241,7 @@ The closing date is 1 June 2020.
 Click on image below to find out more.
 
 <p><a href="/files/Resources/Students/SCGS%20Postcard%20DSA%202020.pdf">
-<img src="/images/Resources/SCGS%20DSA.jpg">
+<img src="/images/Resources/SCGS%20DSA.jpg"style="width:75%">
 </a></p>
 
 <br>
@@ -243,7 +251,7 @@ Click on image below to find out more.
 Click on image below to find out more
 
 <p><a href="/files/Resources/Students/DSANBSS_compressed.pdf">
-<img src="/images/Resources/NBSS%20DSA.jpg">
+<img src="/images/Resources/NBSS%20DSA.jpg"style="width:75%">
 </a></p>
 
 <br>
