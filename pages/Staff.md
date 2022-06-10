@@ -10,9 +10,12 @@ description: ""
 
 <p><a href="https://schoolcockpit.moe.gov.sg/academic">
 <img src="/images/Resources/Staff/SC.jpg"
-		 style="width:25%">
+		 style="width:20%">
 </a></p>
 
 [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 
-![](/images/Resources/Staff/SLS.png)
+<p><a href="https://vle.learning.moe.edu.sg/login">
+<img src="/images/Resources/Staff/SLS.png"
+		 style="width:75%">
+</a></p>
