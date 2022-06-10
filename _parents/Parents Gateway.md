@@ -26,3 +26,85 @@ _____
 **Step 1 – SingPass Registration and 2FA Setup**
 
 SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not registered for a SingPass or have not set up the 2FA, please visit the SingPass website [(https://www.singpass.gov.sg/)](https://www.singpass.gov.sg/), or scan the QR codes below to do so. Should you require further assistance, please contact SingPass Helpdesk at 6643-0555.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-t3gd{background-color:#024C45;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-mb3y{background-color:#EFF7FF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-t3gd"><span style="font-weight:bold;color:#FFF;background-color:#024C45">SingPass Registration</span></th>
+    <th class="tg-t3gd"><span style="font-weight:bold;color:#FFF;background-color:#024C45">2FA Activation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mb3y"><img src="https://angmokiopri.moe.edu.sg/qql/slot/u387/Parents%20Gateway/Singpass%20registration.png" alt="Singpass registration.png" width="174" height="174"></td>
+    <td class="tg-mb3y"><img src="https://angmokiopri.moe.edu.sg/qql/slot/u387/Parents%20Gateway/Singpass%202FA%20Activation.png" alt="Singpass 2FA Activation.png" width="181" height="179"></td>
+  </tr>
+</tbody>
+</table>
+
+
+**Step 2 – Download Parents Gateway Mobile App**
+
+a.       Open the Apple App Store or Google Play Store app on your mobile phone.<br>
+b.       Search for the ‘Parents Gateway’ mobile app, or scan the QR code below.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-t3gd{background-color:#024C45;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-mb3y{background-color:#EFF7FF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-t3gd"><span style="font-weight:bold;color:#FFF;background-color:#024C45">For Android</span></th>
+    <th class="tg-t3gd"><span style="font-weight:bold;color:#FFF;background-color:#024C45">For IOS</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mb3y"><img src="https://angmokiopri.moe.edu.sg/qql/slot/u387/Parents%20Gateway/Download%20Parents%20Gateway%20Android.png" alt="Download Parents Gateway Android.png" width="174" height="174"></td>
+    <td class="tg-mb3y"><img src="https://angmokiopri.moe.edu.sg/qql/slot/u387/Parents%20Gateway/Download%20Parents%20Gateway%20IOS.png" alt="Download Parents Gateway IOS.png" width="173" height="174"></td>
+  </tr>
+</tbody>
+</table>
+
+a.       Download and install the app onto your phone<br>
+b.       Enable ‘**Allow Notifications’** to receive push notifications.
+
+**Note:** Supported OS Versions - **Android 5.0 or later** & **iOS 9.1 or later**
+
+**Step 3 – One-Time On-boarding**
+
+a.    Launch Parents Gateway app    <br>
+b.    Tap on Login with Singpass<br>
+c.    Login with your Singpass 2FA<br>
+d.    Tap on “Retrieve” to retrieve your child(ren)’s information<br>
+e.    You should see your child(ren)’s school announcements and activities (if any)<br>
+f.      Tap on “Done” to complete on-boarding
+
+____
+
+**<font size=5>MOE Promotional Video
+</font>**
+
+<iframe width="640" height="359" src="https://www.youtube.com/embed/PCM5o8jAncc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**<font size=5>Instructional Video
+</font>**
+
+Ang Mo Kio Primary School would like to Thank ACS Junior for allowing us to add this instructional video to our website. For a guide to Parents Gateway, please view video below.
+
+<iframe width="642" height="359" src="https://www.youtube.com/embed/29H_d-l5H0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
