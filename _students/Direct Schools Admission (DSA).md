@@ -94,9 +94,9 @@ You can find them on the following social media:
 • Instagram: [https://www.instagram.com/mayflowersec/](https://www.instagram.com/mayflowersec/)
 
  
-If you have any clarification, please do not hesitate to contact Mayflower Sec key personnel -  
-Mr Eric Wong (HOD PE/CCA) at [wong\_yih\_chon\_eric@schools.gov.sg](mailto:wong_yih_chon_eric@schools.gov.sg), 
-Ms Tang Suyun (SH Aesthetics) at [tang\_suyun@schools.gov.sg](mailto:tang_suyun@schools.gov.sg) or  
+If you have any clarification, please do not hesitate to contact Mayflower Sec key personnel -  <br>
+Mr Eric Wong (HOD PE/CCA) at [wong\_yih\_chon\_eric@schools.gov.sg](mailto:wong_yih_chon_eric@schools.gov.sg), <br>
+Ms Tang Suyun (SH Aesthetics) at [tang\_suyun@schools.gov.sg] <br>to:tang_suyun@schools.gov.sg) or  <br>
 Mrs Lucinda Leong (SH CCA) at [cheam\_phaik\_tin@schools.gov.sg](mailto:cheam_phaik_tin@schools.gov.sg).
 
 
