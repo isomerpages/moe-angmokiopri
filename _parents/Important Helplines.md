@@ -58,18 +58,21 @@ Hotline: 1800-353-5800
 Operating Hours: Mon to Fri (9:00AM to 6:00PM)  
 Helpline: 6555-0390  
   
-**<font size=5><u>FINANCIAL AND/OR SOCIAL SERVICES  </font></u>**  
+	
+	
+**<font size=5><u>FINANCIAL AND/OR SOCIAL SERVICES</u></font>** <br>
 **ComCare**<br>
 Operating Hours: Daily (7:00AM to 12:00 midnight)  
 Helpline: 1800-222-0000  
   
-**<font size=5><u>SUICIDE PREVENTION</font></u>**  
-**Samaritans of Singapore (SOS)**<br>
+		
+**<font size=5><u>SUICIDE PREVENTION</u></font>** <br>  **Samaritans of Singapore (SOS)**<br>
 (For people in crisis, thinking of suicide or affected by suicide)  
 Operating Hours: 24 hours  
 Helpline: 1800-221-4444  
-  
-**<font size=5><u>SELF-HELP GROUPS</font></u>**<br>
+ 
+ 
+**<font size=5><u>SELF-HELP GROUPS</u></font>** <br>
 **Association of Muslim Professionals**  
 Email: <a href="mailto:corporate@amp.org.sg ">corporate@amp.org.sg</a><br>
 Helpline: 6416-3966  
