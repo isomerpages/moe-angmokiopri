@@ -6,7 +6,7 @@ description: ""
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >IMPORTANT HELPLINES
 
-**<u>CHILD PROTECTION</u>**<br>
+**<font size=5><u>CHILD PROTECTION</u></font>**<br>
 **Big Love**  
 (Community-based child protection Specialist Centre)  
 Operating Hours: Mon to Fri (9:00AM to 6:00PM)  
@@ -26,7 +26,7 @@ Helpline: 1800-777-0000
 Operating Hours: Mon to Fri (9:00AM to 1:00PM; 2:00PM to 6:00PM)  
 Helpline: 6266-0171  
   
-**<u>FAMILY</u>** <br>
+**<font size=5><u>FAMILY</u></font>** <br>
 **Ang Mo Kio Family Services Centre (Ang Mo Kio)**  
 Email: amkfsc230@amkfsc.org.sg  
 Helpline: 6453-5349  
@@ -58,18 +58,18 @@ Hotline: 1800-353-5800
 Operating Hours: Mon to Fri (9:00AM to 6:00PM)  
 Helpline: 6555-0390  
   
-**FINANCIAL AND/OR SOCIAL SERVICES  
-ComCare**  
+**<font size=5><u>FINANCIAL AND/OR SOCIAL SERVICES  </font></u>**  
+**ComCare**<br>
 Operating Hours: Daily (7:00AM to 12:00 midnight)  
 Helpline: 1800-222-0000  
   
-**SUICIDE PREVENTION**  
+**<font size=5><u>SUICIDE PREVENTION</font></u>**  
 **Samaritans of Singapore (SOS)**<br>
 (For people in crisis, thinking of suicide or affected by suicide)  
 Operating Hours: 24 hours  
 Helpline: 1800-221-4444  
   
-**SELF-HELP GROUPS**<br>
+**<font size=5><u>SELF-HELP GROUPS</font></u>**<br>
 **Association of Muslim Professionals**  
 Email: corporate@amp.org.sg  
 Helpline: 6416-3966  
@@ -86,6 +86,6 @@ Helpline: 1800-295-4554
 Email: mendaki@mendaki.org.sg  
 Helpline: 6245-5555  
   
-**SOCIAL SERVICE OFFICES** <br>
+**<font size=5><u>SOCIAL SERVICE OFFICES</font></u>** <br>
 Social Service Office @Ang Mo Kio  
 Helpline: 1800-222-000
