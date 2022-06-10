@@ -112,7 +112,7 @@ RI has scheduled a ‘live’ online Q&A on 29 May (Friday, 10.30am) with P6 pa
   
 
 Registration for the online Q&A is via the link 
-[https://www.eventnook.com/event/ridsa2020qna](https://www.eventnook.com/event/ridsa2020qna%C2%A0)   
+[https://www.eventnook.com/event/ridsa2020qna](https://www.eventnook.com/event/ridsa2020qna%C2%A0)   (Link doesn't work anymore)
 
   
 
@@ -174,3 +174,15 @@ Students who are interested to participate in TJC 2020 DSA exercise should show
   </tr>
 </tbody>
 </table>
+
+**<font size=5>Cedar Girls Secondary School</font>**
+
+Please click [here](/files/Resources/Students/DSA%20Publicity%20to%20P6%20Parents(11%20May).pdf) for letter from Cedar Girls Secondary School.
+
+**<font size=5>School of the Arts (SOTA)</font>**
+
+Click on image below to find out more
+
+<p><a href="/files/Resources/Students/2020%20SOTA%20Outreach%20Slides.pdf">
+<img src="/images/Resources/CaptureSOTA.jpg">
+</a></p>
