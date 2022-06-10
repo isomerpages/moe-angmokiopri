@@ -175,9 +175,14 @@ Students who are interested to participate in TJC 2020 DSA exercise should show
 </tbody>
 </table>
 
+
+<br>
+
 **<font size=5>Cedar Girls Secondary School</font>**
 
 Please click [here](/files/Resources/Students/DSA%20Publicity%20to%20P6%20Parents(11%20May).pdf) for letter from Cedar Girls Secondary School.
+
+<br>
 
 **<font size=5>School of the Arts (SOTA)</font>**
 
@@ -185,4 +190,14 @@ Click on image below to find out more
 
 <p><a href="/files/Resources/Students/2020%20SOTA%20Outreach%20Slides.pdf">
 <img src="/images/Resources/CaptureSOTA.jpg">
+</a></p>
+
+<br>
+
+**<font size=5>Dunman High School</font>**
+
+Click on image below to find out more.
+
+<p><a href="/files/Resources/Students/DHS%20Prospectus%202020-compressed.pdf">
+<img src="/images/Resources/DHS%20e-Open%20House%20Poster%202020.jpg">
 </a></p>
