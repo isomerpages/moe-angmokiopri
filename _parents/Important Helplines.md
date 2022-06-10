@@ -28,11 +28,11 @@ Helpline: 6266-0171
   
 **<font size=5><u>FAMILY</u></font>** <br>
 **Ang Mo Kio Family Services Centre (Ang Mo Kio)**  
-Email: amkfsc230@amkfsc.org.sg  
+Email: <a href="mailto:amkfsc230@amkfsc.org.sg ">amkfsc230@amkfsc.org.sg </a><br>
 Helpline: 6453-5349  
   
 **PPIS (East) - for Malay community**  
-Email: fsceast@ppis.sg  
+Email: <a href="mailto:fsceast@ppis.sg ">fsceast@ppis.sg </a><br>
 Helpline: 6848-4661  
   
 **AWARE - Association of Women for Action and Research**  
@@ -71,21 +71,23 @@ Helpline: 1800-221-4444
   
 **<font size=5><u>SELF-HELP GROUPS</font></u>**<br>
 **Association of Muslim Professionals**  
-Email: corporate@amp.org.sg  
+Email: <a href="mailto:corporate@amp.org.sg ">corporate@amp.org.sg</a><br>
 Helpline: 6416-3966  
   
-**Chinese Development Assistance Council** 
-Email: feedback@cdac.org.sg  
+**Chinese Development Assistance Council** <br>
+Email: <a href="mailto:feedback@cdac.org.sg">feedback@cdac.org.sg</a><br>
 Helpline: 6841-4889  
   
-**SINDA (Singapore Indian Development Association)**
-Email: queries@sinda.org.sg  
+**SINDA (Singapore Indian Development Association)**<br>
+Email:
+<a href="mailto:queries@sinda.org.sg">queries@sinda.org.sg</a><br>
 Helpline: 1800-295-4554  
   
-**Yayasan Mendaki (Council for the Development of Singapore Muslim Community)**
-Email: mendaki@mendaki.org.sg  
+**Yayasan Mendaki (Council for the Development of Singapore Muslim Community)**<br>
+Email:
+<a href="mailto:mendaki@mendaki.org.sg">mendaki@mendaki.org.sg</a><br>
 Helpline: 6245-5555  
   
 **<font size=5><u>SOCIAL SERVICE OFFICES</font></u>** <br>
-Social Service Office @Ang Mo Kio  
+**Social Service Office @Ang Mo Kio**<br>
 Helpline: 1800-222-000
