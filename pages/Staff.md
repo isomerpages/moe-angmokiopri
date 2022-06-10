@@ -41,3 +41,23 @@ description: ""
 		 style="width:75%">
 </a></p>
 
+[MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx)
+
+<p><a href="http://intranet.moe.gov.sg/Pages/Home.aspx">
+<img src="/images/Resources/Staff/MOE%20Intranet.jpg"
+		 style="width:75%">
+</a></p>
+
+[OPAL 2.0](https://idm.opal2.moe.edu.sg/)
+
+<p><a href="https://idm.opal2.moe.edu.sg/">
+<img src="/images/Resources/Staff/OPAL2.jpg"
+		 style="width:75%">
+</a></p>
+
+[Resource Booking System](https://rbs.avero-tech.com/)
+
+<p><a href="https://rbs.avero-tech.com/">
+<img src="/images/Resources/Staff/RBS.png"
+		 style="width:75%">
+</a></p>
