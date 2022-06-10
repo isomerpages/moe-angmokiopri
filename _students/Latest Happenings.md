@@ -21,7 +21,9 @@ Scan me or click [here](https://share.aurasma.com/YXVyYXNtYTovLz9jaGFubmVsaWQ9ZW
 <img src="/images/Resources/Yearbook%20QR%20Code.png"
      style="width:25%">
 
-![](/images/Resources/AR%20features.jpg)
+<img src="/images/Resources/AR%20features.jpg"
+     style="width:75%">
+
 <br>
 
 **<font size=5>Kids Connect 2019</font>**
@@ -37,4 +39,5 @@ We have been preparing for KidsConnect since September 2018. 2 musicians, a grou
 
 Top 50 finalist for 2020 SOTA Primary 6 Art Competition. Leanna's artwork will be exhibited at SOTA Gallery from 26 to 30 March, 12pm to 8pm daily.
 
-![](/images/Resources/LeannaWang_FacingExtinction.jpg)
+<img src="/images/Resources/LeannaWang_FacingExtinction.jpg"
+     style="width:75%">
