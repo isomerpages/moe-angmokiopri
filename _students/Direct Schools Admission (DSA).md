@@ -228,12 +228,22 @@ The closing date is 1 June 2020.
 
 <br>
 
-**<font size=5>Singapore Chinese Girls School (SCGS</font>**
+**<font size=5>Singapore Chinese Girls School (SCGS)</font>**
 
 Click on image below to find out more.
 
 <p><a href="/files/Resources/Students/SCGS%20Postcard%20DSA%202020.pdf">
 <img src="/images/Resources/SCGS%20DSA.jpg">
+</a></p>
+
+<br>
+
+**<font size=5>Naval Base Secondary School (NBSS)</font>**
+
+Click on image below to find out more
+
+<p><a href="/files/Resources/Students/DSANBSS_compressed.pdf">
+<img src="/images/Resources/NBSS%20DSA.jpg">
 </a></p>
 
 
