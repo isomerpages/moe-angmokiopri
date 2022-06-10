@@ -88,6 +88,6 @@ Email:
 <a href="mailto:mendaki@mendaki.org.sg">mendaki@mendaki.org.sg</a><br>
 Helpline: 6245-5555  
   
-**<font size=5><u>SOCIAL SERVICE OFFICES</font></u>** <br>
+**<font size=5><u>SOCIAL SERVICE OFFICES</u></font>** <br>
 **Social Service Office @Ang Mo Kio**<br>
 Helpline: 1800-222-000
