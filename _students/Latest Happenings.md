@@ -16,7 +16,7 @@ description: ""
 
 Missing Video
 
-Scan me or click [here](https://share.aurasma.com/YXVyYXNtYTovLz9jaGFubmVsaWQ9ZWJhNzFjZjQwMmVhZmZhYTMwNzM3YTcwMzJiMDZjZWUmYWN0aW9uPXN1YnNjcmliZSZhcHBuYW1lPUF1cmFzbWEmcGxhdGZvcm09QW5kcm9pZA==) for the HP Reveal app and follow the 4 Steps Instructional Poster!
+Scan me or click [here](https://share.aurasma.com/YXVyYXNtYTovLz9jaGFubmVsaWQ9ZWJhNzFjZjQwMmVhZmZhYTMwNzM3YTcwMzJiMDZjZWUmYWN0aW9uPXN1YnNjcmliZSZhcHBuYW1lPUF1cmFzbWEmcGxhdGZvcm09QW5kcm9pZA==) for the HP Reveal app and follow the 4 Steps Instructional Poster! (Link and QR code don't work)
 
 <img src="/images/Resources/Yearbook%20QR%20Code.png"
      style="width:25%">
