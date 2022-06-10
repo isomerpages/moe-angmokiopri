@@ -246,8 +246,25 @@ Click on image below to find out more
 <img src="/images/Resources/NBSS%20DSA.jpg">
 </a></p>
 
+<br>
+
+**<font size=5>Hwa Chong Institution (HCI) & Nanyang Girls High (NYGH)</font>**
 
 
+**<u>Hwa Chong Institution</u>**<br>
+FB: @HwaChong.Official or [https://www.facebook.com/HwaChong.Official/](https://www.facebook.com/HwaChong.Official/)  
+IG: @hwachong.official or [https://www.instagram.com/hwachong.official/](https://www.instagram.com/hwachong.official/)
+
+Website: [admissions.hci.edu.sg](admissions.hci.edu.sg)
 
 
+HC100 FB: @hci100 or [https://www.facebook.com/hci100/](https://www.facebook.com/hci100/)
 
+
+HC100 IG: @hci100 or [https://www.instagram.com/hci100/](https://www.instagram.com/hci100/)
+
+
+**<u>Nanyang Girl’s High School</u>**<br>
+FB:@NanyangGirlsHighSchool <br>
+IG: @nygh_official <br>
+Website: [nygh.edu.sg](http://nygh.edu.sg/)
