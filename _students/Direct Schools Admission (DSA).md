@@ -191,7 +191,7 @@ Please click [here](/files/Resources/Students/DSA%20Publicity%20to%20P6%20Paren
 Click on image below to find out more
 
 <p><a href="/files/Resources/Students/2020%20SOTA%20Outreach%20Slides.pdf">
-<img src="/images/Resources/CaptureSOTA.jpg"style="width:75%">
+<img src="/images/Resources/CaptureSOTA.jpg">
 </a></p>
 
 <br>
@@ -201,7 +201,7 @@ Click on image below to find out more
 Click on image below to find out more.
 
 <p><a href="/files/Resources/Students/DHS%20Prospectus%202020-compressed.pdf">
-<img src="/images/Resources/DHS%20e-Open%20House%20Poster%202020.jpg"style="width:75%">
+<img src="/images/Resources/DHS%20e-Open%20House%20Poster%202020.jpg">
 </a></p>
 
 <br>
@@ -241,7 +241,7 @@ The closing date is 1 June 2020.
 Click on image below to find out more.
 
 <p><a href="/files/Resources/Students/SCGS%20Postcard%20DSA%202020.pdf">
-<img src="/images/Resources/SCGS%20DSA.jpg"style="width:75%">
+<img src="/images/Resources/SCGS%20DSA.jpg">
 </a></p>
 
 <br>
@@ -251,7 +251,7 @@ Click on image below to find out more.
 Click on image below to find out more
 
 <p><a href="/files/Resources/Students/DSANBSS_compressed.pdf">
-<img src="/images/Resources/NBSS%20DSA.jpg"style="width:75%">
+<img src="/images/Resources/NBSS%20DSA.jpg">
 </a></p>
 
 <br>
