@@ -201,3 +201,32 @@ Click on image below to find out more.
 <p><a href="/files/Resources/Students/DHS%20Prospectus%202020-compressed.pdf">
 <img src="/images/Resources/DHS%20e-Open%20House%20Poster%202020.jpg">
 </a></p>
+
+<br>
+
+**<font size=5>Deyi Secondary School</font>**
+![](/images/Resources/2020%20-%20DEYI%20DSA%20Poster%20vJPG.jpg)
+
+<br>
+
+**<font size=5>Raffles Girl School</font>**
+![](/images/Resources/CaptureRGS.jpg)
+
+<br>
+
+**<font size=5>Singapore Sports School</font>**
+
+Singapore Sports School (SSS) is reaching out to interested P6 students who are keen to join their Netball Academy in 2021.  
+  
+If your child/ward has strong passion in excelling in netball in the future and can balance his/her studies at the same time, please encourage him/her to sign up via Direct School Admission directly to SSS.  
+  
+SSS does not take part in the DSA-Sec portal. Please sign up directly at the website link below.  
+  
+[https://www.sportsschool.edu.sg/trials2020](https://www.sportsschool.edu.sg/trials2020)  
+  
+The closing date is 1 June 2020.
+
+
+
+
+
