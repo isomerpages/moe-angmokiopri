@@ -101,7 +101,10 @@ If you have any clarification, please do not hesitate to contact Mayflower Sec k
 
 Do note that the closing date for application is 5 June 2020.
 
+<br>
+
 **<font size=5>Raffles Institution (RI)</font>**
+
 ![](/images/Resources/CaptureRI.jpg)
 
 RI has scheduled a ‘live’ online Q&A on 29 May (Friday, 10.30am) with P6 parents/students on RI’s 2020 Direct School Admission (DSA) Exercise. Details of the online Q&A are shown below.
@@ -115,7 +118,59 @@ Registration for the online Q&A is via the link 
 
 or by scanning the QR code in the banner above. Registration for the online Q&A closes on 26 May (Tuesday) at 9am.  
 
-  
-
+ 
 If there are queries on RI’s DSA or related matters, please email to
 [admissions@ri.edu.sg](mailto:admissions@ri.edu.sg).
+
+<br>
+
+**<font size=5>Temasek JC IP</font>**
+
+Primary 6 students are encouraged to view their virtual Open House on 16 May, via their college website, as well as social media platforms.
+
+  
+
+Website: [https://www.temasekjc.moe.edu.sg/](https://www.temasekjc.moe.edu.sg/)
+Facebook: [https://www.facebook.com/Temasek.Junior.College](https://www.facebook.com/Temasek.Junior.College)
+Instagram: [https://www.instagram.com/temasekjc/](https://www.instagram.com/temasekjc/)
+
+For more information, please contact TJC Head of Engagement and Partnerships, Ms Kwan Kah Wai, at [kwan\_kah\_wai\_jenny@moe.edu.sg](mailto:kwan_kah_wai_jenny@moe.edu.sg).
+
+Students who are interested to participate in TJC 2020 DSA exercise should show promise in the following talent areas:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-t3gd{background-color:#024C45;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-415u{background-color:#EFF7FF;text-align:left;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-t3gd"><span style="font-weight:bold;color:#FFF;background-color:#024C45">Chinese Language</span></th>
+    <th class="tg-t3gd"><span style="font-weight:bold;color:#FFF;background-color:#024C45">Concert Band</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-415u"><span style="color:#000;background-color:#EFF7FF">English Language</span></td>
+    <td class="tg-415u"><span style="color:#000;background-color:#EFF7FF">Badminton</span></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Mathematics</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Basketball</span></td>
+  </tr>
+  <tr>
+    <td class="tg-415u"><span style="color:#000;background-color:#EFF7FF">Science</span></td>
+    <td class="tg-415u"><span style="color:#000;background-color:#EFF7FF">Ten-Pin Bowling</span></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Music </span><br><span style="color:#000;background-color:#FFF">(for the Music Elective Programme)</span></td>
+    <td class="tg-zr06"><span style="color:#000;background-color:#FFF">Leadership </span></td>
+  </tr>
+</tbody>
+</table>
