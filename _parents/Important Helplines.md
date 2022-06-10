@@ -70,19 +70,19 @@ Operating Hours: 24 hours
 Helpline: 1800-221-4444  
   
 **SELF-HELP GROUPS**<br>
-Association of Muslim Professionals  
+**Association of Muslim Professionals**  
 Email: corporate@amp.org.sg  
 Helpline: 6416-3966  
   
-**Chinese Development Assistance Council ** 
+**Chinese Development Assistance Council** 
 Email: feedback@cdac.org.sg  
 Helpline: 6841-4889  
   
-**SINDA (Singapore Indian Development Association)  **
+**SINDA (Singapore Indian Development Association)**
 Email: queries@sinda.org.sg  
 Helpline: 1800-295-4554  
   
-**Yayasan Mendaki (Council for the Development of Singapore Muslim Community)  **
+**Yayasan Mendaki (Council for the Development of Singapore Muslim Community)**
 Email: mendaki@mendaki.org.sg  
 Helpline: 6245-5555  
   
