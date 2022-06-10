@@ -9,7 +9,8 @@ description: ""
 [**Curriculum, Subject and Results (CSR)**](https://schoolcockpit.moe.gov.sg/academic)
 
 <p><a href="https://schoolcockpit.moe.gov.sg/academic">
-<img src="/images/Resources/Staff/SC.jpg"style="width:25%">
+<img src="/images/Resources/Staff/SC.jpg"
+		 style="width:25%">
 </a></p>
 
 [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
