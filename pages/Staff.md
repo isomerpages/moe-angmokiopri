@@ -29,9 +29,15 @@ description: ""
 
 [Parents Gateway](https://pg.moe.edu.sg/)
 
-![](/images/Resources/Staff/pg.jpg)
-
 <p><a href="https://pg.moe.edu.sg/">
 <img src="/images/Resources/Staff/pg.jpg"
 		 style="width:75%">
 </a></p>
+
+[HRMS](https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/)
+
+<p><a href="https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/">
+<img src="/images/Resources/Staff/HRMS.jpg"
+		 style="width:75%">
+</a></p>
+
