@@ -6,7 +6,7 @@ description: ""
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >ZOOM
 
-Using Zoom
+**<font size=5>Using Zoom</font>**
 
 [Student Guide to Zoom MOE ETD 21 March 2020.pdf ](/files/Student%20Guide%20to%20Zoom%20MOE%20ETD%2021%20March%202020.pdf)  (click for a detailed guide)
 
