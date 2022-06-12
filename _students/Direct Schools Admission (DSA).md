@@ -268,7 +268,7 @@ Click on image below to find out more
 FB: @HwaChong.Official or [https://www.facebook.com/HwaChong.Official/](https://www.facebook.com/HwaChong.Official/)  
 IG: @hwachong.official or [https://www.instagram.com/hwachong.official/](https://www.instagram.com/hwachong.official/)
 
-Website: [admissions.hci.edu.sg](admissions.hci.edu.sg)
+Website: [https://www.admissions.hci.edu.sg/](https://www.admissions.hci.edu.sg/)
 
 
 HC100 FB: @hci100 or [https://www.facebook.com/hci100/](https://www.facebook.com/hci100/)
