@@ -73,4 +73,5 @@ description: ""
 
 For parents who are driving, you may wish to park at the HDB carpark located beside the school.
 
-Your feedback is important to us. Should you have any further queries, please do not hesitate to send us an email at amkps@moe.edu.sg.
+Your feedback is important to us. Should you have any further queries, please do not hesitate to send us an email at
+<a href="mailto:amkps@moe.edu.sg">amkps@moe.edu.sg</a>
