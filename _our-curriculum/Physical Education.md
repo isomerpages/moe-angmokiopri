@@ -53,6 +53,17 @@ We would also like to convey our appreciation to the Parent Support Group for th
 
 <img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%202.png"  
      style="width:60%">
+		 
+![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%206.png)		 
+		 
+![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%207.png) 
+
+
+![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%208.png)
+
+
+![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%209.png)
+
 <br><br>
 **<font size="5">For Parents</font>**
 
