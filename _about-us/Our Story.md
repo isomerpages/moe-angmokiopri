@@ -3,7 +3,6 @@ title: Our Story
 permalink: /about-us/our-story
 description: ""
 ---
-
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
 > Our Story
 
@@ -51,7 +50,8 @@ These facilities will be able to support implementation of MOE-initiated Program
 <p style="text-align:center;">View of the whole school</p>
 
 
-<center>Principal List</center>
+
+**<center>Principal List</center>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
