@@ -10,11 +10,14 @@ description: ""
 
 Our school team members train twice weekly to hone their skills in both offensive and defensive techniques. Every year, we participate in the zonal and national inter-schools competitions. Besides striving for excellence in competitions, we also place great emphasis in inculcating the school values such as care, respect, responsibility, integrity and resilience in our pupils.
 
-![](/images/CCA/Table%20Tennis.png)
+<img src="/images/CCA/Table%20Tennis.png"  
+     style="width:75%">
 
 **<font size=5>Teachers in Charge</font>**
 
-![](/images/CCA/Table%20Tennis%20Teachers%20(1).png)
+<img src="/images/CCA/Table%20Tennis%20Teachers%20(1).png"  
+     style="width:75%">
+
 
 **<font size=5>Training Schedule</font>**
 
