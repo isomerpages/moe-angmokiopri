@@ -76,10 +76,8 @@ We would also like to convey our appreciation to the Parent Support Group for th
 
 The PE department seeks the support of all stakeholders to instil in our pupils the importance ofeating healthy and exercising regularly. Therefore, here are some health tips that can be reiterated at home:
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%203.png"  
-     style="width:75%">
-		 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2010.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2010.png"  
+     style="width:80%">
 
 <br>
 
@@ -179,8 +177,23 @@ At the end of the day, tokens in the form of sports equipmentare given to every 
 
 The school would also like to place on record our appreciation to the parent volunteers who took time off from their busy schedules to support this event.
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%206.png"  
-     style="width:60%">
+
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2011.png"  
+     style="width:80%">
+
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2012.png"  
+     style="width:80%">
+
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2013.png"  
+     style="width:80%">
+		 
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2014.png"  
+     style="width:80%">
+
+
+
+
+
 <br>
 
 **4. P4 Swimsafer Programme**
