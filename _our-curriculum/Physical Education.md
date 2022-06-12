@@ -71,6 +71,9 @@ The PE department seeks the support of all stakeholders to instil in our pupils 
 
 <img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%203.png"  
      style="width:75%">
+		 
+![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2010.png)
+
 <br>
 
 **<font size="5">Programme for Active Learning</font>**
