@@ -18,21 +18,26 @@ Other than CCA-specific skills, our AMKP Brass Band develops our students as fut
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day</th><th style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time</th><th style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Venue</th></tr></thead><tbody><tr><td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Friday</td><td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2:00pm to 4:00pm</td><td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Band Room</td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Attire </td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">Students are to be in their P.E. attire and appropriate footwear.</td></tr></tbody></table>
 
-![](/images/CCA/Band%201.png)
+<img src="/images/CCA/Band%201.png"  
+     style="width:75%">
 
-![](/images/CCA/Band2.jpg)
+
+<img src="/images/CCA/Band2.jpg"  
+     style="width:75%">
 
 
 
 **<font size=5>Teachers in Charge</font>**
 
-![](/images/CCA/Band%20Teachers.png)
-
+<img src="/images/CCA/Band%20Teachers.png"  
+     style="width:75%">
 
 **<font size=5>Achievements</font>**
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Year</th><th style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Achievement</th></tr></thead><tbody><tr><td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2016</td><td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Certificate of Accomplishment (SYF Arts Presentation)  </td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2018</td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Certificate of Accomplishment (SYF Arts Presentation)  </td></tr></tbody></table>
 
-![](/images/CCA/Band3.jpg)
+<img src="/images/CCA/Band3.jpg"  
+     style="width:75%">
 
-![](/images/CCA/Band4.jpg)
+<img src="/images/CCA/Band4.jpg"  
+     style="width:75%">
