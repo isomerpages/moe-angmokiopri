@@ -10,7 +10,7 @@ Ang Mo Kio Primary School is now onboard Parents Gateway.  Parents Gateway is 
 
   
 
-We would like to invite you to download the Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time onboarding process. Please scroll down for a step-by-step guide.
+We would like to invite you to download the Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time onboarding process. <u>Please scroll down for a step-by-step guide.</u>
 
 Parents who are onboard Parents Gateway can now receive information via the mobile app. The school will continue to issue hardcopy letters in 2019. From 2020, the school will issue hardcopy letters only to parents who are unable to come onboard Parents Gateway.
 
