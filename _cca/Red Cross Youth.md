@@ -22,26 +22,33 @@ The Link Training Curriculum consists of Basic Principles of Red Cross, Red Cros
 
 Some key events that the Links participate in are the School–based Total Defence Day, National First Aid Competition, Linkamania Camp, World Red Cross Day cum Enrolment Ceremony and EUA Awards Presentation, Grateful Heart Day and School National Day March Past Parade.
 
-![](/images/CCA/RedCross1.jpg)
+<img src="/images/CCA/RedCross1.jpg"  
+     style="width:75%">
 <center>Total Defence Day</center>
 
-![](/images/CCA/RedCross2.jpg)
+<img src="/images/CCA/RedCross2.jpg"  
+     style="width:75%">
 <center>National Day March Past</center>
 
-![](/images/CCA/RedCross3.jpg)
+<img src="/images/CCA/RedCross3.jpg"  
+     style="width:75%">
 <center>Grateful Heart Day</center>
 
 **<FONT SIZE=5>Teachers in Charge</FONT>**
 
-![](/images/CCA/Red%20Cross%20Teachers.png)
+<img src="/images/CCA/Red%20Cross%20Teachers.png"  
+     style="width:75%">
 
 **<FONT SIZE=5>Training Schedule</FONT>**
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#024C45;border-color:#024c45;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day</th><th style="background-color:#024C45;border-color:#024c45;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time</th><th style="background-color:#024C45;border-color:#024c45;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Venue</th></tr></thead><tbody><tr><td style="background-color:#EFF7FF;border-color:#eff7ff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Friday</td><td style="background-color:#EFF7FF;border-color:#eff7ff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2 p.m. to 4 p.m.</td><td style="background-color:#EFF7FF;border-color:#eff7ff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">D2-12A</td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="3">Students are to be in their Red Cross Uniform or HIOH T-Shirt by 1:50 p.m.</td></tr></tbody></table>
 
-![](/images/CCA/RedCross4.png)
+<img src="/images/CCA/RedCross4.png"  
+     style="width:75%">
 
-![](/images/CCA/RedCross5.png)
+<img src="/images/CCA/RedCross5.png"  
+     style="width:75%">
+
 
 
 **<FONT SIZE=5>Achievements/Participation</FONT>**
