@@ -27,9 +27,19 @@ We, as Physical Education teachers, consciously make use of movement as the prim
 By the end of P6, all pupils will have experienced the 7 key PE learning areas namely, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness, Athletics (P3 to P6) and Swimming (P4 only).
 
 **PE Lesson Pics**
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%201.png"  
-     style="width:60%">
 
+
+<img src="/images/principal.jpg"  
+     style="width:75%">
+![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%201.png)
+
+![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%202.png)
+
+![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%203.png)
+
+![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%204.png)
+
+![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%205.png)
 
 **<font size="5">Key Programmes</font>**
 
