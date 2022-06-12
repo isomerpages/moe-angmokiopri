@@ -190,10 +190,6 @@ The school would also like to place on record our appreciation to the parent vol
 <img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2014.png"  
      style="width:80%">
 
-
-
-
-
 <br>
 
 **4. P4 Swimsafer Programme**
@@ -206,8 +202,20 @@ This year, a total of 173 Primary 4 pupils participated in this programme. The l
 
 The school would like to thank the parent volunteers and teachers who acted as chaperones for this programme. Because of their dedicated supervision, the programme was carried out successfully.
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%207.png"  
-     style="width:60%">
+
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2015.png"  
+     style="width:80%">
+
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2016.png"  
+     style="width:80%">
+
+
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2017.png"  
+     style="width:80%">
+
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2018.png"  
+     style="width:80%">
+
 <br>
 
 **5. Sports Education Programme**
@@ -256,11 +264,17 @@ In AMKP, we hope to expose our pupils to special sports activities that are not 
 </tbody>
 </table>
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%208.png"  
-     style="width:50%">
-<br>
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%209.png"  
-     style="width:60%">
+
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2019.png"  
+     style="width:80%">
+
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2020.png"  
+     style="width:80%">
+
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2021.png"  
+     style="width:80%">
+
+
 
 **6. P3 to P6 InterClass Competition (After Curricular Hours)**
 
