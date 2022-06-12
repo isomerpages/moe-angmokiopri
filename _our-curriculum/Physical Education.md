@@ -29,17 +29,23 @@ By the end of P6, all pupils will have experienced the 7 key PE learning areas n
 **PE Lesson Pics**
 
 
-<img src="/images/principal.jpg"  
-     style="width:75%">
-![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%201.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%201.png"  
+     style="width:80%">
 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%202.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%202.png"  
+     style="width:80%">
 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%203.png)
 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%204.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%203.png"  
+     style="width:80%">
 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%205.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%204.png"  
+     style="width:80%">
+
+
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%205.png"  
+     style="width:80%">
+
 
 **<font size="5">Key Programmes</font>**
 
@@ -51,18 +57,19 @@ During the carnival, pupils take part in either carnival-style games or represen
 
 We would also like to convey our appreciation to the Parent Support Group for their continual patronage during the Sports Carnival!
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%202.png"  
-     style="width:60%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%206.png"  
+     style="width:80%">
 		 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%206.png)		 
-		 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%207.png) 
+
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%207.png"  
+     style="width:80%">
 
 
-![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%208.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%208.png"  
+     style="width:80%">
 
-
-![](/images/About%20Us/Our%20AMKP%20Experience/PE/PE%209.png)
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%209.png"  
+     style="width:80%">
 
 <br><br>
 **<font size="5">For Parents</font>**
