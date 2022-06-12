@@ -23,7 +23,7 @@ Other than CCA-specific skills, our AMKP Brass Band develops our students as fut
 
 
 <img src="/images/CCA/Band2.jpg"  
-     style="width:75%">
+     style="width:50%">
 
 
 
