@@ -32,13 +32,18 @@ A Scout has courage in all difficulties
 
 ___
 
-![](/images/CCA/Scouts1.png)
 
-![](/images/CCA/Scouts2.jpg)
+<img src="/images/CCA/Scouts1.png"  
+     style="width:75%">
+
+<img src="/images/CCA/Scouts2.jpg"  
+     style="width:75%">
 
 **<font size=5>Teachers in Charge</font>**
 
-![](/images/CCA/Scouts%20Teachers.png)
+<img src="/images/CCA/Scouts%20Teachers.png"  
+     style="width:75%">
+
 
 **<font size=5>Training Schedule</font>**
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#024C45;border-color:#024c45;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day</th><th style="background-color:#024C45;border-color:#024c45;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time</th><th style="background-color:#024C45;border-color:#024c45;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Venue</th><th style="background-color:#024C45;border-color:#024c45;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Attire</th></tr></thead><tbody><tr><td style="background-color:#EFF7FF;border-color:#eff7ff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Monday</td><td style="background-color:#EFF7FF;border-color:#eff7ff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2:00 to 4:00PM</td><td style="background-color:#EFF7FF;border-color:#eff7ff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">B3-08</td><td style="background-color:#EFF7FF;border-color:#eff7ff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">First <span style="font-weight:normal">Monday of the month:</span><br><span style="font-weight:normal">Full Scouts uniform</span><br><br>Other <span style="font-weight:normal">Mondays of the month:</span><br><span style="font-weight:normal">Scouts T-shirt and pants/skirts</span></td></tr></tbody></table>
