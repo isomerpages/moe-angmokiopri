@@ -25,14 +25,14 @@ Students learn the importance of putting in relentless effort into honing their 
 Through this process, students also learn how to overcome their fears and embrace the possibilities with an open mind.
 
 <img src="/images/CCA/AC1.jpg"  
-     style="width:75%">
+     style="width:50%">
 
 <img src="/images/CCA/AC2.jpg"  
-     style="width:75%">
+     style="width:50%">
 
 
 <img src="/images/CCA/AC3.jpg"  
-     style="width:75%">
+     style="width:50%">
 
 
 **<font size=5>Teachers in Charge</font>**  
@@ -51,15 +51,15 @@ Through this process, students also learn how to overcome their fears and embrac
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#024C45;border-color:inherit;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th><th style="background-color:#024C45;border-color:inherit;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Intermediate Group</th><th style="background-color:#024C45;border-color:inherit;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Advanced Group</th></tr></thead><tbody><tr><td style="background-color:#EFF7FF;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">CCA Days and Times</td><td style="background-color:#EFF7FF;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mondays (2:00 to 4:00 pm)</td><td style="background-color:#EFF7FF;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mondays (2:00 to 5:30 pm)<br><br></td></tr><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Attire</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">PE Attire / School Uniform<br></td></tr></tbody></table>
 
 <img src="/images/CCA/AC4.jpg"  
-     style="width:75%">
+     style="width:50%">
 
 
 <img src="/images/CCA/AC5.jpg"  
-     style="width:75%">
+     style="width:50%">
 
 
 <img src="/images/CCA/AC6.jpg"  
-     style="width:75%">
+     style="width:50%">
 
 
 
