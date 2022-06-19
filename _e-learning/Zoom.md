@@ -10,8 +10,11 @@ description: ""
 
 [Student Guide to Zoom MOE ETD 21 March 2020.pdf ](/files/Student%20Guide%20to%20Zoom%20MOE%20ETD%2021%20March%202020.pdf)  (click for a detailed guide)
 
-![](/images/E%20Learning/ZoomInfo1.jpg)
-![](/images/E%20Learning/ZoomInfo2.jpg)
+<img src="/images/E%20Learning/ZoomInfo1.jpg"  
+     style="width:75%">
+<img src="/images/E%20Learning/ZoomInfo2.jpg"  
+     style="width:75%">
+
 
 **<font size=5>Helpline</font>**
 
