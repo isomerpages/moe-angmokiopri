@@ -2,11 +2,56 @@
 title: FAQ
 permalink: /faq/
 ---
+>![](/images/About%20Us/banner2-with%20bg.jpg)
+>OTHERS
 
-### **FAQ**
+**<font size="5">FAQ</font>**<br>
+(Frequently Asked Questions)
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+**General Information**
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+**1\. What are the operating hours of the General Office?**  
+
+The counter at the General Office is manned from 7.00 a.m. to 5.30 p.m., Mondays to Fridays during term time. 
+
+  
+**2\. When are the side gates open?**
+
+The side gates opening hours are as follows:
+
+Mornings:                Mondays to Fridays: 6.50 a.m. - 7.30 a.m.
+
+Dismissal times:    Mondays to Fridays: 1.30 p.m. - 2.00 p.m.
+
+  
+
+**3\. When can parents enter the school to buy things from the bookshop?**
+
+The bookshop is open from 8.30 a.m. to 3 p.m., Mondays to Fridays during term time. However, no transactions with parents will be allowed before 1.45 p.m.
+
+  
+
+**4\. When can parents enter the school to buy uniform from the Uniform Supplier?**
+
+The uniform supplier is open only on Friday from 11.00 a.m. to 3 p.m. during term time. However, no transactions with parents will be allowed before 1.45 p.m.
+
+  
+
+**Direct Schools Admission - Secondary (DSA-SEC)**
+
+  
+
+Direct School Admission for secondary schools (DSA-Sec) allows students to apply to some schools before taking the PSLE. Students apply based on their talent in sports, CCAs and specific academic areas.
+
+If your child is admitted to a secondary school through DSA-Sec, they are not allowed to submit school choices during the Secondary 1 (S1) posting process.
+
+Primary 6 students can apply for DSA-Sec based on a wide range of talents, including:
+
+*   Sports and games
+*   Visual, literary and performing arts
+*   Debate and public speaking
+*   Science, mathematics and engineering
+*   Languages and humanities
+*   Uniformed groups
+*   Leadership (for example, prefects)
