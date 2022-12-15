@@ -16,7 +16,7 @@ The pandemic has taught us many lessons, including the importance of developing 
 
 I am a firm believer that it takes a village to raise a child. Student success is therefore attributed to the strong partnerships and relationships we build between the home and school as well as within our community. I look forward to working with our parents, community partners and stakeholders as we strive to provide a conducive environment where learning is delightful and children find joy in coming to school - AMKP where our students R<sup>3</sup>IC<sup>2</sup>E and Shine!
 <br><br>
-Mrs Lim Bee Lay
+Mrs Lim Bee Lay<br>
 
 
 Principal
