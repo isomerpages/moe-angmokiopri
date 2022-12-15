@@ -15,7 +15,7 @@ The primary school years are an exciting time when children embark upon new adve
 The pandemic has taught us many lessons, including the importance of developing self-motivated individuals who care not just about themselves, but are passionate to connect with others and issues, and with confidence, actively contribute to the good of others and society. Towards this endeavor, we will continue to build on the good work done by our predecessors and keep our focus on nurturing every AMKPian to be a ‘Confident Person, a Joyful Learner and a Caring Citizen’, with the courage to pursue his or her aspirations. We are heartened that our common identity has resonated strongly with students, staff, parents and stakeholders. As we move into our next phase of growth, we will be strengthening existing structures to help our students deepen their joy for learning through positive education, as well as continue in building a positive culture that encourages strong relationships between students and teachers. 
 
 I am a firm believer that it takes a village to raise a child. Student success is therefore attributed to the strong partnerships and relationships we build between the home and school as well as within our community. I look forward to working with our parents, community partners and stakeholders as we strive to provide a conducive environment where learning is delightful and children find joy in coming to school - AMKP where our students R<sup>3</sup>IC<sup>2</sup>E and Shine!
-<br>
+<br><br>
 Mrs Lim Bee Lay
 
 
