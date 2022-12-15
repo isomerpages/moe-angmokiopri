@@ -6,7 +6,7 @@ description: ""
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
 >Principal's Message 2022
 
-On behalf of the school, I would like to wish everyone a happy and meaningful 2022! To all our existing students, a warm welcome back, and to our new students – P1 and our pioneer batch of MOE Kindergarten (MK) students, we welcome you to our AMKPian family. We look forward to an exciting year of learning and growing as a community. We are happy to share with you that our MK@AMK will open its doors to the first batch of MK students in 2022.
+<p align="justify">On behalf of the school, I would like to wish everyone a happy and meaningful 2022! To all our existing students, a warm welcome back, and to our new students – P1 and our pioneer batch of MOE Kindergarten (MK) students, we welcome you to our AMKPian family. We look forward to an exciting year of learning and growing as a community. We are happy to share with you that our MK@AMK will open its doors to the first batch of MK students in 2022.
 
 2021 was not an easy year in the book of history – yet, as one AMKP, we have done well to tide through the pandemic. We kept the school running, ensuring that no child was left behind as we kept up with curriculum during the Home-based Learning (HBL) period and after that, with careful planning and safe distancing measures to keep all safe. I am indeed proud to be part of this community of students, parents, teachers and admin/support staff, all of whom are united in a desire to provide the very best and safe environment for our children. I would like to assure you that we are prepared for school opening on 4 January 2022.
 
@@ -17,6 +17,6 @@ The pandemic has taught us many lessons, including the importance of developing 
 I am a firm believer that it takes a village to raise a child. Student success is therefore attributed to the strong partnerships and relationships we build between the home and school as well as within our community. I look forward to working with our parents, community partners and stakeholders as we strive to provide a conducive environment where learning is delightful and children find joy in coming to school - AMKP where our students R<sup>3</sup>IC<sup>2</sup>E and Shine!
 
 Mrs Lim Bee Lay
-
+</p>
 
 Principal
