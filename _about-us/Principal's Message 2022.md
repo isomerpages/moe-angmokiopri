@@ -1,10 +1,10 @@
 ---
-title: Principal's Message 2022
-permalink: /about-us/principals-message-2022/
+title: Principal's Message 2023
+permalink: /about-us/principals-message-2023/
 description: ""
 ---
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
->Principal's Message 2022
+>Principal's Message 2023
 
 <p align="justify">On behalf of the school, I would like to wish everyone a happy and meaningful 2022! To all our existing students, a warm welcome back, and to our new students – P1 and our pioneer batch of MOE Kindergarten (MK) students, we welcome you to our AMKPian family. We look forward to an exciting year of learning and growing as a community. We are happy to share with you that our MK@AMK will open its doors to the first batch of MK students in 2022.<br><br>
 
