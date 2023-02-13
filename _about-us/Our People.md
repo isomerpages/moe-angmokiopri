@@ -1,18 +1,18 @@
 ---
 title: Our People
-permalink: /about-us/our-people/school-executive-committee-2022
+permalink: /about-us/our-people/school-executive-committee-2023
 description: ""
 ---
 
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
 > Our People
 
-**SCHOOL EXECUTIVE COMMITTEE 2022**
+**SCHOOL EXECUTIVE COMMITTEE 2023**
 
 **School Leaders**
-![](/images/Our%20People/School%20Leaders.jpg)
+![](/images/Our%20People/2023_Sch_Leader.jpg)
 
-<center>From left: Ms Tan Siew Khim (VP-EO), Mr Kyaw Saw Lynn (VP-EO), Ms Alethea Liew (VP-Admin),
+<center>From left: Ms Tan Siew Khim (VP/EO), Mr Kyaw Saw Lynn (VP/EO), Ms Alethea Liew (VP/Admin),
 Mrs Lim Bee Lay (Principal)</center>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
