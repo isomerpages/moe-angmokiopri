@@ -52,3 +52,7 @@ Mrs Desri Ann Lee (HOD/CCE), Miss Kwek Audrey (SH/CCE)</center>
 Mr Mohamad Riaz Sulaimi (ST/Science), Dr Philomena Mohan (LT/English Language), 
 Mrs Brenda Seetoh (SSD), Mdm Chang Shuyun (ST/Chinese)</center>
 	
+**Executive and Administrative Staff**
+![](/images/Our%20People/2023_AM_OM.jpeg)
+<center>From Left: Mr Jagtar Singh (Administrative Manager), Mr Richard Wee (Operations Manager), 
+Mr Edmund Goh (Administrative Manager/ICT)</center>
