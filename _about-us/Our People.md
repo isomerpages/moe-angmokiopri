@@ -35,14 +35,10 @@ Miss Ang Xiu Qin (SH/ICT), Miss Shirley Toh (SH/Aesthetics)</center>
 
 **Student Development**
 ![](/images/Our%20People/2023_Student_Develop.jpeg)
-<center>From Left: Mrs Rena Lee (Year Head Lower Block / P1), Mr Yong Yao Feng (Asst. Year Head / P3),
-Miss Agnes Tan (Year Head Upper Block / P6)
- 
+<center>From Left: Mdm Nur Adawiyah (SH/Student Well-Being), Miss Ng Swee Lin (HOD/Student Management), Mr Mark Chin (SH/Student Management), 
+Mrs Desri Ann Lee (HOD/CCE), Miss Kwek Audrey (SH/CCE)
 Mr Abdul Razif (Asst. Year Head / P4), Mr Rames s/o Ponpanden (Asst. Year Head / P5),
-Miss Suganthi d/o Mariappan (Asst. Year Head / P2)</center>
-	
-![](/images/Our%20People/Student%20Development%202.jpg)
-<center>From Left: Mdm Nur Adawiyah (SH/Student Well-Being), Mr Mark Chin (SH/Student Management), Miss Ng Swee Lin (HOD/Student Management)</center>
+Miss Suganthi d/o Mariappan (Asst. Year Head / P2)</center>	
 	
 ![](/images/Our%20People/2023_Student_Develop2.jpeg)
 <center>From Left: Ms Tan Wan Jun (HOD Education Support), Ms Lee Rui Jun (HOD CCE), Miss Kwek Audrey (SH CCE) </center>
