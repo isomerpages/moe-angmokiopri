@@ -18,23 +18,23 @@ Mrs Lim Bee Lay (Principal)</center>
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
 **Academic Subjects**
-![](/images/Our%20People/Academic%20Subjects.jpg)
-<center>From Left: Ms Valerie Chua Ruishan (HOD Mathematics), Miss Sng Soh Foon (HOD Science),
-Mr Sudhesh Vasu Dash (HOD English Language), Mdm Pamela Tock Yan Qing (LH English Language)</center>
-<center>Miss Madeleine Tan Lai Mun (SH Assessment), Mr Alan Choo (HOD Mother Tongue Languages),
-Mdm Jamilah Syed Ahamed (SH Mother Tongue), Ms Ang Wei Lin (LH Mathematics)</center>
+![](/images/Our%20People/2023_Academic_Subj.jpeg)
+<center>From Left: Ms Valerie Chua Ruishan (HOD/Mathematics), Miss Sng Soh Foon (HOD/Science),
+Mr Sudhesh Vasu Dash (HOD/English Language), Mdm Pamela Tock Yan Qing (LH/English Language)</center>
+<center>Miss Madeleine Tan Lai Mun (SH/Assessment), Mr Alan Choo (HOD/Mother Tongue Languages),
+Mdm Jamilah Syed Ahamed (SH/Mother Tongue), Ms Ang Wei Lin (LH/Mathematics)</center>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
 **PE, Aesthetics and ICT**
-![](/images/Our%20People/PE,%20Aesthetics%20and%20ICt.jpg)
-<center>From Left: Miss Soh Mei Ling (HOD PE & Aesthetics), Mr Alan Yong (SH PE & CCA),
-Miss Ang Xiu Qin (SH ICT), Miss Shirley Toh (SH Aesthetics)</center>
+![](/images/Our%20People/PE,2023_PE_AES_ICT.jpeg)
+<center>From Left: Miss Soh Mei Ling (HOD/PE & Aesthetics), Mr Alan Yong (SH/PE & CCA),
+Miss Ang Xiu Qin (SH/ICT), Miss Shirley Toh (SH/Aesthetics)</center>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
 **Student Development**
-![](/images/Our%20People/Student%20Development.jpg)
+![](/images/Our%20People/2023_Student_Develop.jpeg)
 <center>From Left: Mrs Rena Lee (Year Head Lower Block - P1), Mr Yong Yao Feng (Asst. Year Head - P3),
 Miss Agnes Tan (Year Head Upper Block - P6)
  
