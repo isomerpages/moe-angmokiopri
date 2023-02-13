@@ -42,9 +42,7 @@ Miss Agnes Tan (Year Head Upper Block / P3), Mr Yong Yao Feng (Asst. Year Head /
 	
 ![](/images/Our%20People/2023_Student_Develop2.jpeg)
 <center>From Left: Mdm Nur Adawiyah (SH/Student Well-Being), Miss Ng Swee Lin (HOD/Student Management), Mr Mark Chin (SH/Student Management), 
-Mrs Desri Ann Lee (HOD/CCE), Miss Kwek Audrey (SH/CCE)
-Mr Abdul Razif (Asst. Year Head / P4), Mr Rames s/o Ponpanden (Asst. Year Head / P5),
-Miss Suganthi d/o Mariappan (Asst. Year Head / P2)</center>
+Mrs Desri Ann Lee (HOD/CCE), Miss Kwek Audrey (SH/CCE)</center>
 	
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
