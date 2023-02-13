@@ -27,7 +27,7 @@ Mdm Jamilah Syed Ahamed (SH/Mother Tongue), Ms Ang Wei Lin (LH/Mathematics)</cen
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
 **PE, Aesthetics and ICT**
-![](/images/Our%20People/PE,2023_PE_AES_ICT.jpeg)
+![](/images/Our%20People/2023_PE_AES_ICT.jpeg)
 <center>From Left: Miss Soh Mei Ling (HOD/PE & Aesthetics), Mr Alan Yong (SH/PE & CCA),
 Miss Ang Xiu Qin (SH/ICT), Miss Shirley Toh (SH/Aesthetics)</center>
 
