@@ -37,7 +37,7 @@ The reconstruction work began in Nov 2010 and was granted T.O.P. on Dec 2012. Th
 
 These facilities will be able to support implementation of MOE-initiated Programme for Active Learning (PAL) for our P1 and P2 pupils, and enhance the existing PE. Art and Music (PAM) modules to create a holistic learning experience for all its pupils here in Ang Mo Kio Primary School.
 
-<img src="/images/About%20Us/AMKPS%20Logo.png"  
+<img src="/images/About%20Us/AMKPS_Logo.png"  
      style="width:50%">
 <p style="text-align:center;">Our Current School Logo</p>
 
