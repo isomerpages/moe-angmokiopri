@@ -10,7 +10,7 @@ description: ""
 **SCHOOL EXECUTIVE COMMITTEE 2023**
 
 **School Leaders**
-![](/images/Our%20People/2023_Sch_Leader.jpg)
+![](/images/Our%20People/2023_Sch_Leader.jpeg)
 
 <center>From left: Ms Tan Siew Khim (VP/EO), Mr Kyaw Saw Lynn (VP/EO), Ms Alethea Liew (VP/Admin),
 Mrs Lim Bee Lay (Principal)</center>
