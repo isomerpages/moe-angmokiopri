@@ -47,7 +47,8 @@ Mrs Desri Ann Lee (HOD/CCE), Miss Kwek Audrey (SH/CCE)</center>
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
 **Staff Development**
-![](/images/Our%20People/Staff%20Development.jpg)
-<center>From Left: Dr Philomena Mohan (LT English Language), Mrs Brenda Seetoh (SSD),
-Miss Michelle Xu (LT Learning Needs - Educational Support)</center>
+![](/images/Our%20People/2023_Staff_Development.jpeg)
+<center>From Left: Miss Michelle Xu (LT/Learning Needs - Educational Support), 
+Mr Mohamad Riaz Sulaimi (ST/Science), Dr Philomena Mohan (LT/English Language), 
+Mrs Brenda Seetoh (SSD), Mdm Chang Shuyun (ST/Chinese)</center>
 	
