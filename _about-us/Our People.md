@@ -19,10 +19,8 @@ Mrs Lim Bee Lay (Principal)</center>
 
 **Academic Subjects**
 ![](/images/Our%20People/2023_Academic_Subj.jpeg)
-<center>From Left: Ms Valerie Chua Ruishan (HOD/Mathematics), Miss Sng Soh Foon (HOD/Science),
-Mr Sudhesh Vasu Dash (HOD/English Language), Mdm Pamela Tock Yan Qing (LH/English Language)</center>
-<center>Miss Madeleine Tan Lai Mun (SH/Assessment), Mr Alan Choo (HOD/Mother Tongue Languages),
-Mdm Jamilah Syed Ahamed (SH/Mother Tongue), Ms Ang Wei Lin (LH/Mathematics)</center>
+<center>From Left: Mr Sudhesh Vasu Dash (HOD/English Language), Mdm Nooraisha Mohamed Ibrahim (SH /Assessment and IPW), Ms Valerie Chua Ruishan (HOD/Mathematics), Mdm Pamela Tock Yan Qing (LH /English Language), Mr Calvin Ong (HOD/Science), Mr Alan Choo (HOD/Mother Tongue Languages),
+Mdm Jamilah Syed Ahamed (SH/Mother Tongue)</center>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
