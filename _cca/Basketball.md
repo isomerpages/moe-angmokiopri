@@ -11,8 +11,6 @@ description: ""
   
 Basketball is a team sport that develops students' physical, social and mental well-being. Through our rigorous training sessions, our boys improve their physical fitness and basketball skills. Our boys also learn how to work well with others, both on and off the court, and develop a strong sense of resilience, sportsmanship and a positive sense of self. It is our aim that our students acquire these important life skills to grow up to be confident and caring citizens.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/W_cp0yNhfKA" height="312" width="646"></iframe>
-
 **<font size="5">Teachers in Charge</font>**
 
 <ul>
