@@ -6,19 +6,17 @@ description: ""
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >ARTS & CRAFTS
 
-**<font size=5>Objective</font>**
+**<font size=7>Objective</font>**
 
 The Art & Crafts CCA aims to develop well-rounded student leaders who are self-disciplined and creative in art making using their talents to serve the communities.
 
-**<font size=5>Enrich</font>**  
+**<font size=7>Enrich</font>**  
 
 In the CCA, students explore various interesting art forms and expression such as ceramics, painting, caricature drawing, sand performance and mural painting.  
 
 They also receive the opportunities to participate actively in external events such as the Singapore Youth Festival (SYF) exhibitions and museum learning journeys to gain first-hand experience at local museums and learn to appreciate artworks. To give back to the communities, the students participate in art communities’ projects such as Chingay@Heartlands, Artist Talk@2015 SYF and NEA Hawker Centres Art Initiative.
 
-  
-
-**<font size=5>Empowered with Character Building</font>**
+**<font size=7>Empowered with Character Building</font>**
 
 Students learn the importance of putting in relentless effort into honing their craftsmanship. Our students are expected to learn the CCA-specific skills, and educate others in the school. They run internal school art events such as the ArtXpace exhibition. Through events like these, they also learn project management skills as the process from the conceptualizing to the actualization of the project is seen through by them.
 
@@ -35,7 +33,7 @@ Through this process, students also learn how to overcome their fears and embrac
      style="width:50%">
 
 
-**<font size=5>Teachers in Charge</font>**  
+**<font size=7>Teachers in Charge</font>**  
 
 <ul>
   <li>Miss Maheswari d/o Krishnan Murthy</li>
@@ -63,8 +61,6 @@ Through this process, students also learn how to overcome their fears and embrac
     </tr>
   </tbody>
 </table>
-
-
 
 
 <img src="/images/CCA/AC4.jpg"  
