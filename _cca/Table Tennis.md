@@ -15,7 +15,9 @@ Our school team members train twice weekly to hone their skills in both offensiv
   <li>Miss Junisha Erat</li>
   <li>Mrs Chong Xue Qi</li>
 </ul>
+
 **<font size=7>Training Schedule</font>**
+
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
     <tr>
@@ -37,7 +39,9 @@ Our school team members train twice weekly to hone their skills in both offensiv
     </tr>
   </tbody>
 </table>
+
 **<font size=7>Achievements</font>**
+
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
     <tr>
