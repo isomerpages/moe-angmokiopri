@@ -46,7 +46,7 @@ Through this process, students also learn how to overcome their fears and embrac
 
 
 
-**<font size=5>CCA Days and Times</font>**  
+**<font size=7>CCA Days and Times</font>**  
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
