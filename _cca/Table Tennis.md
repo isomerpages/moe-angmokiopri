@@ -6,7 +6,7 @@ description: ""
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >TABLE TENNIS
 
-**<font size=5>About</font>**
+**<font size=7>About</font>**
 
 Our school team members train twice weekly to hone their skills in both offensive and defensive techniques. Every year, we participate in the zonal and national inter-schools competitions. Besides striving for excellence in competitions, we also place great emphasis in inculcating the school values such as care, respect, responsibility, integrity and resilience in our pupils.
 
@@ -15,7 +15,7 @@ Our school team members train twice weekly to hone their skills in both offensiv
   <li>Miss Junisha Erat</li>
   <li>Mrs Chong Xue Qi</li>
 </ul>
-<p> **<font size=5>Training Schedule</font>** </p>
+<p> **<font size=7>Training Schedule</font>** </p>
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
     <tr>
@@ -37,7 +37,7 @@ Our school team members train twice weekly to hone their skills in both offensiv
     </tr>
   </tbody>
 </table>
-**<font size=5>Achievements</font>**
+**<font size=7>Achievements</font>**
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
     <tr>
