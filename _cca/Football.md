@@ -15,14 +15,11 @@ The AMKP Football CCA introduces a series of ball and game management skills dur
 
 **<font size=5>Teachers in Charge</font>**
 
-<img src="/images/CCA/Football%20Teachers.png"  
-     style="width:75%">
-
-<img src="/images/CCA/Football%202.png"  
-     style="width:75%">
-
-<img src="/images/CCA/Football%203.jpg"  
-     style="width:75%">
+<ul>
+	  <li>Mr Teo Ming Hong</li>
+	  <li>Mr Samuel Xiao Yong</li>
+	  <li>Miss Wong Hui Li Victoria	</li>
+</ul>
 
 **<font size=5>Training Schedule</font>**
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th width="225" style="background-color:#024C45;border-color:#024c45;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day </th><th width="203" style="background-color:#024C45;border-color:#024c45;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time</th>
