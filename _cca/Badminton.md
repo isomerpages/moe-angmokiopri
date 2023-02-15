@@ -65,13 +65,7 @@ Mdm Ng Yong Jia Amelia<br>
     </tr>
     <tr>
       <td style="background-color:#EFF7FF;border-color:#eff7ff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2022</td>
-      <td style="background-color:#EFF7FF;border-color:#eff7ff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><table>
-        <tbody>
-          <tr>
-            <td> NSG Badminton Competition Classification Round Junior Boys (Single, First Position)</td>
-          </tr>
-        </tbody>
-      </table></td>
+      <td style="background-color:#EFF7FF;border-color:#eff7ff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NSG Badminton Competition Classification Round Junior Boys (Single, First Position)</td>
     </tr>
   </tbody>
 </table>
