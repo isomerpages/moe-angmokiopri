@@ -6,7 +6,7 @@ description: ""
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >BADMINTON
 
-**<font size=5>About</font>**
+**<font size=6>About</font>**
 
 The AMKP Badminton CCA team welcomes everyone with open arms. It is a popular CCA among our students and we have both recreational and competitive team members.
 
@@ -14,13 +14,15 @@ Our dedicated and nurturing team of professional coaches and CCA teachers equip 
 
 
 
-**<font size=5>Teachers in Charge</font>**
+**<font size=6>Teachers in Charge</font>**
 
-Mr Vincent Tan Peng Chuan<br>
-Miss Lim Ching Yin<br>
-Mr Soh Hiok Peng<br>
-Miss Shamine d/o Santhana Krishnan<br>
-Mdm Ng Yong Jia Amelia<br>
+<ul>
+  <li>Mr Vincent Tan Peng Chuan</li>
+  <li>Miss Lim Ching Yin</li>
+  <li>Mr Soh Hiok Peng</li>
+  <li>Miss Shamine d/o Santhana Krishnan</li>
+  <li>Mdm Ng Yong Jia Amelia</li>	
+</ul>
 
 **<font size=5>Training Schedule</font>**
 
