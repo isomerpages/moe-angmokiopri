@@ -66,4 +66,34 @@ Through this process, students also learn how to overcome their fears and embrac
 
 **<font size=5>Achievements/Participation</font>**
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Year</th><th style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Achievement</th></tr></thead><tbody><tr><td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2013</td><td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Certification of Recognition (SYF Arts Presentation)<br></td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2015<br></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">‘Past of Singapore’ showcased at <span style="font-weight:bold">National Gallery Singapore 2015-2017</span><br></td></tr><tr><td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2017</td><td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Artwork ‘<span style="font-weight:bold">Moving Spaces</span>’ showcased at <span style="font-weight:bold">National Gallery Singapore 2017-present</span><br></td></tr></tbody></table>
+Year
+
+Achievement
+
+2013
+
+Certification of Recognition (SYF Arts Presentation)
+
+
+2015
+
+
+‘Past of Singapore’ showcased at National Gallery Singapore 2015-2017
+
+
+2017
+
+Artwork ‘Moving Spaces’ showcased at National Gallery Singapore 2017-present
+
+
+2019
+
+
+Certification of Recognition for Cat A artwork ‘SG Feast’ (SYF Arts Presentation)
+
+
+2021
+
+Certification of Recognition for Cat A & B artwork ‘What’s for Lunch?’ and ‘The Futuristic Robot’ (SYF Arts Presentation)
+
+
