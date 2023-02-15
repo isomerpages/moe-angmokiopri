@@ -47,17 +47,22 @@ Through this process, students also learn how to overcome their fears and embrac
 
 **<font size=7>CCA Days and Times</font>**  
 
-Day
-
-Time
-
-Venue
-
-CCA Days and Times
-
-Mondays (2.15pm to 4.15pm)
-
-Art Room / Art Cove
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+  <thead>
+    <tr>
+      <th width="211" style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#024C45">Day</span></th>
+      <th width="270" style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color: #FFF; background-color: #024C45">Time</span></th>
+      <th width="260" style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#024C45">Venue</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;color:#1A202C;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;background-color:#EFF7FF">CCA Days and Times</span></td>
+      <td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;color:#1A202C;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:#EFF7FF">Mondays (2.15pm to 4.15pm)</span></td>
+      <td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;color:#1A202C;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:#EFF7FF">Art Room / Art Cove</span><br></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
