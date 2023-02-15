@@ -16,8 +16,11 @@ Our dedicated and nurturing team of professional coaches and CCA teachers equip 
 
 **<font size=5>Teachers in Charge</font>**
 
-<img src="/images/CCA/Badminton%20Teachers%20in%20Charge.png"  
-     style="width:75%">
+Mr Vincent Tan Peng Chuan
+Miss Lim Ching Yin
+Mr Soh Hiok Peng
+Miss Shamine d/o Santhana Krishnan
+Mdm Ng Yong Jia Amelia
 
 **<font size=5>Training Schedule</font>**
 
