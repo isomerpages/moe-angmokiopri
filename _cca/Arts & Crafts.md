@@ -37,13 +37,12 @@ Through this process, students also learn how to overcome their fears and embrac
 
 **<font size=5>Teachers in Charge</font>**  
 
-<img src="/images/CCA/AC%20Teachers%201.png"  
-     style="width:75%">
-
-
-<img src="/images/CCA/AC%20Teachers%202.png"  
-     style="width:75%">
-
+<ul>
+  <li>Miss Maheswari d/o Krishnan Murthy</li>
+  <li>Miss Wendy Nah</li>
+  <li>Mrs Wellisa Leona Liaw</li>
+  <li>Mdm Monica Leong Cai Lin</li>
+</ul>
 
 
 **<font size=7>CCA Days and Times</font>**  
