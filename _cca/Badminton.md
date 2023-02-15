@@ -12,15 +12,15 @@ The AMKP Badminton CCA team welcomes everyone with open arms. It is a popular CC
 
 Our dedicated and nurturing team of professional coaches and CCA teachers equip our students in CCA-specific skills through drills and games. ​We also believe that character development is important in an athlete. Our team members learn responsibility through the setting-up of the courts and keeping all the equipment after each CCA session. Other character traits and values such as self-confidence, resilience, excellence and perseverance continue to be instilled as they learn to master their CCA-specific skills in a fun and conducive environment.
 
-<iframe width="646" height="311" src="https://www.youtube.com/embed/GvxLpQzOznM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **<font size=5>Teachers in Charge</font>**
 
-Mr Vincent Tan Peng Chuan
-Miss Lim Ching Yin
-Mr Soh Hiok Peng
-Miss Shamine d/o Santhana Krishnan
-Mdm Ng Yong Jia Amelia
+Mr Vincent Tan Peng Chuan<br>
+Miss Lim Ching Yin<br>
+Mr Soh Hiok Peng<br>
+Miss Shamine d/o Santhana Krishnan<br>
+Mdm Ng Yong Jia Amelia<br>
 
 **<font size=5>Training Schedule</font>**
 
