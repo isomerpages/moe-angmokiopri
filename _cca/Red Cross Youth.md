@@ -36,8 +36,10 @@ Some key events that the Links participate in are the School–based Total Defen
 
 **<FONT SIZE=5>Teachers in Charge</FONT>**
 
-<img src="/images/CCA/Red%20Cross%20Teachers.png"  
-     style="width:75%">
+<ul>
+  <li>Mr Goh Leng Huat</li>
+  <li>Mrs Vijaya Shankar</li>
+</ul>
 
 **<FONT SIZE=5>Training Schedule</FONT>**
 
