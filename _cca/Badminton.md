@@ -27,9 +27,9 @@ Mdm Ng Yong Jia Amelia<br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
     <tr>
-      <th width="152" style="background-color:#024c45;border-color:#024c45;border-style:solid;border-width:1px;color:#ffffff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day</th>
-      <th width="153" style="background-color:#024c45;border-color:#024c45;border-style:solid;border-width:1px;color:#ffffff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time</th>
-      <th width="114" style="background-color:#024c45;border-color:#024c45;border-style:solid;border-width:1px;color:#ffffff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Venue</th>
+      <th width="200" style="background-color:#024c45;border-color:#024c45;border-style:solid;border-width:1px;color:#ffffff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day</th>
+      <th width="200" style="background-color:#024c45;border-color:#024c45;border-style:solid;border-width:1px;color:#ffffff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time</th>
+      <th width="200" style="background-color:#024c45;border-color:#024c45;border-style:solid;border-width:1px;color:#ffffff;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Venue</th>
     </tr>
   </thead>
   <tbody>
