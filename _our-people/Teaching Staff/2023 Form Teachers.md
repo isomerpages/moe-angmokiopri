@@ -54,3 +54,129 @@ third_nav_title: Teaching Staff
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <td>YH-LB/P2:<br></td>
+    <td> <a href="mailto:rena_tay_wei_hsuan@moe.edu.sg">Mrs Rena Lee</a></td>
+  </tr>
+</thead>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Class</th>
+    <th>Form Teachers</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> 2 Resilience</td>
+    <td><a href="mailto:teo_jason@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mr Jason Teo</a><br><a href="mailto:wong_ziwei_michelle@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mrs Michelle Tan</a><br></td>
+  </tr>
+  <tr>
+    <td>2 Respect </td>
+    <td><a href="mailto:koh_esheen@moe.edu.sg">Ms Esheen Koh</a><br><a href="mailto:shamine_santhana_krishnan@moe.edu.sg">Ms Shamine d/o Santhana Krishnan</a><br></td>
+  </tr>
+  <tr>
+    <td>2 Responsibility</td>
+    <td><a href="mailto:nur_adawiyah_rosli@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Nur Adawiyah Bte Rosli</a><br><a href="mailto:leong_cai_lin_monica@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Monica Leong</a><br><a href="mailto:nor_azlyna_mohd_yusof@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Nor Azlyna Bte Mohd Yusof</a></td>
+  </tr>
+  <tr>
+    <td>2 Integrity</td>
+    <td><a href="mailto:amirah_mohd_ismail@moe.edu.sg">Mdm Amirah Bte Mohd Ismail</a><br><a href="mailto:yim_keat_yee@moe.edu.sg">Mdm Justina Yim Keat Yee</a><br></td>
+  </tr>
+  <tr>
+    <td>2 Care</td>
+    <td><a href="mailto:low_ying_yan_adeline@moe.edu.sg">Ms Adeline Low</a><br><a href="mailto:ang_wei_lin@moe.edu.sg">Mrs Wang Wei Lin</a><br><a href="mailto:wu_zhiying@moe.edu.sg">Ms Wu Zhiying</a> <br></td>
+  </tr>
+  <tr>
+    <td> 2 Courage</td>
+    <td><a href="mailto:wu_sufang@moe.edu.sg">Ms Wu Sufang</a><br> <a href="mailto:chee_wai_yee@moe.edu.sg">Mdm Chee Wai Yee</a><br></td>
+  </tr>
+  <tr>
+    <td> 2 Excellence</td>
+    <td><a href="mailto:chang_shuyun@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Chang Shuyun</a><br><a href="mailto:suzana_mohamed_gasaly@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Suzana Bte Mohd Gasaly</a><br><a href="mailto:tan_wei_ling_annette@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mrs Annette Ong</a></td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <td>YH-UB/P3:</td>
+    <td> <a href="mailto:tan_lee_choo_a@moe.edu.sg">Ms Agnes Tan</a></td>
+  </tr>
+</thead>
+</table>
+<table>
+<thead>
+  <tr>
+    <th>Class</th>
+    <th>Form Teachers</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>3 Resilience </td>
+    <td><a href="mailto:tan_peng_chuan_vincent@moe.edu.sg">Mr Vincent Tan</a><br><a href="mailto:ang_xiu_qin@moe.edu.sg">Ms Ang Xiu Qin</a><br></td>
+  </tr>
+  <tr>
+    <td>3 Respect </td>
+    <td><a href="mailto:junisha_erat@moe.edu.sg">Ms Junisha Erat</a><br><a href="mailto:wu_wei_xiang@moe.edu.sg">Mr Wu Wei Xiang</a><br></td>
+  </tr>
+  <tr>
+    <td><br>3 Integrity</td>
+    <td><a href="mailto:nooraisha_mohamed_ibrahim@moe.edu.sg">Mdm Nooraisha</a><br><a href="mailto:dai_siming@moe.edu.sg">Mdm Dai Siming</a><br></td>
+  </tr>
+  <tr>
+    <td>3 Care<br></td>
+    <td><a href="mailto:chang_cheng_huan@moe.edu.sg">Mr Jack Chang</a><br><a href="mailto:melissa_foong_shi_shan@moe.edu.sg">Ms Melissa Foong</a><br></td>
+  </tr>
+  <tr>
+    <td> <br>3 Excellence<br></td>
+    <td><a href="mailto:faith_ko_hui_min@moe.edu.sg">Ms Faith Ko</a><br><a href="mailto:mohamad_riaz_sulaimi@moe.edu.sg">Mr Mohamad Riaz Sulaimi</a><br><a href="mailto:ng_yong_jiai@moe.edu.sg">Mdm Amelia Ng</a></td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <td>AYH P4:</td>
+    <td> <a href="mailto:yong_yao_feng@moe.edu.sg">Mr Yong Yao Feng</a></td>
+  </tr>
+</thead>
+</table>
+<table>
+<thead>
+  <tr>
+    <th>Class</th>
+    <th>Form Teachers</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>4 Resilience </td>
+    <td><a href="mailto:sharifah__najibah_syed_mustapa@moe.edu.sg">Mdm Sharifah Najibah</a>  <br><a href="mailto:soh_mei_ling@moe.edu.sg">Ms Soh Mei Ling</a><br></td>
+  </tr>
+  <tr>
+    <td>4 Respect </td>
+    <td><a href="mailto:thio_puan_kin@moe.edu.sg">Mdm Thio Puan Kin</a><br><a href="mailto:fong_yen_yen@moe.edu.sg">Mdm Fong Yen Yen</a><a href="mailto:fong_yen_yen@moe.edu.sg"> </a><br></td>
+  </tr>
+  <tr>
+    <td>4 Integrity</td>
+    <td><a href="mailto:lee_siow_foong@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mrs Kaelyn Kang</a><br><a href="mailto:jamilah_bte_syed_ahamed@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Jamilah Bte Syed Ahamed</a><br></td>
+  </tr>
+  <tr>
+    <td>4 Care </td>
+    <td><a href="mailto:goh_leng_huat@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mr Goh Leng Huat</a><br><a href="mailto:jex_nicholas_john_frederick@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mr Jex Nicholas John Frederick</a><br></td>
+  </tr>
+  <tr>
+    <td>4 Excellence </td>
+    <td><a href="mailto:nethiyaa_tharrsini_siva_venthan@moe.edu.sg">Ms Nethiyaa Tharrsini Siva Venthan</a><br><a href="mailto:tan_wan_jun@moe.edu.sg">Mrs Lim Wan Jun</a><br><a href="mailto:nah_chui_yiang_wendy@moe.edu.sg">Ms Nah Chui Yiang Wendy</a></td>
+  </tr>
+</tbody>
+</table>
