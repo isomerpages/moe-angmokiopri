@@ -2,5 +2,4 @@ collections:
   about-us:
     output: true
     order:
-      - Our People.md
       - Contact Us.md
