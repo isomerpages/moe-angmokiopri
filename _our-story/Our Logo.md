@@ -3,7 +3,8 @@ title: Our Logo
 permalink: /about-us/our-story/40th-anniversary/our-logo/
 description: ""
 ---
-# OUR LOGO 
+> ![](/images/About%20Us/banner2-with%20bg.jpg)
+>OUR LOGO 
 
 ![](/images/About%20Us/40th%20Anniversary/Logo_nobackgrd.png)
 
