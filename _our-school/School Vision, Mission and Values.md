@@ -3,12 +3,8 @@ title: School Vision, Mission and Values
 permalink: /about-us/our-school/school-vision-mission-and-values/
 description: ""
 ---
-
-
-
-
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
-> Our School
+> School Vision, Mission and Values
 
 **SCHOOL VISION, MISSION AND VALUES**
 
