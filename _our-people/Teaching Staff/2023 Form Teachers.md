@@ -180,3 +180,77 @@ third_nav_title: Teaching Staff
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <td>AYH P5:</td>
+    <td> <a href="mailto:abdul_razif_mohammad_rizal@moe.edu.sg">Mr Abdul Razif</a></td>
+  </tr>
+</thead>
+</table>
+<table>
+<thead>
+  <tr>
+    <th>Class</th>
+    <th>Form Teachers</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> 5 Resilience </td>
+    <td><a href="mailto:chin_ting_onn_mark@moe.edu.sg">Mr Mark Chin</a><br><a href="mailto:james_philomena_sashikala@moe.edu.sg">Dr. Philomena Mohan</a><br></td>
+  </tr>
+  <tr>
+    <td> 5 Respect </td>
+    <td> <a href="mailto:kwek_audrey@moe.edu.sg">Ms Audrey Kwek</a><br><a href="mailto:yeo_sze_min@moe.edu.sg">Ms Yeo Sze Min</a></td>
+  </tr>
+  <tr>
+    <td> 5 Integrity</td>
+    <td><a href="mailto:foo_ai_sien@moe.edu.sg">Mrs Lai- Foo Ai Sien</a><br><a href="mailto:choong_ming_fang_brenda@moe.edu.sg">Mrs Brenda Seetoh</a><br></td>
+  </tr>
+  <tr>
+    <td>5 Care </td>
+    <td><a href="mailto:lim_ching_yin@moe.edu.sg">Ms Lim Ching Yin</a><br><a href="mailto:tock_yan_qing_pamela@moe.edu.sg">Mrs Pamela Thio </a><br></td>
+  </tr>
+  <tr>
+    <td>5 Excellence</td>
+    <td><a href="mailto:tan_siew_cheng@moe.edu.sg">Mrs Yau Siew Cheng</a><br><a href="mailto:ng_swee_lin@moe.edu.sg">Ms Ng Swee Lin</a></td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <td>AYH P6:</td>
+    <td> <a href="mailto:rames_ponpanden@moe.edu.sg">Mr Rames s/o Ponpanden</a></td>
+  </tr>
+</thead>
+</table>
+<table>
+<thead>
+  <tr>
+    <th>Class</th>
+    <th>Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> 6 Resilience </td>
+    <td><a href="mailto:choo_chun_dar_alan@moe.edu.sg">Mr Alan Choo</a><br><a href="mailto:apiramee_e_subramaniam@moe.edu.sg">Mrs Apiramee Anandarajah</a><br><a href="mailto:sudhesh_vasu_dash@moe.edu.sg">Mr Sudhesh Vasu Dash</a><br></td>
+  </tr>
+  <tr>
+    <td> 6 Integrity</td>
+    <td> <a href="mailto:xu_yue_min_michelle@moe.edu.sg">Ms Michelle Koh</a><br><a href="mailto:saverirajoo_thanaletchimi@moe.edu.sg">Mdm S Thanaletchimi </a><br><a href="mailto:ong_yu_meng_calvin@moe.edu.sg">Mr Calvin Ong</a><br></td>
+  </tr>
+  <tr>
+    <td>6 Care </td>
+    <td><a href="mailto:vijaya_shankar@moe.edu.sg">Mrs Vijaya Shankar</a><br><a href="mailto:valerie_chua_ruishan@moe.edu.sg">Mrs Valerie Low</a><br></td>
+  </tr>
+  <tr>
+    <td>6 Excellence</td>
+    <td><a href="mailto:soh_hiok_peng@moe.edu.sg">Mr Eric Soh</a><br><a href="mailto:wellisa_leono_liaw@moe.edu.sg">Ms Wellisa Liaw</a><a href="mailto:desri_ann_leong@moe.edu.sg">Ms Desri Lee</a></td>
+  </tr>
+</tbody>
+</table>
