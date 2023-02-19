@@ -2,4 +2,5 @@ collections:
   our-school:
     output: true
     order:
+      - Desired Outcomes of AMKP Students.md
       - School Vision, Mission and Values.md
