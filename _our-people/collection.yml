@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Executive & Administrative Staff.md
+      - Teaching Staff/MK@AMK.md
       - Teaching Staff/.keep
       - Teaching Staff/2023 Form Teachers.md
       - Teaching Staff/Allied Educators and Full Time School Counsellor.md
