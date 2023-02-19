@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Features of Our Celebrations/Our Favourite Corners.md
       - Features of Our Celebrations/Family Feast.md
       - Features of Our Celebrations/Our AMKP Factor.md
       - Features of Our Celebrations/Fun Learning Day.md
