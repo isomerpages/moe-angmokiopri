@@ -3,7 +3,8 @@ title: Sharing from an Ex Student
 permalink: /about-us/our-story/40th-anniversary/sharing-from-an-ex-student/
 description: ""
 ---
-# SHARING FROM AN EX STUDENT
+> ![](/images/About%20Us/banner2-with%20bg.jpg)
+>SHARING FROM AN EX STUDENT
 
 **Xu Anyi graduated in the year 2010 from Class 6A of Ang Mo Kio Primary School. In celebration of our 40th Anniversary, she shares with us here two events that she found most memorable when she was a student of AMKPS.** 
 
