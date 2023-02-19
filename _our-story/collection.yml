@@ -2,15 +2,15 @@ collections:
   our-story:
     output: true
     order:
-      - Features of Our Celebrations/Fountain of Well Wishes.md
-      - Features of Our Celebrations/Feature Magazine.md
-      - Features of Our Celebrations/Our Favourite Corners.md
-      - Features of Our Celebrations/Family Feast.md
-      - Features of Our Celebrations/Our AMKP Factor.md
-      - Features of Our Celebrations/Fun Learning Day.md
-      - Features of Our Celebrations/Fiesta AMKP Sports Carnival.md
-      - Features of Our Celebrations/Features of Our Celebrations.md
       - Features of Our Celebrations/.keep
+      - Features of Our Celebrations/Features of Our Celebrations.md
+      - Features of Our Celebrations/Fiesta AMKP Sports Carnival.md
+      - Features of Our Celebrations/Fun Learning Day.md
+      - Features of Our Celebrations/Our AMKP Factor.md
+      - Features of Our Celebrations/Family Feast.md
+      - Features of Our Celebrations/Our Favourite Corners.md
+      - Features of Our Celebrations/Feature Magazine.md
+      - Features of Our Celebrations/Fountain of Well Wishes.md
       - Our Milestones.md
       - Our Logo.md
       - Foreword about Forty Tude.md
