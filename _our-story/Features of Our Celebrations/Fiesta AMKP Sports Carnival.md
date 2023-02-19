@@ -4,7 +4,8 @@ permalink: /about-us/our-story/40th-anniversary/features-of-our-celebrations/fie
 description: ""
 third_nav_title: Features of Our Celebrations
 ---
-# FIESTA - AMKP SPORTS CARNIVAL
+> ![](/images/About%20Us/banner2-with%20bg.jpg)
+> FIESTA - AMKP SPORTS CARNIVAL
 
 ![](/images/About%20Us/40th%20Anniversary/Fiesta.png)
 
