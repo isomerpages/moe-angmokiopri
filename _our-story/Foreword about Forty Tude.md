@@ -3,8 +3,8 @@ title: Foreword about Forty Tude
 permalink: /about-us/our-story/40th-anniversary/foreword-about-forty-tude/
 description: ""
 ---
-
-# FOREWORD - ABOUT FORTY-TUDE
+> ![](/images/About%20Us/banner2-with%20bg.jpg)
+>FOREWORD - ABOUT FORTY-TUDE
 
 
 ## Celebrating AMKP 40th Anniversary with Forty-tude
