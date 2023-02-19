@@ -17,6 +17,15 @@ links:
         url: /about-us/our-people/school-executive-committee-2023/
       - title: Contact Us
         url: /about-us/contact-us/
+  - title: Our AMKP Experience
+    url: /our-amkp-experience/our-curriculum/english
+    sublinks:
+      - title: Our Curriculum
+        url: /our-amkp-experience/our-curriculum/english
+      - title: Our Co-Curriculum
+        url: /our-amkp-experience/our-co-curriculum/info-communication-technology
+      - title: CCA
+        url: /our-amkp-experience/cca/table-tennis
   - title: Achievements
     collection: achievements
   - title: E-Learning
