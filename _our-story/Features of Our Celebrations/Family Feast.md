@@ -4,3 +4,10 @@ permalink: /about-us/our-story/40th-anniversary/features-of-our-celebrations/fam
 description: ""
 third_nav_title: Features of Our Celebrations
 ---
+# FAMILY FEAST
+
+![](/images/About%20Us/40th%20Anniversary/FamilyFeast.png)
+
+<img src="/images/About%20Us/40th%20Anniversary/Fortytude%20Dinner.jpg" style="width:75%;margin-right:15px;" align = "left">
+
+One of the highlights of the 40th Anniversary celebrations was our AMKP Family Feast on 23 November 2018. This was specially put together to affirm and recognise staff and alumni for their significant contribution to AMKP's growth and progress.
