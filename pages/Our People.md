@@ -3,10 +3,8 @@ title: Our People
 permalink: /about-us/our-people/school-executive-committee-2023/
 description: ""
 ---
-
-
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
-> Our People
+> SCHOOL EXECUTIVE COMMITTEE
 
 **SCHOOL EXECUTIVE COMMITTEE 2023**
 
