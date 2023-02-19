@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Features of Our Celebrations/Features of Our Celebrations.md
       - Features of Our Celebrations/.keep
       - Our Milestones.md
       - Our Logo.md
