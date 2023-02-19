@@ -1,14 +1,22 @@
 logo: /images/About Us/school logo.png
 links:
-  - title: Our AMKP Experience
-    url: /our-amkp-experience/our-curriculum/english
+  - title: About Us
+    url: /about-us/principals-message-2023
     sublinks:
-      - title: Our Curriculum
-        url: /our-amkp-experience/our-curriculum/english
-      - title: Our Co-Curriculum
-        url: /our-amkp-experience/our-co-curriculum/info-communication-technology
-      - title: CCA
-        url: /our-amkp-experience/cca/table-tennis
+      - title: Principal's Message 2023
+        url: /about-us/principals-message-2023/
+      - title: Our Story
+        url: /about-us/our-story/
+      - title: Our School
+        url: /about-us/our-school/school-vision-mission-and-values/
+      - title: Our AMKPian's Promise
+        url: /about-us/our-amkpians-promise/
+      - title: Our School Rules
+        url: /about-us/our-school-rules/
+      - title: Our People
+        url: /about-us/our-people/school-executive-committee-2023/
+      - title: Contact Us
+        url: /about-us/contact-us/
   - title: Achievements
     collection: achievements
   - title: E-Learning
