@@ -2,4 +2,5 @@ collections:
   our-story:
     output: true
     order:
+      - 40th Anniversary/.keep
       - Our Story.md
