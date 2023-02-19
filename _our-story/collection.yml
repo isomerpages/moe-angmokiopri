@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - 40th Anniversary/Foreword about Forty Tude.md
       - 40th Anniversary/40th Anniversary.md
       - 40th Anniversary/.keep
       - Our Story.md
