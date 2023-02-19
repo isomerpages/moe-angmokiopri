@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - Teaching Staff/.keep
       - School Executive Committee 2023.md
