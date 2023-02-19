@@ -2,9 +2,9 @@ collections:
   our-people:
     output: true
     order:
-      - MK@AMK.md
-      - Executive & Administrative Staff.md
+      - School Executive Committee 2023.md
       - Teaching Staff/.keep
       - Teaching Staff/2023 Form Teachers.md
       - Teaching Staff/Allied Educators and Full Time School Counsellor.md
-      - School Executive Committee 2023.md
+      - Executive & Administrative Staff.md
+      - MK@AMK.md
