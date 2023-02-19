@@ -34,7 +34,7 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td><b>1 Responsibility</b></td>
-    <td><a href="mailto:tok_ann_kee@moe.edu.sg">Mdm Tok Ann Kee</a><br><br><a href="mailto:maheswari_krishnan_murthy@moe.edu.sg">Ms Maheswari d/o Krishnan Murthy</a><br><br><a href="mailto:julaiha_abd_aziz@moe.edu.sg">Mdm Julaiha Bte Abdul Aziz</a></td>
+    <td><a href="mailto:tok_ann_kee@moe.edu.sg">Mdm Tok Ann Kee</a><br><a href="mailto:maheswari_krishnan_murthy@moe.edu.sg">Ms Maheswari d/o Krishnan Murthy</a><br><a href="mailto:julaiha_abd_aziz@moe.edu.sg">Mdm Julaiha Bte Abdul Aziz</a></td>
   </tr>
   <tr>
     <td> <b>1 Integrity</b></td>
@@ -42,15 +42,15 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td> <b>1 Care</b></td>
-    <td><a href="mailto:nursyafiqah_sawal@moe.edu.sg">Ms Nursyafiqah Sawal</a><br><br><a href="mailto:ng_xue_qi@moe.edu.sg">Mrs Chong Xue Qi</a></td>
+    <td><a href="mailto:nursyafiqah_sawal@moe.edu.sg">Ms Nursyafiqah Sawal</a><br><a href="mailto:ng_xue_qi@moe.edu.sg">Mrs Chong Xue Qi</a></td>
   </tr>
   <tr>
     <td> <b>1 Courage</b></td>
-    <td><a href="mailto:fu_shan@moe.edu.sg">Mrs Lee-Fu Shan</a><br><br><a href="mailto:tan_mui_lin_tabitha@moe.edu.sg">Mdm Tabitha Tan</a></td>
+    <td><a href="mailto:fu_shan@moe.edu.sg">Mrs Lee-Fu Shan</a><br><a href="mailto:tan_mui_lin_tabitha@moe.edu.sg">Mdm Tabitha Tan</a></td>
   </tr>
   <tr>
     <td> <b>1 Excellence</b></td>
-    <td><a href="mailto:yong_alan@moe.edu.sg">Mr Alan Yong</a><br><br><a href="mailto:lee_jun_hui@moe.edu.sg">Mr Lee Jun Hui</a><br><a href="mailto:tan_shu_jun@moe.edu.sg">Mdm Tan Shu Jun</a></td>
+    <td><a href="mailto:yong_alan@moe.edu.sg">Mr Alan Yong</a><br><a href="mailto:lee_jun_hui@moe.edu.sg">Mr Lee Jun Hui</a><br><a href="mailto:tan_shu_jun@moe.edu.sg">Mdm Tan Shu Jun</a></td>
   </tr>
 </tbody>
 </table>
