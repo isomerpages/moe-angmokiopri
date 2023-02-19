@@ -3,10 +3,8 @@ title: School Executive Committee 2023
 permalink: /about-us/our-people/school-executive-committee-2023/
 description: ""
 ---
-
-
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
-> SCHOOL EXECUTIVE COMMITTEE
+> SCHOOL EXECUTIVE COMMITTEE 2023
 
 **SCHOOL EXECUTIVE COMMITTEE 2023**
 
