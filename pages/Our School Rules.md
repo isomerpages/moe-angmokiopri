@@ -7,8 +7,8 @@ description: ""
 > Our School Rules
 
 
-1\. Respect for Singapore and the School
-----------------------------------------
+## 1\. Respect for Singapore and the School
+
 
 *   Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
 
@@ -26,8 +26,8 @@ description: ""
 
   
 
-2\. Attendance and Punctuality
-------------------------------
+## 2\. Attendance and Punctuality
+
 
 *   Attendance is compulsory. All students are to be in school by 7.30 a.m. for the flag-raising ceremony.
 
@@ -53,8 +53,8 @@ description: ""
 
   
 
-3\. School Attire and Appearance
---------------------------------
+## 3\. School Attire and Appearance
+
 
 *   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.  
     
@@ -116,8 +116,8 @@ description: ""
 
 ![](/images/About%20Us/Our%20School%20Rules.png)
 
-4\. Conduct
------------
+## 4\. Conduct
+
 
 *   Students are expected to adhere to the 4 B’s.
 
@@ -146,8 +146,8 @@ description: ""
 
   
 
-5\. Use of Electronic Devices in School
----------------------------------------
+## 5\. Use of Electronic Devices in School
+
 
 *   Students are discouraged from bringing mobile phones and electronic devices to school.
 
@@ -169,8 +169,8 @@ description: ""
 
   
 
-6\. Items Not to be Brought to School
--------------------------------------
+## 6\. Items Not to be Brought to School
+
 
 *   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others
 
@@ -183,8 +183,8 @@ description: ""
 
   
 
-7\. Offences and Consequences
------------------------------
+## 7\. Offences and Consequences
+
 
 *   When a student has committed an offence, 
 
