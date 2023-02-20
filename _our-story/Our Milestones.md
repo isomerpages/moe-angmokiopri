@@ -6,7 +6,10 @@ description: ""
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
 >OUR MILESTONES 
 
-![](/images/About%20Us/40th%20Anniversary/Milestones_noBkgd.png)
+
+<img src="/images/About%20Us/40th%20Anniversary/Milestones_noBkgd.png"  
+     style="width:75%">
+
 
 ## Video Tribute - Past and Present AMKP
 
