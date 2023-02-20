@@ -11,4 +11,6 @@ third_nav_title: Features of Our Celebrations
 
 Check out what we have lined up for our 40th Anniversary celebrations with that _Forty-tude_ factor!
 
-![](/images/About%20Us/40th%20Anniversary/Untitled-2-08.png)
+
+<img src="/images/About%20Us/40th%20Anniversary/Untitled-2-08.png"  
+     style="width:80%">
