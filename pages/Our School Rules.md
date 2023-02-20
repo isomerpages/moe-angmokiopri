@@ -181,8 +181,8 @@ description: ""
 
 *   All students are not allowed to bring the following items to school:
 
-*   Game cards or trading cards
-*   Chewing gum or bubble gum
+    *   Game cards or trading cards
+    *   Chewing gum or bubble gum
 
   
 
@@ -191,8 +191,8 @@ description: ""
 
 *   When a student has committed an offence, 
 
-*   parents will be informed of the offence committed.
-*   parents/guardians will work with the school to ensure that their child/ward adhere to the school rules.
+    *   parents will be informed of the offence committed.
+    *   parents/guardians will work with the school to ensure that their child/ward adhere to the school rules.
 
   
 
