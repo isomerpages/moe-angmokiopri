@@ -99,20 +99,20 @@ description: ""
 
 *   For Male Students:
 
-*   Hair should not touch the shirt collar, cover the ears or eyebrow.
-*   Hair should not be dyed, tinted or, highlighted.
-*   Sideburns should be short and thinned.
-*   Hair style should not be fanciful.
+    *   Hair should not touch the shirt collar, cover the ears or eyebrow.
+    *   Hair should not be dyed, tinted or, highlighted.
+    *   Sideburns should be short and thinned.
+    *   Hair style should not be fanciful.
 
   
 
 *   For Female Students:
 
-*   Shoulder-length/long hair must be neatly tied up with black ribbons/hair bands.
-*   Colourful hair clips/accessories and fanciful hair/head bands are not allowed.
-*   Fringes must be trimmed and kept above the eyebrows. If fringes are kept long, they must be clipped up and should not cover the face.
-*   Hair should not be dyed, tinted or, highlighted.
-*   Only one small black/colourless ear stud or ear stick is allowed on each earlobe.
+    *   Shoulder-length/long hair must be neatly tied up with black ribbons/hair bands.
+    *   Colourful hair clips/accessories and fanciful hair/head bands are not allowed.
+    *   Fringes must be trimmed and kept above the eyebrows. If fringes are kept long, they must be clipped up and should not cover the face.
+    *   Hair should not be dyed, tinted or, highlighted.
+    *   Only one small black/colourless ear stud or ear stick is allowed on each earlobe.
 
 ![](/images/About%20Us/Our%20School%20Rules.png)
 
