@@ -114,7 +114,10 @@ description: ""
     *   Hair should not be dyed, tinted or, highlighted.
     *   Only one small black/colourless ear stud or ear stick is allowed on each earlobe.
 
-![](/images/About%20Us/Our%20School%20Rules.png)
+
+<img src="/images/About%20Us/Our%20School%20Rules.png"  
+     style="width:75%">
+
 
 ## 4\. Conduct
 
