@@ -7,7 +7,10 @@ third_nav_title: Features of Our Celebrations
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
 >OUR AMKP FACTOR
 
-![](/images/About%20Us/40th%20Anniversary/AMKPFactor.png)
+
+<img src="/images/About%20Us/40th%20Anniversary/AMKPFactor.png"  
+     style="width:85%">
+
 
 What makes us who we are?
 
