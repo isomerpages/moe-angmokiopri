@@ -7,7 +7,10 @@ third_nav_title: Features of Our Celebrations
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
 >FUN LEARNING DAY
 
-![](/images/About%20Us/40th%20Anniversary/FunLearningDay.png)
+
+<img src="/images/About%20Us/40th%20Anniversary/FunLearningDay.png"  
+     style="width:85%">
+
 
 Building on the AMKP Factor on our 40th Anniversary, 21 November 2018 is designated as our staff’s Fun Learning Day! 
 
