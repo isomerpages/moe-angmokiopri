@@ -55,6 +55,8 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 
+<br><br>
+
 <table>
 <thead>
   <tr>
@@ -103,6 +105,8 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 
+<br><br>
+
 <table>
 <thead>
   <tr>
@@ -141,6 +145,8 @@ third_nav_title: Teaching Staff
   </tr>
 </tbody>
 </table>
+
+<br><br>
 
 <table>
 <thead>
@@ -181,6 +187,8 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 
+<br><br>
+
 <table>
 <thead>
   <tr>
@@ -219,6 +227,8 @@ third_nav_title: Teaching Staff
   </tr>
 </tbody>
 </table>
+
+<br><br>
 
 <table>
 <thead>
