@@ -12,7 +12,9 @@ description: ""
 
 <b><center>CELEBRATING AMKP 40TH ANNIVERSARY WITH <i>FORTY-TUDE</i></center></b>
 	
-![](/images/About%20Us/40th%20Anniversary/Banner.png)
+
+<img src="/images/About%20Us/40th%20Anniversary/Banner.png"  
+     style="width:85%">
 	
 	
 **F**amiliar smiles, fond memories  <br>
