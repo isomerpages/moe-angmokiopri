@@ -7,7 +7,10 @@ third_nav_title: Features of Our Celebrations
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
 > FIESTA - AMKP SPORTS CARNIVAL
 
-![](/images/About%20Us/40th%20Anniversary/Fiesta.png)
+
+<img src="/images/About%20Us/40th%20Anniversary/Fiesta.png"  
+     style="width:85%">
+
 
 Our much-anticipated FIESTA – AMKP Sports Carnival was held on 9 March 2018.  This annual event provides an opportunity for our pupils, staff and parents to bond through sports and games, as well as to promote sportsmanship, and an active and healthy lifestyle.  The addition of five Leaderboard Challenges was our first this year, and our pupils got to challenge themselves and their peers in their pursuit of excellence in sports.
 
