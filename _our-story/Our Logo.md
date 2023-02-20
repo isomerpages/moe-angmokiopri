@@ -8,7 +8,7 @@ description: ""
 
 
 <img src="/images/About%20Us/40th%20Anniversary/Logo_nobackgrd.png"  
-     style="width:55%">
+     style="width:40%">
 
 
 Our 40th Anniversary logo comprises three key features:
