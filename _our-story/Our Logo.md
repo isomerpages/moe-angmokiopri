@@ -6,7 +6,10 @@ description: ""
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
 >OUR LOGO 
 
-![](/images/About%20Us/40th%20Anniversary/Logo_nobackgrd.png)
+
+<img src="/images/About%20Us/40th%20Anniversary/Logo_nobackgrd.png"  
+     style="width:55%">
+
 
 Our 40th Anniversary logo comprises three key features:
 
