@@ -8,7 +8,7 @@ description: ""
 
 
 <img src="/images/About%20Us/40th%20Anniversary/Milestones_noBkgd.png"  
-     style="width:75%">
+     style="width:85%">
 
 
 ## Video Tribute - Past and Present AMKP
