@@ -17,7 +17,7 @@ Our 40th Anniversary logo comprises three key features:
 
 Our theme, ‘Forty-tude’, signifies Forty years of stories, and our Fortitude \- the resilience and strength that all past, present, and future Amkpians embrace and will carry forward.
 
-<u><b>F</b>AMILY – OUR DRIVING <b>FORCE</b></u>
+<u><b>F</b>AMILY – OUR DRIVING <b>F</b>ORCE</u>
 
 Our family, our driving force at AMKP, is represented by the mosaic emblem designed by Ms Monica Leong, our Art teacher, by putting together photographs of AMKP staff, parents, and pupils.  Our pupils remain as our core in all that we do, and joyful learning at AMKP is made possible by our staff, supported by our parents and our community.
 
