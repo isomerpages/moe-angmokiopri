@@ -7,7 +7,10 @@ third_nav_title: Features of Our Celebrations
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
 >FEATURE MAGAZINE
 
-![](/images/About%20Us/40th%20Anniversary/FeatureMag.png)
+
+<img src="/images/About%20Us/40th%20Anniversary/FeatureMag.png"  
+     style="width:75%">
+
 
 A feature magazine had been put together to capture and showcase our 40 years of memories.  Titled _Forty-tude_, this magazine will feature AMKP stories and photographs from our pioneers, former principals, parent volunteers, staff, alumni and pupils, weaved together in one AMKP story.
 
