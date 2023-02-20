@@ -7,7 +7,10 @@ third_nav_title: Features of Our Celebrations
 > ![](/images/About%20Us/banner2-with%20bg.jpg)
 > FAMILY FEAST
 
-![](/images/About%20Us/40th%20Anniversary/FamilyFeast.png)
+
+<img src="/images/About%20Us/40th%20Anniversary/FamilyFeast.png"  
+     style="width:85%">
+
 
 <img src="/images/About%20Us/40th%20Anniversary/Fortytude%20Dinner.jpg" style="width:75%;margin-right:15px;" align = "left">
 
