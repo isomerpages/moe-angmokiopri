@@ -6,7 +6,10 @@ description: ""
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >SCHOOL LOGO
 
-![](/images/About%20Us/AMKPS-Logo-edited.png)
+
+<img src="/images/About%20Us/AMKPS-Logo-edited.png"  
+     style="width:45%">
+
 
 
 <table>
@@ -32,20 +35,20 @@ description: ""
 	
 This design takes the concept of the flaming desire to achieve the best and to aspire.
 
-  
+<br>  
 
 The three twirls represent the cognitive, physical, and moral development of our students.
 
-  
+<br>   
 
 The upward movement of the twirls signifies the aspiration to aspire and all-round education represented by the sphere.
 
-  
+<br>   
 
 The circular band symbolises the collaborative efforts between the school and the community to inspire our students in their pursuit of excellence.
 
-  
+<br>   
 
 Collectively, these culminate in an individual who is able to contribute to society and meet the challenges of an ever-changing world.
 
-</center>  
+</center>
