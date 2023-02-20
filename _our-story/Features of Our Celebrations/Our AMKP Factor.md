@@ -20,9 +20,12 @@ Spaces in school are where meaningful learning takes place, defining a part of o
 
 Check out this space for updated photos of our ArtXpace and Identity Wall!
 
-![](/images/About%20Us/40th%20Anniversary/ArtXpace.png)
+
+<img src="/images/About%20Us/40th%20Anniversary/ArtXpace.png"  
+     style="width:85%">
 <center>Our newly designed ArtXpace</center>
 
-![](/images/About%20Us/40th%20Anniversary/IMG20190218150725.jpg)
 
+<img src="/images/About%20Us/40th%20Anniversary/IMG20190218150725.jpg"  
+     style="width:85%">
 <center>Our vibrant Identity Wall</center>
