@@ -20,10 +20,9 @@ The maker culture in general supports open-source hardware and software. Typical
 
 **<font size=5>Teachers in Charge</font>**
 
-	<ul>
+<ul>
   <li>Mr Mohamad Riaz Sulaimi</li>
   <li>Miss Yeo Sze Min</li>
-
 </ul>
 
 **<font size="5">Training Days and Times</font>**
