@@ -20,14 +20,15 @@ The maker culture in general supports open-source hardware and software. Typical
 
 **<font size=5>Teachers in Charge</font>**
 
-<img src="/images/CCA/Infocomm%20Teachers%201.png"  
-     style="width:75%">
+	<ul>
+  <li>Mr Mohamad Riaz Sulaimi</li>
+  <li>Miss Yeo Sze Min</li>
 
-<img src="/images/CCA/Infocomm%20Teachers%202.png"  
-     style="width:75%">
+</ul>
 
-**<font size=5>Training Days and Times</font>**
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day</th><th style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time</th></tr></thead><tbody><tr><td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Monday</td><td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2:00 pm to 4:00 pm<br></td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Attire</td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">School Uniform or PE attire</td></tr></tbody></table>
+**<font size="5">Training Days and Times</font>**
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day</th><th style="background-color:#024C45;border-color:#ffffff;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time</th></tr></thead><tbody><tr><td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Monday</td><td style="background-color:#EFF7FF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2:15 pm to 4:15 pm<br></td></tr><tr></tbody></table>
 
 **<font size=5>Achievements</font>**
 
