@@ -3,7 +3,8 @@ title: MK Calendar
 permalink: /moe-kindergarten-at-amk/mk-calendar/
 description: ""
 ---
-# MK Calendar
+>![](/images/About%20Us/banner2-with%20bg.jpg)
+>MK Calendar
 
 ![](/images/MOE%20Kindergarten/Calendar%20of%20Event%201.jpg)
 
