@@ -3,7 +3,8 @@ title: Open House
 permalink: /moe-kindergarten-at-amk/open-house/
 description: ""
 ---
-# Open House
+>![](/images/About%20Us/banner2-with%20bg.jpg)
+>Open House
 
 ## 2023 MK Open House Registration
 
