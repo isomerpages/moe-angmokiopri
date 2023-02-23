@@ -16,4 +16,7 @@ Find out more about **MOE Kindergarten@AMK** here.
 *   [Our Team](https://moe-angmokiopri-staging.netlify.app/moe-kindergarten-at-amk/about-us/our-team)
 *   [Our Learning Environment](https://moe-angmokiopri-staging.netlify.app/moe-kindergarten-at-amk/about-us/our-learning-environment)
 
+## About Learning Dispositions
+
+
 ![](/images/MOE%20Kindergarten/MOEK%20EDM.jpg)
