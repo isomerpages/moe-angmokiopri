@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-amk:
     output: true
     order:
+      - MK Calendar.md
       - Our Programme/Our Early Years Centre Partner.md
       - Our Programme/Operating Hours (MK and KCare).md
       - Our Programme/Our Curriculum.md
