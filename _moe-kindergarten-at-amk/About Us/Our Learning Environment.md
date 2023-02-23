@@ -4,7 +4,8 @@ permalink: /moe-kindergarten-at-amk/about-us/our-learning-environment/
 description: ""
 third_nav_title: About Us
 ---
-# Our Learning Environment
+>![](/images/About%20Us/banner2-with%20bg.jpg)
+>Our Learning Environment
 
 ![](/images/MOE%20Kindergarten/Our%20Learning%20Envt.jpg)
 
