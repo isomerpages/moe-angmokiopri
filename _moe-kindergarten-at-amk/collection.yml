@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-amk:
     output: true
     order:
+      - Open House.md
       - TipTap.md
       - Our Gallery.md
       - MK Calendar.md
