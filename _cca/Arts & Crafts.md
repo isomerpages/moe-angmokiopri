@@ -16,7 +16,7 @@ In the CCA, students explore various interesting art forms and expression such a
 
 They also receive the opportunities to participate actively in external events such as the Singapore Youth Festival (SYF) exhibitions and museum learning journeys to gain first-hand experience at local museums and learn to appreciate artworks. To give back to the communities, the students participate in art communities’ projects such as Chingay@Heartlands, Artist Talk@2015 SYF and NEA Hawker Centres Art Initiative.
 
-**<font size=7>Empowered with Character Building</font>**
+**<font size=5>Empowered with Character Building</font>**
 
 Students learn the importance of putting in relentless effort into honing their craftsmanship. Our students are expected to learn the CCA-specific skills, and educate others in the school. They run internal school art events such as the ArtXpace exhibition. Through events like these, they also learn project management skills as the process from the conceptualizing to the actualization of the project is seen through by them.
 
@@ -33,7 +33,7 @@ Through this process, students also learn how to overcome their fears and embrac
      style="width:50%">
 
 
-**<font size=7>Teachers in Charge</font>**  
+**<font size=5>Teachers in Charge</font>**  
 
 <ul>
   <li>Miss Maheswari d/o Krishnan Murthy</li>
@@ -43,7 +43,7 @@ Through this process, students also learn how to overcome their fears and embrac
 </ul>
 
 
-**<font size=7>CCA Days and Times</font>**  
+**<font size=5>CCA Days and Times</font>**  
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
@@ -77,7 +77,7 @@ Through this process, students also learn how to overcome their fears and embrac
 
 
 
-**<font size=7>Achievements/Participation</font>**
+**<font size=5>Achievements/Participation</font>**
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
