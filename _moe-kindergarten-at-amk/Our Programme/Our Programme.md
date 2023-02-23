@@ -4,7 +4,8 @@ permalink: /moe-kindergarten-at-amk/our-programme/
 description: ""
 third_nav_title: Our Programme
 ---
-# Our Programme
+>![](/images/About%20Us/banner2-with%20bg.jpg)
+>Our Programme
 
 ![](/images/MOE%20Kindergarten/Our%20Programme.jpg)
 
