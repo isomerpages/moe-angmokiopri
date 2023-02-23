@@ -3,7 +3,8 @@ title: TipTap
 permalink: /moe-kindergarten-at-amk/tiptap/
 description: ""
 ---
-# TipTap
+>![](/images/About%20Us/banner2-with%20bg.jpg)
+>TipTap
 
 ![](/images/MOE%20Kindergarten/TipTap.jpg)
 
