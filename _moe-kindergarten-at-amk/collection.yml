@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-amk:
     output: true
     order:
+      - About Us/Our Team.md
       - About Us/Our Vision and Mission.md
       - About Us/About Us.md
       - About Us/.keep
