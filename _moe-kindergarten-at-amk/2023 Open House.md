@@ -1,13 +1,14 @@
 ---
-title: 2022 Open House
-permalink: /moe-kindergarten-at-amk/2022-open-house
+title: 2023 Open House
+permalink: /moe-kindergarten-at-amk/2023-open-house
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)
->2022 Open House
+>2023 Open House
 
-  
-Please access the materials and videos shared during the 2022 Open House here.  
+Keen to find out what MOE Kindergarten has to offer?
+
+Find out more at the MK Open house! Register at the link here to indicate your interest.  
   
 
 **<font size=5>Slides</font>** <br>
