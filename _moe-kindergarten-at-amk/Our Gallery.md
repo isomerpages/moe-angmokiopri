@@ -3,7 +3,8 @@ title: Our Gallery
 permalink: /moe-kindergarten-at-amk/our-gallery/
 description: ""
 ---
-# Our Gallery
+>![](/images/About%20Us/banner2-with%20bg.jpg)
+> Our Gallery
 
 ## Photo Gallery
 
