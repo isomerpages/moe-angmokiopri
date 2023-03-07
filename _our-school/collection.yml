@@ -1,0 +1,8 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - School Vision, Mission and Values.md
+      - Desired Outcomes of AMKP Students.md
+      - School Logo.md
+      - School Song.md

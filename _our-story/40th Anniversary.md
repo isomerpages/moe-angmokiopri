@@ -1,0 +1,14 @@
+---
+title: 40th Anniversary
+permalink: /about-us/our-story/40th-anniversary/
+description: ""
+---
+> ![](/images/About%20Us/banner2-with%20bg.jpg)
+> 40TH ANNIVERSARY
+
+
+ 
+
+Welcome to AMKP 40th Anniversary Celebrations webpage!  Follow us as we bring you updates on our celebrations via the drop-down menu above!
+
+![](/images/About%20Us/40th%20Anniversary/Coverpic_New.png)

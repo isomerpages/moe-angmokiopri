@@ -1,0 +1,7 @@
+collections:
+  students:
+    output: true
+    order:
+      - Latest Happenings.md
+      - Direct Schools Admission (DSA).md
+      - Swimsafer.md

@@ -1,0 +1,10 @@
+collections:
+  e-learning:
+    output: true
+    order:
+      - MC Online.md
+      - Ezhishi.md
+      - Student Learning Space (MOE).md
+      - Pazhahutamil.md
+      - Zoom.md
+      - NEU PC Plus Program (NPP).md
