@@ -1,6 +1,6 @@
 ---
 title: Zoom
-permalink: /e-learning/zoom
+permalink: /e-learning/zoom/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

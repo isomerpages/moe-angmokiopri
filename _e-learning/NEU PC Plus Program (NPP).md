@@ -1,6 +1,6 @@
 ---
 title: NEU PC Plus Program (NPP)
-permalink: /e-learning/neu-pc-plus-program-npp
+permalink: /e-learning/neu-pc-plus-program-npp/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

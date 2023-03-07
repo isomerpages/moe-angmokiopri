@@ -1,6 +1,6 @@
 ---
 title: English Drama
-permalink: /our-amkp-experience/cca/english-drama
+permalink: /our-amkp-experience/cca/english-drama/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

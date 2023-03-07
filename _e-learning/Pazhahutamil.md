@@ -1,6 +1,6 @@
 ---
 title: Pazhahutamil
-permalink: /e-learning/pazhahutamil
+permalink: /e-learning/pazhahutamil/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

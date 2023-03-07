@@ -1,6 +1,6 @@
 ---
 title: Important Helplines
-permalink: /resources/parents/important-helplines
+permalink: /resources/parents/important-helplines/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

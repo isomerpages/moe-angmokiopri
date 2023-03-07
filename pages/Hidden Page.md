@@ -1,6 +1,6 @@
 ---
 title: Hidden Page
-permalink: /hidden-page/news-n-announcement
+permalink: /hidden-page/news-n-announcement/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

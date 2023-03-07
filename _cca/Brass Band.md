@@ -1,6 +1,6 @@
 ---
 title: Brass Band
-permalink: /our-amkp-experience/cca/brass-band
+permalink: /our-amkp-experience/cca/brass-band/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

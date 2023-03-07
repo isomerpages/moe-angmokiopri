@@ -1,6 +1,6 @@
 ---
 title: Parents Support Group (PSG)
-permalink: /resources/parents/parents-support-group-psg
+permalink: /resources/parents/parents-support-group-psg/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /our-amkp-experience/our-co-curriculum/sexuality-education
+permalink: /our-amkp-experience/our-co-curriculum/sexuality-education/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Badminton
-permalink: /our-amkp-experience/cca/badminton
+permalink: /our-amkp-experience/cca/badminton/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

@@ -1,6 +1,6 @@
 ---
 title: 2022 Booklists & Name Tag Guide
-permalink: /resources/parents/2022-booklists-n-name-tag-guide
+permalink: /resources/parents/2022-booklists-n-name-tag-guide/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

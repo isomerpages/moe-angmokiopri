@@ -1,6 +1,6 @@
 ---
 title: Table Tennis
-permalink: /our-amkp-experience/cca/table-tennis
+permalink: /our-amkp-experience/cca/table-tennis/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

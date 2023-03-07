@@ -1,6 +1,6 @@
 ---
 title: Education & Career Guidance
-permalink: /resources/parents/education-n-career-guidance
+permalink: /resources/parents/education-n-career-guidance/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

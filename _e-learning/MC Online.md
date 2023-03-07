@@ -1,6 +1,6 @@
 ---
 title: MC Online
-permalink: /e-learning/mc-online
+permalink: /e-learning/mc-online/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

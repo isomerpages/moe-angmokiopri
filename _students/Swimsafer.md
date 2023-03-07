@@ -1,6 +1,6 @@
 ---
 title: Swimsafer
-permalink: /resources/students/swimsafer
+permalink: /resources/students/swimsafer/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

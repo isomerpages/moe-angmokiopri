@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space (MOE)
-permalink: /e-learning/student-learning-space-moe
+permalink: /e-learning/student-learning-space-moe/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

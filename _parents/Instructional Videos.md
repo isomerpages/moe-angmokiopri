@@ -1,6 +1,6 @@
 ---
 title: Instructional Videos
-permalink: /resources/parents/instructional-videos
+permalink: /resources/parents/instructional-videos/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

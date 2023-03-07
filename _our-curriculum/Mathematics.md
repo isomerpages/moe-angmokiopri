@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /our-amkp-experience/our-curriculum/mathematics
+permalink: /our-amkp-experience/our-curriculum/mathematics/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

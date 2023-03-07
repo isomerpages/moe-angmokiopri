@@ -1,6 +1,6 @@
 ---
 title: Robotics
-permalink: /our-amkp-experience/cca/robotics
+permalink: /our-amkp-experience/cca/robotics/
 description: ""
 ---
 >[](/images/About%20Us/banner2-with%20bg.jpg)

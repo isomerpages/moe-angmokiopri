@@ -1,6 +1,6 @@
 ---
 title: Ezhishi
-permalink: /e-learning/ezhishi
+permalink: /e-learning/ezhishi/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

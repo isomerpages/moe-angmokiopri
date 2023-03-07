@@ -1,6 +1,6 @@
 ---
 title: Info Communication Technology
-permalink: /our-amkp-experience/our-co-curriculum/info-communication-technology
+permalink: /our-amkp-experience/our-co-curriculum/info-communication-technology/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

@@ -1,6 +1,6 @@
 ---
 title: 2023 Open House
-permalink: /moe-kindergarten-at-amk/2023-open-house
+permalink: /moe-kindergarten-at-amk/2023-open-house/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

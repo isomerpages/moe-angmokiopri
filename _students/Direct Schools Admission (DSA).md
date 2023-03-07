@@ -1,6 +1,6 @@
 ---
 title: Direct Schools Admission (DSA)
-permalink: /resources/students/direct-schools-admission-dsa
+permalink: /resources/students/direct-schools-admission-dsa/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education
-permalink: /our-amkp-experience/our-co-curriculum/character-and-citizenship-education
+permalink: /our-amkp-experience/our-co-curriculum/character-and-citizenship-education/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Football
-permalink: /our-amkp-experience/cca/football
+permalink: /our-amkp-experience/cca/football/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

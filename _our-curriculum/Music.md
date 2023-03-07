@@ -1,6 +1,6 @@
 ---
 title: Music
-permalink: /our-amkp-experience/our-curriculum/music
+permalink: /our-amkp-experience/our-curriculum/music/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

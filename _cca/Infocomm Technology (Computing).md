@@ -1,6 +1,6 @@
 ---
 title: Infocomm Technology (Computing)
-permalink: /our-amkp-experience/cca/infocomm-technology-computing
+permalink: /our-amkp-experience/cca/infocomm-technology-computing/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

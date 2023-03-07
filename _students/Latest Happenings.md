@@ -1,6 +1,6 @@
 ---
 title: Latest Happenings
-permalink: /resources/students/latest-happenings
+permalink: /resources/students/latest-happenings/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

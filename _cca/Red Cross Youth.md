@@ -1,6 +1,6 @@
 ---
 title: Red Cross Youth
-permalink: /our-amkp-experience/cca/red-cross-youth
+permalink: /our-amkp-experience/cca/red-cross-youth/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)

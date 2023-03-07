@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /resources/parents/parents-gateway
+permalink: /resources/parents/parents-gateway/
 description: ""
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)
