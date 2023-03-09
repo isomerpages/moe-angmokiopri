@@ -28,14 +28,8 @@ https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/n
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
-**<font size="5">2022 Holistic Assessment</font>**
+**<font size="5">2023 Term 1 CCA Schedule</font>**
 
-2022-01-28
-
-Dear Parents/Guardians and Students,
-
-The 2022 Holistic Assessment letters for the respective levels are posted and available for your viewing in the school website. Please access the letters via the link below.
-
-[https://moe-angmokiopri-staging.netlify.app/resources/parents/letters-n-circulars-2022](https://moe-angmokiopri-staging.netlify.app/resources/parents/letters-n-circulars-2022)
-
-Thank you.
+Dear Parents/Guardians,
+Here is the Term 1 CCA schedule for your reference.
+https://angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars-2023
