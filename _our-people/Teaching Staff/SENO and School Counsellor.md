@@ -4,9 +4,8 @@ permalink: /about-us/our-people/teaching-staff/SENO-and-school-counsellor/
 description: ""
 third_nav_title: Teaching Staff
 ---
-
 >![](/images/About%20Us/banner2-with%20bg.jpg)
->ALLIED EDUCATORS/SCHOOL COUNSELLOR
+>SENO and SCHOOL COUNSELLOR
 
 ## Allied Educators
 
