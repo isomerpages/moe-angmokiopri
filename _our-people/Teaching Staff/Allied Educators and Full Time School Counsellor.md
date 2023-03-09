@@ -4,8 +4,6 @@ permalink: /about-us/our-people/teaching-staff/allied-educators-full-time-school
 description: ""
 third_nav_title: Teaching Staff
 ---
-
-
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >ALLIED EDUCATORS/FULL-TIME SCHOOL COUNSELLOR
 
@@ -28,7 +26,7 @@ third_nav_title: Teaching Staff
     <td></td>
   </tr>
   <tr>
-    <td><b>AED Learning &amp; Behavioral Support</b></td>
+    <td><b>SENO</b></td>
     <td></td>
   </tr>
   <tr>
@@ -48,7 +46,7 @@ third_nav_title: Teaching Staff
     <td> </td>
   </tr>
   <tr>
-    <td><b>Full-Time School Counsellor</b></td>
+    <td><b>School Counsellor</b></td>
     <td> </td>
   </tr>
   <tr>
@@ -57,7 +55,7 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td>Mrs Tresa Cheong</td>
-    <td><a href="mailto:lim_chin_yin@moe.edu.sg">lim_chin_yin@moe.edu.sg</a></td>
+    <td><a href="mailto:lim_chin_yin_tresa@moe.edu.sg">lim_chin_yin_tresa@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td> </td>
