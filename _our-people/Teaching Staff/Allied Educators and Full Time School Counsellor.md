@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Teaching Staff
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)
->ALLIED EDUCATORS/FULL-TIME SCHOOL COUNSELLOR
+>ALLIED EDUCATORS/SCHOOL COUNSELLOR
 
 ## Allied Educators
 
