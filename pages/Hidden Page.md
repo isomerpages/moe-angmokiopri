@@ -6,29 +6,25 @@ description: ""
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >News & Announcement
 
-**<font size="5">2022 Term 3 CCA Schedule</font>**
+**<font size="5">2023 Semester 1 Holistic Assessment letters</font>**
 
-Dear parents,
+Dear Parents/Guardians and Students,
 
-Here is the Term 3 CCA schedule for your reference.
-[Letters and Circulars 2022](https://moe-angmokiopri-staging.netlify.app/resources/parents/letters-n-circulars-2022)
-
-The school will continue to ensure that the students attend CCA in a progressive and safe manner.
-
+The 2023 Semester 1 Holistic Assessment letters are posted and available for your viewing in the school website. Please access the letters via the link below.
+Https://angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars-2023
 Thank you.
+
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
-**<font size="5">Gifted Education Programme (GEP) Identification Exercise 2022</font>**
+**<font size="5">2023 Inspiring Teacher of English Award</font>**
 
-2022-02-10
+The Inspiring Teacher of English Award is a national award for English teachers in Singapore schools, that acknowledges teachers who ignite a love for the English language, and are effective in helping their students communicate better. These teachers are passionate about making English interesting and relevant to their students, and are innovate in engaging their students to help them learn English better. The Award salutes these teachers for their continual learning and constant efforts to upgrade themselves to benefit their students and schools.
 
-Dear Parents/Guardians,
+If this sounds like a teacher that you know, nominate them for the Inspiring Teacher of English Award via the link below!
+https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
 
-Please refer to the letter for more details on the GEP Identification Exercise 2022 and the tentative schedule for the two stages of the GEP Identification Exercise.
+(Nominations from 1 Feb - 10 Apr 2023)
 
-You may access the letter at the following link: [https://moe-angmokiopri-staging.netlify.app/resources/parents/letters-n-circulars-2022](https://moe-angmokiopri-staging.netlify.app/resources/parents/letters-n-circulars-2022)
-
-Thank you.
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
