@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Letters & Circulars 2023
 ---
 >![](/images/About%20Us/banner2-with%20bg.jpg)
->LETTERS & CIRCULARS (2022)
+>LETTERS & CIRCULARS (2023)
 
 **<font size=5>CCA Letters and Schedule</font>**<br>
 Please refer to the links below for the school's CCA letters and schedule.
@@ -16,7 +16,7 @@ Please refer to the links below for the school's CCA letters and schedule.
 <br>
 
 **<font size=5>2023 Holistic Assessment</font>** <br>
-Please refer to the links below for the 2022 Holistic Assessment letters.
+Please refer to the links below for the 2023 Holistic Assessment letters.
 
 **P1:** [AMKP Holistic Assessment Letter to P1 Parents](/files/Resources/Holistic_Assessment_Letters/P1_Holistic_Assessment_Letter_Parents.pdf)
 
