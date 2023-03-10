@@ -27,7 +27,7 @@ Please refer to the links below for the slides shared during 2023 MTP 1.
 
 
 **<u>Primary 2</u>**<br>
-[2023 MTP1 P2 AYH Slides](/files/Resources/Meet1_2023_slides_P2_YH.pdf)<br>
+[2023 MTP1 P2 YH Slides](/files/Resources/Meet1_2023_slides_P2_YH.pdf)<br>
 [2023 MTP1 P2 CARE Slides](/files/Resources/MTP1_2023_slides_P2_Care.pdf)<br>
 [2023 MTP1 P2 COURAGE Slides](/files/Resources/MTP1_2023_slides_P2_Courage.pdf)<br>
 [2023 MTP1 P2 EXECELLENCE Slides](/files/Resources/MTP1_2023_slides_P2_Excellence.pdf)<br>
@@ -38,13 +38,11 @@ Please refer to the links below for the slides shared during 2023 MTP 1.
 
 
 **<u>Primary 3</u>**<br>
-[2022 MTP 1_P3 AYH Slides.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_P3%20AYH%20Slides.pdf)<br>
-[2022 MTP 1_FT Slides_3RS.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_3RS.pdf)<br>
-[2022 MTP 1_FT Slides_3RP.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_3RP.pdf)<br>
-[2022 MTP 1_FT Slides_3IN.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_3IN.pdf)<br>
-[2022 MTP 1_FT Slides_3CA.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_3CA.pdf)<br>
-[2022 MTP 1_FT Slides_3EN.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_3EN.pdf)<br>
-
+[2023 MTP1 P3 YH Slides](/files/Resources/MTP1/MTP1_2023_P3_YH.pdf)<br>
+[2023 MTP1 P3 EXCELLENCE Slides](/files/Resources/MTP1/MTP1_2023_slides_P3_Excellence.pdf)<br>
+[2023 MTP1 P3 INTEGRITY Slides](/files/Resources/MTP1/MTP1_2023_slides_P3_Integrity.pdf)<br>
+[2023 MTP1 P3 RESILIENCE Slides](/files/Resources/MTP1/MTP1_2023_slides_P3_Resilience.pdf)<br>
+[2023 MTP1 P3 RESPECT Slides](/files/Resources/MTP1/MTP1_2023_slides_P3_Respect.pdf)<br>
 
 **<u>Primary 4</u>**<br>
 [2023 MTP1 P4 YH Slides](/files/Resources/MTP1/MTP1_2023_P4_YH.pdf)<br>
