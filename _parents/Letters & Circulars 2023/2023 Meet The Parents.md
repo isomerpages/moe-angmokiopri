@@ -65,10 +65,8 @@ Please refer to the links below for the slides shared during 2023 MTP 1.
 
 
 **<u>Primary 6</u>**<br>
-[2022 MTP 1_P6 YH Slides.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_P6%20YH%20Slides.pdf)<br>
-[2022 MTP 1_FT Slides_6RS.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_6RS.pdf)<br>
-[2022 MTP 1_FT Slides_6RP.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_6RP.pdf)<br>
-[2022 MTP 1_FT Slides_6RB.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_6RB.pdf)<br>
-[2022 MTP 1_FT Slides_6IN.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_6IN.pdf)<br>
-[2022 MTP 1_FT Slides_6CA.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_6CA.pdf)<br>
-[2022 MTP 1_FT Slides_6EN.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_6EN.pdf)<br>
+[2023 MTP1 P6 YH Slides](/files/Resources/MTP1/MTP1_2023_P6_YH.pdf)<br>
+[2023 MTP1 P6 CARE Slides](/files/Resources/MTP1/MTP1_2023_slides_P6_Care.pdf)<br>
+[2023 MTP1 P6 EXCELLENCE Slides](/files/Resources/MTP1/MTP1_2023_slides_P6_Excellence.pdf)<br>
+[2023 MTP1 P6 INTEGRITY Slides](/files/Resources/MTP1/MTP1_2023_slides_P6_Integrity.pdf)<br>
+[2023 MTP1 P6 RESILIENCE Slides](/files/ResourcesMTP1//MTP1_2023_slides_P6_Resilience.pdf)<br>
