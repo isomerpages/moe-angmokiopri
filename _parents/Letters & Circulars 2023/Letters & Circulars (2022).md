@@ -8,7 +8,7 @@ third_nav_title: Letters & Circulars 2023
 >LETTERS & CIRCULARS (2022)
 
 **<font size=5>2023 School Calendar</font>**<br>
-Please find the 2023 School Calendar [here].(/files/Resources/Term1_CCA_Schedule_2023.pdf)<br>
+Please find the 2023 School Calendar [[here](/files/Resources/Term1_CCA_Schedule_2023.pdf)]<br>
 
 **Term 1:**
 [2022 Term 1 AMKP School Calendar_updated 28 Dec 2021_Student Version_updated 10 Jan 2022.pdf](/files/Resources/2022%20Term%201%20AMKP%20School%20Calendar_updated%2028%20Dec%202021_Student%20Version_updated%2010%20Jan%202022.pdf)<br>
