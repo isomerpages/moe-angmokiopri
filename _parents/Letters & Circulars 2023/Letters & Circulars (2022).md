@@ -7,15 +7,6 @@ third_nav_title: Letters & Circulars 2023
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >LETTERS & CIRCULARS (2022)
 
-**<font size=5>2023 School Calendar</font>**<br>
-Please find the 2023 School Calendar [[here](/files/Resources/Term1_CCA_Schedule_2023.pdf)]<br>
-
-**Term 1:**
-[2022 Term 1 AMKP School Calendar_updated 28 Dec 2021_Student Version_updated 10 Jan 2022.pdf](/files/Resources/2022%20Term%201%20AMKP%20School%20Calendar_updated%2028%20Dec%202021_Student%20Version_updated%2010%20Jan%202022.pdf)<br>
-**Term 2:**
-[2022 Term 2 AMKP School Calendar_Student Version_updated 22 Mar 2022.pdf](/files/Resources/2022%20AMKP%20T2%20School%20Calendar_Student%20Version_updated%2022%20Mar%202022.pdf)
-
-
 **<font size=5>Termly Letters</font>** <br>
 Please refer to the links below for the school's termly letters.
 
@@ -24,8 +15,6 @@ Please refer to the links below for the school's termly letters.
 
 **Term 2:**
 [AMKP_SCH-22_042 AMKP Term 2 Letter.pdf](/files/Resources/AMKP_SCH-22_042%20%20AMKP%20Term%202%20Letter.pdf)
-
-**2022 Photo-Taking Schedule:**[https://sites.google.com/moe.edu.sg/phototaking/home](https://sites.google.com/moe.edu.sg/phototaking/home)
 
 **<font size=5>CCA Letters and Schedule</font>**<br>
 Please refer to the links below for the school's CCA letters and schedule.
