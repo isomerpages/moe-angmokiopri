@@ -3,7 +3,6 @@ title: Announcement
 permalink: /hidden-page/news-n-announcement/
 description: ""
 ---
-
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >News & Announcement
 
@@ -29,8 +28,7 @@ https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/n
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
-**<font size="5">2023 Term 1 CCA Schedule</font>**
+**<font size="5">2023 Term 2 CCA Schedule</font>**
 
 Dear Parents/Guardians,
-Here is the Term 1 CCA schedule for your reference.
-https://angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars-2023
+Click [here](/files/Resources/Term2_CCA_Schedule_2023.pdf) for our Term 2 CCA schedule for your reference.
