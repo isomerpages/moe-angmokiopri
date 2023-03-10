@@ -4,24 +4,24 @@ permalink: /parents/letters-and-circulars-2023/2023-meet-the-parents/
 description: ""
 third_nav_title: Letters & Circulars 2023
 ---
-
-
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >2022 MEET-THE-PARENTS
 
-**<font size=5>2022 MTP 1: 13 and 14 Jan</font>**<br>
-Please refer to the links below for the slides shared during 2022 MTP 1.
+**<font size=5>2023 MTP 1: 13 and 14 Jan</font>**<br>
+Please refer to the links below for the slides shared during 2023 MTP 1.
 
 **<u>School Leader's Time</u>**<br>
-[2022 MTP 1_SL Slides.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_SL%20Slides.pdf)
+
+
+[2023 MTP 1 SL Slides](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_SL%20Slides.pdf)
 
 **<u>Primary 1</u>** <br>
-[2022 MTP 1_P1 YH Slides.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_P1%20YH%20Slides.pdf)<br>
-[2022 MTP 1_FT Slides_1RS.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_1RS.pdf)<br>
-[2022 MTP 1_FT Slides_1RP.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_1RP.pdf)<br>
-[2022 MTP 1_FT Slides_1RB.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_1RB.pdf)<br>
-[2022 MTP 1_FT Slides_1IN.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_1IN.pdf)<br>
-[2022 MTP 1_FT Slides_1CA.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_1CA.pdf)<br>
+[2023 MTP 1_P1 YH Slides](/files/Resources/MTP1_2023_P1_YH.pdf)<br>
+[2023 MTP1 CARE FT Slides](/files/Resources/MTP1_2023_slides_P1_Care.pdf)<br>
+[2023 MTP1 COURAGE FT Slides](/files/Resources/MTP1_2023_slides_P1_Courage.pdf)<br>
+[2023 MTP1 EXCELLENCE FT Slides](/files/Resources/MTP1_2023_slides_P1_Excellence.pdf)<br>
+[2023 MTP1 INTEGRITY FT Slides](/files/Resources/MTP1_2023_slides_P1_Integrity.pdf)<br>
+[2023 MTP1 RESILIENCE FT Slides](/files/Resources/MTP1_2023_slides_P1_Resilience.pdf)<br>
 [2022 MTP 1_FT Slides_1CO.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_1CO.pdf)<br>
 [2022 MTP 1_FT Slides_1EN.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_1EN.pdf)<br>
 
