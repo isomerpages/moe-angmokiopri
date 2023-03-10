@@ -30,11 +30,9 @@ Please refer to the links below for the school's termly letters.
 **<font size=5>CCA Letters and Schedule</font>**<br>
 Please refer to the links below for the school's CCA letters and schedule.
 
-**Term 1:**[Letter to parents on Term 1 CCA Schedule 2022_v2.pdf](/files/Resources/Letter%20to%20parents%20on%20Term%201%20CCA%20Schedule%202022_v2.pdf)
+**Term 1:**[Term 1 CCA Schedule 2023](/files/Resources/Term1_CCA_Schedule_2023.pdf.pdf)
 
 **Term 2:** [Term 2 CCA Schedule 2022.pdf](/files/Resources/Term%202%20CCA%20Schedule%202022.pdf)
-
-**Term 3:**[Term 3 CCA Schedule 2022.pdf](/files/Resources/Term%203%20CCA%20Schedule%202022.pdf)
 <br>
 
 **<font size=5>2023 Holistic Assessment</font>** <br>
