@@ -31,4 +31,4 @@ https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/n
 **<font size="5">2023 Term 2 CCA Schedule</font>**
 
 Dear Parents/Guardians,
-Click [here](Term2_CCA_Schedule_2023) for our Term 2 CCA schedule for your reference.
+Click [here](/files/Resources/Term2_CCA_Schedule_2023.pdf) for our Term 2 CCA schedule for your reference.
