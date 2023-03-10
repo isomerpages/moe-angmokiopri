@@ -16,25 +16,25 @@ Please refer to the links below for the slides shared during 2023 MTP 1.
 [2023 MTP 1 SL Slides](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_SL%20Slides.pdf)
 
 **<u>Primary 1</u>** <br>
-[2023 MTP 1_P1 YH Slides](/files/Resources/MTP1_2023_P1_YH.pdf)<br>
-[2023 MTP1 CARE Slides](/files/Resources/MTP1_2023_slides_P1_Care.pdf)<br>
-[2023 MTP1 COURAGE Slides](/files/Resources/MTP1_2023_slides_P1_Courage.pdf)<br>
-[2023 MTP1 EXCELLENCE Slides](/files/Resources/MTP1_2023_slides_P1_Excellence.pdf)<br>
-[2023 MTP1 INTEGRITY Slides](/files/Resources/MTP1_2023_slides_P1_Integrity.pdf)<br>
-[2023 MTP1 RESILIENCE Slides](/files/Resources/MTP1_2023_slides_P1_Resilience.pdf)<br>
-[2023 MTP1 Respect Slides](/files/Resources/MTP1_2023_slides_P1_Respect.pdf)<br>
-[2023 MTP1 RESPONSIBILITY Slides](/files/Resources/MTP1_2023_slides_P1_Responsibility.pdf)<br>
+[2023 MTP1 P1 YH Slides](/files/Resources/MTP1_2023_P1_YH.pdf)<br>
+[2023 MTP1 P1 CARE Slides](/files/Resources/MTP1_2023_slides_P1_Care.pdf)<br>
+[2023 MTP1 P1 COURAGE Slides](/files/Resources/MTP1_2023_slides_P1_Courage.pdf)<br>
+[2023 MTP1 P1 EXCELLENCE Slides](/files/Resources/MTP1_2023_slides_P1_Excellence.pdf)<br>
+[2023 MTP1 P1 INTEGRITY Slides](/files/Resources/MTP1_2023_slides_P1_Integrity.pdf)<br>
+[2023 MTP1 P1 RESILIENCE Slides](/files/Resources/MTP1_2023_slides_P1_Resilience.pdf)<br>
+[2023 MTP1 P1 Respect Slides](/files/Resources/MTP1_2023_slides_P1_Respect.pdf)<br>
+[2023 MTP1 P1 RESPONSIBILITY Slides](/files/Resources/MTP1_2023_slides_P1_Responsibility.pdf)<br>
 
 
 **<u>Primary 2</u>**<br>
-[2023 MTP1 P2 AYH Slides](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_P2%20AYH%20Slides.pdf)<br>
-[2022 MTP 1_FT Slides_2RS.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_2RS.pdf)<br>
-[2022 MTP 1_FT Slides_2RP.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_2RP.pdf)<br>
-[2022 MTP 1_FT Slides_2RB.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_2RB.pdf)<br>
-[2022 MTP 1_FT Slides_2IN.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_2IN.pdf)<br>
-[2022 MTP 1_FT Slides_2CA.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_2CA.pdf)<br>
-[2022 MTP 1_FT Slides_2CO.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_2CO.pdf)<br>
-[2022 MTP 1_FT Slides_2EN.pdf](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_FT%20Slides_2EN.pdf)<br>
+[2023 MTP1 P2 AYH Slides](/files/Resources/Meet1_2023_slides_P2_YH.pdf)<br>
+[2023 MTP1 P2 CARE Slides](/files/Resources/MTP1_2023_slides_P2_Care.pdf)<br>
+[2023 MTP1 P2 COURAGE Slides](/files/Resources/MTP1_2023_slides_P2_Courage.pdf)<br>
+[2023 MTP1 P2 EXECELLENCE Slides](/files/Resources/MTP1_2023_slides_P2_Excellence.pdf)<br>
+[2023 MTP1 P2 INTEGRITY Slides](/files/Resources/MTP1_2023_slides_P2_Integrity.pdf)<br>
+[2023 MTP1 P2 RESILENCE Slides](/files/Resources/MTP1_2023_slides_P2_Resilence.pdf)<br>
+[2023 MTP1 P2 RESPECT Slides](/files/Resources/MTP1_2023_slides_P2_Respect.pdf)<br>
+[2023 MTP1 P2 RESPONSIBILITY Slides](/files/Resources/MTP1_2023_slides_P2_Responsibility.pdf)<br>
 
 
 **<u>Primary 3</u>**<br>
