@@ -4,11 +4,10 @@ permalink: /parents/letters-and-circulars-2022/2022-meet-the-parents/
 description: ""
 third_nav_title: Letters & Circulars 2023
 ---
-
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >2022 MEET-THE-PARENTS
 
-**<font size=5>2023 MTP 1: 13 and 14 Jan</font>**<br>
+**<font size=5>2023 MTP 1</font>**<br>
 Please refer to the links below for the slides shared during 2023 MTP 1.
 
 **<u>School Leader's Time</u>**<br>
