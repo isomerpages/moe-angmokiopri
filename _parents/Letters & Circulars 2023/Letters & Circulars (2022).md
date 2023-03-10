@@ -4,7 +4,6 @@ permalink: /resources/parents/letters-n-circulars-2022/
 description: ""
 third_nav_title: Letters & Circulars 2023
 ---
-
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >LETTERS & CIRCULARS (2022)
 
@@ -38,36 +37,29 @@ Please refer to the links below for the school's CCA letters and schedule.
 **Term 3:**[Term 3 CCA Schedule 2022.pdf](/files/Resources/Term%203%20CCA%20Schedule%202022.pdf)
 <br>
 
-**<font size=5>2022 Holistic Assessment</font>** <br>
+**<font size=5>2023 Holistic Assessment</font>** <br>
 Please refer to the links below for the 2022 Holistic Assessment letters.
 
 **<u>P1</u>** <br>
-[AMKP Holistic Assessment Letter to P1 Parents.pdf](/files/Resources/AMKP%20Holistic%20Assessment%20Letter%20to%20P1%20Parents.pdf)
+[AMKP Holistic Assessment Letter to P1 Parents](/files/Resources/Holistic_Assessment_Letters/P1_Holistic_Assessment_Letter_Parents.pdf)
 
 **<u>P2</u>**<br>
-[AMKP Holistic Assessment Letter to P2 Parents.pdf](/files/Resources/AMKP%20Holistic%20Assessment%20Letter%20to%20P2%20Parents.pdf)
+[AMKP Holistic Assessment Letter to P2 Parents](/files/Resources/Holistic_Assessment_Letters/P2_Holistic_Assessment_Letter_Parents.pdf)
 
 **<u>P3</u>**<br>
-[AMKP Holistic Assessment Letter to P3 Parents_Sem 1.pdf](/files/Resources/AMKP%20Holistic%20Assessment%20Letter%20to%20P3%20Parents_Sem%201.pdf)
+[AMKP Holistic Assessment Letter to P3 Parents](/files/Resources/Holistic_Assessment_Letters/P3_Holistic_Assessment_Letter_Parents.pdf)
 
 **<u>P4</u>**<br>
-[AMKP Holistic Assessment Letter to P4 Parents_Sem 1.pdf](/files/Resources/AMKP%20Holistic%20Assessment%20Letter%20to%20P4%20Parents_Sem%201.pdf)
+[AMKP Holistic Assessment Letter to P4 Parents](/files/Resources/Holistic_Assessment_Letters/P4_Holistic_Assessment_Letter_Parents.pdf)
 
 **<u>P5</u>**<br>
-[AMKP Holistic Assessment Letter to P5 Parents_Sem 1.pdf](/files/Resources/AMKP%20Holistic%20Assessment%20Letter%20to%20P5%20Parents_Sem%201.pdf)
+[AMKP Holistic Assessment Letter to P5 Parents](/files/Resources/Holistic_Assessment_Letters/P5_Holistic_Assessment_Letter_Parents.pdf)
 
 **<u>P6</u>**<br>
-[ AMKP Holistic Assessment Letter to P6 Parents_Sem 1.pdf](/files/Resources/AMKP%20Holistic%20Assessment%20Letter%20to%20P6%20Parents_Sem%201%20(1).pdf)
+[ AMKP Holistic Assessment Letter to P6 Parents](/files/Resources/Holistic_Assessment_Letters/P6_Holistic_Assessment_Letter_Parents.pdf)
 
 **<font size=5>Newsletters for Parents</font>** <br>
 Please refer to the links below for some articles and newsletters for parents.
 
-**<u>Health and Nutrition</u>** <br>
-(File too big to insert here)
 
 
-**<font size=5>Gifted Education Programme (GEP) Identification Exercise 2022
-</font>** <br>
-Please refer to the link below for the GEP letter.
-
-[AMKP_SCH_2022_021 Letter to Parent - GEP 2022.pdf](/files/Resources/AMKP_SCH_2022_021%20Letter%20to%20Parent%20-%20GEP%202022.pdf)
