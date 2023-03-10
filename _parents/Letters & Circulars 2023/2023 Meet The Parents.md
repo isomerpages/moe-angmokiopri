@@ -10,11 +10,6 @@ third_nav_title: Letters & Circulars 2023
 **<font size=5>2023 MTP 1</font>**<br>
 Please refer to the links below for the slides shared during 2023 MTP 1.
 
-**<u>School Leader's Time</u>**<br>
-
-
-[2023 MTP 1 SL Slides](/files/Resources/Meet%20The%20Parents/2022%20MTP%201_SL%20Slides.pdf)
-
 **<u>Primary 1</u>** <br>
 [2023 MTP1 P1 YH Slides](/files/Resources/MTP1_2023_P1_YH.pdf)<br>
 [2023 MTP1 P1 CARE Slides](/files/Resources/MTP1_2023_slides_P1_Care.pdf)<br>
