@@ -10,8 +10,7 @@ description: ""
 
 Dear Parents/Guardians and Students,
 
-The 2023 Semester 1 Holistic Assessment letters are posted and available for your viewing in the school website. Please access the letters via the link below.
-Https://angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars-2023
+The 2023 Semester 1 Holistic Assessment letters are posted and available for your viewing in the school website. Please access the letters via this [link](https://www.angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars-2023/).
 Thank you.
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
