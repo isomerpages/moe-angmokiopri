@@ -6,11 +6,22 @@ description: ""
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >News & Announcement
 
+**<font size="5">2023 Term 2 Calendar</font>**
+
+Dear Parents/Guardians and Students,
+
+The 2023 Term 2 Calendar is posted and available for your viewing in the school website. Please access the calendar via this [link](https://www.angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars-2023/).
+
+Thank you.
+
+<hr style="height:1px;border-width:0;color:gray;background-color:black">
+
 **<font size="5">2023 Semester 1 Holistic Assessment letters</font>**
 
 Dear Parents/Guardians and Students,
 
 The 2023 Semester 1 Holistic Assessment letters are posted and available for your viewing in the school website. Please access the letters via this [link](https://www.angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars-2023/).
+
 Thank you.
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
