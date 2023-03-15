@@ -7,6 +7,13 @@ third_nav_title: Letters & Circulars 2023
 >![](/images/About%20Us/banner2-with%20bg.jpg)
 >LETTERS & CIRCULARS (2023)
 
+**<font size=5>2023 School Calendar</font>**<br>
+Please refer to the links below for the school's termly calendar.
+
+**[Term 1 Calendar](https://docs.google.com/spreadsheets/d/1UBePeZtFSetAWP451jafiyA2tUTYAqeH/edit?usp=share_link&ouid=107219167406396481602&rtpof=true&sd=true)**
+
+**[Term 2 Calendar](https://docs.google.com/spreadsheets/d/13WURUNwSbF6Um3czs-2EVX5I_YgKfiWj/edit?usp=share_link&ouid=107219167406396481602&rtpof=true&sd=true)**
+
 **<font size=5>CCA Letters and Schedule</font>**<br>
 Please refer to the links below for the school's CCA letters and schedule.
 
