@@ -76,11 +76,11 @@ These facilities will be able to support implementation of MOE-initiated Program
 <tbody>
   <tr>
     <td class="tg-i5i7">Mr Oh Choon Eng </td>
-    <td class="tg-i5i7">1978 - 1982 </td>
+    <td class="tg-i5i7">1978 - 1983 </td>
   </tr>
   <tr>
     <td class="tg-mfxt">Mr Low Yong Kee</td>
-    <td class="tg-mfxt">1982 - 1992</td>
+    <td class="tg-mfxt">1983 - 1992</td>
   </tr>
   <tr>
     <td class="tg-i5i7">Mrs Toh Boon Keng</td>
