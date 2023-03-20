@@ -88,7 +88,7 @@ These facilities will be able to support implementation of MOE-initiated Program
   </tr>
   <tr>
     <td class="tg-0pky">Mr Tan Kee Hai</td>
-    <td class="tg-0pky">1999 - 2001 </td>
+    <td class="tg-0pky">1998 - 2001 </td>
   </tr>
   <tr>
     <td class="tg-i5i7" colspan="2"></td>
@@ -112,7 +112,7 @@ These facilities will be able to support implementation of MOE-initiated Program
   </tr>
   <tr>
     <td class="tg-faf8">Mr Patrick Sih </td>
-    <td class="tg-faf8">2002 - 2006 </td>
+    <td class="tg-faf8">2001 - 2006 </td>
   </tr>
   <tr>
     <td class="tg-cly1">Mdm Chua Lay Tin</td>
@@ -120,7 +120,11 @@ These facilities will be able to support implementation of MOE-initiated Program
   </tr>
   <tr>
     <td class="tg-faf8">Mr Chew Mun Wai </td>
-    <td class="tg-faf8">2012 - Current </td>
+    <td class="tg-faf8">2012 - 2020 </td>
+  </tr>
+	  <tr>
+    <td class="tg-cly1">Mrs Chew Bee Lay</td>
+    <td class="tg-cly1">2020 - Current </td>
   </tr>
 </tbody>
 </table>
