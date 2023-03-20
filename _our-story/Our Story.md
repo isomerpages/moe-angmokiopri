@@ -108,11 +108,11 @@ These facilities will be able to support implementation of MOE-initiated Program
     <td class="tg-faf8" colspan="2"></td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:bold">ANG MO KIO PRIMARY (Post-2000)</span></td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:bold">ANG MO KIO PRIMARY (2000 onwards)</span></td>
   </tr>
   <tr>
     <td class="tg-faf8">Mr Patrick Sih </td>
-    <td class="tg-faf8">2001 - 2006 </td>
+    <td class="tg-faf8">2000 - 2006 </td>
   </tr>
   <tr>
     <td class="tg-cly1">Mdm Chua Lay Tin</td>
