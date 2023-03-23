@@ -19,7 +19,7 @@ Please refer to the links below for the school's Termly letters and schedule.
 
 **Term 1:** [Term 1 Termly Letter](/files/Resources/AMKP_SCH-22_002%20%20AMKP%20Term%201%20Letter.pdf)
 
-**Term 2:** [Term 2 Termly Letter]
+**Term 2:** [Term 2 Termly Letter](/files/Resources/AMKP_SCH-22_002%20%20AMKP%20Term%201%20Letter.pdf)
 <br>
 
 **<font size=5>CCA Letters and Schedule</font>**<br>
