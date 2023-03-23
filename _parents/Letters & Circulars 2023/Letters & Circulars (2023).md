@@ -17,9 +17,9 @@ Please refer to the links below for the school's termly calendar.
 **<font size=5>Termly Letters</font>**<br>
 Please refer to the links below for the school's Termly letters and schedule.
 
-**Term 1:**[Term 1 CCA Schedule 2023](/files/Resources/Term1_CCA_Schedule_2023.pdf.pdf)
+**Term 1:** [Term 1 Termly Letter](/files/Resources/Term1_CCA_Schedule_2023.pdf.pdf)
 
-**Term 2:** [Term 2 CCA Schedule 2023](/files/Resources/Term2_CCA_Schedule_2023.pdf)
+**Term 2:** [Term 2 Termly Letter](/files/Resources/Term2_CCA_Schedule_2023.pdf)
 <br>
 
 **<font size=5>CCA Letters and Schedule</font>**<br>
