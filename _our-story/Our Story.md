@@ -80,15 +80,15 @@ These facilities will be able to support implementation of MOE-initiated Program
   </tr>
   <tr>
     <td class="tg-mfxt">Mr Low Yong Kee</td>
-    <td class="tg-mfxt">1983 - 1992</td>
+    <td class="tg-mfxt">1984 - 1992</td>
   </tr>
   <tr>
     <td class="tg-i5i7">Mrs Toh Boon Keng</td>
-    <td class="tg-i5i7">1992 - 1998</td>
+    <td class="tg-i5i7">1993 - 1998</td>
   </tr>
   <tr>
     <td class="tg-0pky">Mr Tan Kee Hai</td>
-    <td class="tg-0pky">1998 - 2001 </td>
+    <td class="tg-0pky">1999 - 2000 </td>
   </tr>
   <tr>
     <td class="tg-i5i7" colspan="2"></td>
@@ -102,29 +102,29 @@ These facilities will be able to support implementation of MOE-initiated Program
   </tr>
   <tr>
     <td class="tg-cly1">Mr Tan Ah Khai </td>
-    <td class="tg-cly1">1996 - 2000</td>
+    <td class="tg-cly1">1997 - 2000</td>
   </tr>
   <tr>
     <td class="tg-faf8" colspan="2"></td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:bold">ANG MO KIO PRIMARY (2000 onwards)</span></td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:bold">ANG MO KIO PRIMARY (Post- 2000)</span></td>
   </tr>
   <tr>
     <td class="tg-faf8">Mr Patrick Sih </td>
-    <td class="tg-faf8">2000 - 2006 </td>
+    <td class="tg-faf8">2001 - 2006 </td>
   </tr>
   <tr>
     <td class="tg-cly1">Mdm Chua Lay Tin</td>
-    <td class="tg-cly1">2006 - 2012 </td>
+    <td class="tg-cly1">2007 - 2012 </td>
   </tr>
   <tr>
     <td class="tg-faf8">Mr Chew Mun Wai </td>
-    <td class="tg-faf8">2012 - 2020 </td>
+    <td class="tg-faf8">2013 - 2020 </td>
   </tr>
 	  <tr>
-    <td class="tg-cly1">Mrs Chew Bee Lay</td>
-    <td class="tg-cly1">2020 - Current </td>
+    <td class="tg-cly1">Mrs Lim Bee Lay</td>
+    <td class="tg-cly1">2021 - Current </td>
   </tr>
 </tbody>
 </table>
