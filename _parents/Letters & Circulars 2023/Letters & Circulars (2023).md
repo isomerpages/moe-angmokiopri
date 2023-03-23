@@ -14,6 +14,14 @@ Please refer to the links below for the school's termly calendar.
 
 **[Term 2 Calendar](https://docs.google.com/spreadsheets/d/13WURUNwSbF6Um3czs-2EVX5I_YgKfiWj/edit?usp=share_link&ouid=107219167406396481602&rtpof=true&sd=true)**
 
+**<font size=5>Termly Letters</font>**<br>
+Please refer to the links below for the school's Termly letters and schedule.
+
+**Term 1:** [Term 1 Termly Letter](/files/Resources/AMKP_SCH23_001_AMKP_Term1_Letter.pdf)
+
+**Term 2:** [Term 2 Termly Letter](/files/Resources/AMKP_SCH23_021_AMKP_Term2_letter.pdf)
+<br>
+
 **<font size=5>CCA Letters and Schedule</font>**<br>
 Please refer to the links below for the school's CCA letters and schedule.
 
