@@ -3,8 +3,7 @@ title: Desired Outcomes of AMKP Students
 permalink: /about-us/our-school/desired-outcomes-of-amkp-students/
 description: ""
 ---
-> ![](/images/About%20Us/banner2-with%20bg.jpg)
->DESIRED OUTCOMES OF AMKP STUDENTS
+&gt; DESIRED OUTCOMES OF AMKP STUDENTS
 
 With the aim to nurture every child to be a confident AMKPian, we believe that he or she must be able to:  
   
