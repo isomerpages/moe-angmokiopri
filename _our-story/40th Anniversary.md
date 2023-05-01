@@ -3,7 +3,6 @@ title: 40th Anniversary
 permalink: /about-us/our-story/40th-anniversary/
 description: ""
 ---
-> ![](/images/About%20Us/banner2-with%20bg.jpg)
 > 40TH ANNIVERSARY
 
 
