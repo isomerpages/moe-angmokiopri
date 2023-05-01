@@ -3,12 +3,10 @@ title: School Logo
 permalink: /about-us/our-school/school-logo/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->SCHOOL LOGO
+&gt;SCHOOL LOGO
 
 
-<img src="/images/About%20Us/AMKPS-Logo-edited.png"  
-     style="width:45%">
+<img src="/images/About%20Us/AMKPS-Logo-edited.png" style="width:45%">
 
 
 
@@ -41,7 +39,7 @@ The three twirls represent the cognitive, physical, and moral development of our
 
 <br>   <br> 
 
-The upward movement of the twirls signifies the aspiration to aspire and all-round education represented by the sphere.
+The upward movement of the twirls signifies the aspiration to aspire and&nbsp;all-round education represented&nbsp;by the sphere.
 
 <br>   <br> 
 
