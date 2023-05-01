@@ -6,9 +6,7 @@ description: ""
 &gt;SCHOOL LOGO
 
 
-<img src="/images/About%20Us/AMKPS-Logo-edited.png" style="width:45%">
-
-
+<img src="/images/About%20Us/AMKP_Logo.png" style="width:45%">
 
 <table>
 <thead>
