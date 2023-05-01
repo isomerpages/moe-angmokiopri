@@ -3,12 +3,11 @@ title: Swimsafer
 permalink: /resources/students/swimsafer/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->Swimsafer
+&gt;Swimsafer
 
-**<font size=5>About SwimSafer</font>**
+**<font size="5">About SwimSafer</font>**
 
-In Ang Mo Kio Primary School, all Primary 4 students are required to participate in the SwimSafer programme, organized by ActiveSG, to earn at least a Stage 1 certificate. Students who already have a SwimSafer or equivalent certificate may sign up with the school to pursue the next stage of the programme. 
+In Ang Mo Kio Primary School, all Primary 4 students are required to participate in the SwimSafer programme, organized by ActiveSG, to earn at least a Stage 1 certificate. Students who already have a SwimSafer or equivalent certificate may sign up with the school to pursue the next stage of the programme.&nbsp;
 
   
 
