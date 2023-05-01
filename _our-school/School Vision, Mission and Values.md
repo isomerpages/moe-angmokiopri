@@ -3,10 +3,7 @@ title: School Vision, Mission and Values
 permalink: /about-us/our-school/school-vision-mission-and-values/
 description: ""
 ---
-> ![](/images/About%20Us/banner2-with%20bg.jpg)
-> SCHOOL VISION, MISSION AND VALUES
-
-**SCHOOL VISION, MISSION AND VALUES**
+&gt; SCHOOL VISION, MISSION AND VALUES
 
 **<center>Our Vision</center>**
 
@@ -22,7 +19,7 @@ description: ""
 
 **<center>Our Motto</center>**
 
-<center>Aspire and Be Inspire</center>
+<center>Rise and Shine</center>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
