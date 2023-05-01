@@ -4,8 +4,7 @@ permalink: /about-us/our-people/teaching-staff/2023-form-teachers/
 description: ""
 third_nav_title: Teaching Staff
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->2023 FORM TEACHERS
+&gt;2023 FORM TEACHERS
 
 <table>
 <thead>
