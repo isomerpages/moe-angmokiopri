@@ -3,8 +3,7 @@ title: Science
 permalink: /our-amkp-experience/our-curriculum/science/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->Science
+&gt;Science
 
 
 **<font size="5">Learning Outcomes</font>**
@@ -24,8 +23,7 @@ Our Science curriculum is anchored on teaching and learning through inquiry. Ang
 
 Singapore Science Centre, ZOO and Butterfly Park are some of the places pupils go, to experience learning outside school.  Learning journeys serve as alternative avenues to provide the authentic and vibrant experiences for pupils to construct meaning from Scientific phenomena they observed and be engaged in. Pupils investigate and make connections of what they already know to what they learn during these learning journeys.  After the learning journey, they carry on with research or de-brief activities to further enhance their understanding.
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/Science%20Block%201.png"  
-     style="width:75%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/Science%20Block%201.png" style="width:75%">
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
@@ -39,24 +37,17 @@ P4 pupils embark on the Hydroponics Programme which aims to allow pupils to gain
 
 During the programme, pupils have first-hand experience in growing green leafy vegetables using the Dynamic Root Floating Technique (DRF). Pupils also learnt the technique of seeding, maintenance of the nutrients supply and the process of harvesting.
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/Science%20Block%202.png"  
-     style="width:75%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/Science%20Block%202.png" style="width:75%">
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
 **Science Note-Booking**
 
 Note-booking encourages and enhances pupils’ natural curiosity and motivation for learning and connect science to their everyday life. This helps pupils to develop a deeper understanding of science.
 
-The Science notebooks are also an excellent tool for pupils to communicate their understanding of science concepts, for teachers to provide pupils with feedback, and, finally to assess pupils (Shepardson & Britsch, 2000, 2001)
+The Science notebooks are also an excellent tool for pupils to communicate their understanding of science concepts, for teachers to provide pupils with feedback, and, finally to assess pupils (Shepardson &amp; Britsch, 2000, 2001)
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/Science%20Block%203.png"  
-     style="width:75%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/Science%20Block%203.png" style="width:75%">
 
 **<font size="5">Note to Parents</font>**
 
 The learning of Science should not be restricted to the textbook or workbook. Let’s encourage our children to look beyond curriculum resources. In your daily interactions with them, seize “teaching moments” at home and link scientific concepts to activities that they do at home. Indeed, Science is Everywhere.  
-
-<img src="/images/About%20Us/Our%20AMKP%20Experience/SCIENCE_0820_P1.jpg"  
-     style="width:75%">
-
-From left: Back Row - Mr Mohd Riaz, Mr Ronald Lee, Mr Jex Nicholas, Mr Goh Leng Huat. Middle Row - Miss Victoria Wong, Mdm Azlyna, Mrs Yau Siew Cheng. Front Row - Mrs Wong Choo Lat, Ms Sri Halikmawati, Mdm Noorhafidzah (HOD), Mrs Amy Tan (SH), Ms Zaynn Bte Arifin.
