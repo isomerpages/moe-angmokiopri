@@ -34,8 +34,3 @@ We take pride in ensuring that collaborative and experiential learning experienc
 
 **E2K &amp; Olympiad program**
 <br>Targeted and tailored for upper primary pupils who demonstrate interest and aptitude in Mathematics. These programs aim to develop mathematical reasoning skills and deepen their conceptual understanding of the subject through an inquiry approach.
-
-<img src="/images/About%20Us/Our%20AMKP%20Experience/MATHS_6165_P1.jpg" style="width:75%">
-
-
-From left: Back Row - Mdm Rena Tay, Mrs Jolene Quek, Mrs Kaelyn Kang, Mdm Linda Tan, Mrs Sylvia Quek, Miss Yeo Sze Min, Miss Ang Wei Lin. Front Row - Mdm Letchimi, Mr Vincent Shanmugam, Mrs Lily Seah, Mrs Brenda Seetoh (HOD), Ms Surya Parvathi, Mr Vincent Tan, Mdm Ang Kheng.
