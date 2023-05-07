@@ -3,10 +3,9 @@ title: Badminton
 permalink: /our-amkp-experience/cca/badminton/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->BADMINTON
+&gt;BADMINTON
 
-**<font size=6>About</font>**
+**<font size="6">About</font>**
 
 The AMKP Badminton CCA team welcomes everyone with open arms. It is a popular CCA among our students and we have both recreational and competitive team members.
 
@@ -14,7 +13,7 @@ Our dedicated and nurturing team of professional coaches and CCA teachers equip 
 
 
 
-**<font size=6>Teachers in Charge</font>**
+**<font size="6">Teachers in Charge</font>**
 
 <ul>
   <li>Mr Vincent Tan Peng Chuan</li>
@@ -24,7 +23,7 @@ Our dedicated and nurturing team of professional coaches and CCA teachers equip 
   <li>Mdm Ng Yong Jia Amelia</li>	
 </ul>
 
-**<font size=5>Training Schedule</font>**
+**<font size="5">Training Schedule</font>**
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
@@ -49,7 +48,7 @@ Our dedicated and nurturing team of professional coaches and CCA teachers equip 
 </table>
 
 
-**<font size=5>Achievements</font>**
+**<font size="5">Achievements</font>**
 <!--Achievement Table-->
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
