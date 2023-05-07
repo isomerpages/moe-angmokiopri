@@ -3,14 +3,13 @@ title: Parents Gateway
 permalink: /resources/parents/parents-gateway/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->PARENTS GATEWAY
+&gt;PARENTS GATEWAY
 
-Ang Mo Kio Primary School is now onboard Parents Gateway.  Parents Gateway is a mobile app specially designed for parents. Developed by MOE and GovTech, the app allows parents to engage with schools, receive information and perform a range of administrative functions such as giving consent for school trips.
+Ang Mo Kio Primary School is now onboard Parents Gateway.&nbsp;&nbsp;Parents Gateway is a mobile app specially designed for parents. Developed by MOE&nbsp;and GovTech, the app allows parents to engage with schools, receive information and perform a range of administrative functions such as giving consent for school trips.
 
   
 
-We would like to invite you to download the Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time onboarding process. <u>Please scroll down for a step-by-step guide.</u>
+We would like to invite you to download&nbsp;the Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time onboarding process.&nbsp;<u>Please scroll down for a step-by-step guide.</u>
 
 Parents who are onboard Parents Gateway can now receive information via the mobile app. The school will continue to issue hardcopy letters in 2019. From 2020, the school will issue hardcopy letters only to parents who are unable to come onboard Parents Gateway.
 
@@ -19,7 +18,7 @@ Please join us on Parents Gateway as we work towards better communication betwee
 _____
 
 
-**<font size=5>Instructional Guide</font>**
+**<font size="5">Instructional Guide</font>**
 
   
 
@@ -54,8 +53,8 @@ SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not 
 
 **Step 2 – Download Parents Gateway Mobile App**
 
-a.       Open the Apple App Store or Google Play Store app on your mobile phone.<br>
-b.       Search for the ‘Parents Gateway’ mobile app, or scan the QR code below.
+a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open the Apple App Store or Google Play Store app on your mobile phone.<br>
+b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search for the ‘Parents Gateway’ mobile app, or scan the QR code below.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -81,35 +80,35 @@ b.       Search for the ‘Parents Gateway’ mobile app, or scan the QR 
 </tbody>
 </table>
 
-a.       Download and install the app onto your phone<br>
-b.       Enable ‘**Allow Notifications’** to receive push notifications.
+a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download and install the app onto your phone<br>
+b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enable ‘**Allow Notifications’**&nbsp;to receive push notifications.
 
-**Note:** Supported OS Versions - **Android 5.0 or later** & **iOS 9.1 or later**
+**Note:**&nbsp;Supported OS Versions -&nbsp;**Android 5.0 or later**&nbsp;&amp;&nbsp;**iOS 9.1 or later**
 
 **Step 3 – One-Time On-boarding**
 
-a.    Launch Parents Gateway app    <br>
-b.    Tap on Login with Singpass<br>
-c.    Login with your Singpass 2FA<br>
-d.    Tap on “Retrieve” to retrieve your child(ren)’s information<br>
-e.    You should see your child(ren)’s school announcements and activities (if any)<br>
-f.      Tap on “Done” to complete on-boarding
+a.&nbsp; &nbsp; Launch Parents Gateway app&nbsp; &nbsp;&nbsp;<br>
+b.&nbsp;&nbsp; &nbsp;Tap on Login with Singpass<br>
+c.&nbsp; &nbsp; Login with your Singpass 2FA<br>
+d.&nbsp; &nbsp;&nbsp;Tap on “Retrieve” to retrieve your child(ren)’s information<br>
+e.&nbsp; &nbsp;&nbsp;You should see your child(ren)’s school announcements and activities (if any)<br>
+f.&nbsp; &nbsp;&nbsp;  Tap on “Done” to complete on-boarding
 
 ____
 
-**<font size=5>MOE Promotional Video
+**<font size="5">MOE Promotional Video
 </font>**
 
-<iframe width="640" height="359" src="https://www.youtube.com/embed/PCM5o8jAncc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="359" src="https://www.youtube.com/embed/PCM5o8jAncc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**<font size=5>Instructional Video
+**<font size="5">Instructional Video
 </font>**
 
 Ang Mo Kio Primary School would like to Thank ACS Junior for allowing us to add this instructional video to our website. For a guide to Parents Gateway, please view video below.
 
-<iframe width="642" height="359" src="https://www.youtube.com/embed/29H_d-l5H0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="642" height="359" src="https://www.youtube.com/embed/29H_d-l5H0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**<font size=5>Travel Declarations on Parents Gateway
+**<font size="5">Travel Declarations on Parents Gateway
 </font>**
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/3ve2PbID4Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3ve2PbID4Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
