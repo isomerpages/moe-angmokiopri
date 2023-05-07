@@ -4,7 +4,6 @@ permalink: /moe-kindergarten-at-amk/about-us/
 description: ""
 third_nav_title: About Us
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
 >About Us
 
 ![](/images/MOE%20Kindergarten/Welcome%20to%20MK%202.jpg)
