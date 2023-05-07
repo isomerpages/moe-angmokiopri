@@ -3,8 +3,7 @@ title: Info Communication Technology
 permalink: /our-amkp-experience/our-co-curriculum/info-communication-technology/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->INFO-COMMUNICATION TECHNOLOGY
+&gt;INFO-COMMUNICATION TECHNOLOGY
 
 **<font size="5">Learning Outcomes</font>**
 1. To develop digital literacy in our students by building their IT skills to Curate, Create and Connect. 
@@ -58,8 +57,7 @@ To promote self-directed learning, the school will set aside time for home-based
 
 **<font size="5">ICT Committee</font>**
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/Co%20Curriculum/ICT%20Dept.jpg"  
-     style="width:75%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/Co%20Curriculum/ICT%20Dept.jpg" style="width:75%">
 
 
 From Left: Back Row - Mr Ronald Lee, Mr Murali Kumaran. Middle Row - Mr Mohd Riaz, Mr Melvin Ong (HOD), Mr Wu Weixiang. Front Row - Ms A Gayathree, Mdm Chang Shuyun, Miss Syazwani Saharoni.
