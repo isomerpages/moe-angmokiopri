@@ -3,18 +3,17 @@ title: Our School Rules
 permalink: /about-us/our-school-rules/
 description: ""
 ---
-> ![](/images/About%20Us/banner2-with%20bg.jpg)
-> Our School Rules
+&gt; Our School Rules
 
 
 ## 1\. Respect for Singapore and the School
 
 
-*   Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
+*   Students who are Singapore citizens must sing the National Anthem&nbsp;and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
 
   
 
-*   Non-Singapore citizens must stand at attention during flag-raising ceremony.
+*   Non-Singapore citizens must stand at attention during flag-raising&nbsp;ceremony.
 
   
 
@@ -22,34 +21,34 @@ description: ""
 
   
 
-*   Students are expected to uphold the reputation of the school at all times. When students are dressed in their school attire, they represent the school and must be well-behaved, both in and outside of the school.
+*   Students are expected to uphold the reputation of the school at all&nbsp;times. When students are dressed in their school attire, they represent the school and must be well-behaved, both in and outside of the school.
 
   
 
 ## 2\. Attendance and Punctuality
 
 
-*   Attendance is compulsory. All students are to be in school by 7.30 a.m. for the flag-raising ceremony.
+*   Attendance is compulsory. All students are to be in school by 7.30 a.m. for&nbsp;the flag-raising ceremony.
 
   
 
-*   Students must attend school regularly so that they can benefit fully from the school’s programmes and activities. Parents are to note the start and end dates of each term in the academic year and refrain from taking children out of school for vacation during term time as it will disrupt student’s learning.
+*   Students must attend school regularly so that they can benefit fully&nbsp;from the school’s programmes and activities. Parents are to note the start and end dates of each term in the academic year and refrain from taking children out of school for vacation during term time as it will disrupt student’s learning.
 
   
 
-*   A student’s attendance and punctuality are recorded and monitored closely by the school.
+*   A student’s attendance and punctuality are recorded and monitored&nbsp;closely by the school.
 
   
 
-*   If a student is unwell, he/she should see a doctor and obtain a medical certificate to validate his/her absence from school. The school will only accept medical certificates from general practitioners, the polyclinics and other medical institutions (doctors registered with the Singapore Medical Council).
+*   If a student is unwell, he/she should see a doctor and obtain a medical&nbsp;certificate to validate his/her absence from school. The school will only accept medical certificates from general practitioners, the polyclinics and other medical institutions (doctors registered with the Singapore Medical Council).
 
   
 
-*   All documents/letters to validate a student’s absence from school must be submitted to the Form Teacher upon the student’s return to school. The school will only accept up to 5 parent’s/guardian’s letters in a year.
+*   All documents/letters to validate a student’s absence from school must&nbsp;be submitted to the Form Teacher upon the student’s return to school. The school will only accept up to 5 parent’s/guardian’s letters in a year.
 
   
 
-*   Failure to notify or validate absence upon return to school will be treated as truancy and appropriate consequences will be meted out.
+*   Failure to notify or validate absence upon return to school will be&nbsp;treated as truancy and appropriate consequences will be meted out.
 
   
 
@@ -61,15 +60,15 @@ description: ""
 
   
 
-*   Students wearing the PE attire are to ensure that their PE shirt is tucked in at all times.
+*   Students wearing the PE attire are to ensure that their PE shirt is tucked&nbsp;in at all times.
 
   
 
-*   Students must wear black canvas/nylon/PVC shoes and if the shoes have laces, they must also be black.
+*   Students must wear black canvas/nylon/PVC shoes and if the shoes&nbsp;have laces, they must also be black.
 
   
 
-*   School socks or plain white socks must be worn such that 5 cm of the socks can be seen.
+*   School socks or plain white socks must be worn such that 5 cm of the&nbsp;socks can be seen.
 
   
 
@@ -89,7 +88,7 @@ description: ""
 
   
 
-*   Students must be neat in appearance, clean-shaven and no facial hair is allowed.
+*   Students must be neat in appearance, clean-shaven and no facial hair is&nbsp;allowed.
 
   
 
@@ -110,13 +109,12 @@ description: ""
 
     *   Shoulder-length/long hair must be neatly tied up with black ribbons/hair bands.
     *   Colourful hair clips/accessories and fanciful hair/head bands are not allowed.
-    *   Fringes must be trimmed and kept above the eyebrows. If fringes are kept long, they must be clipped up and should not cover the face.
+    *   Fringes must be trimmed and kept above the eyebrows. If fringes are&nbsp;kept long, they must be clipped up and should not cover the face.
     *   Hair should not be dyed, tinted or, highlighted.
     *   Only one small black/colourless ear stud or ear stick is allowed on each earlobe.
 
 
-<img src="/images/About%20Us/Our%20School%20Rules.png"  
-     style="width:75%">
+<img src="/images/About%20Us/Our%20School%20Rules.png" style="width:75%">
 
 
 ## 4\. Conduct
@@ -124,10 +122,10 @@ description: ""
 
 *   Students are expected to adhere to the 4 B’s.
 
-    Be Here: Attendance  
-    Be On Time: Punctuality  
-    Be Kind: Good behavior and conduct  
-    Be Safe: Overall safety and well-being
+&nbsp; &nbsp; Be Here: Attendance  
+&nbsp; &nbsp; Be On Time: Punctuality  
+&nbsp; &nbsp; Be Kind: Good behavior and conduct  
+&nbsp; &nbsp; Be Safe: Overall safety and well-being
 
 *   Students must finish all homework and assignments on time.
 
@@ -141,7 +139,7 @@ description: ""
 
   
 
-*   Bullying, including cyber-bullying, is a major offence and is not tolerated in AMKP. 
+*   Bullying, including cyber-bullying, is a major offence and is not tolerated in AMKP.&nbsp;
 
   
 
@@ -189,7 +187,7 @@ description: ""
 ## 7\. Offences and Consequences
 
 
-*   When a student has committed an offence, 
+*   When a student has committed an offence,&nbsp;
 
     *   parents will be informed of the offence committed.
     *   parents/guardians will work with the school to ensure that their child/ward adhere to the school rules.
@@ -198,5 +196,5 @@ description: ""
 
 *   Consequences will be meted out according to the nature of the offence.
 
-For the complete list of **Offences and Consequences**, 
-please refer to the <u>2023 Student Handbook Page 11-12.</u>
+For the complete list of&nbsp;**Offences and Consequences**,&nbsp;
+please refer to the&nbsp;<u>2023 Student Handbook Page 11-12.</u>
