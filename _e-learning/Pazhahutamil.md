@@ -3,13 +3,10 @@ title: Pazhahutamil
 permalink: /e-learning/pazhahutamil/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->PAZHAHUTAMIL
+&gt;PAZHAHUTAMIL
 
 **<font size="5">Login Instructions</font>**
 
-<img src="/images/E%20Learning/pazha%20login.jpg"  
-     style="width:100%">
+<img src="/images/E%20Learning/pazha%20login.jpg" style="width:100%">
 
-Click [here](https://www.pazhahutamil.com/login/) to access Pazhahutamil
-	
+Click&nbsp;[here](https://www.pazhahutamil.com/login/)&nbsp;to access Pazhahutamil
