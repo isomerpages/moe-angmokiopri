@@ -3,10 +3,9 @@ title: Student Development
 permalink: /our-amkp-experience/our-co-curriculum/student-development/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->Student Development
+&gt;Student Development
 
-**<font size="5">Pupil Development Team</font>**
+**<font size="5">Student Development Team</font>**
 
 ![](/images/About%20Us/Our%20AMKP%20Experience/Co%20Curriculum/Student%20Development.jpg)
 
