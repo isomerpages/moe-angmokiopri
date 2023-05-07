@@ -3,8 +3,7 @@ title: Announcement
 permalink: /hidden-page/news-n-announcement/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->News & Announcement
+&gt;News &amp; Announcement
 
 **<font size="5">2023 Term 2 Calendar</font>**
 
