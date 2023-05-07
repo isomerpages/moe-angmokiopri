@@ -3,8 +3,7 @@ title: Contact Us
 permalink: /about-us/contact-us/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg) 
->Contact Us
+&gt;Contact Us
  
  
  **School Address**
@@ -32,8 +31,7 @@ description: ""
 </tbody>
 </table>
 
-<img src="/images/About%20Us/AMKPS%20Map.png"  
-     style="width:50%">
+<img src="/images/About%20Us/AMKPS%20Map.png" style="width:50%">
 
 <table>
 <thead>
