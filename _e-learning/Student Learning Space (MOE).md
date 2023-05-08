@@ -3,8 +3,7 @@ title: Student Learning Space (MOE)
 permalink: /e-learning/student-learning-space-moe/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->STUDENT LEARNING SPACE (MOE)
+&gt;STUDENT LEARNING SPACE (MOE)
 
 **<font size="5">Instructions and FAQs</font>**
 
@@ -12,7 +11,7 @@ Unsure of how to reset your password or what to do when you are logged out of yo
 
 **<font size="5">Navigating SLS</font>**
 
-<img src="/images/E%20Learning/SLS_Login.jpg" style="width:50%"/>
+<img src="/images/E%20Learning/SLS_Login.jpg" style="width:50%">
 
 **A) <u>Logging In</u>**
 
@@ -26,13 +25,13 @@ Click [here](https://vle.learning.moe.edu.sg/login)	to access Student Learning S
 <br>You can find the groups that you are in under the "User Group" tab. 
 To find your homework, go to the "Due Soon/To Do" tab. 
 
-<img src="/images/E%20Learning/SLS_Home.jpg" style="width:75%"/>
+<img src="/images/E%20Learning/SLS_Home.jpg" style="width:75%">
 
 **D) <u>COMPLETING YOUR HOMEWORK</u>**
 1. Click on “OPEN” to begin SLS homework
 2. The “To Do” tab in this picture shows there is 1 activity that is incomplete. All activities have to be completed.
 
-<img src="/images/E%20Learning/SLS_Work.jpg" style="width:75%"/>
+<img src="/images/E%20Learning/SLS_Work.jpg" style="width:75%">
 
 **<font size="5">Helplines</font>**
 
@@ -47,7 +46,7 @@ Mon - Fri<br>
 9am - 9pm (School Holidays)<br>
 Saturdays<br>
 9am - 3pm<br>
-*Closed on Sundays & Public Holidays
+*Closed on Sundays &amp; Public Holidays
 
 
 Email: <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a><br>

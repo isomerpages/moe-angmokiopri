@@ -3,10 +3,7 @@ title: School Executive Committee 2023
 permalink: /about-us/our-people/school-executive-committee-2023/
 description: ""
 ---
-> ![](/images/About%20Us/banner2-with%20bg.jpg)
-> SCHOOL EXECUTIVE COMMITTEE 2023
-
-**SCHOOL EXECUTIVE COMMITTEE 2023**
+&gt; SCHOOL EXECUTIVE COMMITTEE 2023
 
 **School Leaders**
 ![](/images/Our%20People/2023_Sch_Leader.jpeg)
@@ -25,7 +22,7 @@ Mdm Jamilah Syed Ahamed (SH/Mother Tongue)</center>
 
 **PE, Aesthetics and ICT**
 ![](/images/Our%20People/2023_PE_AES_ICT.jpeg)
-<center>From Left: Miss Soh Mei Ling (HOD/PE & Aesthetics), Mr Alan Yong (SH/PE & CCA),
+<center>From Left: Miss Soh Mei Ling (HOD/PE &amp; Aesthetics), Mr Alan Yong (SH/PE &amp; CCA),
 Miss Ang Xiu Qin (SH/ICT), Miss Shirley Toh (SH/Aesthetics)</center>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">

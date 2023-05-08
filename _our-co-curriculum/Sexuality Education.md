@@ -3,8 +3,7 @@ title: Sexuality Education
 permalink: /our-amkp-experience/our-co-curriculum/sexuality-education/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->Sexuality Education
+&gt;Sexuality Education
 
 **<font size="5">SEXUALITY EDUCATION PROGRAMME</font>** <br>
 **MOE Sexuality Education (The Growing Years) in Ang Mo Kio Primary School**
@@ -31,14 +30,14 @@ c) Make responsible decisions for yourself, your family and society; and
 
 d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fprogrammes%2fsocial-and-emotional-learning%2fsexuality-education&user=extranet%5cAnonymous&site=moe-website) for more information on MOE Sexuality Education. 
+You may click [here](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fprogrammes%2fsocial-and-emotional-learning%2fsexuality-education&amp;user=extranet%5cAnonymous&amp;site=moe-website) for more information on MOE Sexuality Education. 
 
 <br>
 
 **<font size="5">Overview of Ang Mo Kio Primary School’s Sexuality Education Programme</font>**
 
 
-**1. Sexuality Education is delivered in a holistic manner** through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fprogrammes%2fsocial-and-emotional-learning%2fsexuality-education&user=extranet%5cAnonymous&site=moe-website) for more information on the scope of Sexuality Education in the school curriculum. 
+**1. Sexuality Education is delivered in a holistic manner** through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fprogrammes%2fsocial-and-emotional-learning%2fsexuality-education&amp;user=extranet%5cAnonymous&amp;site=moe-website) for more information on the scope of Sexuality Education in the school curriculum. 
 
 
 **2.  The subjects that incorporate topics on sexuality include:**
@@ -52,12 +51,12 @@ c.      Character and Citizenship Education (CCE)
 
 
 
-**<font size="5">Growing Years (GY) Programme : “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning Resource Package</font>**
+**<font size="5">Growing Years (GY) Programme : “Curious Minds (2nd Edition)” (Primary 5 &amp; 6) Teaching &amp; Learning Resource Package</font>**
 
 
 1.  The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
 
-2.  The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2 nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes , build healthy relationships , especially online relationships, and exercise safety . 
+2.  The Primary 5 &amp; 6 Growing Years (GY) package, “Curious Minds (2 nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes , build healthy relationships , especially online relationships, and exercise safety . 
 
 **<u>At Ang Mo Kio Primary School, the following lessons from the Growing Years Programme will be taught:</u>** 
 

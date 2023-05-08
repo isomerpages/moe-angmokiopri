@@ -3,8 +3,7 @@ title: Executive & Administrative Staff
 permalink: /about-us/our-people/executive-n-administrative-staff/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->EXECUTIVE & ADMINISTRATIVE STAFF
+&gt;EXECUTIVE &amp; ADMINISTRATIVE STAFF
 
 <table>
 <thead>

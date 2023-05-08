@@ -2,8 +2,7 @@
 title: FAQ
 permalink: /faq/
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->OTHERS
+&gt;OTHERS
 
 **<font size="5">FAQ</font>**<br>
 (Frequently Asked Questions)
@@ -13,16 +12,16 @@ permalink: /faq/
 
 **1\. What are the operating hours of the General Office?**  
 
-The counter at the General Office is manned from 7.00 a.m. to 5.30 p.m., Mondays to Fridays during term time. 
+The counter at the General Office is manned from 7.00 a.m. to 5.30 p.m., Mondays to Fridays during term time.&nbsp;
 
   
 **2\. When are the side gates open?**
 
 The side gates opening hours are as follows:
 
-Mornings:                Mondays to Fridays: 6.50 a.m. - 7.30 a.m.
+Mornings:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Mondays to Fridays: 6.50 a.m. - 7.30 a.m.
 
-Dismissal times:    Mondays to Fridays: 1.30 p.m. - 2.00 p.m.
+Dismissal times:&nbsp;&nbsp; &nbsp;Mondays to Fridays: 1.30 p.m. - 2.00 p.m.
 
   
 
@@ -42,7 +41,7 @@ The uniform supplier is open only on Friday from 11.00 a.m. to 3 p.m. during ter
 
   
 
-Direct School Admission for secondary schools (DSA-Sec) allows students to apply to some schools before taking the PSLE. Students apply based on their talent in sports, CCAs and specific academic areas.
+Direct School Admission for secondary schools (DSA-Sec) allows students to apply to some schools before taking the PSLE.&nbsp;Students apply based on their talent in sports, CCAs and specific academic areas.
 
 If your child is admitted to a secondary school through DSA-Sec, they are not allowed to submit school choices during the Secondary 1 (S1) posting process.
 

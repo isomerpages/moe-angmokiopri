@@ -3,8 +3,7 @@ title: Music
 permalink: /our-amkp-experience/our-curriculum/music/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->Music
+&gt;Music
 
 **<font size="5">Vision</font>**
 
@@ -80,13 +79,11 @@ In the **Expression and Enrich** domains, pupils are able to demonstrate a maste
 
 The aim of the P2 learning journey was to provide an opportunity for the pupils to be exposed to different musical experiences outside of school. Through the learning journey, pupils learn that sounds are created due to a combination of force and a surface of an instrument. Pupils are also highly engaged in the outdoor performance and hands on instrument making session.
 
-<img src="/images/About%20Us/music%20block%201.png"  
-     style="width:75%">
+<img src="/images/About%20Us/music%20block%201.png" style="width:75%">
 
 
 **3. AWESOME Week**
 
 The Open Mic creates a platform for the pupils to showcase their musical talents in singing, dancing and instrumental playing. This platform is popular among the performers and audience alike as they gather at Junction Artz for a session of sing- a-long and support their peers who are performing.
 
-<img src="/images/About%20Us/music%20block%202.png"  
-     style="width:75%">
+<img src="/images/About%20Us/music%20block%202.png" style="width:75%">

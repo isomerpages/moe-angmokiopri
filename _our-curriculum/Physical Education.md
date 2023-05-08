@@ -3,15 +3,7 @@ title: Physical Education
 permalink: /our-amkp-experience/our-curriculum/physical-education/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->Physical Education
-
-**<font size="5">PE Committee</font>**
-
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Dept.jpg"  
-     style="width:75%">
-
-From Left: Ms Soh Mei Ling, Mr Melvin Ong, Mrs Nurlina Diyanah Goh, Mr Mark Chin, Mdm Nadzirah, Mr Alan Yong (SH), Mdm Leny Sriwahyuto, Mrs Tay Kok Chay.
+&gt;Physical Education
 
 **<font size="5">Learning Outcomes</font>**
 
@@ -29,22 +21,17 @@ By the end of P6, all pupils will have experienced the 7 key PE learning areas n
 **PE Lesson Pics**
 
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%201.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%201.png" style="width:80%">
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%202.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%202.png" style="width:80%">
 
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%203.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%203.png" style="width:80%">
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%204.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%204.png" style="width:80%">
 
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%205.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%205.png" style="width:80%">
 
 
 **<font size="5">Key Programmes</font>**
@@ -57,34 +44,29 @@ During the carnival, pupils take part in either carnival-style games or represen
 
 We would also like to convey our appreciation to the Parent Support Group for their continual patronage during the Sports Carnival!
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%206.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%206.png" style="width:80%">
 		 
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%207.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%207.png" style="width:80%">
 
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%208.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%208.png" style="width:80%">
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%209.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%209.png" style="width:80%">
 
 <br><br>
 **<font size="5">For Parents</font>**
 
 The PE department seeks the support of all stakeholders to instil in our pupils the importance ofeating healthy and exercising regularly. Therefore, here are some health tips that can be reiterated at home:
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2010.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2010.png" style="width:80%">
 
 <br>
 
 **<font size="5">Programme for Active Learning</font>**
 
 * PAL is a major initiative to address the need for greater emphasis on non-academic programmes for all P1 and P2 pupils. 
-* It consists of modules of activities in 4 domains namely: **Sports & Games, Outdoor Education(OE), Performing Arts and Visual Arts**, which are carried out within the curriculum time.
+* It consists of modules of activities in 4 domains namely: **Sports &amp; Games, Outdoor Education(OE), Performing Arts and Visual Arts**, which are carried out within the curriculum time.
 
 Here is a break down of the modules that we conduct in AMKPS:
 
@@ -143,13 +125,11 @@ Here is a break down of the modules that we conduct in AMKPS:
 </tbody>
 </table>
 
-**Games & Sports Module:**
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%204.png"  
-     style="width:60%">
+**Games &amp; Sports Module:**
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%204.png" style="width:60%">
 
 **Outdoor Education Module:**
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%205.png"  
-     style="width:60%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20block%205.png" style="width:60%">
 <br>
 
 **2. P5 Camp Resilience**
@@ -178,17 +158,13 @@ At the end of the day, tokens in the form of sports equipmentare given to every 
 The school would also like to place on record our appreciation to the parent volunteers who took time off from their busy schedules to support this event.
 
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2011.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2011.png" style="width:80%">
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2012.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2012.png" style="width:80%">
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2013.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2013.png" style="width:80%">
 		 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2014.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2014.png" style="width:80%">
 
 <br>
 
@@ -203,18 +179,14 @@ This year, a total of 173 Primary 4 pupils participated in this programme. The l
 The school would like to thank the parent volunteers and teachers who acted as chaperones for this programme. Because of their dedicated supervision, the programme was carried out successfully.
 
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2015.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2015.png" style="width:80%">
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2016.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2016.png" style="width:80%">
 
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2017.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2017.png" style="width:80%">
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2018.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2018.png" style="width:80%">
 
 <br>
 
@@ -265,14 +237,11 @@ In AMKP, we hope to expose our pupils to special sports activities that are not 
 </table>
 
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2019.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2019.png" style="width:80%">
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2020.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2020.png" style="width:80%">
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2021.png"  
-     style="width:80%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE/PE%2021.png" style="width:80%">
 
 
 
@@ -282,7 +251,5 @@ To further provide more opportunities for the pupils to be active and resilient,
 
 **2018 Winners**
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%2012.png"  
-     style="width:75%">
-<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%2013.png"  
-     style="width:75%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%2012.png" style="width:75%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/PE%20Block%2013.png" style="width:75%">

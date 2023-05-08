@@ -3,10 +3,9 @@ title: Important Helplines
 permalink: /resources/parents/important-helplines/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->IMPORTANT HELPLINES
+&gt;IMPORTANT HELPLINES
 
-**<font size=5><u>CHILD PROTECTION</u></font>**<br>
+**<font size="5"><u>CHILD PROTECTION</u></font>**<br>
 **Big Love**  
 (Community-based child protection Specialist Centre)  
 Operating Hours: Mon to Fri (9:00AM to 6:00PM)  
@@ -26,13 +25,13 @@ Helpline: 1800-777-0000
 Operating Hours: Mon to Fri (9:00AM to 1:00PM; 2:00PM to 6:00PM)  
 Helpline: 6266-0171  
   
-**<font size=5><u>FAMILY</u></font>** <br>
+**<font size="5"><u>FAMILY</u></font>** <br>
 **Ang Mo Kio Family Services Centre (Ang Mo Kio)**  
-Email: <a href="mailto:amkfsc230@amkfsc.org.sg ">amkfsc230@amkfsc.org.sg </a><br>
+Email: <a href="mailto:amkfsc230@amkfsc.org.sg">amkfsc230@amkfsc.org.sg </a><br>
 Helpline: 6453-5349  
   
 **PPIS (East) - for Malay community**  
-Email: <a href="mailto:fsceast@ppis.sg ">fsceast@ppis.sg </a><br>
+Email: <a href="mailto:fsceast@ppis.sg">fsceast@ppis.sg </a><br>
 Helpline: 6848-4661  
   
 **AWARE - Association of Women for Action and Research**  
@@ -50,7 +49,7 @@ Helpline: 1800-626-2626
 Operating Hours: Mon to Fri (10:00AM to 5:00PM)  
 Helpline: 6476-1482  
   
-**Care Corner Counselling Hotline**   
+**Care Corner Counselling Hotline**&nbsp;  
 Hotline: 1800-353-5800  
   
 **PAVE**<br>
@@ -60,21 +59,21 @@ Helpline: 6555-0390
   
 	
 	
-**<font size=5><u>FINANCIAL AND/OR SOCIAL SERVICES</u></font>** <br>
+**<font size="5"><u>FINANCIAL AND/OR SOCIAL SERVICES</u></font>** <br>
 **ComCare**<br>
 Operating Hours: Daily (7:00AM to 12:00 midnight)  
 Helpline: 1800-222-0000  
   
 		
-**<font size=5><u>SUICIDE PREVENTION</u></font>** <br>  **Samaritans of Singapore (SOS)**<br>
+**<font size="5"><u>SUICIDE PREVENTION</u></font>** <br>  **Samaritans of Singapore (SOS)**<br>
 (For people in crisis, thinking of suicide or affected by suicide)  
 Operating Hours: 24 hours  
 Helpline: 1800-221-4444  
  
  
-**<font size=5><u>SELF-HELP GROUPS</u></font>** <br>
+**<font size="5"><u>SELF-HELP GROUPS</u></font>** <br>
 **Association of Muslim Professionals**  
-Email: <a href="mailto:corporate@amp.org.sg ">corporate@amp.org.sg</a><br>
+Email: <a href="mailto:corporate@amp.org.sg">corporate@amp.org.sg</a><br>
 Helpline: 6416-3966  
   
 **Chinese Development Assistance Council** <br>
@@ -91,6 +90,6 @@ Email:
 <a href="mailto:mendaki@mendaki.org.sg">mendaki@mendaki.org.sg</a><br>
 Helpline: 6245-5555  
   
-**<font size=5><u>SOCIAL SERVICE OFFICES</u></font>** <br>
+**<font size="5"><u>SOCIAL SERVICE OFFICES</u></font>** <br>
 **Social Service Office @Ang Mo Kio**<br>
 Helpline: 1800-222-000

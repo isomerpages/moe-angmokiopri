@@ -3,8 +3,7 @@ title: Character and Citizenship Education
 permalink: /our-amkp-experience/our-co-curriculum/character-and-citizenship-education/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->Character and Citizenship Education
+&gt;Character and Citizenship Education
 
 **<font size="5">Key Programmes</font>**
 

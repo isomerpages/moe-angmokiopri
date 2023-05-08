@@ -3,10 +3,9 @@ title: Table Tennis
 permalink: /our-amkp-experience/cca/table-tennis/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->TABLE TENNIS
+&gt;TABLE TENNIS
 
-**<font size=7>About</font>**
+**<font size="7">About</font>**
 
 Our school team members train twice weekly to hone their skills in both offensive and defensive techniques. Every year, we participate in the zonal and national inter-schools competitions. Besides striving for excellence in competitions, we also place great emphasis in inculcating the school values such as care, respect, responsibility, integrity and resilience in our pupils.
 
@@ -16,7 +15,7 @@ Our school team members train twice weekly to hone their skills in both offensiv
   <li>Mrs Chong Xue Qi</li>
 </ul>
 
-**<font size=7>Training Schedule</font>**
+**<font size="7">Training Schedule</font>**
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
@@ -40,7 +39,7 @@ Our school team members train twice weekly to hone their skills in both offensiv
   </tbody>
 </table>
 
-**<font size=7>Achievements</font>**
+**<font size="7">Achievements</font>**
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>

@@ -3,8 +3,7 @@ title: Basketball
 permalink: /our-amkp-experience/cca/basketball/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->BASKETBALL
+&gt;BASKETBALL
 
 **<font size="5">About</font>**
 

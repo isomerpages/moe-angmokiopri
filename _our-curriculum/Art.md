@@ -3,14 +3,7 @@ title: Art
 permalink: /our-amkp-experience/our-curriculum/art/
 description: ""
 ---
->![](/images/About%20Us/banner2-with%20bg.jpg)
->Art
-
-**<font size="5">Art Committee</font>**
-
-<img src="/images/About%20Us/Our%20AMKP%20Experience/Art%20Dept.jpg"  
-     style="width:75%">
-<center>From left: Mdm Mastura, Mr Tan Kay Yong, Ms Shirley Toh</center>
+&gt;Art
 
 **<font size="5">Learning Outcomes</font>**
 
@@ -18,8 +11,7 @@ description: ""
 * To provide students with opportunity to explore and **express** ways to create and communicate through experiential of different media, art forms and tools to develop their artistic processes. 
 * To empower students with skills to connect and interpret artworks and deepen their **appreciation** and understanding of the values of art in their lives and society.
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/art%202.png"  
-     style="width:75%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/art%202.png" style="width:75%">
 
 **<font size="5">Teaching Approaches</font>**
 
@@ -83,21 +75,15 @@ In the **Expression and Enrich domains**, pupils are able to demonstrate a maste
 </tbody>
 </table>
 
-<img
-src="/images/About%20Us/Our%20AMKP%20Experience/art%203.png"  
-     style="width:75%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/art%203.png" style="width:75%">
 
 **<center>Fig.2  Primary Art Syllabus Framework</center>**
 
 **2. Art Assembly Program**
 
-<img
-src="/images/About%20Us/Our%20AMKP%20Experience/Art%20Block%20Fixed%203.png"  
-     style="width:75%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/Art%20Block%20Fixed%203.png" style="width:75%">
 		 
-<img
-src="/images/About%20Us/Our%20AMKP%20Experience/Art%20Block%20Fixed%204.png"  
-     style="width:75%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/Art%20Block%20Fixed%204.png" style="width:75%">
 
 **3. Aesthetic Week**
 
@@ -106,9 +92,7 @@ src="/images/About%20Us/Our%20AMKP%20Experience/Art%20Block%20Fixed%204.png"
 
 **4. Art Competition (in and outside school) (Exposure)**
 
-<img
-src="/images/About%20Us/Our%20AMKP%20Experience/art%20block%203.png"  
-     style="width:75%">
+<img src="/images/About%20Us/Our%20AMKP%20Experience/art%20block%203.png" style="width:75%">
 		 
 **<font size="5">For Parents</font>**
 
