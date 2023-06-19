@@ -24,6 +24,10 @@ description: ""
   <tr>
     <td><b>Operations Manager</b></td>
     <td>Mr Richard Wee Kheng Hin</td>
+   </tr>
+  <tr>
+    <td><b>Administrative Executive</b></td>
+    <td>Mdm Rosmawati Binte Mohamed </td>
   </tr>
   <tr>
     <td><b>Corporate Support Officer</b></td>
@@ -38,10 +42,14 @@ description: ""
     <td>Mdm Usha Rani d/o Murugam</td>
   </tr>
   <tr>
-    <td><b>Administrative Executive</b></td>
-    <td>Mdm Rosmawati Binte Mohamed </td>
+    <td><b>Corporate Support Officer</b></td>
+    <td>Ms Lin Hui Ling</td>
   </tr>
   <tr>
+    <td><b>Receptionist</b></td>
+    <td>Ms Priscilla Lum</td>
+  </tr>
+  <tr>		
     <td><b>Operations Support Officer</b></td>
     <td>Mdm Ang King Moo </td>
   </tr>
