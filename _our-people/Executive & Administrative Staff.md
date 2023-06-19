@@ -46,6 +46,10 @@ description: ""
     <td>Ms Lin Hui Ling</td>
   </tr>
   <tr>
+    <td><b>Receptionist</b></td>
+    <td>Ms Priscilla Lum</td>
+  </tr>
+  <tr>		
     <td><b>Operations Support Officer</b></td>
     <td>Mdm Ang King Moo </td>
   </tr>
