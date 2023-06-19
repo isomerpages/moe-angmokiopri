@@ -29,9 +29,8 @@ ___
 
 **<font size="5">Interested to join the PSG?</font>**
 
-Parents who are interested to join the PSG, please download the form below and submit a hardcopy to the General Office.
+Parents who are interested to join the PSG, please click [here](https://docs.google.com/forms/d/e/1FAIpQLSeXSgGx-O5FxuGYfX8tMPCdoPB77jZBeA1jrmNShy0yGqI9iQ/viewform) for the application form.
 
-[PSG Sign Up Form](/files/PSG%20Sign%20Up%20Form.pdf)
 
 <br>
 
