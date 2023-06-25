@@ -16,14 +16,13 @@ Mrs Lim Bee Lay (Principal)</center>
 **Academic Subjects**
 ![](/images/Our%20People/2023_Academic_Subj.jpeg)
 <center>From Left: Mr Sudhesh Vasu Dash (HOD/English Language), Mdm Nooraisha Mohamed Ibrahim (SH /Assessment and IPW), Ms Valerie Chua Ruishan (HOD/Mathematics), Mdm Pamela Tock Yan Qing (LH /English Language), Mr Calvin Ong (HOD/Science), Mr Alan Choo (HOD/Mother Tongue Languages),
-Mdm Jamilah Syed Ahamed (SH/Mother Tongue)</center>
+Mdm Jamilah Syed Ahamed (SH/Mother Tongue Languages)</center>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
 **PE, Aesthetics and ICT**
 ![](/images/Our%20People/2023_PE_AES_ICT.jpeg)
-<center>From Left: Miss Soh Mei Ling (HOD/PE &amp; Aesthetics), Mr Alan Yong (SH/PE &amp; CCA),
-Miss Ang Xiu Qin (SH/ICT), Miss Shirley Toh (SH/Aesthetics)</center>
+<center>From Left: Miss Ang Xiu Qin (SH/ICT), Miss Soh Mei Ling (HOD/PE &amp; Aesthetics), Mr Alan Yong (SH/PE &amp; CCA)</center>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
