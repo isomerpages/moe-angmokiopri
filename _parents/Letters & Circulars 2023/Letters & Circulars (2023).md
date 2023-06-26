@@ -30,7 +30,7 @@ Please refer to the links below for the school's CCA letters and schedule.
 
 **Term 2:** [Term 2 CCA Schedule 2023](/files/Resources/Term2_CCA_Schedule_2023.pdf)
 
-**Term 3:** [Term 2 CCA Schedule 2023](/files/Resources/Term2_CCA_Schedule_2023.pdf)
+**Term 3:** [Term 3 CCA Schedule 2023](/files/Resources/term3_cca_schedule_2023.pdf)
 <br>
 
 **<font size="5">2023 Holistic Assessment</font>** <br>
@@ -50,3 +50,5 @@ Please refer to the links below for the 2023 Holistic Assessment letters.
 
 **<font size="5">Newsletters for Parents</font>** <br>
 Please refer to the links below for some articles and newsletters for parents.
+
+No newsletters at the moment.
