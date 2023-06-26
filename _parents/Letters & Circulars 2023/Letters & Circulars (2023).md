@@ -50,3 +50,5 @@ Please refer to the links below for the 2023 Holistic Assessment letters.
 
 **<font size="5">Newsletters for Parents</font>** <br>
 Please refer to the links below for some articles and newsletters for parents.
+
+No newsletters at the moment.
