@@ -25,11 +25,11 @@ third_nav_title: Teaching Staff
 <tbody>
   <tr>
     <td> <b>1 Resilience</b></td>
-    <td><a href="mailto:nur_fitri_faezah_mohamed@moe.edu.sg">Mdm Nur Fitri Faezah Binti Mohamed</a><br><a href="mailto:lin_xiu_judith@moe.edu.sg">Ms Judith Lin Xiu</a><br></td>
+    <td><a href="mailto:nur_fitri_faezah_mohamed@moe.edu.sg">Mdm Nur Fitri Faezah Binti Mohamed</a><br><a href="mailto:irene_ho_cheow_kuang@moe.edu.sg">Mdm Irene Ho</a><br></td>
   </tr>
   <tr>
     <td> <b>1 Respect</b></td>
-    <td><a href="https://angmokiopri-moe-edu-sg-admin.cwp.sg/about-us/our-people/teaching-staff/goog_309251665"> </a><a href="mailto:teo_minghong_marcus@moe.edu.sg">Mr Marcus Teo</a><br><a href="mailto:lee_mei_xuan@moe.edu.sg">Ms Lee Mei Xuan</a><br><a href="mailto:ang_kheng@moe.edu.sg">Mdm Ang Kheng</a><br></td>
+    <td><a href="https://angmokiopri-moe-edu-sg-admin.cwp.sg/about-us/our-people/teaching-staff/goog_309251665"> </a><a href="mailto:teo_minghong_marcus@moe.edu.sg">Mr Marcus Teo</a><br><a href="mailto:ng_yong_jia@moe.edu.sg">Mdm Amelia Ng</a><br><a href="mailto:ang_kheng@moe.edu.sg">Mdm Ang Kheng</a><br></td>
   </tr>
   <tr>
     <td><b>1 Responsibility</b></td>
@@ -140,7 +140,7 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td> <b>3 Excellence</b></td>
-    <td><a href="mailto:faith_ko_hui_min@moe.edu.sg">Ms Faith Ko</a><br><a href="mailto:mohamad_riaz_sulaimi@moe.edu.sg">Mr Mohamad Riaz Sulaimi</a><br><a href="mailto:ng_yong_jiai@moe.edu.sg">Mdm Amelia Ng</a></td>
+    <td><a href="mailto:faith_ko_hui_min@moe.edu.sg">Ms Faith Ko</a><br><a href="mailto:mohamad_riaz_sulaimi@moe.edu.sg">Mr Mohamad Riaz Sulaimi</a><br><a href="mailto:clara_tham_kar_ling@moe.edu.sg">Ms Clara Tham</a></td>
   </tr>
 </tbody>
 </table>
@@ -206,7 +206,7 @@ third_nav_title: Teaching Staff
 <tbody>
   <tr>
     <td><b> 5 Resilience </b></td>
-    <td><a href="mailto:chin_ting_onn_mark@moe.edu.sg">Mr Mark Chin</a><br><a href="mailto:james_philomena_sashikala@moe.edu.sg">Dr. Philomena Mohan</a><br></td>
+    <td><a href="mailto:liao_zi_yan@moe.edu.sg">Ms Liao Ziyan</a><br><a href="mailto:james_philomena_sashikala@moe.edu.sg">Dr. Philomena Mohan</a><br></td>
   </tr>
   <tr>
     <td> <b>5 Respect </b></td>
