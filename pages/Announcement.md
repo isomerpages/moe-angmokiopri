@@ -5,6 +5,14 @@ description: ""
 ---
 &gt;News &amp; Announcement
 
+**<font size="5">2023 Term 3 Termly Letter</font>**
+
+Dear Parents/Guardians and Students,
+
+The 2023 Term 3 Termly Letter is posted and available for your viewing in the school website. Please access the letter via this [link](https://www.angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars-2023/).
+
+<hr style="height:1px;border-width:0;color:gray;background-color:black">
+
 **<font size="5">2023 Term 3 Calendar</font>**
 
 Dear Parents/Guardians and Students,
@@ -30,4 +38,3 @@ Dear Parents/Guardians and Students,
 The 2023 Semester 1 Holistic Assessment letters are posted and available for your viewing in the school website. Please access the letters via this [link](https://www.angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars-2023/).
 
 Thank you.
-
