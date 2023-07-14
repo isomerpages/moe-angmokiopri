@@ -44,13 +44,19 @@ Please refer to the links below for the 2023 Holistic Assessment letters.
 
 **P3:** 
 <br>[AMKP Holistic Assessment Letter to P3 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P3_Holistic_Assessment_Letter_Parents.pdf)
+<br>[AMKP Holistic Assessment Letter to P3 Parents for Semester 2](/files/Resources/Holistic_Assessment_Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p3%20parents%20sem%202_33a.pdf)
 
+**P4:**
+<br>[AMKP Holistic Assessment Letter to P4 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P4_Holistic_Assessment_Letter_Parents.pdf)
+<br>[AMKP Holistic Assessment Letter to P4 Parents for Semester 2](/files/Resources/Holistic_Assessment_Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p4%20parents%20sem%202_33b.pdf)
 
-**P4:**[AMKP Holistic Assessment Letter to P4 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P4_Holistic_Assessment_Letter_Parents.pdf)
+**P5:**
+<br>[AMKP Holistic Assessment Letter to P5 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P5_Holistic_Assessment_Letter_Parents.pdf)
+<br>[AMKP Holistic Assessment Letter to P5 Parents for Semester 2](/files/Resources/Holistic_Assessment_Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p5%20parents%20sem%202_33c.pdf)
 
-**P5:**[AMKP Holistic Assessment Letter to P5 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P5_Holistic_Assessment_Letter_Parents.pdf)
-
-**P6:**[ AMKP Holistic Assessment Letter to P6 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P6_Holistic_Assessment_Letter_Parents.pdf)
+**P6:**
+<br>[ AMKP Holistic Assessment Letter to P6 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P6_Holistic_Assessment_Letter_Parents.pdf)
+<br>[ AMKP Holistic Assessment Letter to P6 Parents for Semester 2](/files/Resources/Holistic_Assessment_Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p6%20parents%20sem%202_33d.pdf)
 
 **<font size="5">Newsletters for Parents</font>** <br>
 Please refer to the links below for some articles and newsletters for parents.
