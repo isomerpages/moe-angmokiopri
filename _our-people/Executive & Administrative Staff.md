@@ -14,7 +14,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td> <b>Administration Manager - ICT</b></td>
+    <td> <b>Administration Manager/ICT</b></td>
     <td>Mr Edmund Goh</td>
   </tr>
   <tr>
