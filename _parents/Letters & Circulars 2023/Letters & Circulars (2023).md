@@ -42,13 +42,15 @@ Please refer to the links below for the 2023 Holistic Assessment letters.
 
 **P2:**[AMKP Holistic Assessment Letter to P2 Parents](/files/Resources/Holistic_Assessment_Letters/P2_Holistic_Assessment_Letter_Parents.pdf)
 
-**P3:** [AMKP Holistic Assessment Letter to P3 Parents](/files/Resources/Holistic_Assessment_Letters/P3_Holistic_Assessment_Letter_Parents.pdf)
+**P3:** 
+<br>[AMKP Holistic Assessment Letter to P3 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P3_Holistic_Assessment_Letter_Parents.pdf)
 
-**P4:**[AMKP Holistic Assessment Letter to P4 Parents](/files/Resources/Holistic_Assessment_Letters/P4_Holistic_Assessment_Letter_Parents.pdf)
 
-**P5:**[AMKP Holistic Assessment Letter to P5 Parents](/files/Resources/Holistic_Assessment_Letters/P5_Holistic_Assessment_Letter_Parents.pdf)
+**P4:**[AMKP Holistic Assessment Letter to P4 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P4_Holistic_Assessment_Letter_Parents.pdf)
 
-**P6:**[ AMKP Holistic Assessment Letter to P6 Parents](/files/Resources/Holistic_Assessment_Letters/P6_Holistic_Assessment_Letter_Parents.pdf)
+**P5:**[AMKP Holistic Assessment Letter to P5 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P5_Holistic_Assessment_Letter_Parents.pdf)
+
+**P6:**[ AMKP Holistic Assessment Letter to P6 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P6_Holistic_Assessment_Letter_Parents.pdf)
 
 **<font size="5">Newsletters for Parents</font>** <br>
 Please refer to the links below for some articles and newsletters for parents.
