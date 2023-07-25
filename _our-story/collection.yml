@@ -2,7 +2,6 @@ collections:
   our-story:
     output: true
     order:
-      - Our Milestones.md
       - Features of Our Celebrations/.keep
       - Features of Our Celebrations/Features of Our Celebrations.md
       - Features of Our Celebrations/Fiesta AMKP Sports Carnival.md
