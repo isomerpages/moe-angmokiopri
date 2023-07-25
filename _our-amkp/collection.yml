@@ -2,5 +2,6 @@ collections:
   our-amkp:
     output: true
     order:
+      - Our Story/.keep
       - Principal's Message 2022.md
       - Our AMKPians' Promise.md
