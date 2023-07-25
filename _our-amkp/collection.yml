@@ -2,7 +2,6 @@ collections:
   our-amkp:
     output: true
     order:
-      - Features of Our Celebrations/.keep
       - Our Story/.keep
       - Our Story/Our Story.md
       - Our Story/40th Anniversary.md
