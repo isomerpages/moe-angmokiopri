@@ -2,7 +2,6 @@ collections:
   our-amkp:
     output: true
     order:
-      - Our People/.keep
       - Principal's Message 2023.md
       - Our Story/.keep
       - Our Story/Our Story.md
@@ -19,4 +18,5 @@ collections:
       - Our School Rules/Desired Outcomes of AMKP Students.md
       - Our School Rules/School Logo.md
       - Our School Rules/School Song.md
+      - Our People/.keep
       - Contact Us.md
