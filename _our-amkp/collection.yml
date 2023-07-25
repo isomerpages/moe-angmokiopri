@@ -1,0 +1,4 @@
+collections:
+  our-amkp:
+    output: true
+    order: []
