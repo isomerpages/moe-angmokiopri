@@ -1,5 +1,4 @@
 collections:
   our-school:
     output: true
-    order:
-      - School Vision, Mission and Values.md
+    order: []
