@@ -2,12 +2,6 @@ collections:
   our-amkp:
     output: true
     order:
-      - Our School Rules/School Vision, Mission and Values.md
-      - Our School Rules/Desired Outcomes of AMKP Students.md
-      - Our School Rules/School Logo.md
-      - Our School Rules/School Song.md
-      - Our School Rules/Our School Rules.md
-      - Our School Rules/.keep
       - Principal's Message 2023.md
       - Our Story/.keep
       - Our Story/Our Story.md
@@ -18,4 +12,10 @@ collections:
       - Our Story/Sharing from an Ex Student.md
       - Our Story/Acknowledgements.md
       - Our AMKPians' Promise.md
+      - Our School Rules/.keep
+      - Our School Rules/School Vision, Mission and Values.md
+      - Our School Rules/Desired Outcomes of AMKP Students.md
+      - Our School Rules/School Logo.md
+      - Our School Rules/School Song.md
+      - Our School Rules/Our School Rules.md
       - Contact Us.md
