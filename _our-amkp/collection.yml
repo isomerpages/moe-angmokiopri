@@ -2,7 +2,6 @@ collections:
   our-amkp:
     output: true
     order:
-      - Contact Us.md
       - Our Story/.keep
       - Our Story/Our Story.md
       - Our Story/40th Anniversary.md
@@ -13,3 +12,4 @@ collections:
       - Our Story/Acknowledgements.md
       - Principal's Message 2023.md
       - Our AMKPians' Promise.md
+      - Contact Us.md
