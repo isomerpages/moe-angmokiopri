@@ -2,7 +2,6 @@ collections:
   our-story:
     output: true
     order:
-      - Foreword about Forty Tude.md
       - Our Logo.md
       - Our Milestones.md
       - Features of Our Celebrations/.keep
