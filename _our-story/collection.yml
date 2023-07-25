@@ -2,7 +2,6 @@ collections:
   our-story:
     output: true
     order:
-      - 40th Anniversary.md
       - Foreword about Forty Tude.md
       - Our Logo.md
       - Our Milestones.md
