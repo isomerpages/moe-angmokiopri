@@ -2,6 +2,7 @@ collections:
   our-amkp:
     output: true
     order:
+      - Our Story/Foreword about Forty Tude.md
       - Our Story/40th Anniversary.md
       - Our Story/Our Story.md
       - Our Story/.keep
