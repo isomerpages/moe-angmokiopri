@@ -2,13 +2,13 @@ collections:
   our-amkp:
     output: true
     order:
-      - Our Story/Sharing from an Ex Student.md
-      - Our Story/Acknowledgements.md
       - Our Story/.keep
       - Our Story/Our Story.md
       - Our Story/40th Anniversary.md
       - Our Story/Foreword about Forty Tude.md
       - Our Story/Our Logo.md
       - Our Story/Our Milestones.md
+      - Our Story/Sharing from an Ex Student.md
+      - Our Story/Acknowledgements.md
       - Principal's Message 2023.md
       - Our AMKPians' Promise.md
