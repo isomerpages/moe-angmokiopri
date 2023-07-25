@@ -3,7 +3,7 @@ title: SENO and School Counsellor
 permalink: /about-us/our-people/teaching-staff/SENO-and-school-counsellor/
 description: ""
 ---
-&gt;SENO and SCHOOL COUNSELLOR
+&gt;Allied Educators
 
 <table>
 <thead>
@@ -26,12 +26,12 @@ description: ""
     <td></td>
   </tr>
   <tr>
-    <td>Mdm Nurasmawiyah</td>
-    <td><a href="mailto:nurasmawiyah_zainal@moe.edu.sg">nurasmawiyah_zainal@moe.edu.sg</a> </td>
+    <td>Ms Adele Chang</td>
+    <td><a href="mailto:chang_chia_yun@moe.edu.sg">chang_chia_yun@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td>Ms Adele Chang</td>
-    <td><a href="mailto:chang_chia_yun@moe.edu.sg">chang_chia_yun@moe.edu.sg</a><br></td>
+    <td>Mdm Nurasmawiyah </td>
+    <td><a href="mailto:nurasmawiyah_zainal@moe.edu.sg">nurasmawiyah_zainal@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Ms Shaleni Batu Malek </td>
@@ -44,10 +44,6 @@ description: ""
   <tr>
     <td><b>School Counsellor</b></td>
     <td> </td>
-  </tr>
-  <tr>
-    <td>Mdm Janie Lim</td>
-    <td><a href="mailto:lim_guat_eng_jenny@moe.edu.sg">lim_guat_eng_jenny@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mrs Tresa Cheong</td>
