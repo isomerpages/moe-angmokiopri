@@ -11,13 +11,15 @@ All staff of Ang Mo Kio Primary School, past and present, with special mention t
   
 \- Mr Chew Mun Wai (Principal)  
 \- Mrs Brenda Seetoh  
-\- Mdm Noohafidzah Bte Shaffi\- Mrs Amy Tan  
+\- Mdm Noohafidzah Bte Shaffi <br>
+\- Mrs Amy Tan  
 \- Mr Ronald Lee  
 \- Mr Alan Yong  
 \- Ms Soh Meiling  
-\- Mdm Norsinah Bte Suadi&nbsp;\- Ms Shirley Toh  
+\- Mdm Norsinah Bte Suadi <br>
+\- Ms Shirley Toh  
 \- Mr Melvin Ong (Website)  
-\- Ms Monica Leong and Ms Nurlina Diyanah Binte Salleh (logo and banner)<br>&nbsp;
+\- Ms Monica Leong and Ms Nurlina Diyanah Binte Salleh (logo and banner)<br>
 \- Mdm Krishna Swamy Nee Reddy Theresa  
 \- Ms Loke-Ho Soo Luan  
 \- Ms Suriati Binte Jahuri  
