@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Our School Rules.md
       - School Vision, Mission and Values.md
       - Desired Outcomes of AMKP Students.md
       - School Logo.md
