@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Sharing from an Ex Student.md
       - Our Milestones.md
       - Our Logo.md
       - Foreword about Forty Tude.md
