@@ -2,5 +2,4 @@ collections:
   our-people:
     output: true
     order:
-      - Executive & Administrative Staff.md
       - MK@AMK.md
