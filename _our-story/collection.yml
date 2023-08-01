@@ -2,11 +2,9 @@ collections:
   our-story:
     output: true
     order:
-      - Acknowledgements.md
-      - Sharing from an Ex Student.md
-      - Our Milestones.md
-      - Our Logo.md
       - Foreword about Forty Tude.md
+      - Our Logo.md
+      - Our Milestones.md
       - Features of Our Celebrations/.keep
       - Features of Our Celebrations/Features of Our Celebrations.md
       - Features of Our Celebrations/Fiesta AMKP Sports Carnival.md
@@ -16,3 +14,5 @@ collections:
       - Features of Our Celebrations/Our Favourite Corners.md
       - Features of Our Celebrations/Feature Magazine.md
       - Features of Our Celebrations/Fountain of Well Wishes.md
+      - Sharing from an Ex Student.md
+      - Acknowledgements.md
