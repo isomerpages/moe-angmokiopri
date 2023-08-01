@@ -3,7 +3,7 @@ title: 2023 Form Teachers
 permalink: /about-us/our-people/teaching-staff/2023-form-teachers/
 description: ""
 ---
-&gt;2023 FORM TEACHERS
+&gt; 2023 FORM TEACHERS
 
 <table>
 <thead>
@@ -58,7 +58,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><b>YH-LB/P2:</b><br></td>
+    <td>YH-LB/P2:</td>
     <td> <a href="mailto:rena_tay_wei_hsuan@moe.edu.sg">Mrs Rena Lee</a></td>
   </tr>
 </thead>
