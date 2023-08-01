@@ -9,6 +9,6 @@ third_nav_title: Our Story
 
  
 
-Welcome to AMKP 40th Anniversary Celebrations webpage!  Follow us as we bring you updates on our celebrations via the drop-down menu above!
+Welcome to AMKP 40th Anniversary Celebrations landing page!  Visit us at our microsite as we bring you updates on our celebrations!
 
 ![](/images/About%20Us/40th%20Anniversary/Coverpic_New.png)
