@@ -1,5 +1,5 @@
 collections:
-  our-story:
+  40th-anniversary:
     output: true
     order:
       - Foreword about Forty Tude.md
