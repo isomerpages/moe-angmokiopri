@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Students/Latest Happenings.md
       - Students/.keep
       - Staff.md
