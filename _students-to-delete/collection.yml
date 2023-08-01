@@ -1,4 +1,4 @@
 collections:
-  students:
+  students-to-delete:
     output: true
     order: []
