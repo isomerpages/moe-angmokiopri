@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Allied Educators.md
       - 2023 Form Teachers.md
       - Executive & Administrative Staff.md
       - MK@AMK.md
