@@ -1,0 +1,4 @@
+collections:
+  our-people-to-delete:
+    output: true
+    order: []

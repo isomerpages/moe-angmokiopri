@@ -1,0 +1,9 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Students/.keep
+      - Students/Latest Happenings.md
+      - Students/Direct Schools Admission (DSA).md
+      - Students/Swimsafer.md
+      - Staff.md
