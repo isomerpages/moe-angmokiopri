@@ -2,6 +2,7 @@ collections:
   our-amkp-experience:
     output: true
     order:
+      - "The Staple: Academic Programme/Physical Education.md"
       - "The Staple: Academic Programme/Music.md"
       - "The Staple: Academic Programme/Art.md"
       - "The Staple: Academic Programme/.keep"
