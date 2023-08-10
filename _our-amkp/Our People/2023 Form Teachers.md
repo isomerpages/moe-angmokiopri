@@ -183,10 +183,6 @@ third_nav_title: Our People
     <td><b>AYH P5:</b></td>
     <td> <a href="mailto:abdul_razif_mohammad_rizal@moe.edu.sg">Mr Abdul Razif</a></td>
   </tr>
-</thead>
-</table>
-<table>
-<thead>
   <tr>
     <th>Class</th>
     <th>Form Teachers</th>
@@ -216,6 +212,7 @@ third_nav_title: Our People
 </tbody>
 </table>
 
+
 <br><br>
 
 <table>
@@ -224,10 +221,6 @@ third_nav_title: Our People
     <td><b>AYH P6:</b></td>
     <td> <a href="mailto:rames_ponpanden@moe.edu.sg">Mr Rames s/o Ponpanden</a></td>
   </tr>
-</thead>
-</table>
-<table>
-<thead>
   <tr>
     <th>Class</th>
     <th>Form Teacher</th>
