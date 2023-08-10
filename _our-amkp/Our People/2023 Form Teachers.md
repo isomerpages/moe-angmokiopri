@@ -145,10 +145,6 @@ third_nav_title: Our People
     <td><b>AYH P4:</b></td>
     <td> <a href="mailto:yong_yao_feng@moe.edu.sg">Mr Yong Yao Feng</a></td>
   </tr>
-</thead>
-</table>
-<table>
-<thead>
   <tr>
     <th>Class</th>
     <th>Form Teachers</th>
@@ -177,6 +173,7 @@ third_nav_title: Our People
   </tr>
 </tbody>
 </table>
+
 
 <br><br>
 
