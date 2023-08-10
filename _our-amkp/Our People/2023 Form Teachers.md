@@ -13,11 +13,6 @@ third_nav_title: Our People
     <td><b>AYH P1:</b></td>
     <td><a href="mailto:suganthi_mariappan@moe.edu.sg">Ms Suganthi d/o Mariappan</a></td>
   </tr>
-</thead>
-</table>
-
-<table>
-<thead>
   <tr>
     <th>Class</th>
     <th>Form Teachers</th>
@@ -30,7 +25,7 @@ third_nav_title: Our People
   </tr>
   <tr>
     <td><b>1 Respect</b></td>
-    <td><a href="mailto:teo_minghong_marcus@moe.edu.sg">Mr Marcus Teo</a><br><a href="mailto:ng_yong_jia@moe.edu.sg">Mdm Amelia Ng</a><br><a href="mailto:ang_kheng@moe.edu.sg">Mdm Ang Kheng</a></td>
+    <td><a href="https://angmokiopri-moe-edu-sg-admin.cwp.sg/about-us/our-people/teaching-staff/goog_309251665">Mr Marcus Teo</a><br><a href="mailto:ng_yong_jia@moe.edu.sg">Mdm Amelia Ng</a><br><a href="mailto:ang_kheng@moe.edu.sg">Mdm Ang Kheng</a></td>
   </tr>
   <tr>
     <td><b>1 Responsibility</b></td>
@@ -58,16 +53,18 @@ third_nav_title: Our People
 
 
 
+
 <br><br>
 
 <table>
 <thead>
   <tr>
-    <td>YH-LB/P2:</td>
-    <td> <a href="mailto:rena_tay_wei_hsuan@moe.edu.sg">Mrs Rena Lee</a></td>
+    <td><b>YH-LB/P2:</b></td>
+    <td><a href="mailto:rena_tay_wei_hsuan@moe.edu.sg">Mrs Rena Lee</a></td>
   </tr>
 </thead>
 </table>
+
 
 <table>
 <thead>
