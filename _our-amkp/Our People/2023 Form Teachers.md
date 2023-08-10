@@ -62,12 +62,6 @@ third_nav_title: Our People
     <td><b>YH-LB/P2:</b></td>
     <td><a href="mailto:rena_tay_wei_hsuan@moe.edu.sg">Mrs Rena Lee</a></td>
   </tr>
-</thead>
-</table>
-
-
-<table>
-<thead>
   <tr>
     <th>Class</th>
     <th>Form Teachers</th>
@@ -75,11 +69,11 @@ third_nav_title: Our People
 </thead>
 <tbody>
   <tr>
-    <td> <b>2 Resilience</b></td>
+    <td><b>2 Resilience</b></td>
     <td><a href="mailto:teo_jason@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mr Jason Teo</a><br><a href="mailto:wong_ziwei_michelle@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mrs Michelle Tan</a><br></td>
   </tr>
   <tr>
-    <td><b>2 Respect </b></td>
+    <td><b>2 Respect</b></td>
     <td><a href="mailto:koh_esheen@moe.edu.sg">Ms Esheen Koh</a><br><a href="mailto:shamine_santhana_krishnan@moe.edu.sg">Ms Shamine d/o Santhana Krishnan</a><br></td>
   </tr>
   <tr>
@@ -95,11 +89,11 @@ third_nav_title: Our People
     <td><a href="mailto:low_ying_yan_adeline@moe.edu.sg">Ms Adeline Low</a><br><a href="mailto:ang_wei_lin@moe.edu.sg">Mrs Wang Wei Lin</a><br><a href="mailto:wu_zhiying@moe.edu.sg">Ms Wu Zhiying</a> <br></td>
   </tr>
   <tr>
-    <td> <b>2 Courage</b></td>
-    <td><a href="mailto:wu_sufang@moe.edu.sg">Ms Wu Sufang</a><br> <a href="mailto:chee_wai_yee@moe.edu.sg">Mdm Chee Wai Yee</a><br></td>
+    <td><b>2 Courage</b></td>
+    <td><a href="mailto:wu_sufang@moe.edu.sg">Ms Wu Sufang</a><br><a href="mailto:chee_wai_yee@moe.edu.sg">Mdm Chee Wai Yee</a><br></td>
   </tr>
   <tr>
-    <td> <b>2 Excellence</b></td>
+    <td><b>2 Excellence</b></td>
     <td><a href="mailto:chang_shuyun@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Chang Shuyun</a><br><a href="mailto:suzana_mohamed_gasaly@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Suzana Bte Mohd Gasaly</a><br><a href="mailto:tan_wei_ling_annette@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mrs Annette Ong</a></td>
   </tr>
 </tbody>
@@ -113,10 +107,6 @@ third_nav_title: Our People
     <td><b>YH-UB/P3:</b></td>
     <td> <a href="mailto:tan_lee_choo_a@moe.edu.sg">Ms Agnes Tan</a></td>
   </tr>
-</thead>
-</table>
-<table>
-<thead>
   <tr>
     <th>Class</th>
     <th>Form Teachers</th>
@@ -145,6 +135,7 @@ third_nav_title: Our People
   </tr>
 </tbody>
 </table>
+
 
 <br><br>
 
