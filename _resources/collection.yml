@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Parents/.keep
       - Students/.keep
       - Students/Latest Happenings.md
       - Students/Direct Schools Admission (DSA).md
