@@ -15,6 +15,8 @@ Please refer to the links below for the school's termly calendar.
 
 **[Term 3 Calendar](https://docs.google.com/spreadsheets/d/1MPVMFm1jNg4SPX4xuKQZGugBC3tV3BVX/edit?usp=sharing&amp;ouid=107219167406396481602&amp;rtpof=true&amp;sd=true)**
 
+**[Term 4 Calendar](https://docs.google.com/spreadsheets/d/1ZoRpjAAk6kUx4dKGevXHf47Th92z0_Wj/edit?usp=sharing&amp;ouid=107219167406396481602&amp;rtpof=true&amp;sd=true)**
+
 **<font size="5">Termly Letters</font>**<br>
 Please refer to the links below for the school's Termly letters and schedule.
 
