@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Parents/Parents Gateway.md
       - Parents/Important Helplines.md
       - Parents/.keep
       - Students/.keep
