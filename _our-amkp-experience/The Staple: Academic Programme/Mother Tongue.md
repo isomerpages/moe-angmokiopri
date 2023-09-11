@@ -4,46 +4,33 @@ permalink: /our-amkp-experience/our-curriculum/mother-tongue/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
 ---
-&gt;Mother Tongue
+&gt;Mother Tongue Languages
 
-**<font size="5">Learning Outcomes</font>** 
-<br>Active Learners, Proficient Users
-*<br>(Objective in the Teaching and Learning of MTL is to develop proficient language users)*
+**<font size="5">Our Aim</font>** 
+* Through the teaching and learning of reading, writing, speaking and listening components of Mother Tongue Languages in AMKP, we hope to nurture active learners and proficient users of Mother Tongue Languages with an understanding of their unique identity through a deep appreciation of culture, traditions, literature and history, while connecting with communities across Asia and the people who speak the language or share the culture
 
-* **Communication** - This is a valuable skill for life and work. In addition to their mastery of the English language, proficiency and ability to communicate in MTL gives Singaporeans a competitive edge.
-* **Culture** - Learning MTL enables our students to understand and develop their unique identity through a deeper appreciation of culture, traditions, literature and history. This is a critical base to preserve the transmission of cultural values and traditions associated with each MTL in our society.
-* **Connection** - Proficiency in MTL enables our students to connect with communities across Asia and the people who speak that language or share that culture.
+**<font size="5">Our Approach</font>** 
+* To achieve this, the language learning experience in AMKP is made “visible, inclusive and authentic” with the following approaches:
+	* Performance-based tasks (show-n-tell, story-telling, poetry recital, group work, role play and games)
+	* Gradual Release of Responsibility (GRR) - A teaching approach that transitions students to eventually assume all the responsibility for their learning (self-directed learning).
+	* e-Pedagogy
+	* Formative Assessment (FA) Strategies
+	* Differentiated Instruction (DI) 
 
-**<font size="5">Teaching Approaches</font>** 
+**<font size="5">Our Key Programmes</font>** 
+
+1. Mother Tongue Fortnight (P1-P6)
+* Mother Tongue Language (MTL) Fortnight aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures. Students are exposed to a wide variety of activities such as Chinese puppet making, Chinese knot-tying, Batik and kite making, and Indian martial arts appreciation during these two eventful weeks, with the objective that these cultural activities would deepen our students' understanding of their cultural roots and promote the learning of MTL in a fun and engagement way.
+
+2. Reading Programme (P1-P6) 
+* Reading is instrumental to development of language competency. At AMKP, the MTL reading programme includes setting up reading corners in the classroom with interesting and age-appropriate story books, organisation of reading promotion activities such as book review and reading portfolio, and  partnership with the National Library Board for mass borrowing to promote MTL reading activities.
+
+3. E-Learning Portals (P1-P6)
+* E-Learning is an integral part in the teaching and learning of mother tongue languages, providing students with self-directed and self-paced learning beyond classroom hours using the following portals:
+	* Etutoronline (CL): http://ezhishi.net
+	* Maanavar Murasu (TL): https://www.tamilmurasu.com.sg/students/
+
+4. Mother Tongue Support Programme (MTSP) (P3-P4)
+* Conducted by trained school teachers, MTSP focuses on building stronger foundation in students' oracy and literacy skills for our students who need additional support in their literacy development. 
 
 
-* A variety of learning approaches and activities are organised, designed and taught to develop proficient users who can communicate effectively using the language in real-life contexts and apply it in inter-personal communication, so as to make MTL directly relevant to students and a living language. Such activities include more performance-based tasks (show-n-tell, story-telling, poetry recital, group work, role play and games).
-
-* We leverage on our students’ familiarity and regular use of ICT for MTL learning. There is greater use of ICT platforms to create realistic, interactive settings that test students’ ability to use the language effectively and meaningfully.  The use of iMTL portal also strengthen oracy learning.
-
-* Holistic Assessment (HA) - ongoing feedback to learners on how the can improve their learning. Formative approaches (e.g. skilful questioning techniques, regular and timely feedback, self and peer assessment) are integrated into everyday teaching and learning to help enhance students’ learning.
-
-**<font size="5">Key Programmes</font>** 
-
-**Mother Tongue Fortnight / P3 Language &amp; Cultural Programme**
-<br>Creating an environment more conducive for authentic usage and learning. Students are exposed to culture and values which will enhance their learning experience and inspire their interest in MTL.
-
-<img src="/images/About%20Us/Our%20AMKP%20Experience/Mother%20Tongue%20Block%201.png" style="width:75%">
-
-**Reading Programme**
-<br>To ensure strong MTL reading programmes, schools has purchased more interesting and age-appropriate story books, set up reading corners in the classroom and organize wide ranging reading-promotion activities such as book review and reading portfolio. We also 
-engage the National Library Board for mass borrowing to promote MTL reading activities.
-
-<img src="/images/About%20Us/Our%20AMKP%20Experience/Mother%20Tongue%20Block%202.png" style="width:75%">
-
-**E-Learning Portals**
-<br>E-Learning is an integral part in the teaching and learning of the students. Students are able to have self-directed and self-paced continuous learning beyond classroom hours using the following portals:
-
-* [IMTL Portal](https://imtl.moe.edu.sg)
-* [Xue Le (CL)](http://xuele.moe.edu.sg)
-* [Etutoronline (CL)](http://ezhishi.net)
-* [Pazhahutamil (TL)](https://www.pazhahutamil.com/login/)
-
-**<font size="5">Engaging Parents in MTL Learning</font>**
-
-Support of parents is vital to language learning and development. The MT Department of Ang Mo Kio Primary School has the Let’s Read Reading Programme that encourages parents to support their children in their efforts at learning MTL, where they read together with the child and guide pupils in doing the reading activity sheet.
