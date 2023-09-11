@@ -4,7 +4,7 @@ permalink: /our-amkp-experience/our-curriculum/english/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
 ---
-&gt;ENGLISH
+&gt;English
 
 **<font size="5">Our Aim</font>**
 * Through the teaching and learning of reading, writing, speaking and listening components of English Language in AMKP, we hope to nurture confident communicators who enjoy **learning** and **using** English.
@@ -45,4 +45,3 @@ third_nav_title: "The Staple: Academic Programme"
 5) POISE@AMKP – Applied Learning Programme (P1-P6)
 * An oracy programme designed specially for our students with the aim of developing them into outstanding, inspired and sensitive communicators.
 * The programme will include the explicit teaching of oracy skills and opportunities for students to apply what they have learnt.
-
