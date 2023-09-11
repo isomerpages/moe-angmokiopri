@@ -6,11 +6,9 @@ third_nav_title: "The Staple: Academic Programme"
 ---
 &gt;Mathematics
 
-**<font size="5">Learning Outcomes</font>**
+**<font size="5">Our Aim</font>**
 
-* To nurture skillful and confident problem-solvers
-* To empower individuals to apply Math thinking skills to a variety of authentic contexts
-* To acquire cognitive and meta-cognitive process skills through carefully constructed learning experiences
+* Through the teaching and learning of mathematics in AMKP, we hope to nurture skillful and confident problem solvers with positive attitudes to mathematics , well-equipped with cognitive, meta-cognitive, reasoning and communicative skills to solve problems in a variety of authentic contexts
 
 **<font size="5">Teaching Approaches</font>**
 
