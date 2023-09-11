@@ -1,0 +1,4 @@
+collections:
+  our-curriculum-to-delete:
+    output: true
+    order: []

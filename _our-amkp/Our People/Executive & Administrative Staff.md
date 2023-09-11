@@ -20,11 +20,11 @@ third_nav_title: Our People
   </tr>
   <tr>
     <td><b>Operations Manager</b></td>
-    <td>Mrs Nurlina Diyanah Goh</td>
+    <td>Mr Richard Wee Kheng Hin</td>
   </tr>
   <tr>
-    <td><b>Operations Manager</b></td>
-    <td>Mr Richard Wee Kheng Hin</td>
+    <td><b>Administrative Executive</b></td>
+    <td>Mrs Nurlina Diyanah Goh</td>
    </tr>
   <tr>
     <td><b>Administrative Executive</b></td>

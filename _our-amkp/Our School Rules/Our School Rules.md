@@ -6,8 +6,7 @@ third_nav_title: Our School Rules
 ---
 &gt; Our School Rules
 
-
-## 1\. Respect for Singapore and the School
+**1. Respect for Singapore and the School**
 
 
 *   Students who are Singapore citizens must sing the National Anthem&nbsp;and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
@@ -26,8 +25,7 @@ third_nav_title: Our School Rules
 
   
 
-## 2\. Attendance and Punctuality
-
+**2. Attendance and Punctuality**
 
 *   Attendance is compulsory. All students are to be in school by 7.30 a.m. for&nbsp;the flag-raising ceremony.
 
@@ -53,8 +51,7 @@ third_nav_title: Our School Rules
 
   
 
-## 3\. School Attire and Appearance
-
+**3. School Attire and Appearance**
 
 *   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.  
     
@@ -118,15 +115,14 @@ third_nav_title: Our School Rules
 <img src="/images/About%20Us/Our%20School%20Rules.png" style="width:75%">
 
 
-## 4\. Conduct
-
+**4. Conduct**
 
 *   Students are expected to adhere to the 4 B’s.
 
-&nbsp; &nbsp; Be Here: Attendance  
-&nbsp; &nbsp; Be On Time: Punctuality  
-&nbsp; &nbsp; Be Kind: Good behavior and conduct  
-&nbsp; &nbsp; Be Safe: Overall safety and well-being
+&nbsp; &nbsp; **Be Here**: Attendance  
+&nbsp; &nbsp; **Be On Time**: Punctuality  
+&nbsp; &nbsp; **Be Kind**: Good behavior and conduct  
+&nbsp; &nbsp; **Be Safe**: Overall safety and well-being
 
 *   Students must finish all homework and assignments on time.
 
@@ -146,10 +142,8 @@ third_nav_title: Our School Rules
 
 *   Student are not allowed to leave the school premises without permission.
 
-  
 
-## 5\. Use of Electronic Devices in School
-
+**5. Use of Electronic Devices in School**
 
 *   Students are discouraged from bringing mobile phones and electronic devices to school.
 
@@ -169,10 +163,8 @@ third_nav_title: Our School Rules
 
 *   In the event of misuse/abuse of the mobile devices, the school will safekeep the devices for the purpose of investigation. The devices will only be returned to parents after the investigation.
 
-  
 
-## 6\. Items Not to be Brought to School
-
+**6. Items Not to be Brought to School**
 
 *   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others
 
@@ -183,10 +175,7 @@ third_nav_title: Our School Rules
     *   Game cards or trading cards
     *   Chewing gum or bubble gum
 
-  
-
-## 7\. Offences and Consequences
-
+**7. Offences and Consequences**
 
 *   When a student has committed an offence,&nbsp;
 
