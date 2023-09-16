@@ -4,7 +4,8 @@ permalink: /our-amkp-experience/the-staple-academic-programme/mathematics/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
 ---
-&gt;Mathematics
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Mathematics**
 
 **<font size="5">Our Aim</font>**
 
