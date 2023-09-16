@@ -1,8 +1,7 @@
 ---
-title: "The Staple: Academic Programme"
-permalink: /our-amkp-experience/the-staple-academic-programme/permalink/
+title: The Staple
+permalink: /our-amkp-experience/the-staple/permalink/
 description: ""
-third_nav_title: "The Staple: Academic Programme"
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**The Staple: Academic Programme**
