@@ -4,9 +4,10 @@ permalink: /resources/parents/parents-support-group-psg/
 description: ""
 third_nav_title: Parents
 ---
-&gt;PARENTS SUPPORT GROUP (PSG)
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Parents Support Group (PSG)**
 
-<img src="/images/Resources/PSG%201.jpg" style="width:100%">
+<br><img src="/images/Resources/PSG%201.jpg" style="width:100%">
 
 Chair:&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;Mdm Jaishree Nimesh  
 PSG EXCO Members:&nbsp;&nbsp;Mdm&nbsp;Magdalene Yeo  
