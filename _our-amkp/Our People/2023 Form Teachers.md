@@ -8,18 +8,6 @@ third_nav_title: Our People
 
 ##### 2023 FORM TEACHERS
 
-
-| AYH P1: | [Ms Suganthi d/o Mariappan](mailto:suganthi_mariappan@moe.edu.sg)|
-| -------- | -------- |
-
-| Class | Form Teachers |
-| -------- | -------- |
-| **1 Resilience**    | [Mdm Nur Fitri Faezah Binti Mohamed](mailto:nur_fitri_faezah_mohamed@moe.edu.sg) <br>  [Mdm Irene Ho](mailto:irene_ho_cheow_kuang@moe.edu.sg)   |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-
-
 <table>
 <thead>
   <tr>
