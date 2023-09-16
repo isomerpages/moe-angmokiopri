@@ -4,7 +4,8 @@ permalink: /our-amkp-experience/the-staple-academic-programme/english/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
 ---
-&gt;English
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**English**
 
 **<font size="5">Our Aim</font>**
 * Through the teaching and learning of reading, writing, speaking and listening components of English Language in AMKP, we hope to nurture confident communicators who enjoy **learning** and **using** English.
