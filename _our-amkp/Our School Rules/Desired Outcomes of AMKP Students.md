@@ -10,7 +10,7 @@ third_nav_title: Our School Rules
 With the aim to nurture every child to be a confident AMKPian, we believe that he or she must be able to:  
   
 
-## Confident Person
+#### Confident Person
 
 
 *   Distinguishes right from wrong
@@ -21,7 +21,7 @@ With the aim to nurture every child to be a confident AMKPian, we believe that h
 
   
 
-## Joyful Learner
+#### Joyful Learner
 
 
 *   Asks questions to find out more
@@ -32,7 +32,7 @@ With the aim to nurture every child to be a confident AMKPian, we believe that h
 
   
 
-## Caring Citizens
+#### Caring Citizens
 
 
 *   Respects ideas and perspectives shared by peers
