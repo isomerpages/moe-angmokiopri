@@ -19,7 +19,7 @@ links:
     url: /our-amkp-experience/permalink/
     sublinks:
       - title: The Staple
-        url: /our-amkp-experience/our-curriculum/english
+        url: /our-amkp-experience/the-staple-academic-programme/permalink/
       - title: Our Co-Curriculum
         url: /our-amkp-experience/our-co-curriculum/info-communication-technology
       - title: CCA
@@ -28,8 +28,6 @@ links:
     collection: achievements
   - title: E-Learning
     collection: e-learning
-  - title: MOE Kindergarten@AMK
-    collection: moe-kindergarten-at-amk
   - title: Resources
     url: /resources/parents/parents-support-group-psg
     sublinks:
@@ -39,3 +37,5 @@ links:
         url: /resources/students/latest-happenings
       - title: Staff
         url: /resources/staff
+  - title: MOE Kindergarten@AMK
+    collection: moe-kindergarten-at-amk

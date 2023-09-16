@@ -4,7 +4,7 @@ permalink: /resources/students/latest-happenings/
 description: ""
 third_nav_title: Students
 ---
-&gt;LATEST HAPPENINGS
+![Sub-banner](/images/sub%20banner.jpg)&gt;**Latest Happenings**
 
 **<font size="5">How to Wear a Face Shield</font>**
 

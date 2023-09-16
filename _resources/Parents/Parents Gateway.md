@@ -4,7 +4,8 @@ permalink: /resources/parents/parents-gateway/
 description: ""
 third_nav_title: Parents
 ---
-&gt;PARENTS GATEWAY
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Parents Gateway**
 
 Ang Mo Kio Primary School is now onboard Parents Gateway.&nbsp;&nbsp;Parents Gateway is a mobile app specially designed for parents. Developed by MOE&nbsp;and GovTech, the app allows parents to engage with schools, receive information and perform a range of administrative functions such as giving consent for school trips.
 

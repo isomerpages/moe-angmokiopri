@@ -3,7 +3,8 @@ title: Scouts
 permalink: /our-amkp-experience/cca/scouts/
 description: ""
 ---
-&gt;SCOUTS
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Scouts**
 
 **<font size="5">About</font>**
 

@@ -3,7 +3,8 @@ title: Modern Dance
 permalink: /our-amkp-experience/cca/modern-dance/
 description: ""
 ---
-&gt;MODERN DANCE
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Modern Dance**
 
 **<font size="5">About</font>**
 

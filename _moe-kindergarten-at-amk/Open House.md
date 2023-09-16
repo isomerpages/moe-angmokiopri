@@ -5,7 +5,7 @@ description: ""
 ---
 >Open House
 
-## 2023 MK Open House Registration
+#### 2023 MK Open House Registration
 
 
 Keen to find out what MOE Kindergarten has to offer?  

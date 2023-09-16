@@ -10,13 +10,13 @@ description: ""
 Check out this page for **Tips**, **Task** and **Activities** for Parents!  
   
 
-## Tips and Activities
+#### Tips and Activities
 
 
 Here are some tips and activities that can be carried out at home to reinforce at home.  
   
 
-## Updates for Parents
+#### Updates for Parents
 
 
 Here are some updates for parents. You may also access these via Parents Gateway (PG).

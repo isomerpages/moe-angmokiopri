@@ -1,37 +1,38 @@
 ---
 title: Mathematics
-permalink: /our-amkp-experience/our-curriculum/mathematics/
+permalink: /our-amkp-experience/the-staple-academic-programme/mathematics/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
 ---
-&gt;Mathematics
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Mathematics**
 
-**<font size="5">Learning Outcomes</font>**
+**<font size="5">Our Aim</font>**
 
-* To nurture skillful and confident problem-solvers
-* To empower individuals to apply Math thinking skills to a variety of authentic contexts
-* To acquire cognitive and meta-cognitive process skills through carefully constructed learning experiences
+* Through the teaching and learning of mathematics in AMKP, we hope to nurture skillful and confident problem solvers with positive attitudes to mathematics , well-equipped with cognitive, meta-cognitive, reasoning and communicative skills to solve problems in a variety of authentic contexts
 
-**<font size="5">Teaching Approaches</font>**
+**<font size="5">Our Approach</font>**
 
-The Mathematics department believes that every student should be provided with a variety of learning experiences to help him or her develop a deep understanding in mathematical concepts, and to make sense of various mathematical ideas, as well as their connections and applications in real-life situations. 
+* To achieve this, the mathematics learning experience in AMKP is made “visible, inclusive and authentic” with the following approaches:
+	* FREMC-structured lessons: Factual Fluency, Readiness, Engagement, Mastery and Consolidation
+	* Gradual Release of Responsibility (GRR): ‘I do. We do. You do’ guided practice
+	* Concrete-Pictorial-Abstract (**CPA**) approach 
+	* **UnPAC!** - **U**nderstand, **P**lan, **A**ct and **C**heck
+	* Mathematical Journaling to emphasise communication and reasoning skills
+	* Blended Learning via Student Learning Space (SLS) and Koobits
+	* Formative Assessment (FA) Strategies 
+	* Differentiated Instruction (DI) 
 
-In the teaching of Mathematics, we advocate the Concrete-Pictorial-Abstract approach to help students build a strong foundation in the learning of mathematics. Students are also exposed to various problem-solving skills, thinking skills and heuristics, and how these skills can be applied to solve problems.  
+**<font size="5">Our Key Programmes</font>**
 
-We take pride in ensuring that collaborative and experiential learning experiences are weaved into Math lessons to make the learning of mathematics fun, meaningful and relevant for our students.
+1. Math Fi.e.s.t.a (P1 - P6)
+* Math **Fi.e.s.t.a** (***FI***nancial literacy, ***E***xploration, ***S***cience, ***T***echnology, ***A***ppreciation) is AMKP’s refreshed and distinctive mathematics programme, that provides students with rich learning experiences within and beyond the classroom, to ignite the joy of learning mathematics, and make learning visible, inclusive and authentic. 
 
-**<font size="5">Key Programmes</font>**
+2. Learning Support for Mathematics (LSM) Programme (P1-P2)
+* This specialised early intervention programme conducted by LSM-trained teachers helps students who need additional help with Mathematics to develop basic numeracy skills. Students are identified to attend this programme through screening conducted upon school entry. 
 
-**Math Fiesta (P1 - P6)**
-<br>The Math Fiesta is an annual event that offers a stimulating platform for pupils from all levels to apply Math problem solving skills in a variety of scenarios. We transform our Mathematics classrooms to allow our students to interact with and challenge their peers in some healthy and fun investigative tasks.
+3. ICAN Programme - Improving Confidence and Achievement in Numeracy (P3-P6)
+* The ICAN programme aims to better support and motivate students to acquire knowledge and skills in numeracy, enhance memory retention and raise students’ confidence levels in Mathematics through intervention strategies that are guided by research. These lessons follow the FREMC structure – Factual Fluency, Readiness, Engagement, Mastery and Consolidation. 
 
-<img src="/images/About%20Us/Our%20AMKP%20Experience/math%20block%201.png" style="width:75%">
-
-**Games Galore (P1 - P4)**
-<br>Through Mathematics-based games and activities, we encourage and guide our students to construct and master their knowledge of Mathematics. Fun and interactive Math games and activities are made available during recess for pupils looking for a good time whilst reinforcing Math concepts. They even get to try their hand in the award-winning game system on the iPad that promotes hands-on play. Recesses will never look the same again!
-
-<img src="/images/About%20Us/Our%20AMKP%20Experience/math%20block%202.png" style="width:75%">
-
-
-**E2K &amp; Olympiad program**
-<br>Targeted and tailored for upper primary pupils who demonstrate interest and aptitude in Mathematics. These programs aim to develop mathematical reasoning skills and deepen their conceptual understanding of the subject through an inquiry approach.
+5. Excellence 2000 (E2K) Mathematics Programme (P4-P5)
+* Conducted by school teachers who have been trained in the E2K pedagogy, this programme aims to develop the mathematical reasoning skills of High Progress Learners in Mathematics and deepen their conceptual understanding through an inquiry approach.

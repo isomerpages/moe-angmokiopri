@@ -4,87 +4,34 @@ permalink: /our-amkp-experience/our-curriculum/music/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
 ---
-&gt;Music
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Music**
 
-**<font size="5">Vision</font>**
+**<font size="5">Our Aim</font>**
+* Through the teaching and learning of music in AMKP, we hope to develop in our students an awareness and appreciation for music in local and global cultures and ability for creative expression and communication through music while providing the basis to develop an informed and life-long involvement in music.
 
-A community of creative pupils who are enthusiastic in musical performances, improvising new rhythms and movements.
+**<font size="5">Our Approach</font>**
+* To achieve this, the music learning experience in AMKP is made “visible, inclusive and authentic” with the following approaches:
+	* Experience-Concept-Application (ECA) Approach 
+	* ICT-enabled music learning 
+	* Collaborative music making 
+	* Kodaly (performing, singing, instrumental learning, creating, listening, critical thinking and musical literacy) 
+	* Dalcroze Eurhythmics (music learning involving movement of all parts of the body to enhance co-ordination, concentration and the ability to feel music with the whole body) 
+	* Orff Schulwerk (focusing on creative music making through “play”, singing, chanting rhymes, clapping, dancing, and keeping a beat on anything near at hand)
+	* Gradual Release of Responsibility (GRR) - A teaching approach that transitions students to eventually assume all the responsibility for their learning (self-directed learning).
+	* Formative Assessment (FA) Strategies 
+	* Differentiated Instruction (DI)
 
-**<font size="5">Mission</font>**
+**<font size="5">Our Key Programmes</font>**
+1. Music Experience Modules (P1-P6) 
+* Guided by the Experience-Concept-Application (ECA) Approach, our Music Experience Modules for six years include: Handbells (Coloured Bells) for P1, Percussion Stomp for P2, Garage Band for P3, Music Composition for P4, Ukulele for P5 and Hiphop and Cajon for P6. 
 
-To develop pupils' confidence in learning and singing meaningful songs and moving to the rhythm of good music.
+2. Programme for Active Learning (PAL) – Music Module (P1-P2) 
+* The Programme for Active Learning (PAL) is an integral part of the curriculum for Primary 1 and 2 students offering active, hands-on and meaningful learning experiences for our lower primary students. The Musical Adventure Module for Primary 1 students allows them to respond to music through body movements and create musical instruments using daily objects. The Music Learning Journey Module for Primary 2 students expose them to rhythm, chanting of rhymes, creating soundscapes and conducting music.
 
-**<font size="5">Teaching Approaches</font>**
+3. Kids Got Voice @ Recess (P1-P6) 
+* Believing in student voice, the Kids Got Voice provides a platform for students to showcase their interests and talents in music (as well as art, drama and PE). 
 
-In Ang Mo Kio Primary School, music lessons are planned and developed to instill a deep appreciation in the aesthetic domain. This is done via the **4E approach**; experience, exposure, expression and enrichment.
-In the **Experience** domain, pupils are given a wide variety of experiences in playing different pitched instruments. Pupils are also exposed to a variety of songs through the different repertoires of the songs introduced at different levels.
+4. Music Learning Journey (P3) 
+* The Music Learning Journey to Esplanade provides our P3 students an opportunity to watch a musical performances at Esplanade and have a guided tour of the theatre. 
 
-In the **Exposure** domain, theatrical experiences are planned for Primary 2 pupils via the Music Learning Journey. The whole school is also introduced to different music forms through Music assemblies.
-
-In the **Expression and Enrich** domains, pupils are able to demonstrate a mastery of the different musical skills taught at the different levels and to perform on stage. Pupils are able to showcase their various musical talents, whether singing, dancing or playing an instrument through the Open Mic platform during the annual AWESOME week and the Primary 6 graduation concert.  
-
-**<font size="5">Key Programs</font>**
-
-**1. Singing and Instrumental Modules**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ffcc{background-color:#EFF7FF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-hr0h{background-color:#EFF7FF;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-cpzc{background-color:#024C45;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-6uks{background-color:#EFF7FF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-r1fi{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-pdeq{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cpzc"><span style="font-weight:bold;color:#FFF;background-color:#024C45">Level</span></th>
-    <th class="tg-cpzc"><span style="font-weight:bold;color:#FFF;background-color:#024C45">Highlighted Exposure</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ffcc"><span style="color:#000;background-color:#EFF7FF">Primary 1</span></td>
-    <td class="tg-6uks"><span style="color:#000;background-color:#EFF7FF">Singing and Responding to Music using simple movements</span></td>
-  </tr>
-  <tr>
-    <td class="tg-r1fi"><span style="color:#000;background-color:#FFF">Primary 2</span></td>
-    <td class="tg-r1fi"><span style="color:#000;background-color:#FFF">Coloured Bells</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ffcc"><span style="color:#000;background-color:#EFF7FF">Primary 3</span></td>
-    <td class="tg-ffcc"><span style="color:#000;background-color:#EFF7FF">Keyboard / Garage Band</span></td>
-  </tr>
-  <tr>
-    <td class="tg-r1fi"><span style="color:#000;background-color:#FFF">Primary 4 </span></td>
-    <td class="tg-pdeq">Recorder / Ukulele (Module 1) <span style="color:#000;background-color:#FFF"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-hr0h">Primary 5</td>
-    <td class="tg-hr0h">Ukulele (Module 2)</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Primary 6 </td>
-    <td class="tg-1wig">Guitar</td>
-  </tr>
-</tbody>
-</table>
-
-**2. P2 Learning Journey**
-
-The aim of the P2 learning journey was to provide an opportunity for the pupils to be exposed to different musical experiences outside of school. Through the learning journey, pupils learn that sounds are created due to a combination of force and a surface of an instrument. Pupils are also highly engaged in the outdoor performance and hands on instrument making session.
-
-<img src="/images/About%20Us/music%20block%201.png" style="width:75%">
-
-
-**3. AWESOME Week**
-
-The Open Mic creates a platform for the pupils to showcase their musical talents in singing, dancing and instrumental playing. This platform is popular among the performers and audience alike as they gather at Junction Artz for a session of sing- a-long and support their peers who are performing.
-
-<img src="/images/About%20Us/music%20block%202.png" style="width:75%">

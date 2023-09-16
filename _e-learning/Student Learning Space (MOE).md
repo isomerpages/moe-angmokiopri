@@ -3,11 +3,12 @@ title: Student Learning Space (MOE)
 permalink: /e-learning/student-learning-space-moe/
 description: ""
 ---
-&gt;STUDENT LEARNING SPACE (MOE)
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Student Learning Space (MOE)**
 
 **<font size="5">Instructions and FAQs</font>**
 
-Unsure of how to reset your password or what to do when you are logged out of your account? Please click here for a self-help guide.
+Unsure of how to reset your password or what to do when you are logged out of your account? See the steps below to help you navigate SLS!
 
 **<font size="5">Navigating SLS</font>**
 

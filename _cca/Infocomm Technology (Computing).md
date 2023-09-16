@@ -3,7 +3,8 @@ title: Infocomm Technology (Computing)
 permalink: /our-amkp-experience/cca/infocomm-technology-computing/
 description: ""
 ---
-&gt;INFOCOMM TECHNOLOGY (COMPUTING)
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Infocomm Technology (Computing)**
 
 **<font size="5">About</font>**
 

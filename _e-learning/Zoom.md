@@ -3,7 +3,8 @@ title: Zoom
 permalink: /e-learning/zoom/
 description: ""
 ---
-&gt;ZOOM
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**ZOOM**
 
 **<font size="5">Using Zoom</font>**
 

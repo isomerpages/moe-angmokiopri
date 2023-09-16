@@ -4,7 +4,7 @@ permalink: /resources/parents/important-helplines/
 description: ""
 third_nav_title: Parents
 ---
-&gt;IMPORTANT HELPLINES
+![Sub-banner](/images/sub%20banner.jpg)&gt;**Important Helplines**
 
 **<font size="5"><u>CHILD PROTECTION</u></font>**<br>
 **Big Love**  
