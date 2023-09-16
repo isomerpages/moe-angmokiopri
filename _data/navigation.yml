@@ -28,8 +28,6 @@ links:
     collection: achievements
   - title: E-Learning
     collection: e-learning
-  - title: MOE Kindergarten@AMK
-    collection: moe-kindergarten-at-amk
   - title: Resources
     url: /resources/parents/parents-support-group-psg
     sublinks:
@@ -39,3 +37,5 @@ links:
         url: /resources/students/latest-happenings
       - title: Staff
         url: /resources/staff
+  - title: MOE Kindergarten@AMK
+    collection: moe-kindergarten-at-amk
