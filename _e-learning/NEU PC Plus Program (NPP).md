@@ -4,7 +4,7 @@ permalink: /e-learning/neu-pc-plus-program-npp/
 description: ""
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
-&gt;**DigitalAcess@Home**
+&gt;**DigitalAccess@Home**
 
 **<font size="5">About</font>**
 
