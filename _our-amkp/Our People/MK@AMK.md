@@ -4,7 +4,8 @@ permalink: /about-us/our-people/mk-at-amk/
 description: ""
 third_nav_title: Our People
 ---
-&gt;MK@AMK
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**MK@AMK**
 
 ![](/images/About%20Us/MK.png)
 <center>
