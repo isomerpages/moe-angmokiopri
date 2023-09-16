@@ -4,7 +4,8 @@ permalink: /resources/parents/education-n-career-guidance/
 description: ""
 third_nav_title: Parents
 ---
-&gt;EDUCATION &amp; CAREER GUIDANCE
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Education &amp; Career Guidance**
 
 **<font size="5">Positive Parenting Program Videos</font>**
 
