@@ -3,7 +3,8 @@ title: Brass Band
 permalink: /our-amkp-experience/cca/brass-band/
 description: ""
 ---
-&gt;BRASS BAND
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Brass Band**
 
 **<font size="5">About</font>**
 
