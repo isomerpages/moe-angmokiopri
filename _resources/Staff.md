@@ -3,6 +3,7 @@ title: Staff
 permalink: /resources/staff/
 description: ""
 ---
+![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Staff**
 
 ##### Useful Links
@@ -20,5 +21,4 @@ description: ""
 | **Form SG**    | https://form.gov.sg/    | 
 | **All Ears Builder**     | https://forms.moe.edu.sg/     | 
 | **Short Links for Edu**     | https://for.edu.sg/#/    | 
-| **Resource Booking Service (RBS)**     | https://rbs.avero-tech.com/    | 
-
+| **Resource Booking Service (RBS)**     | https://rbs.avero-tech.com/    |
