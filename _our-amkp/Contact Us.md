@@ -3,7 +3,8 @@ title: Contact Us
 permalink: /about-us/contact-us/
 description: ""
 ---
-&gt;Contact Us
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Contact Us!**
  
  
  **School Address**
@@ -37,7 +38,7 @@ description: ""
 <thead>
   <tr>
 		<td><b>Nearest MRT Station</b></td>
-    <td>Ang Mo Kio MRT Station (North-South Line)<br>Mayflower MRT Station (Thomson-East Coast Line)</td>
+    <td>Ang Mo Kio MRT Station (North-South Line)<br><br>Mayflower MRT Station (Thomson-East Coast Line)</td>
   </tr>
 </thead>
 <tbody>
