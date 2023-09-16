@@ -4,7 +4,8 @@ permalink: /our-amkp-experience/the-staple-academic-programme/mother-tongue-lang
 description: ""
 third_nav_title: "The Staple: Academic Programme"
 ---
-&gt;Mother Tongue Languages
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Mother Tongue Languages**
 
 **<font size="5">Our Aim</font>** 
 * Through the teaching and learning of reading, writing, speaking and listening components of Mother Tongue Languages in AMKP, we hope to nurture active learners and proficient users of Mother Tongue Languages with an understanding of their unique identity through a deep appreciation of culture, traditions, literature and history, while connecting with communities across Asia and the people who speak the language or share the culture
