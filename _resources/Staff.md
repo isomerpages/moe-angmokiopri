@@ -20,5 +20,6 @@ description: ""
 | **iExams**     | [https://iexams.seab.gov.sg/login](https://iexams.seab.gov.sg/login)     | 
 | **Form SG**    | [https://form.gov.sg/](https://form.gov.sg/)    | 
 | **All Ears Builder**     | [https://forms.moe.edu.sg/](https://forms.moe.edu.sg/)     | 
-| **Short Links for Edu**     | [https://for.edu.sg/#/](https://for.edu.sg/#/)    | 
-| **Resource Booking Service (RBS)**     | https://rbs.avero-tech.com/    |
+| **Short Links for Edu**     | [https://for.edu.sg/#/](https://for.edu.sg/#/)    |
+| **Resource Booking Service (RBS)**     | [https://rbs.avero-tech.com/](https://rbs.avero-tech.com/)    |
+
