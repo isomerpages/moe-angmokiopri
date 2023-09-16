@@ -4,7 +4,8 @@ permalink: /our-amkp-experience/the-staple-academic-programme/science/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
 ---
-&gt;Science
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Science**
 
 
 **<font size="5">Our Aim</font>**
