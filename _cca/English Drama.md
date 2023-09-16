@@ -3,7 +3,8 @@ title: English Drama
 permalink: /our-amkp-experience/cca/english-drama/
 description: ""
 ---
-&gt;English Drama
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**English Drama**
 
 **<font size="5">About</font>**
 
