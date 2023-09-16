@@ -37,6 +37,3 @@ third_nav_title: "The Staple: Academic Programme"
 * Encourages and enhances students’ natural curiosity and motivation for learning and connecting science to their everyday life. This helps students to develop a deeper understanding of science concepts and communicate their understanding of these concepts.
 5. Excellence 2000 (E2K) Science Programme (P4-P5)
 * Conducted by teachers who have been trained in the E2K pedagogy, this programme aims to engage our High Progress Learners in Science in scientific investigations to discover and deepen their understanding of advanced science concepts through an inquiry approach.
-
-
-is Everywhere.
