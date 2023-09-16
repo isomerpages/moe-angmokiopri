@@ -4,4 +4,4 @@ permalink: /our-amkp-experience/the-staple-academic-programme/permalink/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
 ---
-![Acad Overview](/images/About%20Us/Our%20AMKP%20Experience/the%20staple_acad.png)
+![The Staple Overview](/images/About%20Us/Our%20AMKP%20Experience/The%20Staple/the%20staple%20landing.png)
