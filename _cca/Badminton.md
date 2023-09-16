@@ -3,9 +3,10 @@ title: Badminton
 permalink: /our-amkp-experience/cca/badminton/
 description: ""
 ---
-&gt;BADMINTON
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Badminton**
 
-**<font size="6">About</font>**
+**<font size="5">About</font>**
 
 The AMKP Badminton CCA team welcomes everyone with open arms. It is a popular CCA among our students and we have both recreational and competitive team members.
 
