@@ -7,7 +7,7 @@ third_nav_title: Our People
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt; **School Executive Committee 2023**
 
-##### School Leaders
+##### **School Leaders**
 ![](/images/Our%20People/2023_Sch_Leader.jpeg)
 
 <center>From left: Ms Tan Siew Khim (VP/EO), Mr Kyaw Saw Lynn (VP/EO), Ms Alethea Liew (VP/Admin),
@@ -15,20 +15,20 @@ Mrs Lim Bee Lay (Principal)</center>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
-##### Academic Subjects
+##### **Academic Subjects**
 ![](/images/Our%20People/2023_Academic_Subj.jpeg)
 <center>From Left: Mr Sudhesh Vasu Dash (HOD/English Language), Mdm Nooraisha Mohamed Ibrahim (SH /Assessment and IPW), Ms Valerie Chua Ruishan (HOD/Mathematics), Mdm Pamela Tock Yan Qing (LH /English Language), Mr Calvin Ong (HOD/Science), Mr Alan Choo (HOD/Mother Tongue Languages),
 Mdm Jamilah Syed Ahamed (SH/Mother Tongue Languages)</center>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
-##### PE, Aesthetics and ICT
+##### **PE, Aesthetics and ICT**
 ![](/images/Our%20People/2023_PE_AES_ICT.jpeg)
 <center>From Left: Miss Ang Xiu Qin (SH/ICT), Miss Soh Mei Ling (HOD/PE &amp; Aesthetics), Mr Alan Yong (SH/PE &amp; CCA)</center>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
-##### Student Development
+##### **Student Development**
 ![](/images/Our%20People/2023_Student_Develop.jpeg)
 <center>From Left: Mrs Rena Lee (Year Head Lower Block / P2), Mr Abdul Razif (Asst. Year Head / P5),
 Miss Suganthi d/o Mariappan (Asst. Year Head / P1), Mr Rames s/o Ponpanden (Asst. Year Head / P6), Miss Agnes Tan (Year Head Upper Block / P3), Mr Yong Yao Feng (Asst. Year Head / P4)</center>	
@@ -39,7 +39,7 @@ Mrs Desri Ann Lee (HOD/CCE), Miss Kwek Audrey (SH/CCE)</center>
 	
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
-##### Staff Development
+##### **Staff Development**
 ![](/images/Our%20People/2023_Staff_Development.jpeg)
 <center>From Left: Miss Michelle Xu (LT/Learning Needs - Educational Support), 
 Mr Mohamad Riaz Sulaimi (ST/Science), Dr Philomena Mohan (LT/English Language), 
@@ -47,7 +47,7 @@ Mrs Brenda Seetoh (SSD), Mdm Chang Shuyun (ST/Chinese)</center>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
-##### Executive and Administrative Staff
+##### **Executive and Administrative Staff**
 ![](/images/Our%20People/2023_AM_OM.jpeg)
 <center>From Left: Mr Jagtar Singh (Administrative Manager), Mr Richard Wee (Operations Manager), 
 Mr Edmund Goh (Administrative Manager/ICT)</center>
