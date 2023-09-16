@@ -2,7 +2,6 @@ collections:
   our-amkp-experience:
     output: true
     order:
-      - "The Staple: CCA/.keep"
       - Our AMKP Experience.md
       - "The Staple: Academic Programme/.keep"
       - "The Staple: Academic Programme/The Staple: Academic Programme.md"
@@ -14,3 +13,4 @@ collections:
       - "The Staple: Academic Programme/Physical Education.md"
       - "The Staple: Academic Programme/Music.md"
       - "The Staple: Academic Programme/Art.md"
+      - "The Staple: CCA/.keep"
