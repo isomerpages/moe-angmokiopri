@@ -4,7 +4,8 @@ permalink: /resources/students/swimsafer/
 description: ""
 third_nav_title: Students
 ---
-&gt;Swimsafer
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Swimsafer**
 
 **<font size="5">About SwimSafer</font>**
 
