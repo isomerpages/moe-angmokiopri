@@ -4,7 +4,7 @@ permalink: /resources/students/direct-schools-admission-dsa/
 description: ""
 third_nav_title: Students
 ---
-&gt;DIRECT SCHOOLS ADMISSION (DSA)
+&gt;**Direct Schools Admission (DSA)![Sub-banner](/images/sub%20banner.jpg)**
 
 **<font size="5">ACS (Independent) E-Open House</font>**
 
