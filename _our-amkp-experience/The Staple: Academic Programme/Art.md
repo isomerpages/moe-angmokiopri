@@ -27,5 +27,12 @@ third_nav_title: "The Staple: Academic Programme"
 * Featuring 6 art movements (Pop Art, Cubism, Impressionism, Realism, Surrealism and Contemporary Art), the Museum Trail @ AMKP aims to provide our students with an authentic museum experience to enjoy the 6 murals to appreciate art, discuss and reflect while embarking on a learning journey withing the school compound under 3 broad themes of self and immediate environment, Singapore Past, Present and Future and World and Region Around Us.
 
 3. Kids Got Voice (P1-P6)
-* Believing in student voice, the Kids Got Voice provides a platform for students to showcase their interests and talents in art (as well as music, drama and PE).
+* Believing in student voice, the Kids Got Voice provides a platform for students to showcase their interests and talents in art (as well as music,  drama and PE).
 
+4. Programme for Active Learning (PAL) – Visual Art Module (P1-P2)
+* The Programme for Active Learning (PAL) is an integral part of the curriculum for Primary 1 and 2 students offering active, hands-on and meaningful learning experiences for our lower primary students.
+* The Visual Arts Module for Primary 1 students allows them to create a variety of 2D and 3D artwork (using recycled materials) in a garden to express their love for the environment.
+* The Visual Arts Module for Primary 2 students exposes them to diverse cultures around the world and allows them to create a variety of artwork related to different cultures.
+
+5. Museum-based Learning (P4)
+* The Museum-based Learning experience comprises of a visit to National Gallery Singapore, which creates a platform for students to understand Singapore’s history and heritage. It also allows them to be involved as artists and audience to create and appreciate art.
