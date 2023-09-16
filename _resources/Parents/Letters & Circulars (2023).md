@@ -6,7 +6,8 @@ third_nav_title: Parents
 ---
 &gt;LETTERS &amp; CIRCULARS (2023)
 
-**<font size="5">2023 School Calendar</font>**<br>
+##### 2023 School Calendar
+
 Please refer to the links below for the school's termly calendar.
 
 **[Term 1 Calendar](https://docs.google.com/spreadsheets/d/1UBePeZtFSetAWP451jafiyA2tUTYAqeH/edit?usp=share_link&amp;ouid=107219167406396481602&amp;rtpof=true&amp;sd=true)**
@@ -17,7 +18,8 @@ Please refer to the links below for the school's termly calendar.
 
 **[Term 4 Calendar](https://docs.google.com/spreadsheets/d/1ZoRpjAAk6kUx4dKGevXHf47Th92z0_Wj/edit?usp=sharing&amp;ouid=107219167406396481602&amp;rtpof=true&amp;sd=true)**
 
-**<font size="5">Termly Letters</font>**<br>
+##### Termly Letters
+
 Please refer to the links below for the school's Termly letters and schedule.
 
 **Term 1:** [Term 1 Termly Letter](/files/Resources/AMKP_SCH23_001_AMKP_Term1_Letter.pdf)
@@ -29,7 +31,8 @@ Please refer to the links below for the school's Termly letters and schedule.
 **Term 4:**[Term 4 Termly Letter](/files/2023%20amkp%20term%203%20letter%20.pdf)
 <br>
 
-**<font size="5">CCA Letters and Schedule</font>**<br>
+##### CCA Letters and Schedule
+
 Please refer to the links below for the school's CCA letters and schedule.
 
 **Term 1:**[Term 1 CCA Schedule 2023](/files/Resources/Term1_CCA_Schedule_2023.pdf.pdf)
@@ -41,7 +44,8 @@ Please refer to the links below for the school's CCA letters and schedule.
 
 **Term 4:** [Term 4 CCA Schedule 2023](/files/term%204%20cca%20schedule%202023.pdf)
 
-**<font size="5">2023 Holistic Assessment</font>** <br>
+##### 2023 Holistic Assessment
+
 Please refer to the links below for the 2023 Holistic Assessment letters.
 
 **P1:** [AMKP Holistic Assessment Letter to P1 Parents](/files/Resources/Holistic_Assessment_Letters/P1_Holistic_Assessment_Letter_Parents.pdf)
