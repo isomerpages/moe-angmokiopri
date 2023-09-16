@@ -3,7 +3,8 @@ title: Announcement
 permalink: /hidden-page/news-n-announcement/
 description: ""
 ---
-&gt;News &amp; Announcement
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**News &amp; Announcements**
 
 **<font size="5">2023 Term 4 CCA Schedule</font>**
 
