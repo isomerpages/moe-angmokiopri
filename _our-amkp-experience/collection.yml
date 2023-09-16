@@ -2,8 +2,8 @@ collections:
   our-amkp-experience:
     output: true
     order:
-      - The Staple.md
       - Our AMKP Experience.md
+      - The Staple.md
       - "The Staple: Academic Programme/.keep"
       - "The Staple: Academic Programme/English.md"
       - "The Staple: Academic Programme/Mathematics.md"
