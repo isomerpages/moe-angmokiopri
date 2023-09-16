@@ -4,7 +4,8 @@ permalink: /about-us/our-people/executive-n-administrative-staff/
 description: ""
 third_nav_title: Our People
 ---
-&gt;EXECUTIVE &amp; ADMINISTRATIVE STAFF
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Executive &amp; Administrative Staff**
 
 <table>
 <thead>
