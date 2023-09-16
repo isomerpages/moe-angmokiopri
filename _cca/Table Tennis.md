@@ -3,7 +3,8 @@ title: Table Tennis
 permalink: /our-amkp-experience/cca/table-tennis/
 description: ""
 ---
-&gt;TABLE TENNIS
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Table Tennis**
 
 **<font size="7">About</font>**
 
