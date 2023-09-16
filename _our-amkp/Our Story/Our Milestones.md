@@ -4,12 +4,11 @@ permalink: /about-us/our-story/our-milestones/
 description: ""
 third_nav_title: Our Story
 ---
-&gt; Our Milestones
 
+![Sub-banner](/images/sub%20banner.jpg)
+**&gt; Our Milestones** 
 
- 
-
-Welcome to AMKP milestones landing page!  
+Welcome to AMKP's Milestones landing page!  
 
 #### 40th Anniversary Celebrations!
 
