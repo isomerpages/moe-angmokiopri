@@ -4,7 +4,9 @@ permalink: /about-us/our-school-rules/
 description: ""
 third_nav_title: Our School Rules
 ---
-&gt; Our School Rules
+
+![Sub-banner](/images/sub%20banner.jpg)
+&gt; **Our School Rules**
 
 **1. Respect for Singapore and the School**
 
