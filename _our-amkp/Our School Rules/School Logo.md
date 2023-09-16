@@ -4,11 +4,13 @@ permalink: /about-us/our-school/school-logo/
 description: ""
 third_nav_title: Our School Rules
 ---
-&gt;SCHOOL LOGO
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**School Logo**
 
 
 <img src="/images/About%20Us/AMKP_Logo.png" style="width:45%">
 
+<br>
 <table>
 <thead>
   <tr>
