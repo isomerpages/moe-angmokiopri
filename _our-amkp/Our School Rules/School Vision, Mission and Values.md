@@ -4,7 +4,9 @@ permalink: /about-us/our-school/school-vision-mission-and-values/
 description: ""
 third_nav_title: Our School Rules
 ---
-&gt; SCHOOL VISION, MISSION AND VALUES
+
+![Sub-banner](/images/sub%20banner.jpg)
+&gt; **School Vision, Mission, Motto and Values**
 
 **<center>Our Vision</center>**
 
