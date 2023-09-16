@@ -4,7 +4,8 @@ permalink: /resources/parents/letters-n-circulars-2023/
 description: ""
 third_nav_title: Parents
 ---
-&gt;LETTERS &amp; CIRCULARS (2023)
+![Sub-banner](/images/sub%20banner.jpg)
+&gt;**Letters &amp; Circulars** (2023)
 
 ##### 2023 School Calendar
 
@@ -28,7 +29,7 @@ Please refer to the links below for the school's Termly letters and schedule.
 
 **Term 3:**[Term 3 Termly Letter](/files/2023%20amkp%20term%203%20letter%20.pdf)
 
-**Term 4:**[Term 4 Termly Letter](/files/2023%20amkp%20term%203%20letter%20.pdf)
+**Term 4:**[Term 4 Termly Letter](/files/Resources/amkp_sch_23_039_amkp_term_4_letter.pdf)
 <br>
 
 ##### CCA Letters and Schedule
