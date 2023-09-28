@@ -2,6 +2,5 @@ collections:
   cca:
     output: true
     order:
-      - Badminton.md
       - Infocomm Technology (Computing).md
       - Robotics.md
