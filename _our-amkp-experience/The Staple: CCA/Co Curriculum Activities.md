@@ -15,3 +15,16 @@ third_nav_title: "The Staple: CCA"
 * Catering to diverse needs of our students: AMKP offers a total of 14 CCAs classified under four clusters (Clubs and Societies, Physical Sports, Uniformed Groups, and Visual and Performing Arts) to cater to the different strengths, talents and interests of our students.
 * First Choice CCA: AMKPians will be offered their first choice CCAs without any trials/auditions so that students are given an opportunity to pursue their interests. 
 * Recreational CCAs:  P3 to P6 students are encouraged to join recreational CCAs to discover, pursue and develop their interest and/or talent as they learn skills at a beginning level and/or improve on them. 
+
+
+**<font size="5">Our CCAs</font>**
+
+| Clubs and Societies | Physical Sports | Uniformed Groups |  Visual and Performing Arts |
+| -------- | -------- | -------- |-------- |
+| Robotics | Badminton     | Red Cross Youth     | Arts &amp; Crafts |
+| Infocomm Technology (Computing)  | Basketball    | Scouts     | Brass Band     |
+| Innovation Programme  | Football     |      | English Drama     |
+|  | Table Tennis     |     | Modern Dance     | 
+| | Track &amp; Field     |      |      |
+| | Outdoor Adventure Club (ODAC)     |     |      |
+
