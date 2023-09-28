@@ -5,7 +5,7 @@ description: ""
 third_nav_title: "The Staple: CCE"
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
-&gt;Character and Citizenship Education
+&gt;**Character and Citizenship Education**
 
 **<font size="5">Our Aim</font>**
 
