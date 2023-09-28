@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Badminton.md
-      - Basketball.md
       - Infocomm Technology (Computing).md
       - Robotics.md
