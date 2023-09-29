@@ -31,7 +31,7 @@ c) Make responsible decisions for yourself, your family and society; and
 
 d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fprogrammes%2fsocial-and-emotional-learning%2fsexuality-education&amp;user=extranet%5cAnonymous&amp;site=moe-website) for more information on MOE Sexuality Education. 
+You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education. 
 
 <br>
 
@@ -43,11 +43,11 @@ You may click [here](https://www.moe.gov.sg/page%20not%20found?item=%2feducation
 
 **2.  The subjects that incorporate topics on sexuality include:**
 
-a.     Science
+a) Science
 
-b.     Form Teacher Guidance Period (FTGP)
+b) Form Teacher Guidance Period (FTGP)
 
-c.      Character and Citizenship Education (CCE)
+c) Character and Citizenship Education (CCE)
 
 
 
@@ -55,13 +55,25 @@ c.      Character and Citizenship Education (CCE)
 **<font size="5">Growing Years (GY) Programme : “Curious Minds (2nd Edition)” (Primary 5 &amp; 6) Teaching &amp; Learning Resource Package</font>**
 
 
-1.  The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
+<font size="3.5"> 
+1. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges. </font>
 
-2.  The Primary 5 &amp; 6 Growing Years (GY) package, “Curious Minds (2 nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes , build healthy relationships , especially online relationships, and exercise safety . 
+<font size="3.5"> 2.  The Primary 5 &amp; 6 Growing Years (GY) package, “Curious Minds (2 nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes , build healthy relationships , especially online relationships, and exercise safety. </font> 
 
 **<u>At Ang Mo Kio Primary School, the following lessons from the Growing Years Programme will be taught:</u>** 
 
 **Primary 5**
+
+
+
+| <center>UNIT | <center> LESSONS / DURATION |<center> LESSON OBJECTIVES <br> At the end of the lesson, students will be able to: | <center>TIME PERIOD |
+| -------- | -------- | -------- | -------- |
+| <center>**Gosh! I Am Changing** | <center> What Is Happening To Me? <br> (30 min)     | Text     | Text     |
+| **Gosh! I Am Changing** | Text     | Text     | Text     |
+| **Gosh! I Am Changing** | Text     | Text     | Text     |
+| **Gosh! I Am Changing** | Text     | Text     | Text     |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -232,4 +244,4 @@ c.      Character and Citizenship Education (CCE)
 
 3. Parents can contact the school at 64520794 or email our school staff – 
 <a href="mailto:kwek_audrey@moe.edu.sg">kwek_audrey@moe.edu.sg</a>
-for a discussion or to seek clarification about the school’s sexuality education programme.
+for a discussion or to seek clarification about the school’s sexuality education programme.</center></center></center></center></center></center>
