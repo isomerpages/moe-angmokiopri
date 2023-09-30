@@ -1,6 +1,6 @@
 ---
 title: Innovation Programme (IvP)
-permalink: /our-amkp-experience/the-staple-cca/permalink/
+permalink: /our-amkp-experience/the-staple-cca/innovation-programme/
 description: ""
 third_nav_title: "The Staple: CCA"
 ---

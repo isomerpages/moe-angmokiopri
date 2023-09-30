@@ -1,6 +1,6 @@
 ---
 title: Red Cross Youth
-permalink: /our-amkp-experience/cca/red-cross-youth/
+permalink: /our-amkp-experience/the-staple-cca/red-cross-youth/
 description: ""
 third_nav_title: "The Staple: CCA"
 ---

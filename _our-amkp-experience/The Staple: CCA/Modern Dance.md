@@ -1,6 +1,6 @@
 ---
 title: Modern Dance
-permalink: /our-amkp-experience/cca/modern-dance/
+permalink: /our-amkp-experience/the-staple-cca/modern-dance/
 description: ""
 third_nav_title: "The Staple: CCA"
 ---

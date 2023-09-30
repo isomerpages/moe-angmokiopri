@@ -1,6 +1,6 @@
 ---
 title: Robotics
-permalink: /our-amkp-experience/cca/robotics/
+permalink: /our-amkp-experience/the-staple-cca/robotics/
 description: ""
 third_nav_title: "The Staple: CCA"
 ---

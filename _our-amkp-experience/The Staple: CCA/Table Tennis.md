@@ -1,6 +1,6 @@
 ---
 title: Table Tennis
-permalink: /our-amkp-experience/cca/table-tennis/
+permalink: /our-amkp-experience/the-staple-cca/table-tennis/
 description: ""
 third_nav_title: "The Staple: CCA"
 ---

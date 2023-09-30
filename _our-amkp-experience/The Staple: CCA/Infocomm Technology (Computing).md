@@ -1,6 +1,6 @@
 ---
 title: Infocomm Technology (Computing)
-permalink: /our-amkp-experience/cca/infocomm-technology-computing/
+permalink: /our-amkp-experience/the-staple-cca/infocomm-technology-computing/
 description: ""
 third_nav_title: "The Staple: CCA"
 ---

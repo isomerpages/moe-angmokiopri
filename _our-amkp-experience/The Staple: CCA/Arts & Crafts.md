@@ -1,6 +1,6 @@
 ---
 title: Arts & Crafts
-permalink: /our-amkp-experience/cca/art-n-crafts/
+permalink: /our-amkp-experience/the-staple-cca/art-n-crafts/
 description: ""
 third_nav_title: "The Staple: CCA"
 ---

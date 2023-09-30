@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /our-amkp-experience/cca/basketball/
+permalink: /our-amkp-experience/the-staple-cca/basketball/
 description: ""
 third_nav_title: "The Staple: CCA"
 ---

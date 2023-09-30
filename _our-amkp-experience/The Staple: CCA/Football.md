@@ -1,6 +1,6 @@
 ---
 title: Football
-permalink: /our-amkp-experience/cca/football/
+permalink: /our-amkp-experience/the-staple-cca/football/
 description: ""
 third_nav_title: "The Staple: CCA"
 ---

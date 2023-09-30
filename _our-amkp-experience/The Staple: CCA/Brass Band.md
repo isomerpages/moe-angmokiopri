@@ -1,6 +1,6 @@
 ---
 title: Brass Band
-permalink: /our-amkp-experience/cca/brass-band/
+permalink: /our-amkp-experience/the-staple-cca/brass-band/
 description: ""
 third_nav_title: "The Staple: CCA"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Track and Field
-permalink: /our-amkp-experience/cca/track-and-field/
+permalink: /our-amkp-experience/the-staple-cca/track-and-field/
 description: ""
 third_nav_title: "The Staple: CCA"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Badminton
-permalink: /our-amkp-experience/cca/badminton/
+permalink: /our-amkp-experience/the-staple-cca/badminton/
 description: ""
 third_nav_title: "The Staple: CCA"
 ---

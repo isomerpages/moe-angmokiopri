@@ -1,6 +1,6 @@
 ---
 title: English Drama
-permalink: /our-amkp-experience/cca/english-drama/
+permalink: /our-amkp-experience/the-staple-cca/english-drama/
 description: ""
 third_nav_title: "The Staple: CCA"
 ---
