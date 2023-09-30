@@ -3,7 +3,8 @@ title: "The Staple: Sexuality Ed"
 permalink: /our-amkp-experience/the-staple-sexuality-education/
 description: ""
 ---
-&gt;Sexuality Education
+
+&gt;**Sexuality Education![Sub-banner](/images/sub%20banner.jpg)**
 
 **<font size="5">SEXUALITY EDUCATION PROGRAMME</font>** 
 <br>
