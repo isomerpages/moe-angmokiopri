@@ -1,17 +1,4 @@
 collections:
   cca:
     output: true
-    order:
-      - Table Tennis.md
-      - Track and Field.md
-      - Badminton.md
-      - Basketball.md
-      - Football.md
-      - Red Cross Youth.md
-      - Scouts.md
-      - Infocomm Technology (Computing).md
-      - Robotics.md
-      - Brass Band.md
-      - Modern Dance.md
-      - English Drama.md
-      - Arts & Crafts.md
+    order: []
