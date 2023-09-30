@@ -2,8 +2,6 @@ collections:
   our-amkp-experience:
     output: true
     order:
-      - Character and Citizenship Education.md
-      - Sexuality Education.md
       - Our AMKP Experience.md
       - The Staple.md
       - "The Staple: Academic Programme/.keep"
@@ -16,6 +14,7 @@ collections:
       - "The Staple: Academic Programme/Music.md"
       - "The Staple: Academic Programme/Art.md"
       - "The Staple: CCE/.keep"
+      - Character and Citizenship Education.md
       - "The Staple: CCA/.keep"
       - "The Staple: CCA/Co Curriculum Activities (CCA).md"
       - "The Staple: CCA/Robotics.md"
@@ -34,4 +33,5 @@ collections:
       - "The Staple: CCA/English Drama.md"
       - "The Staple: CCA/Modern Dance.md"
       - "The Staple: Sexuality Ed/.keep"
+      - Sexuality Education.md
       - The Sparkle.md
