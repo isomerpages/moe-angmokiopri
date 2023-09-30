@@ -30,53 +30,29 @@ third_nav_title: Our People
 | **2 Courage** | [Ms Wu Sufang](mailto:wu_sufang@moe.edu.sg) <br> [Mdm Chee Wai Yee](mailto:chee_wai_yee@moe.edu.sg)     |
 | **2 Excellence** | [Mdm Chang Shuyun](mailto:chang_shuyun@moe.edu.sg) <br> [Mdm Suzana Bte Mohd Gasaly](mailto:suzana_mohamed_gasaly@moe.edu.sg) <br> [Mrs Annette Ong](mailto:tan_wei_ling_annette@moe.edu.sg) <br><br>     |
 | **YH-UB/P3** | [**Ms Agnes Tan**](mailto:tan_lee_choo_a@moe.edu.sg)|
-| -------- | -------- |
-
-| Class | Form Teachers |
-| -------- | -------- |
+| **Class** | **Form Teachers** |
 | **3 Resilience** | [Mr Vincent Tan](mailto:tan_peng_chuan_vincent@moe.edu.sg) <br> [Ms Ang Xiu Qin](mailto:ang_xiu_qin@moe.edu.sg) <br> [Ms Nur Hidayah Binte Yahaya](mailto:nur_hidayah_yahaya@moe.edu.sg)      |
 | **3 Respect** | [Ms Junisha Erat](mailto:junisha_erat@moe.edu.sg) <br> [Mr Wu Wei Xiang](mailto:wu_wei_xiang@moe.edu.sg)     |
 | **3 Integrity** | [Mdm Nooraisha](mailto:nooraisha_mohamed_ibrahim@moe.edu.sg) <br> [Mdm Dai Siming](mailto:dai_siming@moe.edu.sg) <br> [Ms Wong Hui Li Victoria](mailto:wong_hui_li_victoria@moe.edu.sg)   |
 | **3 Care** | [Mr Jack Chang](mailto:chang_cheng_huan@moe.edu.sg) <br> [Ms Melissa Foong](mailto:melissa_foong_shi_shan@moe.edu.sg)     |
-| **3 Excellence** | [Mr Mohamad Riaz Sulaimi](mailto:mohamad_riaz_sulaimi@moe.edu.sg) <br> [Ms Clara Tham](mailto:clara_tham_kar_ling@moe.edu.sg)    |
-
-<br>
-<br>
-
-| AYH/P4: | [Mr Yong Yao Feng](mailto:yong_yao_feng@moe.edu.sg)|
-| -------- | -------- |
-
-| Class | Form Teachers |
-| -------- | -------- |
+| **3 Excellence** | [Mr Mohamad Riaz Sulaimi](mailto:mohamad_riaz_sulaimi@moe.edu.sg) <br> [Ms Clara Tham](mailto:clara_tham_kar_ling@moe.edu.sg) <br><br>    |
+| **AYH/P4** | [**Mr Yong Yao Feng**](mailto:yong_yao_feng@moe.edu.sg)|
+| **Class** | **Form Teachers** |
 | **4 Resilience** | [Mdm Sharifah Najibah](mailto:sharifah__najibah_syed_mustapa@moe.edu.sg) <br> [Ms Soh Mei Ling](mailto:soh_mei_ling@moe.edu.sg)      |
 | **4 Respect** | [Mdm Thio Puan Kin](mailto:thio_puan_kin@moe.edu.sg) <br> [Mdm Fong Yen Yen](mailto:fong_yen_yen@moe.edu.sg)     |
 | **4 Integrity** | [Mrs Kaelyn Kang](mailto:lee_siow_foong@moe.edu.sg) <br> [Mdm Jamilah Bte Syed Ahamed](mailto:jamilah_bte_syed_ahamed@moe.edu.sg)   |
 | **4 Care** | [Mr Goh Leng Huat](mailto:goh_leng_huat@moe.edu.sg) <br> [Mr Jex Nicholas John Frederick](mailto:jex_nicholas_john_frederick@moe.edu.sg)     |
-| **4 Excellence** | [Ms Nethiyaa Tharrsini d/o Siva Venthan](mailto:nethiyaa_tharrsini_siva_venthan@moe.edu.sg) <br> [Mrs Lim Wan Jun](mailto:tan_wan_jun@moe.edu.sg) <br> [Ms Nah Chui Yiang Wendy](mailto:nah_chui_yiang_wendy@moe.edu.sg)    |
-
-<br>
-<br>
-
-| AYH/P5: | [Mr Abdul Razif](mailto:abdul_razif_mohammad_rizal@moe.edu.sg)|
-| -------- | -------- |
-
-| Class | Form Teachers |
-| -------- | -------- |
+| **4 Excellence** | [Ms Nethiyaa Tharrsini d/o Siva Venthan](mailto:nethiyaa_tharrsini_siva_venthan@moe.edu.sg) <br> [Mrs Lim Wan Jun](mailto:tan_wan_jun@moe.edu.sg) <br> [Ms Nah Chui Yiang Wendy](mailto:nah_chui_yiang_wendy@moe.edu.sg) <br><br>    |
+| **AYH/P5** | [**Mr Abdul Razif**](mailto:abdul_razif_mohammad_rizal@moe.edu.sg)|
+| **Class** | **Form Teachers** |
 | **5 Resilience** | [Ms Liao Ziyan](mailto:liao_zi_yan@moe.edu.sg) <br> [Dr. Philomena Mohan](mailto:james_philomena_sashikala@moe.edu.sg)      |
 | **5 Respect** | [Ms Audrey Kwek](mailto:kwek_audrey@moe.edu.sg) <br> [Ms Yeo Sze Min](mailto:yeo_sze_min@moe.edu.sg)     |
 | **5 Integrity** | [Mrs Lai- Foo Ai Sien](mailto:foo_ai_sien@moe.edu.sg) <br> [Mrs Brenda Seetoh](mailto:choong_ming_fang_brenda@moe.edu.sg)   |
 | **5 Care** | [Ms Lim Ching Yin](mailto:lim_ching_yin@moe.edu.sg) <br> [Mrs Pamela Thio](mailto:tock_yan_qing_pamela@moe.edu.sg)     |
-| **5 Excellence** | [Mrs Yau Siew Cheng](mailto:tan_siew_cheng@moe.edu.sg) <br> [Ms Ng Swee Lin](mailto:ng_swee_lin@moe.edu.sg)    |
-
-<br>
-<br>
-
-| AYH/P6: | [Mr Rames s/o Ponpanden](mailto:rames_ponpanden@moe.edu.sg)|
-| -------- | -------- |
-
-| Class | Form Teachers |
-| -------- | -------- |
+| **5 Excellence** | [Mrs Yau Siew Cheng](mailto:tan_siew_cheng@moe.edu.sg) <br> [Ms Ng Swee Lin](mailto:ng_swee_lin@moe.edu.sg) <br><br>    |
+| **AYH/P6**: | [**Mr Rames s/o Ponpanden**](mailto:rames_ponpanden@moe.edu.sg)|
+| **Class** | **Form Teachers** |
 | **6 Resilience** | [Mr Alan Choo](mailto:choo_chun_dar_alan@moe.edu.sg) <br> [Mrs Apiramee Anandarajah](mailto:apiramee_e_subramaniam@moe.edu.sg) <br> [Mr Sudhesh Vasu Dash](mailto:sudhesh_vasu_dash@moe.edu.sg)      |
 | **6 Integrity** | [Ms Michelle Koh](mailto:xu_yue_min_michelle@moe.edu.sg) <br> [Mdm S Thanaletchimi](mailto:saverirajoo_thanaletchimi@moe.edu.sg) <br> [Mr Calvin Ong](mailto:ong_yu_meng_calvin@moe.edu.sg)   |
 | **6 Care** | [Mrs Vijaya Shankar](mailto:vijaya_shankar@moe.edu.sg) <br> [Mrs Valerie Low](mailto:valerie_chua_ruishan@moe.edu.sg)     |
-| **6 Excellence** | [Mr Eric Soh](mailto:soh_hiok_peng@moe.edu.sg) <br> [Ms Wellisa Liaw](mailto:wellisa_leono_liaw@moe.edu.sg) <br> [Ms Desri Lee](mailto:desri_ann_leong@moe.edu.sg)    |
+| **6 Excellence** | [Mr Eric Soh](mailto:soh_hiok_peng@moe.edu.sg) <br> [Ms Wellisa Liaw](mailto:wellisa_leono_liaw@moe.edu.sg) <br> [Ms Desri Lee](mailto:desri_ann_leong@moe.edu.sg) <br><br>    |
