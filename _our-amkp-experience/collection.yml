@@ -2,7 +2,6 @@ collections:
   our-amkp-experience:
     output: true
     order:
-      - "The Sparkle: Applied Learning Programme POISE @ AMKP.md"
       - Our AMKP Experience.md
       - The Staple.md
       - "The Staple: Academic Programme/.keep"
@@ -34,3 +33,4 @@ collections:
       - "The Staple: CCA/Modern Dance.md"
       - "The Staple: Sexuality Ed.md"
       - The Sparkle.md
+      - "The Sparkle: Applied Learning Programme POISE @ AMKP.md"
