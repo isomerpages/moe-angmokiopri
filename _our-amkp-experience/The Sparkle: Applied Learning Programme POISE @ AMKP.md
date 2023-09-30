@@ -6,13 +6,19 @@ description: ""
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**The Sparkle: Applied Learning Programme ~ POISE @ AMKP**
 
-* “Nurturing the Confident AMKPian” is our school-based Learning for Life programme (LLP) which focuses on community service and leadership.  Aligned with our school’s overall student outcome of ‘The Confident AMKPian’, one who embodies our R³IC2E school values, and demonstrates four key learning dispositions (i.e., Curiosity; Excellence; Collaboration; and Resilience), social and emotional competencies, and 21st century competencies, we aim to develop character and leadership skills in our AMKPians to build their confidence in leading themselves and others so as to make a positive change in our school and our community. 
+<font size="5">**P**rogramme to develop **O**utstanding, **I**nspired and **SE**nsitive Communicators (**POISE@AMKP**)</font>
 <br>
 
-* In lower primary years, our junior Confident AMKPians will learn to value integrity and be a responsible learner who will learn good habits and learning dispositions to foster self-awareness and management. They will also explore the importance of self-reflection and good communication when expressing personal thoughts and emotions while understanding their peers’ thoughts and emotions.
+* POISE@AMKP seeks to develop in AMKPians the competence and creativity needed to express themselves effectively.
 <br>
 
-* In middle primary years, our Confident AMKPians will learn to demonstrate respect and care for others. Their social and emotional competencies will be enhanced as they build empathy, social and cultural awareness and positive relationships with others through collaboration and working with others. While brainstorming ideas and solutions in groups, our AMKPians will have an opportunity sharpen their creativity and reasoning skills. 
+* POISE@AMKP focuses on building students’ communication skills progressively in two-year blocks in 4 domains; namely, Physical, Linguistic, Cognitive and Social &amp; Emotional according to the Voice21 Oracy Framework.
 <br>
 
-* In the upper primary years, our senior Confident AMKPians will learn to be courageous and resilient leaders with a passion for excellence. They will be given opportunities to develop a growth mindset to make responsible decisions and overcome challenges to lead self and others to care for and serve the community, thereby cultivating civic literacy and global awareness. 
+* In lower primary years, our junior Confident AMKPians will discover their voice by learning to speak clearly to articulate their thoughts, feelings and ideas, follow communication etiquettes, build on others’ ideas in conversations and discussions as well as deliver their lines during the skit performance or presentation confidently.
+<br>
+
+* In middle primary years, our Confident AMKPians will have an opportunity to strengthen their voice by learning to express themselves using clear and accurate pronunciation, convey meaning with expression and fluency, elaborate on their ideas with logical structure and focus, and ask questions politely to seek clarification and understanding.
+<br>
+
+* In the upper primary years, our senior Confident AMKPians will use their voice for service by learning to identify and set goals for the purpose of speaking according to situations, generate appropriate ideas to speak about, develop and organise ideas for speaking as well as to disagree or persuade, and paraphrase and summarise ideas during discussion.
