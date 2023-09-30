@@ -18,3 +18,13 @@ description: ""
 <br>
 
 * In the upper primary years, our senior Confident AMKPians will learn to be courageous and resilient leaders with a passion for excellence. They will be given opportunities to develop a growth mindset to make responsible decisions and overcome challenges to lead self and others to care for and serve the community, thereby cultivating civic literacy and global awareness.
+
+![LLP_Photo_1](/images/About%20Us/Our%20AMKP%20Experience/The%20Sparkle/llp_photo_1.PNG)
+
+![LLP_Photo_2](/images/About%20Us/Our%20AMKP%20Experience/The%20Sparkle/llp_photo_2.PNG)
+
+![LLP_Photo_3](/images/About%20Us/Our%20AMKP%20Experience/The%20Sparkle/llp_photo_3.PNG)
+
+![LLP_Photo_4](/images/About%20Us/Our%20AMKP%20Experience/The%20Sparkle/llp_photo_4.PNG)
+
+![LLP_Photo_5](/images/About%20Us/Our%20AMKP%20Experience/The%20Sparkle/llp_photo_5.PNG)
