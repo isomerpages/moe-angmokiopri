@@ -52,44 +52,21 @@ third_nav_title: Our People
 | **3 Care** | [Mr Jack Chang](mailto:chang_cheng_huan@moe.edu.sg) <br> [Ms Melissa Foong](mailto:melissa_foong_shi_shan@moe.edu.sg)     |
 | **3 Excellence** | [Mr Mohamad Riaz Sulaimi](mailto:mohamad_riaz_sulaimi@moe.edu.sg) <br> [Ms Clara Tham](mailto:clara_tham_kar_ling@moe.edu.sg)    |
 
+<br>
+<br>
 
-<table>
-<thead>
-  <tr>
-    <td><b>YH-UB/P3:</b></td>
-    <td> <a href="mailto:tan_lee_choo_a@moe.edu.sg">Ms Agnes Tan</a></td>
-  </tr>
-  <tr>
-    <th>Class</th>
-    <th>Form Teachers</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><b>3 Resilience </b></td>
-    <td><a href="mailto:tan_peng_chuan_vincent@moe.edu.sg">Mr Vincent Tan</a><br><a href="mailto:ang_xiu_qin@moe.edu.sg">Ms Ang Xiu Qin</a><br></td>
-  </tr>
-  <tr>
-    <td><b>3 Respect</b> </td>
-    <td><a href="mailto:junisha_erat@moe.edu.sg">Ms Junisha Erat</a><br><a href="mailto:wu_wei_xiang@moe.edu.sg">Mr Wu Wei Xiang</a><br></td>
-  </tr>
-  <tr>
-    <td><b>3 Integrity</b></td>
-    <td><a href="mailto:nooraisha_mohamed_ibrahim@moe.edu.sg">Mdm Nooraisha</a><br><a href="mailto:dai_siming@moe.edu.sg">Mdm Dai Siming</a><br></td>
-  </tr>
-  <tr>
-    <td><b>3 Care</b><br></td>
-    <td><a href="mailto:chang_cheng_huan@moe.edu.sg">Mr Jack Chang</a><br><a href="mailto:melissa_foong_shi_shan@moe.edu.sg">Ms Melissa Foong</a><br></td>
-  </tr>
-  <tr>
-    <td> <b>3 Excellence</b></td>
-    <td><a href="mailto:faith_ko_hui_min@moe.edu.sg">Ms Faith Ko</a><br><a href="mailto:mohamad_riaz_sulaimi@moe.edu.sg">Mr Mohamad Riaz Sulaimi</a><br><a href="mailto:clara_tham_kar_ling@moe.edu.sg">Ms Clara Tham</a></td>
-  </tr>
-</tbody>
-</table>
+| AYH/P4: | [Mr Yong Yao Feng](mailto:yong_yao_feng@moe.edu.sg)|
+| -------- | -------- |
+
+| Class | Form Teachers |
+| -------- | -------- |
+| **4 Resilience** | [Mdm Sharifah Najibah](mailto:sharifah__najibah_syed_mustapa@moe.edu.sg) <br> [Ms Soh Mei Ling](mailto:soh_mei_ling@moe.edu.sg)      |
+| **4 Respect** | [Mdm Thio Puan Kin](mailto:thio_puan_kin@moe.edu.sg) <br> [Mdm Fong Yen Yen](mailto:fong_yen_yen@moe.edu.sg)     |
+| **3 Integrity** | [Mdm Nooraisha](mailto:nooraisha_mohamed_ibrahim@moe.edu.sg) <br> [Mdm Dai Siming](mailto:dai_siming@moe.edu.sg) <br> [Ms Wong Hui Li Victoria](mailto:wong_hui_li_victoria@moe.edu.sg)   |
+| **3 Care** | [Mr Jack Chang](mailto:chang_cheng_huan@moe.edu.sg) <br> [Ms Melissa Foong](mailto:melissa_foong_shi_shan@moe.edu.sg)     |
+| **3 Excellence** | [Mr Mohamad Riaz Sulaimi](mailto:mohamad_riaz_sulaimi@moe.edu.sg) <br> [Ms Clara Tham](mailto:clara_tham_kar_ling@moe.edu.sg)    |
 
 
-<br><br>
 
 <table>
 <thead>
