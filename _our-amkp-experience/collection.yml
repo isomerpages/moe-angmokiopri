@@ -2,7 +2,6 @@ collections:
   our-amkp-experience:
     output: true
     order:
-      - "The Sparkle: LLP Nurturing the Confident AMKPian.md"
       - Our AMKP Experience.md
       - The Staple.md
       - "The Staple: Academic Programme/.keep"
@@ -35,3 +34,4 @@ collections:
       - "The Staple: Sexuality Ed.md"
       - The Sparkle.md
       - "The Sparkle: ALP POISE @ AMKP.md"
+      - "The Sparkle: LLP Nurturing the Confident AMKPian.md"
