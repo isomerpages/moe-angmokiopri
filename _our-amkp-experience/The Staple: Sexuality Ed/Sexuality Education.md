@@ -97,4 +97,5 @@ c) Character and Citizenship Education (CCE)
 
 3. Parents can contact the school at 64520794 or email our school staff – 
 <a href="mailto:kwek_audrey@moe.edu.sg">kwek_audrey@moe.edu.sg</a>
-for a discussion or to seek clarification about the school’s sexuality education programme.</center></center></center></center></center></center></center></center>
+for a discussion or to seek clarification about the school’s sexuality education programme.
+</center></center></center></center></center></center></center></center>
