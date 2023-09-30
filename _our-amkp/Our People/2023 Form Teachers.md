@@ -41,7 +41,7 @@ third_nav_title: Our People
 <br>
 <br>
 
-| AYH P1: | [Ms Suganthi d/o Mariappan](mailto:suganthi_mariappan@moe.edu.sg)|
+| YH-UB/P3: | [Ms Suganthi d/o Mariappan](mailto:suganthi_mariappan@moe.edu.sg)|
 | -------- | -------- |
 
 | Class | Form Teachers |
@@ -51,8 +51,7 @@ third_nav_title: Our People
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
+
 
 <table>
 <thead>
