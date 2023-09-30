@@ -6,10 +6,9 @@ third_nav_title: "The Staple: Sexuality Ed"
 ---
 &gt;Sexuality Education
 
-**<font size="5">SEXUALITY EDUCATION PROGRAMME</font>** <br>
+**<font size="5">SEXUALITY EDUCATION PROGRAMME</font>** 
+<br>
 **MOE Sexuality Education (The Growing Years) in Ang Mo Kio Primary School**
-
-
 
 **1. Sexuality Education (SEd) in schools** is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
@@ -55,12 +54,11 @@ c) Character and Citizenship Education (CCE)
 **<font size="5">Growing Years (GY) Programme : “Curious Minds (2nd Edition)” (Primary 5 &amp; 6) Teaching &amp; Learning Resource Package</font>**
 
 
-<font size="3.5"> 
-1. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges. </font>
+1. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
 
-<font size="3.5"> 2.  The Primary 5 &amp; 6 Growing Years (GY) package, “Curious Minds (2 nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes , build healthy relationships , especially online relationships, and exercise safety. </font> 
+2. The Primary 5 &amp; 6 Growing Years (GY) package, “Curious Minds (2 nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes , build healthy relationships , especially online relationships, and exercise safety.
 
-**<u>At Ang Mo Kio Primary School, the following lessons from the Growing Years Programme will be taught:</u>** 
+**<font size="5">At Ang Mo Kio Primary School, the following lessons from the Growing Years Programme will be taught:</font>**
 
 ##### Primary 5 
 
@@ -93,12 +91,9 @@ c) Character and Citizenship Education (CCE)
 	
 **<font size="5">Information for Parents</font>**
 
-<font size="3.5"> 1.  Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+1.  Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
 	
-<br>
-<font size="3.5"> 2. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be disseminated to parents at the start of the year via Parents Gateway.
-<br>
+2. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be disseminated to parents at the start of the year via Parents Gateway.
 
-<font size="3.5"> 3. Parents can contact the school at 64520794 or email our school staff – 
-<a href="mailto:kwek_audrey@moe.edu.sg">kwek_audrey@moe.edu.sg</a>
-for a discussion or to seek clarification about the school’s sexuality education programme.</font></font></font></center></center></center></center></center></center></center></center>
+3. Parents can contact the school at 64520794 or email our school staff – [kwek_audrey@moe.edu.sg](mailto:kwek_audrey@moe.edu.sg)
+for a discussion or to seek clarification about the school’s sexuality education programme.</center></center></center></center></center></center></center></center>
