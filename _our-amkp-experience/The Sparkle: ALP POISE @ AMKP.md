@@ -22,3 +22,5 @@ description: ""
 <br>
 
 * In the upper primary years, our senior Confident AMKPians will use their voice for service by learning to identify and set goals for the purpose of speaking according to situations, generate appropriate ideas to speak about, develop and organise ideas for speaking as well as to disagree or persuade, and paraphrase and summarise ideas during discussion.
+
+![ALP_Photo_1](/images/About%20Us/Our%20AMKP%20Experience/The%20Sparkle/alp_photo_1.png)
