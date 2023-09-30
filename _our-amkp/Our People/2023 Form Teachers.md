@@ -41,16 +41,16 @@ third_nav_title: Our People
 <br>
 <br>
 
-| YH-UB/P3: | [Ms Suganthi d/o Mariappan](mailto:suganthi_mariappan@moe.edu.sg)|
+| YH-UB/P3: | [Ms Agnes Tan](mailto:tan_lee_choo_a@moe.edu.sg)|
 | -------- | -------- |
 
 | Class | Form Teachers |
 | -------- | -------- |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
+| **3 Resilience** | [Mr Vincent Tan](mailto:tan_peng_chuan_vincent@moe.edu.sg) <br> [Ms Ang Xiu Qin](mailto:ang_xiu_qin@moe.edu.sg) <br> [Ms Nur Hidayah Binte Yahaya](mailto:nur_hidayah_yahaya@moe.edu.sg)      |
+| **3 Respect** | [Ms Junisha Erat](mailto:junisha_erat@moe.edu.sg) <br> [Mr Wu Wei Xiang](mailto:wu_wei_xiang@moe.edu.sg)     |
+| **3 Integrity** | [Mdm Nooraisha](mailto:nooraisha_mohamed_ibrahim@moe.edu.sg) <br> [Mdm Dai Siming](mailto:dai_siming@moe.edu.sg) <br> [Ms Wong Hui Li Victoria](mailto:wong_hui_li_victoria@moe.edu.sg)   |
+| **3 Care** | [Mr Jack Chang](mailto:chang_cheng_huan@moe.edu.sg) <br> [Ms Melissa Foong](mailto:melissa_foong_shi_shan@moe.edu.sg)     |
+| **3 Excellence** | [Mr Mohamad Riaz Sulaimi](mailto:mohamad_riaz_sulaimi@moe.edu.sg) <br> [Ms Clara Tham](mailto:clara_tham_kar_ling@moe.edu.sg)    |
 
 
 <table>
