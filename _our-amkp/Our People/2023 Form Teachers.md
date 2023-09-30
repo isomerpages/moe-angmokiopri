@@ -9,39 +9,27 @@ third_nav_title: Our People
 
 ##### 2023 FORM TEACHERS
 
-| AYH P1: | [Ms Suganthi d/o Mariappan](mailto:suganthi_mariappan@moe.edu.sg)|
+|  | |
 | -------- | -------- |
-
-| Class | Form Teachers |
-| -------- | -------- |
+| **AYH P1** | [**Ms Suganthi d/o Mariappan**](mailto:suganthi_mariappan@moe.edu.sg)     |
+| **Class** | **Form Teachers** |
 | **1 Resilience** | [Mdm Nur Fitri Faezah Binti Mohamed](mailto:nur_fitri_faezah_mohamed@moe.edu.sg)) <br> [Mdm Irene Ho](mailto:irene_ho_cheow_kuang@moe.edu.sg)      |
 | **1 Respect** | [Mr Marcus Teo](mailto:teo_minghong_marcus@moe.edu.sg)  <br><br> [Mdm Amelia Ng](mailto:ng_yong_jia@moe.edu.sg) <br> [Mdm Ang Kheng](mailto:ang_kheng@moe.edu.sg)     |
 | **1 Responsibility** | [Mdm Tok Ann Kee](mailto:tok_ann_kee@moe.edu.sg) <br> [Ms Maheswari d/o Krishnan Murthy](mailto:maheswari_krishnan_murthy@moe.edu.sg) <br> [Mdm Julaiha Bte Abdul Aziz](mailto:julaiha_abd_aziz@moe.edu.sg)     |
 | **1 Integrity** | [Mr Samuel Xiao Yong](mailto:xiao_yong_samuel@moe.edu.sg) <br> [Mdm Siti Noorbiyah Bte Abdullah](mailto:siti_noorbiyah_abdullah@moe.edu.sg)     |
 | **1 Care** | [Ms Nursyafiqah Sawal](mailto:nursyafiqah_sawal@moe.edu.sg) <br> [Mrs Chong Xue Qi](mailto:ng_xue_qi@moe.edu.sg)     |
 | **1 Courage** | [Mrs Lee-Fu Shan](mailto:fu_shan@moe.edu.sg) <br> [Mdm Tabitha Tan](mailto:tan_mui_lin_tabitha@moe.edu.sg)     |
-| **1 Excellence** | [Mr Alan Yong](mailto:yong_alan@moe.edu.sg) <br> [Mr Lee Jun Hui](mailto:lee_jun_hui@moe.edu.sg) <br> [Mdm Tan Shu Jun](mailto:tan_shu_jun@moe.edu.sg)     |
-
-<br>
-<br>
-
-| YH-LB/P2 P2: | [Mrs Rena Lee](mailto:rena_tay_wei_hsuan@moe.edu.sg)|
-| -------- | -------- |
-
-| Class | Form Teachers |
-| -------- | -------- |
+| **1 Excellence** | [Mr Alan Yong](mailto:yong_alan@moe.edu.sg) <br> [Mr Lee Jun Hui](mailto:lee_jun_hui@moe.edu.sg) <br> [Mdm Tan Shu Jun](mailto:tan_shu_jun@moe.edu.sg) <br><br>     |
+| **YH-LB/P2 P2** | [**Mrs Rena Lee**](mailto:rena_tay_wei_hsuan@moe.edu.sg)|
+| **Class** | **Form Teachers** |
 | **2 Resilience** | [Mr Jason Teo](mailto:teo_jason@moe.edu.sg) <br> [Mrs Michelle Tan](mailto:wong_ziwei_michelle@moe.edu.sg)    |
 | **2 Respect** | [Ms Esheen Koh](mailto:koh_esheen@moe.edu.sg) <br> [Ms Shamine d/o Santhana Krishnan](mailto:shamine_santhana_krishnan@moe.edu.sg)     |
 | **2 Responsibility** | [Mdm Nur Adawiyah Bte Rosli](mailto:nur_adawiyah_rosli@moe.edu.sg) <br> [Mdm Monica Leong](mailto:leong_cai_lin_monica@moe.edu.sg) <br> [Mdm Nor Azlyna Bte Mohd Yusof](mailto:nor_azlyna_mohd_yusof@moe.edu.sg)     |
 | **2 Integrity** | [Mdm Amirah Bte Mohd Ismail](mailto:amirah_mohd_ismail@moe.edu.sg) <br> [Mdm Justina Yim Keat Yee](mailto:yim_keat_yee@moe.edu.sg)     |
 | **2 Care** | [Ms Adeline Low](mailto:low_ying_yan_adeline@moe.edu.sg) <br> [Mrs Wang Wei Lin](mailto:ang_wei_lin@moe.edu.sg) <br> [Ms Wu Zhiying](mailto:wu_zhiying@moe.edu.sg)     |
 | **2 Courage** | [Ms Wu Sufang](mailto:wu_sufang@moe.edu.sg) <br> [Mdm Chee Wai Yee](mailto:chee_wai_yee@moe.edu.sg)     |
-| **2 Excellence** | [Mdm Chang Shuyun](mailto:chang_shuyun@moe.edu.sg) <br> [Mdm Suzana Bte Mohd Gasaly](mailto:suzana_mohamed_gasaly@moe.edu.sg) <br> [Mrs Annette Ong](mailto:tan_wei_ling_annette@moe.edu.sg)     |
-
-<br>
-<br>
-
-| YH-UB/P3: | [Ms Agnes Tan](mailto:tan_lee_choo_a@moe.edu.sg)|
+| **2 Excellence** | [Mdm Chang Shuyun](mailto:chang_shuyun@moe.edu.sg) <br> [Mdm Suzana Bte Mohd Gasaly](mailto:suzana_mohamed_gasaly@moe.edu.sg) <br> [Mrs Annette Ong](mailto:tan_wei_ling_annette@moe.edu.sg) <br><br>     |
+| **YH-UB/P3** | [**Ms Agnes Tan**](mailto:tan_lee_choo_a@moe.edu.sg)|
 | -------- | -------- |
 
 | Class | Form Teachers |
