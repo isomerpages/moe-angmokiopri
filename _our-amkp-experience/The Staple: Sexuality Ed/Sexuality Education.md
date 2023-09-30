@@ -62,13 +62,13 @@ c) Character and Citizenship Education (CCE)
 
 **<u>At Ang Mo Kio Primary School, the following lessons from the Growing Years Programme will be taught:</u>** 
 
-**Primary 5**
+##### Primary 5 
 
 
 
 | <center>UNIT | <center> LESSONS / DURATION |<center> LESSON OBJECTIVES <br> At the end of the lesson, students will be able to: | <center>TIME PERIOD |
 | -------- | -------- | -------- | -------- |
-| <center>**Gosh! I Am Changing** | What Is Happening To Me? <br> (30 min)     | - know what puberty is <br><br>- identify the physical changes during puberty | Term 3 Week 5 <br> (25 Jul)     |
+| **Gosh! I Am Changing** | What Is Happening To Me? <br> (30 min)     | - know what puberty is <br><br>- identify the physical changes during puberty | Term 3 Week 5 <br> (25 Jul)     |
 || What Can I Do? <br><br> (Part 1) <br> (30 min)| - identify the stresses caused by physical and emotional changes during puberty <br><br> - describe healthy ways to manage the stresses caused by physical and emotional changes during puberty <br><br> - describe the emotions caused by physical changes during puberty <br><br> - recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 3 Week 5 <br> (25 Jul) |
 | | What Can I Do? <br><br> (Part 2) <br> (30 min)     | - identify the stresses caused by physical and emotional changes during puberty <br><br> - describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty  <br><br> - describe the emotions caused by physical changes during puberty  <br><br> - recognise that one’s identity does not change even when one’s body is experiencing change due to puberty     | Term 3 Week 5 <br> (01 Aug)     |
 | | Main Task <br><br> (30 min) | Description of the Main Task: <br><br> Students are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.     | Term 3 Week 5 <br> (01 Aug) |
@@ -78,15 +78,15 @@ c) Character and Citizenship Education (CCE)
 | | Stop It! Run! Tell! <br><br> (30 min) | - protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult <br><br> - know their responsibilities in minimising the risk of sexual harm | Term 3 Week 9 <br> (22 Aug)|
 
 
-**Primary 6**
+##### Primary 6
 	
 | <center>UNIT | <center> LESSONS / DURATION |<center> LESSON OBJECTIVES <br> At the end of the lesson, students will be able to: | <center>TIME PERIOD |
 | -------- | -------- | -------- | -------- |
-| <center>**Are we more than friends?** | Who Are My Friends? <br> (30 min)     | - identify the qualities of a healthy friendship <br><br>- recognise the importance of making wise choices in friendship | Term 3 Week 5 <br> (25 Jul) |
+| **Are we more than friends?** | Who Are My Friends? <br> (30 min)     | - identify the qualities of a healthy friendship <br><br>- recognise the importance of making wise choices in friendship | Term 3 Week 5 <br> (25 Jul) |
 |  | Am I A Good Friend? <br> (30 min)     | - identify the qualities that they have as a friend\- recognise the importance of developing in oneself the qualities of a good friend | Term 3 Week 5 <br> (25 Jul) |
 | | What is Love? <br> (30 min)     | - identify the characteristics of love and infatuation <br><br>- distinguish between the characteristics of love versus infatuation <br><br> - identify strong feelings arising from infatuation | Term 3 Week 6 <br> (01 Aug) | 
 | | Am I Falling In Love? <br> (30 min)     | - manage strong feelings arising from infatuation <br><br>- identify ways to manage and cope with teasing from peers | Term 3 Week 6 <br> (01 Aug) | 
-| <center>**Friends or Foes?** | Main Task <br> (30 min)     | - Description of the Main Task: <br><br> Students are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing. | Term 3 Week 9 <br> (22 Aug) | 
+| **Friends or Foes?** | Main Task <br> (30 min)     | - Description of the Main Task: <br><br> Students are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing. | Term 3 Week 9 <br> (22 Aug) | 
 | | Are You Really My Friend? <br> (30 min)     | - identify the pros and cons of forming relationships through social networking websites <br><br>- know ways to keep themselves safe when using social networking websites | Term 3 Week 9 <br> (22 Aug) |
 | | Is It All Safe? <br> (30 min)     | - know that some information (like pornography) received through the Internet may be harmful <br><br> - know ways to keep themselves safe when using the Internet | Term 4 Week 5 <br> (10 Oct) |
 | | Main Task <br> (30 min)     | Description of the Main Task: <br><br>Students are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility. | Term 4 Week 5 <br> (10 Oct) |
@@ -101,4 +101,4 @@ c) Character and Citizenship Education (CCE)
 
 <font size="3.5"> 3. Parents can contact the school at 64520794 or email our school staff – 
 <a href="mailto:kwek_audrey@moe.edu.sg">kwek_audrey@moe.edu.sg</a>
-for a discussion or to seek clarification about the school’s sexuality education programme.</font></font></font></center></center></center></center></center></center></center></center></center></center></center>
+for a discussion or to seek clarification about the school’s sexuality education programme.</font></font></font></center></center></center></center></center></center></center></center>
