@@ -63,8 +63,8 @@ third_nav_title: Our People
 | **4 Resilience** | [Mdm Sharifah Najibah](mailto:sharifah__najibah_syed_mustapa@moe.edu.sg) <br> [Ms Soh Mei Ling](mailto:soh_mei_ling@moe.edu.sg)      |
 | **4 Respect** | [Mdm Thio Puan Kin](mailto:thio_puan_kin@moe.edu.sg) <br> [Mdm Fong Yen Yen](mailto:fong_yen_yen@moe.edu.sg)     |
 | **4 Integrity** | [Mrs Kaelyn Kang](mailto:lee_siow_foong@moe.edu.sg) <br> [Mdm Jamilah Bte Syed Ahamed](mailto:jamilah_bte_syed_ahamed@moe.edu.sg)   |
-| **3 Care** | [Mr Jack Chang](mailto:chang_cheng_huan@moe.edu.sg) <br> [Ms Melissa Foong](mailto:melissa_foong_shi_shan@moe.edu.sg)     |
-| **3 Excellence** | [Mr Mohamad Riaz Sulaimi](mailto:mohamad_riaz_sulaimi@moe.edu.sg) <br> [Ms Clara Tham](mailto:clara_tham_kar_ling@moe.edu.sg)    |
+| **4 Care** | [Mr Goh Leng Huat](mailto:goh_leng_huat@moe.edu.sg) <br> [Mr Jex Nicholas John Frederick](mailto:jex_nicholas_john_frederick@moe.edu.sg)     |
+| **4 Excellence** | [Ms Nethiyaa Tharrsini Siva Venthan](mailto:nethiyaa_tharrsini_siva_venthan@moe.edu.sg) <br> [Mrs Lim Wan Jun](mailto:tan_wan_jun@moe.edu.sg) <br> [Ms Nah Chui Yiang Wendy](mailto:nah_chui_yiang_wendy@moe.edu.sg)    |
 
 
 
