@@ -36,14 +36,13 @@ Please refer to the links below for the school's Termly letters and schedule.
 
 Please refer to the links below for the school's CCA letters and schedule.
 
-**Term 1:**[Term 1 CCA Schedule 2023](/files/Resources/Term1_CCA_Schedule_2023.pdf.pdf)
+**Term 1:**[Term 1 CCA Schedule 2023](/files/Resources/CCA%20Schedule/Term1_CCA_Schedule_2023.pdf)
 
-**Term 2:** [Term 2 CCA Schedule 2023](/files/Resources/Term2_CCA_Schedule_2023.pdf)
+**Term 2:** [Term 2 CCA Schedule 2023](/files/Resources/CCA%20Schedule/Term2_CCA_Schedule_2023.pdf)
 
-**Term 3:** [Term 3 CCA Schedule 2023](/files/Resources/term3_cca_schedule_2023.pdf)
-<br>
+**Term 3:** [Term 3 CCA Schedule 2023](/files/Resources/CCA%20Schedule/term3_cca_schedule_2023.pdf)
 
-**Term 4:** [[Term 4 CCA Schedule 2023]](/files/Resources/CCA%20Schedule/term%204%20cca%20schedule%202023.pdf)
+**Term 4:** [Term 4 CCA Schedule 2023](/files/Resources/CCA%20Schedule/term%204%20cca%20schedule%202023.pdf)
 
 ##### 2023 Holistic Assessment
 
