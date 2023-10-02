@@ -4,7 +4,7 @@ permalink: /our-amkp-experience/the-staple-sexuality-education/
 description: ""
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
-&gt;**Sexuality Education Programma**
+&gt;**Sexuality Education Programme**
 
 **<font size="5">MOE Sexuality Education (The Growing Years) in Ang Mo Kio Primary School</font>** 
 <br>
