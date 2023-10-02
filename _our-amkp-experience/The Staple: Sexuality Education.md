@@ -55,7 +55,7 @@ c) Character and Citizenship Education (CCE)
 
 1. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
 
-2. The Primary 5 &amp; 6 Growing Years (GY) package, “Curious Minds (2 nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes , build healthy relationships , especially online relationships, and exercise safety.
+2. The Primary 5 &amp; 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes , build healthy relationships , especially online relationships, and exercise safety.
 
 **<font size="5">At Ang Mo Kio Primary School, the following lessons from the Growing Years Programme will be taught:</font>**
 
@@ -63,7 +63,7 @@ c) Character and Citizenship Education (CCE)
 
 
 
-| <center>UNIT | <center> LESSONS / DURATION |<center> LESSON OBJECTIVES <br> At the end of the lesson, students will be able to: | <center>TIME PERIOD |
+| UNIT |  LESSONS / DURATION | LESSON OBJECTIVES <br> At the end of the lesson, students will be able to: | TIME PERIOD |
 | -------- | -------- | -------- | -------- |
 | **Gosh! I Am Changing** | What Is Happening To Me? <br> (30 min)     | - know what puberty is <br><br>- identify the physical changes during puberty | Term 3 Week 5 <br> (25 Jul)     |
 || What Can I Do? <br><br> (Part 1) <br> (30 min)| - identify the stresses caused by physical and emotional changes during puberty <br><br> - describe healthy ways to manage the stresses caused by physical and emotional changes during puberty <br><br> - describe the emotions caused by physical changes during puberty <br><br> - recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 3 Week 5 <br> (25 Jul) |
@@ -77,7 +77,7 @@ c) Character and Citizenship Education (CCE)
 
 ##### Primary 6
 	
-| <center>UNIT | <center> LESSONS / DURATION |<center> LESSON OBJECTIVES <br> At the end of the lesson, students will be able to: | <center>TIME PERIOD |
+| UNIT |  LESSONS / DURATION | LESSON OBJECTIVES <br> At the end of the lesson, students will be able to: | TIME PERIOD |
 | -------- | -------- | -------- | -------- |
 | **Are we more than friends?** | Who Are My Friends? <br> (30 min)     | - identify the qualities of a healthy friendship <br><br>- recognise the importance of making wise choices in friendship | Term 3 Week 5 <br> (25 Jul) |
 |  | Am I A Good Friend? <br> (30 min)     | - identify the qualities that they have as a friend\- recognise the importance of developing in oneself the qualities of a good friend | Term 3 Week 5 <br> (25 Jul) |
@@ -94,4 +94,4 @@ c) Character and Citizenship Education (CCE)
 
 2. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be disseminated to parents at the start of the year via Parents Gateway.
 
-3. Parents can contact the school at 64520794 or email our school staff - [kwek_audrey@moe.edu.sg](mailto:kwek_audrey@moe.edu.sg) for a discussion or to seek clarification about the school's sexuality education programme.</center></center></center></center></center></center></center></center>
+3. Parents can contact the school at 64520794 or email our school staff - [kwek_audrey@moe.edu.sg](mailto:kwek_audrey@moe.edu.sg) for a discussion or to seek clarification about the school's sexuality education programme.
