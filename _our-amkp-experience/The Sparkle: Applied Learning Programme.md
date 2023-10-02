@@ -6,7 +6,7 @@ description: ""
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**The Sparkle: Applied Learning Programme ~ POISE @ AMKP**
 
-<font size="5">**P**rogramme to develop **O**utstanding, **I**nspired and **SE**nsitive Communicators (**POISE@AMKP**)</font>
+<font size="5"><span style="font-weight: bold;">P</span>rogramme to develop <span style="font-weight: bold;">O</span>utstanding, <span style="font-weight: bold;">I</span>nspired and <span style="font-weight: bold;">SE</span>nsitive Communicators (<span style="font-weight: bold;">POISE@AMKP</span>)</font>
 <br>
 
 * POISE@AMKP seeks to develop in AMKPians the competence and creativity needed to express themselves effectively.
