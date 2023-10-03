@@ -4,7 +4,6 @@ permalink: /about-us/our-people/teaching-staff/allied-educators/
 description: ""
 third_nav_title: Our People
 ---
-
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Allied Educators**
 
@@ -50,7 +49,7 @@ third_nav_title: Our People
   </tr>
   <tr>
     <td>Mrs Tresa Cheong</td>
-    <td><a href="mailto:lim_chin_yin_tresa@moe.edu.sg">lim_chin_yin_tresa@moe.edu.sg</a></td>
+    <td><a href="mailto:lim_chin_yin@moe.edu.sg">lim_chin_yin@moe.edu.sg</a></td>
   </tr>
   <tr>
 		</tr>
