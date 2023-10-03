@@ -1,5 +1,5 @@
 collections:
-  resources:
+  for-our-stakeholders:
     output: true
     order:
       - Our Parents/.keep
