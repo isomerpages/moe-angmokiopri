@@ -16,16 +16,16 @@ We strongly encourage you to download Parents Gateway on your mobile phone (avai
 
 For parents/ guardians who are unable to access Parents Gateway, please approach your child/ward’s form teachers for assistance.
 
+You may also refer to the FAQs at https://pg.moe.edu.sg/faq.
 
-_____
+<br>
 
 
 **<font size="5">Instructional Guide</font>**
 
+![Annex A1](/images/Resources/Parents/parent's%20gateway%20letter_annex%20a_1.png)
 
-
-
-____
+![Annex A2](/images/Resources/Parents/parent's%20gateway%20letter_annex%20a_2.png)
 
 **<font size="5">MOE Promotional Video
 </font>**
