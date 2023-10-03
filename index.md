@@ -12,8 +12,4 @@ sections:
         - title: News & Annoucement
           description: ""
           url: /hidden-page/news-n-announcement/
-  - infobar:
-      title: News & Announcement
-      button: Click Here
-      url: /hidden-page/news-n-announcement
 ---
