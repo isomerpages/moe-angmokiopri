@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/hero backgound image.gif
+      key_highlights:
+        - title: News & Annoucement
+          description: ""
+          url: ""
   - infobar:
       title: News & Announcement
       button: Click Here
