@@ -2,6 +2,7 @@ collections:
   for-our-amkpians:
     output: true
     order:
+      - Student Learning Space (MOE).md
       - Ezhishi.md
       - Pazhahutamil.md
       - Zoom.md
