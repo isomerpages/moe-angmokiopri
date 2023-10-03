@@ -2,5 +2,6 @@ collections:
   for-our-amkpians:
     output: true
     order:
+      - Pazhahutamil.md
       - Zoom.md
       - DigitalAccess@Home.md
