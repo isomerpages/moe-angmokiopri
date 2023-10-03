@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: News & Annoucement
           description: ""
-          url: /hidden-page/news-n-announcement/
+          url: https://www.angmokiopri.moe.edu.sg/hidden-page/news-n-announcement/
 ---
