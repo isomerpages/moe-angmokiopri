@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: News & Annoucement
           description: ""
-          url: ""
+          url: /hidden-page/news-n-announcement/
   - infobar:
       title: News & Announcement
       button: Click Here
