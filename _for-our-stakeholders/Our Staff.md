@@ -1,5 +1,5 @@
 ---
-title: Staff
+title: Our Staff
 permalink: /resources/staff/
 description: ""
 ---
@@ -22,4 +22,3 @@ description: ""
 | **All Ears Builder**     | [https://forms.moe.edu.sg/](https://forms.moe.edu.sg/)     | 
 | **Short Links for Edu**     | [https://for.edu.sg/#/](https://for.edu.sg/#/)    |
 | **Resource Booking Service (RBS)**     | [https://rbs.avero-tech.com/](https://rbs.avero-tech.com/)    |
-

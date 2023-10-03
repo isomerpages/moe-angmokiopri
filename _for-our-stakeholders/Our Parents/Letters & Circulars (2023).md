@@ -2,7 +2,7 @@
 title: Letters & Circulars (2023)
 permalink: /resources/parents/letters-n-circulars-2023/
 description: ""
-third_nav_title: Parents
+third_nav_title: Our Parents
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Letters &amp; Circulars** (2023)

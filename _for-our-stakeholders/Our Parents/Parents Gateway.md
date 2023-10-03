@@ -2,7 +2,7 @@
 title: Parents Gateway
 permalink: /resources/parents/parents-gateway/
 description: ""
-third_nav_title: Parents
+third_nav_title: Our Parents
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Parents Gateway**

@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/hero backgound image.gif
-  - infobar:
-      title: News & Announcement
-      button: Click Here
-      url: /hidden-page/news-n-announcement
+      key_highlights:
+        - title: News & Annoucement
+          description: ""
+          url: https://www.angmokiopri.moe.edu.sg/hidden-page/news-n-announcement/
 ---

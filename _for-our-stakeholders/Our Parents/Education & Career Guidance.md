@@ -2,7 +2,7 @@
 title: Education & Career Guidance
 permalink: /resources/parents/education-n-career-guidance/
 description: ""
-third_nav_title: Parents
+third_nav_title: Our Parents
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Education &amp; Career Guidance**

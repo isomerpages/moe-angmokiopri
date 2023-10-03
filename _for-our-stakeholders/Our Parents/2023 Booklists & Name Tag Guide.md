@@ -2,7 +2,7 @@
 title: 2023 Booklists & Name Tag Guide
 permalink: /resources/parents/2023-booklists-n-name-tag-guide/
 description: ""
-third_nav_title: Parents
+third_nav_title: Our Parents
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**2023 Booklists &amp; Name Tag Guide**

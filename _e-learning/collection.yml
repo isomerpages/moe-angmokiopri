@@ -1,9 +1,4 @@
 collections:
   e-learning:
     output: true
-    order:
-      - Student Learning Space (MOE).md
-      - Ezhishi.md
-      - Pazhahutamil.md
-      - Zoom.md
-      - DigitalAccess@Home.md
+    order: []

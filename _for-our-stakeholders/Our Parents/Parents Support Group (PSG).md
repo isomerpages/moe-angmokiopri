@@ -2,7 +2,7 @@
 title: Parents Support Group (PSG)
 permalink: /resources/parents/parents-support-group-psg/
 description: ""
-third_nav_title: Parents
+third_nav_title: Our Parents
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Parents Support Group (PSG)**
