@@ -14,7 +14,7 @@ third_nav_title: Our People
 | **AYH P1** | [**Ms Suganthi d/o Mariappan**](mailto:suganthi_mariappan@moe.edu.sg)     |
 | **Class** | **Form Teachers** |
 | **1 Resilience** | [Mdm Nur Fitri Faezah Binti Mohamed](mailto:nur_fitri_faezah_mohamed@moe.edu.sg)) <br> [Mdm Irene Ho](mailto:irene_ho_cheow_kuang@moe.edu.sg)      |
-| **1 Respect** | [Mr Marcus Teo](mailto:teo_minghong_marcus@moe.edu.sg)  <br><br> [Mdm Amelia Ng](mailto:ng_yong_jia@moe.edu.sg) <br> [Mdm Ang Kheng](mailto:ang_kheng@moe.edu.sg)     |
+| **1 Respect** | [Mr Marcus Teo](mailto:teo_minghong_marcus@moe.edu.sg)  <br> [Mdm Amelia Ng](mailto:ng_yong_jia@moe.edu.sg) <br> [Mdm Ang Kheng](mailto:ang_kheng@moe.edu.sg)     |
 | **1 Responsibility** | [Mdm Tok Ann Kee](mailto:tok_ann_kee@moe.edu.sg) <br> [Ms Maheswari d/o Krishnan Murthy](mailto:maheswari_krishnan_murthy@moe.edu.sg) <br> [Mdm Julaiha Bte Abdul Aziz](mailto:julaiha_abd_aziz@moe.edu.sg)     |
 | **1 Integrity** | [Mr Samuel Xiao Yong](mailto:xiao_yong_samuel@moe.edu.sg) <br> [Mdm Siti Noorbiyah Bte Abdullah](mailto:siti_noorbiyah_abdullah@moe.edu.sg)     |
 | **1 Care** | [Ms Nursyafiqah Sawal](mailto:nursyafiqah_sawal@moe.edu.sg) <br> [Mrs Chong Xue Qi](mailto:ng_xue_qi@moe.edu.sg)     |
