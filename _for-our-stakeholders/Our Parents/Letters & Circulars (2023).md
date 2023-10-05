@@ -23,13 +23,13 @@ Please refer to the links below for the school's termly calendar.
 
 Please refer to the links below for the school's Termly letters and schedule.
 
-**Term 1:** [Term 1 Termly Letter](/files/Resources/AMKP_SCH23_001_AMKP_Term1_Letter.pdf)
+**Term 1:** [Term 1 Termly Letter](/files/Letters%20and%20Circulars/2023/Termly%20Letter/01%20amkp_sch_23_001_amkp_term_1_letter.pdf)
 
-**Term 2:** [Term 2 Termly Letter](/files/Resources/AMKP_SCH23_021_AMKP_Term2_letter.pdf)
+**Term 2:** [Term 2 Termly Letter](/files/Letters%20and%20Circulars/2023/Termly%20Letter/02%20amkp_sch_23_021_amkp_term_2_letter.pdf)
 
-**Term 3:**[Term 3 Termly Letter](/files/2023%20amkp%20term%203%20letter%20.pdf)
+**Term 3:** [Term 3 Termly Letter](/files/Letters%20and%20Circulars/2023/Termly%20Letter/03%20amkp_sch_23_030%20amkp_term_3_letter%20.pdf)
 
-**Term 4:**[Term 4 Termly Letter](/files/Resources/amkp_sch_23_039_amkp_term_4_letter.pdf)
+**Term 4:** [Term 4 Termly Letter](/files/Letters%20and%20Circulars/2023/Termly%20Letter/04%20amkp_sch_23_039_amkp_term_4_letter.pdf)
 <br>
 
 ##### CCA Letters and Schedule
