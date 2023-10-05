@@ -48,27 +48,27 @@ Please refer to the links below for the school's CCA letters and schedule.
 
 Please refer to the links below for the 2023 Holistic Assessment letters.
 
-**P1:** [AMKP Holistic Assessment Letter to P1 Parents](/files/Resources/Holistic_Assessment_Letters/P1_Holistic_Assessment_Letter_Parents.pdf)
+**P1:** [AMKP Holistic Assessment Letter to P1 Parents](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p1%20parents_amkpsch23013a.pdf)
 
-**P2:**[AMKP Holistic Assessment Letter to P2 Parents](/files/Resources/Holistic_Assessment_Letters/P2_Holistic_Assessment_Letter_Parents.pdf)
+**P2:**[AMKP Holistic Assessment Letter to P2 Parents](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p2%20parents_amkpsch23013b.pdf)
 
 **P3:** 
-<br>[AMKP Holistic Assessment Letter to P3 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P3_Holistic_Assessment_Letter_Parents.pdf)
-<br>[AMKP Holistic Assessment Letter to P3 Parents for Semester 2](/files/Resources/Holistic_Assessment_Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p3%20parents%20sem%202_33a.pdf)
+<br>[AMKP Holistic Assessment Letter to P3 Parents for Semester 1](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p3%20parents_amkpsch23013c.pdf)
+<br>[AMKP Holistic Assessment Letter to P3 Parents for Semester 2]
 
 **P4:**
-<br>[AMKP Holistic Assessment Letter to P4 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P4_Holistic_Assessment_Letter_Parents.pdf)
-<br>[AMKP Holistic Assessment Letter to P4 Parents for Semester 2](/files/Resources/Holistic_Assessment_Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p4%20parents%20sem%202_33b.pdf)
+<br>[AMKP Holistic Assessment Letter to P4 Parents for Semester 1](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p4%20parents_amkpsch23013d.pdf)
+<br>[AMKP Holistic Assessment Letter to P4 Parents for Semester 2]
 
 **P5:**
-<br>[AMKP Holistic Assessment Letter to P5 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P5_Holistic_Assessment_Letter_Parents.pdf)
-<br>[AMKP Holistic Assessment Letter to P5 Parents for Semester 2](/files/Resources/Holistic_Assessment_Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p5%20parents%20sem%202_33c.pdf)
+<br>[AMKP Holistic Assessment Letter to P5 Parents for Semester 1](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p5%20parents_amkpsch23013e.pdf)
+<br>[AMKP Holistic Assessment Letter to P5 Parents for Semester 2]
 
 **P6:**
-<br>[ AMKP Holistic Assessment Letter to P6 Parents for Semester 1](/files/Resources/Holistic_Assessment_Letters/P6_Holistic_Assessment_Letter_Parents.pdf)
-<br>[ AMKP Holistic Assessment Letter to P6 Parents for Semester 2](/files/Resources/Holistic_Assessment_Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p6%20parents%20sem%202_33d.pdf)
+<br>[AMKP Holistic Assessment Letter to P6 Parents for Semester 1](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p6%20parents_amkpsch23013f.pdf)
+<br>[ AMKP Holistic Assessment Letter to P6 Parents for Semester 2]
 
 **<font size="5">Newsletters for Parents</font>** <br>
 Please refer to the links below for some articles and newsletters for parents.
 
-No newsletters at the moment.
+There are no newsletters at the moment.
