@@ -54,19 +54,20 @@ Please refer to the links below for the 2023 Holistic Assessment letters.
 
 **P3:** 
 <br>[AMKP Holistic Assessment Letter to P3 Parents for Semester 1](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p3%20parents_amkpsch23013c.pdf)
-<br>[AMKP Holistic Assessment Letter to P3 Parents for Semester 2]
+<br>[AMKP Holistic Assessment Letter to P3 Parents for Semester 2](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p3%20parents%20sem%202_33a.pdf)
+
 
 **P4:**
 <br>[AMKP Holistic Assessment Letter to P4 Parents for Semester 1](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p4%20parents_amkpsch23013d.pdf)
-<br>[AMKP Holistic Assessment Letter to P4 Parents for Semester 2]
+<br>[AMKP Holistic Assessment Letter to P4 Parents for Semester 2](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p4%20parents%20sem%202_33b.pdf)
 
 **P5:**
 <br>[AMKP Holistic Assessment Letter to P5 Parents for Semester 1](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p5%20parents_amkpsch23013e.pdf)
-<br>[AMKP Holistic Assessment Letter to P5 Parents for Semester 2]
+<br>[AMKP Holistic Assessment Letter to P5 Parents for Semester 2](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p5%20parents%20sem%202_33c.pdf)
 
 **P6:**
 <br>[AMKP Holistic Assessment Letter to P6 Parents for Semester 1](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p6%20parents_amkpsch23013f.pdf)
-<br>[ AMKP Holistic Assessment Letter to P6 Parents for Semester 2]
+<br>[AMKP Holistic Assessment Letter to P6 Parents for Semester 2](/files/Letters%20and%20Circulars/2023/Assessment%20Letters/amkp%20holistic%20assessment%20letter%20to%202023%20p6%20parents%20sem%202_33d.pdf)
 
 **<font size="5">Newsletters for Parents</font>** <br>
 Please refer to the links below for some articles and newsletters for parents.
