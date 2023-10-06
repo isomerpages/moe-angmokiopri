@@ -2,7 +2,7 @@
 title: Desired Outcomes of AMKP Students
 permalink: /about-us/our-school/desired-outcomes-of-amkp-students/
 description: ""
-third_nav_title: Our School Rules
+third_nav_title: Our AMKP Promise
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt; **Desired Outcomes of AMKP Students**

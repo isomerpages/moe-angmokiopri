@@ -2,7 +2,7 @@
 title: School Song
 permalink: /about-us/our-school/school-song/
 description: ""
-third_nav_title: Our School Rules
+third_nav_title: Our AMKP Promise
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**School Song**
