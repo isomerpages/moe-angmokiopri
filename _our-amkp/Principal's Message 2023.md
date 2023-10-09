@@ -1,6 +1,6 @@
 ---
 title: Principal's Message 2023
-permalink: /about-us/principals-message-2023/
+permalink: /our-amkp/our-story/principals-message-2023/
 description: ""
 ---
 ![Sub-banner](/images/sub%20banner.jpg)

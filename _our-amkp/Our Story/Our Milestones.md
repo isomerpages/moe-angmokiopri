@@ -1,10 +1,9 @@
 ---
 title: Our Milestones
-permalink: /about-us/our-story/our-milestones/
+permalink: /our-amkp/our-story/our-milestones/
 description: ""
 third_nav_title: Our Story
 ---
-
 ![Sub-banner](/images/sub%20banner.jpg)
 **&gt; Our Milestones** 
 

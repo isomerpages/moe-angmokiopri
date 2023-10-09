@@ -1,6 +1,6 @@
 ---
 title: Desired Outcomes of AMKP Students
-permalink: /about-us/our-school/desired-outcomes-of-amkp-students/
+permalink: /our-amkp/our-amkp-promise/desired-outcomes-of-amkp-students/
 description: ""
 third_nav_title: Our AMKP Promise
 ---

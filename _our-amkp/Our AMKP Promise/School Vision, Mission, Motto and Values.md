@@ -1,6 +1,6 @@
 ---
 title: School Vision, Mission, Motto and Values
-permalink: /about-us/our-school/school-vision-mission-motto-and-values/
+permalink: /our-amkp/our-amkp-promise/school-vision-mission-motto-and-values/
 description: ""
 third_nav_title: Our AMKP Promise
 ---

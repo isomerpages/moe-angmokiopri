@@ -1,10 +1,9 @@
 ---
-title: Our Story
-permalink: /about-us/our-story/
+title: Our History
+permalink: /our-amkp/our-story/our-history/
 description: ""
 third_nav_title: Our Story
 ---
-
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt; **Our Story**
 
