@@ -7,8 +7,7 @@ third_nav_title: Our AMKP Identity
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**School Logo**
 
-
-<img src="/images/About%20Us/AMKP_Logo.png" style="width:45%">
+![AMKP Logo](/images/About%20Us/school%20logo.png)
 
 <br>
 <table>
