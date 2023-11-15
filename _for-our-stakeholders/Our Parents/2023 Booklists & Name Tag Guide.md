@@ -3,9 +3,10 @@ title: 2023 Booklists & Name Tag Guide
 permalink: /resources/parents/2023-booklists-n-name-tag-guide/
 description: ""
 third_nav_title: Our Parents
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
-&gt;**2023 Booklists &amp; Name Tag Guide**
+&gt;**2024 Booklists &amp; Name Tag Guide**
 
 **<font size="5">Name Tag Guide</font>** <br>
 [Guide to affix name tags on school uniform.pdf](/files/Resources/Guide%20to%20affix%20name%20tags%20on%20school%20uniform.pdf)
