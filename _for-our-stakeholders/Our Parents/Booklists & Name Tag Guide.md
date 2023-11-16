@@ -9,7 +9,7 @@ variant: markdown
 &gt;**2024 Booklists &amp; Name Tag Guide**
 
 **<font size="5">Name Tag Guide</font>** <br>
-[Guide to affix name tags on school uniform.pdf](/files/Resources/Guide%20to%20affix%20name%20tags%20on%20school%20uniform.pdf)
+[Guide to affix name tags on school uniform](/files/Letters%20and%20Circulars/2024%20Booklist/Guide_affix_name_tags.pdf)
 
 **<font size="5">Book Lists</font>** <br>
 [P1 Booklist](/files/Letters%20and%20Circulars/2024%20Booklist/2024_booklist_P1.pdf) <br>
