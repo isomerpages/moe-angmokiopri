@@ -2,6 +2,7 @@
 title: Our Staff
 permalink: /resources/staff/
 description: ""
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Staff**
@@ -22,4 +23,4 @@ description: ""
 | **All Ears Builder**     | [https://forms.moe.edu.sg/](https://forms.moe.edu.sg/)     | 
 | **Short Links for Edu**     | [https://for.edu.sg/#/](https://for.edu.sg/#/)    |
 | **Resource Booking Service (RBS)**     | [https://rbs.avero-tech.com/](https://rbs.avero-tech.com/) |
-| **FOR AMKP Staff ONLY** <br>  **AMKP PD Microsite**   | [https://sites.google.com/view/amkp-pd-microsite](https://sites.google.com/view/amkp-pd-microsite)    |
+| **AMKP PD Microsite** <br> <br> FOR AMKP and MK@AMK Staff ONLY (iCON login required)   | [https://sites.google.com/view/amkps-pd-microsite/home](https://sites.google.com/view/amkps-pd-microsite/home)    |
