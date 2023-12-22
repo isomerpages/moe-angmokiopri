@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
-&gt; **School Executive Committee**
+&gt; **2024 School Executive Committee**
 
 ##### **School Leaders**
 ![](/images/Our%20People/2023_Sch_Leader.jpeg)
