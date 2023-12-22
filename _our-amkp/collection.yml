@@ -2,7 +2,7 @@ collections:
   our-amkp:
     output: true
     order:
-      - Principal's Message 2023.md
+      - Principal's Message.md
       - Our Story/.keep
       - Our Story/Our History.md
       - Our Story/Our Milestones.md
