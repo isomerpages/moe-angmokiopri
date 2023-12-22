@@ -3,9 +3,10 @@ title: School Executive Committee 2023
 permalink: /about-us/our-people/school-executive-committee-2023/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
-&gt; **School Executive Committee 2023**
+&gt; **School Executive Committee**
 
 ##### **School Leaders**
 ![](/images/Our%20People/2023_Sch_Leader.jpeg)
