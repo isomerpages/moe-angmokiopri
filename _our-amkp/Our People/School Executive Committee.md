@@ -1,11 +1,12 @@
 ---
-title: School Executive Committee 2023
-permalink: /about-us/our-people/school-executive-committee-2023/
+title: School Executive Committee
+permalink: /about-us/our-people/school-executive-committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
-&gt; **School Executive Committee 2023**
+&gt; **2024 School Executive Committee**
 
 ##### **School Leaders**
 ![](/images/Our%20People/2023_Sch_Leader.jpeg)
@@ -17,7 +18,7 @@ Mrs Lim Bee Lay (Principal)</center>
 
 ##### **Academic Subjects**
 ![](/images/Our%20People/2023_Academic_Subj.jpeg)
-<center>From Left: Mr Sudhesh Vasu Dash (HOD/English Language), Mdm Nooraisha Mohamed Ibrahim (SH /Assessment and IPW), Ms Valerie Chua Ruishan (HOD/Mathematics), Mdm Pamela Tock Yan Qing (LH /English Language), Mr Calvin Ong (HOD/Science), Mr Alan Choo (HOD/Mother Tongue Languages),
+<center>From Left: Mdm Nooraisha Mohamed Ibrahim (SH /Assessment and IPW), Ms Valerie Chua Ruishan (HOD/Mathematics), Mdm Pamela Tock Yan Qing (LH /English Language), Mr Calvin Ong (HOD/Science), Mr Alan Choo (HOD/Mother Tongue Languages),
 Mdm Jamilah Syed Ahamed (SH/Mother Tongue Languages)</center>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">

@@ -14,5 +14,5 @@ sections:
           url: https://www.angmokiopri.moe.edu.sg/hidden-page/news-n-announcement/
         - title: Letters & Circulars
           description: ""
-          url: https://www.angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars-2023/
+          url: https://www.angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars/
 ---

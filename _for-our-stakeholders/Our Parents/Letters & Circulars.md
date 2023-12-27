@@ -1,6 +1,6 @@
 ---
-title: Letters & Circulars (2023)
-permalink: /resources/parents/letters-n-circulars-2023/
+title: Letters & Circulars
+permalink: /resources/parents/letters-n-circulars/
 description: ""
 third_nav_title: Our Parents
 variant: markdown

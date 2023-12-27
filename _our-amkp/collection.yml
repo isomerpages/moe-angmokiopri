@@ -2,7 +2,7 @@ collections:
   our-amkp:
     output: true
     order:
-      - Principal's Message 2023.md
+      - Principal's Message.md
       - Our Story/.keep
       - Our Story/Our History.md
       - Our Story/Our Milestones.md
@@ -15,8 +15,8 @@ collections:
       - Our AMKPians' Promise.md
       - Our School Rules.md
       - Our People/.keep
-      - Our People/School Executive Committee 2023.md
-      - Our People/2023 Form Teachers.md
+      - Our People/School Executive Committee.md
+      - Our People/Form Teachers.md
       - Our People/Allied Educators.md
       - Our People/Executive & Administrative Staff.md
       - Our People/MK@AMK.md
