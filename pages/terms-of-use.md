@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 &gt;OTHERS
 
@@ -84,3 +85,5 @@ Thank you for visiting Ang Mo Kio Primary School website. By accessing and using
 **Governing Law**&nbsp;  
 
 17.  These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+
+test
