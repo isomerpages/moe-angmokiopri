@@ -4,7 +4,6 @@ permalink: /our-amkp/our-story/principals-message/
 description: ""
 variant: markdown
 ---
-
 Principal's Message
 
 <p align="justify">On behalf of the school, I would like to wish everyone a happy and meaningful 2023! To all our existing students, a warm welcome back, and to our new students – P1 and our second batch of MOE Kindergarten (MK) students, we welcome you to our AMKPian family. We look forward to an exciting year of learning and growing as a community. <br><br>
