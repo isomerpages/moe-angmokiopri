@@ -11,7 +11,7 @@ variant: markdown
 
 Dear P1 Parents/Guardians,
 
-Please access the orientation Information Booklet here.
+Please access the Orientation Information Booklet [here](/files/2024p1parentsbooklet.pdf).
 
 <hr style="height:1px;border-width:0;color:gray;background-color:black">
 
