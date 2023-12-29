@@ -2,9 +2,18 @@
 title: News & Announcement
 permalink: /hidden-page/news-n-announcement/
 description: ""
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**News &amp; Announcements**
+
+**<font size="5">2024 P1 Orientation Information Booklet</font>**
+
+Dear P1 Parents/Guardians,
+
+Please access the Orientation Information Booklet [here](/files/2024p1parentsbooklet.pdf).
+
+<hr style="height:1px;border-width:0;color:gray;background-color:black">
 
 **<font size="5">2023 Term 4 CCA Schedule</font>**
 
