@@ -11,6 +11,7 @@ variant: markdown
 
 | Platform | Link | 
 | -------- | -------- | 
+| **2024 Online Bus Booking**     | [https://go.gov.sg/2024busbooking](https://go.gov.sg/2024busbooking)     |
 | **MOE Intranet**     | [https://intranet.moe.gov.sg/](https://intranet.moe.gov.sg/)     | 
 | **iCON**    | [https://icon.moe.edu.sg](https://icon.moe.edu.sg)    | 
 | **SC Mobile**     | [https://scmobile.moe.edu.sg/](https://scmobile.moe.edu.sg/)     | 
