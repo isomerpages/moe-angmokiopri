@@ -3,6 +3,7 @@ title: Executive & Administrative Staff
 permalink: /about-us/our-people/executive-n-administrative-staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Executive &amp; Administrative Staff**
@@ -24,6 +25,10 @@ third_nav_title: Our People
     <td>Mr Richard Wee Kheng Hin</td>
   </tr>
   <tr>
+		  <td><b>Operations Manager</b></td>
+    <td>Mr Warren Tan</td>
+  </tr>
+  <tr>
     <td><b>Administrative Executive</b></td>
     <td>Mrs Nurlina Diyanah Goh</td>
    </tr>
@@ -32,8 +37,8 @@ third_nav_title: Our People
     <td>Mdm Rosmawati Binte Mohamed </td>
   </tr>
   <tr>
-    <td><b>Corporate Support Officer</b></td>
-    <td>Mdm Theresa Krishna </td>
+		    <td><b>ICT Manager</b></td>
+    <td>Mr Iskandar Ramli </td>
   </tr>
   <tr>
     <td><b>Corporate Support Officer</b></td>
@@ -49,11 +54,11 @@ third_nav_title: Our People
   </tr>
   <tr>
     <td><b>Receptionist</b></td>
-    <td>Ms Priscilla Lum</td>
+    <td>Ms Diana Ho</td>
   </tr>
   <tr>		
     <td><b>Operations Support Officer</b></td>
-    <td>Mdm Ang King Moo </td>
+    <td>Mr Hong Ying Wah </td>
   </tr>
   <tr>
     <td><b>Operations Support Officer</b><br></td>
