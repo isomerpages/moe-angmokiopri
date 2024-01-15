@@ -1,5 +1,4 @@
 collections:
   student-achievement:
     output: true
-    order:
-      - News & Announcement.md
+    order: []
