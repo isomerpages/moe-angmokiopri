@@ -23,6 +23,7 @@ Mr Jason (P4/YH) | Mrs Junisha (P3/YH) | Mr Razif (P6/YH) | Mdm Suganhi (P2/YH) 
 ![](/images/About%20Us/EXCO/Student_Management.jpg)
 
 ![](/images/About%20Us/EXCO/PAM.jpg)
+Ms Liao Zi Yan (SH Aesthetics) | Mr Jack Chang (SH/ICT) | Mr Desmond Tay (HOD/ICT) | Miss Soh Mei Ling (HOD/PE,CCA&Aesthetics)
 
 ![](/images/About%20Us/EXCO/admin_ops.jpg)
 Mr Richard Wee (OM) | Mr Edmund Goh (AM/ICT) | Mr Warren Tan (OM) | Mr Jagtar Singh (AM) - not in photo
