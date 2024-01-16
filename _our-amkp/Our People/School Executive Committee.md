@@ -13,4 +13,7 @@ variant: markdown
 Mr Lynn Kyaw Saw/VP | Mrs May Wong/Principal | Mrs Alethea Liew/VPA | Mrs Tan Siew Khim/VP
 
 ![IP Heads](/images/About%20Us/EXCO/IP_Heads.jpg)
-Mrs Jamila/SH | Mr Alan Choo/HOD MT | Mr Calvin Ong/HOD Sci | Ms Jasmin Lim/LH/SC | Mdm Ang Wei Lin/LH/MA | Miss Valeria Chua/HOD/MA | 
+Mrs Jamila (SH/MT) | Mr Alan Choo (HOD/MT) | Mr Calvin Ong (HOD/SCI) | Ms Jasmin Lim (LH/SC) | Mdm Ang Wei Lin (LH/MA) | Miss Valeria Chua (HOD/MA) | Miss Esheen Koh (LH/EL) | Mdm Pamela Tock (HOD/EL) | Mdm Nooraisha (SH Assessment & IPW)
+
+![Year Head](/images/About%20Us/EXCO/YH.jpg)
+Mr Jason (P4/YH) | Mrs Junisha (P3/YH) | Mr Razif (P6/YH) | Mdm Suganhi (P2/YH) | Mrs Rena (P1 YH) | Mr Yao Fong (P5/YH)
