@@ -10,7 +10,7 @@ variant: markdown
 
 ##### **Page under Maintenance**
 ![School Leaders](/images/About%20Us/EXCO/SLs.jpg)
-Mr Lynn Kyaw Saw/VP | Mrs May Wong/Principal | Mrs Alethea Liew/VPA | Mrs Tan Siew Khim/VP
+Mr Kyaw Saw Lynn/VP | Mrs May Wong/Principal | Ms Alethea Liew/VPA | Ms Tan Siew Khim/VP
 
 ![IP Heads](/images/About%20Us/EXCO/IP_Heads.jpg)
 Mrs Jamila (SH/MT) | Mr Alan Choo (HOD/MT) | Mr Calvin Ong (HOD/SCI) | Ms Jasmin Lim (LH/SC) | Mdm Ang Wei Lin (LH/MA) | Miss Valeria Chua (HOD/MA) | Miss Esheen Koh (LH/EL) | Mdm Pamela Tock (HOD/EL) | Mdm Nooraisha (SH Assessment & IPW)
