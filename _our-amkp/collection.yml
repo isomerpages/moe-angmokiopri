@@ -2,6 +2,8 @@ collections:
   our-amkp:
     output: true
     order:
+      - Our Achievement/Alumni.md
+      - Our Achievement/.keep
       - Principal's Message.md
       - Our Story/.keep
       - Our Story/Our History.md
