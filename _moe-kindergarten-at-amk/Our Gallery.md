@@ -6,7 +6,7 @@ variant: markdown
 ---
 > Our Gallery
 
-#### K2 Celebration
+#### K2 Celebrates
 
 ![](/images/MOE%20Kindergarten/K2_Celebration.gif)
 
