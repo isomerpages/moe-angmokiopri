@@ -2,17 +2,13 @@
 title: Our Gallery
 permalink: /moe-kindergarten-at-amk/our-gallery/
 description: ""
+variant: markdown
 ---
 > Our Gallery
 
-#### Photo Gallery
+#### K2 Celebration
 
-![](/images/MOE%20Kindergarten/Photo%20Gallery.jpg)
+![](/images/MOE%20Kindergarten/K2_Celebration.gif)
 
-Check out the posts below to find out some of the events happening in MK@AMK!
 
-#### Video Gallery
 
-![](/images/MOE%20Kindergarten/Video%20Gallery.jpg)
-
-Check out some of the events and programmes as well as catch your child in action!
