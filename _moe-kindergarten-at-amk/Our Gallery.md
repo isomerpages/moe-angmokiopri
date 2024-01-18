@@ -25,4 +25,3 @@ variant: markdown
 #### K1 Learning Journey to Gardens by the Bay
 
 #### A Day with the MOLLY bus
-
