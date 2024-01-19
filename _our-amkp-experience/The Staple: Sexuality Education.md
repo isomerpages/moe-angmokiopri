@@ -51,14 +51,14 @@ c) Character and Citizenship Education (CCE)
 
 
 
-**<font size="5">Growing Years (GY) Programme : “Curious Minds (2nd Edition)” (Primary 5 &amp; 6) Teaching &amp; Learning Resource Package</font>**
+**<font size="5">Growing Years (GY) Resource Package</font>**
 
 
-1. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
+1. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. 
 
-2. The Primary 5 &amp; 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes , build healthy relationships , especially online relationships, and exercise safety.
+2. The Primary 5 &amp; 6 Growing Years (GY) resource package is taught as part of CCE (FTGP). There lessons aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes , build healthy relationships , especially online relationships, and exercise safety.
 
-**<font size="5">At Ang Mo Kio Primary School, the following lessons from the Growing Years Programme will be taught:</font>**
+**<font size="5">At Ang Mo Kio Primary School, the following lessons from the Growing Years Programme will be taught in 2024:</font>**
 
 ##### Primary 5 
 
