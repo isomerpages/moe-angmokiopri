@@ -2,11 +2,12 @@
 title: 2023 Meet The Parents
 permalink: /parents/letters-and-circulars-2022/2022-meet-the-parents/
 description: ""
+variant: markdown
 ---
-&gt;2023 MEET-THE-PARENTS
+&gt;2024 MEET-THE-PARENTS
 
-**<font size="5">2023 MTP 1</font>**<br>
-Please refer to the links below for the slides shared during 2023 MTP 1.
+**<font size="5">2024 MTP 1</font>**<br>
+Please refer to the links below for the slides shared during 2024 MTP 1.
 
 **<u>Primary 1</u>** <br>
 [2023 MTP1 P1 YH Slides](/files/Resources/MTP1_2023_P1_YH.pdf)<br>
