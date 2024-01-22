@@ -9,10 +9,10 @@ sections:
   - hero:
       background: /images/hero backgound image.gif
       key_highlights:
-        - title: News & Annoucement
-          description: ""
-          url: https://www.angmokiopri.moe.edu.sg/hidden-page/news-n-announcement/
         - title: Letters & Circulars
           description: ""
           url: https://www.angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars/
+        - title: Meet-The-Parent
+          description: Links to MTP slides
+          url: ""
 ---
