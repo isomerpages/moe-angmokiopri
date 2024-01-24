@@ -33,12 +33,12 @@ Please refer to the links below for the slides shared during 2024 MTP 1.
 
 
 **<u>Primary 3</u>**<br>
-[MTP1 P3 YH Slides](/files/Resources/MTP1/MTP1_2023_P3_YH.pdf)<br>
-[MTP1 P3 EXCELLENCE Slides](/files/Resources/MTP1/MTP1_2023_slides_P3_Excellence.pdf)<br>
-[MTP1 P3 INTEGRITY Slides](/files/Resources/MTP1/MTP1_2023_slides_P3_Integrity.pdf)<br>
-[MTP1 P3 RESILIENCE Slides](/files/Resources/MTP1/MTP1_2023_slides_P3_Resilience.pdf)<br>
-[MTP1 P3 RESPECT Slides](/files/Resources/MTP1/MTP1_2023_slides_P3_Respect.pdf)<br>
-[MTP1 P3 CARE Slides](/files/2024%20MTP/3CA_MTP_1_2024_slides_for_FTs_vetted_ok.pdf)
+[MTP1 P3 AYH Slides](/files/2024%20MTP/MTP_1_2024_P3_AYH_Sharing_v3_updated_as_of_9_Jan.pdf)<br>
+[MTP1 P3 RESILIENCE Slides](/files/2024%20MTP/3RS_MTP_1_2024_slides_for_FTs_vetted_ok.pdf)<br>
+[MTP1 P3 RESPECT Slides](/files/2024%20MTP/3RP_MTP_1_2024_slides_for_FTs_vetted_ok.pdf)<br>
+[MTP1 P3 INTEGRITY Slides](/files/2024%20MTP/3IN_MTP_1_2024_slides_for_FTs_vetted_ok.pdf)<br>
+[MTP1 P3 CARE Slides](/files/2024%20MTP/3CA_MTP_1_2024_slides_for_FTs_vetted_ok.pdf)<br>
+[MTP1 P3 EXCELLENCE Slides](/files/2024%20MTP/3EN_MTP_1_2024_slides_for_FTs_vetted_ok.pdf)<br>
 
 **<u>Primary 4</u>**<br>
 [MTP1 P4 YH Slides](/files/Resources/MTP1/MTP1_2023_P4_YH.pdf)<br>
@@ -46,7 +46,7 @@ Please refer to the links below for the slides shared during 2024 MTP 1.
 [MTP1 P4 EXCELLENCE Slides](/files/Resources/MTP1/MTP1_2023_slides_P4_Excellence.pdf)<br>
 [MTP1 P4 INTEGRITY Slides](/files/Resources/MTP1/MTP1_2023_slides_P4_Integrity.pdf)<br>
 [MTP1 P4 RESILIENCE Slides](/files/Resources/MTP1/MTP1_2023_slides_P4_Resilience.pdf)<br>
-[MTP1 P4 RESPECT Slides](/files/Resources/MTP1/MTP1_2023_slides_P4_Respect.pdf)<br>
+[MTP1 P4 EXCELLENCE Slides](/files/2024%20MTP/5__MTP_1_2024_slides_for_FTs_P4EN.pdf)<br>
 
 **<u>Primary 5</u>**<br>
 [MTP1 P5 YH Slides](/files/Resources/MTP1/MTP1_2023_P5_YH.pdf)<br>
