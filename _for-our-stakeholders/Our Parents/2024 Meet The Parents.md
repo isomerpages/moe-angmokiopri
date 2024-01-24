@@ -61,5 +61,5 @@ Please refer to the links below for the slides shared during 2024 MTP 1.
 [MTP1 P6 YH Slides](/files/Resources/MTP1/MTP1_2023_P6_YH.pdf)<br>
 [MTP1 P6 CARE Slides](/files/Resources/MTP1/MTP1_2023_slides_P6_Care.pdf)<br>
 [MTP1 P6 EXCELLENCE Slides](/files/Resources/MTP1/MTP1_2023_slides_P6_Excellence.pdf)<br>
-[MTP1 P6 INTEGRITY Slides](/files/Resources/MTP1/MTP1_2023_slides_P6_Integrity.pdf)<br>
-[MTP1 P6 RESILIENCE Slides](/files/ResourcesMTP1//MTP1_2023_slides_P6_Resilience.pdf)<br>
+[MTP1 P6 CARE Slides](/files/2024%20MTP/MTP_1_2024_slides_for_FTs_P6CA.pdf)<br>
+[MTP1 P6 EXCELLENCE Slides](/files/2024%20MTP/MTP_1_2024_slides_for_FTs_P6EN.pdf)<br>
