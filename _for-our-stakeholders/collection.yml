@@ -2,6 +2,7 @@ collections:
   for-our-stakeholders:
     output: true
     order:
+      - Our Parents/2024 Meet The Parents.md
       - Our Parents/.keep
       - Our Parents/Parents Support Group (PSG).md
       - Our Parents/Letters & Circulars.md
