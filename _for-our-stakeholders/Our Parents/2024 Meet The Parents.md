@@ -13,8 +13,6 @@ Please refer to the links below for the slides shared during 2024 MTP 1.
 **<u>Primary 1</u>** <br>
 [MTP1 P1 YH Slides](/files/2024%20MTP/MTP_1_2024_P1__YH_Sharing_Final.pdf)<br>
 [MTP1 P1 RESILIENCE Slides](/files/2024%20MTP/MTP_1_2024_slides_for_FTs__P1_RESILIENCE.pdf)<br>
-[MTP1 P1 COURAGE Slides](/files/Resources/MTP1_2023_slides_P1_Courage.pdf)<br>
-[MTP1 P1 EXCELLENCE Slides](/files/Resources/MTP1_2023_slides_P1_Excellence.pdf)<br>
 [MTP1 P1 RESPECT Slides](/files/2024%20MTP/MTP_1_2024_slides_for_FTs__P1_RESPECT.pdf)<br>
 [MTP1 P1 INTEGRITY Slides](/files/2024%20MTP/MTP_1_2024_slides_for_FTs__P1_INTEGRITY.pdf)<br>
 [MTP1 P1 CARE Slides](/files/2024%20MTP/MTP_1_2024_slides_for_FTs__P1_CARE.pdf)<br>
