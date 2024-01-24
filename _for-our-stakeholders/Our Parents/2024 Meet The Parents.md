@@ -38,6 +38,7 @@ Please refer to the links below for the slides shared during 2024 MTP 1.
 [MTP1 P3 INTEGRITY Slides](/files/Resources/MTP1/MTP1_2023_slides_P3_Integrity.pdf)<br>
 [MTP1 P3 RESILIENCE Slides](/files/Resources/MTP1/MTP1_2023_slides_P3_Resilience.pdf)<br>
 [MTP1 P3 RESPECT Slides](/files/Resources/MTP1/MTP1_2023_slides_P3_Respect.pdf)<br>
+[MTP1 P3 CARE Slides](/files/2024%20MTP/3CA_MTP_1_2024_slides_for_FTs_vetted_ok.pdf)
 
 **<u>Primary 4</u>**<br>
 [MTP1 P4 YH Slides](/files/Resources/MTP1/MTP1_2023_P4_YH.pdf)<br>
