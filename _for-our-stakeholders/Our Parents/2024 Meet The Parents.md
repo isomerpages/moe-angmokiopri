@@ -1,6 +1,6 @@
 ---
 title: 2024 Meet The Parents
-permalink: /parents/letters-and-circulars-2022/2022-meet-the-parents/
+permalink: /parents/letters-and-circulars/meet-the-parents/
 description: ""
 variant: markdown
 third_nav_title: Our Parents
