@@ -14,5 +14,5 @@ sections:
           url: https://www.angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars/
         - title: Meet-The-Parent
           description: Links to MTP slides
-          url: https://www.angmokiopri.moe.edu.sg/parents/letters-and-circulars-2022/2022-meet-the-parents/
+          url: https://www.angmokiopri.moe.edu.sg/parents/letters-and-circulars/meet-the-parents/
 ---
