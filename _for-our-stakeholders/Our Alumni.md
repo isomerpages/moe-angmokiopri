@@ -7,7 +7,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Name of Alumni</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -18,7 +18,7 @@ description: ""
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,7 +29,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
