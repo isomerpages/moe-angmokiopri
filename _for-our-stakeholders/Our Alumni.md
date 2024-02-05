@@ -25,8 +25,8 @@ description: ""
 <p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Whitely Secondary School Football Girls</p>
-<p>Whitely Secondary School Girl Guides (2020-2023)</p>
+<p>Whitley Secondary School Football Girls</p>
+<p>Whitley Secondary School Girl Guides (2020-2023)</p>
 <p>3 Distinctions in GCE 'N' Level</p>
 </td>
 </tr>
