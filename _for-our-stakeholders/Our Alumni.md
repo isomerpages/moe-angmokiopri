@@ -27,7 +27,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Whitley Secondary School Football Girls</p>
 <p>Whitley Secondary School Girl Guides (2020-2023)</p>
-<p>3 Distinctions in GCE 'N' Level</p>
+<p>3 Distinctions in 2023 GCE 'N' Level Exam</p>
 </td>
 </tr>
 <tr>
