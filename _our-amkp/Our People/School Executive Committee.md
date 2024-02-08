@@ -14,7 +14,7 @@ Mr Kyaw Saw Lynn/VP | Mrs May Wong/Principal | Ms Alethea Liew/VPA | Ms Tan Siew
 
 ##### **IP HEADS**
 ![IP Heads](/images/About%20Us/EXCO/IP_Heads.jpg)
-Mdm Jamilah (SH/MT) | Mr Alan Choo (HOD/MT) | Mr Calvin Ong (HOD/SCI) | Ms Jasmin Lim (LH/SC) | Mdm Ang Wei Lin (LH/MA) | Miss Valeria Chua (HOD/MA) | Mdm Wellish Liaw (LH/MA) | Miss Esheen Koh (LH/EL) | Mdm Pamela Tock (HOD/EL) | Mdm Nooraisha (SH Assessment & IPW)
+Mdm Jamilah (SH/MT) | Mr Alan Choo (HOD/MT) | Mr Calvin Ong (HOD/SCI) | Ms Jasmin Lim (LH/SC) | Mdm Ang Wei Lin (LH/MA) | Miss Valeria Chua (HOD/MA) | Mdm Wellisa Liaw (LH/MA) | Miss Esheen Koh (LH/EL) | Mdm Pamela Tock (HOD/EL) | Mdm Nooraisha (SH Assessment & IPW)
 
 ##### **PE, ART, MUSIC & ICT**
 ![](/images/About%20Us/EXCO/PAM.jpg)
@@ -22,7 +22,7 @@ Ms Liao Zi Yan (SH Aesthetics) | Mr Jack Chang (SH/ICT) | Mr Desmond Tay (HOD/IC
 
 ##### **YEAR HEAD**
 ![Year Head](/images/About%20Us/EXCO/YH.jpg)
-Mr Jason (P4/YH) | Ms Junisha (P3/YH) | Mr Razif (P6/YH) | Miss Suganhi (P2/YH) | Mrs Rena (P1 YH) | Mr Yao Fong (P5/YH)
+Mr Jason (P4/YH) | Ms Junisha (P3/YH) | Mr Razif (P6/YH) | Miss Suganthi (P2/YH) | Mrs Rena (P1 YH) | Mr Yao Fong (P5/YH)
 
 ##### **STUDENT MANAGEMENT**
 ![](/images/About%20Us/EXCO/Student_Management.jpg)
