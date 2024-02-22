@@ -1,0 +1,25 @@
+collections:
+  our-amkp:
+    output: true
+    order:
+      - Our Achievement/Alumni.md
+      - Our Achievement/.keep
+      - Principal's Message.md
+      - Our Story/.keep
+      - Our Story/Our History.md
+      - Our Story/Our Milestones.md
+      - Our AMKP Identity/School Logo.md
+      - Our AMKP Identity/School Song.md
+      - Our AMKP Identity/.keep
+      - Our AMKP Promise/.keep
+      - Our AMKP Promise/School Vision, Mission, Motto and Values.md
+      - Our AMKP Promise/Desired Outcomes of AMKP Students.md
+      - Our AMKPians' Promise.md
+      - Our School Rules.md
+      - Our People/.keep
+      - Our People/School Executive Committee.md
+      - Our People/Form Teachers.md
+      - Our People/Allied Educators.md
+      - Our People/Executive & Administrative Staff.md
+      - Our People/MK@AMK.md
+      - Contact Us.md

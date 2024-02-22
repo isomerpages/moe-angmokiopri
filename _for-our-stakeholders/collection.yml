@@ -1,0 +1,14 @@
+collections:
+  for-our-stakeholders:
+    output: true
+    order:
+      - Our Alumni.md
+      - Our Parents/2024 Meet The Parents.md
+      - Our Parents/.keep
+      - Our Parents/Parents Support Group (PSG).md
+      - Our Parents/Letters & Circulars.md
+      - Our Parents/Booklists & Name Tag Guide.md
+      - Our Parents/Education & Career Guidance.md
+      - Our Parents/Parents Gateway.md
+      - Our Parents/Important Helplines.md
+      - Our Staff.md

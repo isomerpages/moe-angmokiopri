@@ -1,0 +1,17 @@
+logo: /images/About Us/school logo.png
+links:
+  - title: Our AMKP
+    collection: our-amkp
+  - title: Our AMKP Experience
+    url: /our-amkp-experience/permalink/
+    sublinks:
+      - title: The Staple
+        url: /our-amkp-experience/the-staple/permalink/
+      - title: The Sparkle
+        url: /our-amkp-experience/the-sparkle/permalink/
+  - title: For Our AMKPians
+    collection: for-our-amkpians
+  - title: For Our Stakeholders
+    collection: for-our-stakeholders
+  - title: MOE Kindergarten@AMK
+    collection: moe-kindergarten-at-amk

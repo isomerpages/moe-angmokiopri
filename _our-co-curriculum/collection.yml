@@ -1,0 +1,6 @@
+collections:
+  our-co-curriculum:
+    output: true
+    order:
+      - Info Communication Technology.md
+      - Student Development.md
