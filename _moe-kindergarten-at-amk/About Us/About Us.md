@@ -12,9 +12,9 @@ As part of MOE's planned expansion to provide parents with more choices for qual
   
 Find out more about **MOE Kindergarten@AMK** here.  
 
-*   [Our Vision and Mission](https://moe-angmokiopri-staging.netlify.app/moe-kindergarten-at-amk/about-us/our-vision-and-mission)
-*   [Our Team](https://moe-angmokiopri-staging.netlify.app/moe-kindergarten-at-amk/about-us/our-team)
-*   [Our Learning Environment](https://moe-angmokiopri-staging.netlify.app/moe-kindergarten-at-amk/about-us/our-learning-environment)
+*   [Our Vision and Mission](/moe-kindergarten-at-amk/about-us/our-vision-and-mission)
+*   [Our Team](/moe-kindergarten-at-amk/about-us/our-team)
+*   [Our Learning Environment](/moe-kindergarten-at-amk/about-us/our-learning-environment)
 
 #### About Learning Dispositions
 
