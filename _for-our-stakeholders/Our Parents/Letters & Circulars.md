@@ -27,6 +27,9 @@ Please refer to the links below for the school's Termly letters and schedule.
 
 Please refer to the links below for the school's CCA letters and schedule.
 
+
+**Term 2:** [Term 2 CCA Schedule 2024](/files/Letters%20and%20Circulars/2024%20Termly%20Letter/AMKP_NC_24_037_Term2_CCA_Schedule.pdf)
+
 **Term 1:** [Term 1 CCA Schedule 2024](/files/Letters%20and%20Circulars/2024%20Termly%20Letter/AMKP_NC_24_006_Term1_CCA_Schedule.pdf)
 
 ##### 2024 Holistic Assessment
