@@ -19,6 +19,8 @@ Please refer to the links below for the school's termly calendar.
 
 Please refer to the links below for the school's Termly letters and schedule.
 
+**Term 2:** [Term 2 Termly Letter](/files/Letters%20and%20Circulars/2024%20Termly%20Letter/AMKP_SCH_24_011_AMKP_Term2_letter.pdf)
+
 **Term 1:** [Term 1 Termly Letter](/files/Letters%20and%20Circulars/2024%20Termly%20Letter/AMKP_SCH_24_001_AMKP_Term1_letter.pdf)
 
 
