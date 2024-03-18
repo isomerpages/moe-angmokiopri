@@ -50,11 +50,11 @@ variant: markdown
   </tr>
   <tr>
     <td><b>Corporate Support Officer</b></td>
-    <td>Ms Lin Hui Ling</td>
+    <td>Mdm Tan Yoke Lian</td>
   </tr>
   <tr>
     <td><b>Receptionist</b></td>
-    <td>Mdm Tan Yoke Lian</td>
+    <td>Ms Diana Ho</td>
   </tr>
   <tr>		
     <td><b>Operations Support Officer</b></td>
