@@ -54,7 +54,7 @@ variant: markdown
   </tr>
   <tr>
     <td><b>Receptionist</b></td>
-    <td>Ms Diana Ho</td>
+    <td>Mdm Tan Yoke Lian</td>
   </tr>
   <tr>		
     <td><b>Operations Support Officer</b></td>
