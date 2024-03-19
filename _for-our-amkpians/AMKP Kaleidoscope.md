@@ -4,13 +4,14 @@ permalink: /for-our-amkpians/kaleidoscope/
 variant: tiptap
 description: AMKP Kaleidoscope
 ---
-<p>![Sub-banner](/images/sub%20banner.jpg)</p>
-<p>&amp;gt;**Ezhishi**</p>
-<p>![](/images/E%20Learning/ezhishi%20login.jpg)</p>
-<p></p>
-<p><strong>Click</strong> [here](<a href="https://www.ezhishi.net/Contents/index.html" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.net/Contents/index.html</a>)
-to access Ezhishi</p>
-<p><strong>Username:</strong>  <em>[first 5 letters of child's name] + [last 5 characters of IC/BC No.]</em>
+<p>&gt;<strong>DigitalAccess@Home</strong>
 </p>
-<p>&lt;br&gt;**Password:** <em>Same as username</em>
+<p><strong>About</strong>
 </p>
+<p>DigitalAccess@Home provides subsidised broadband and laptops/tablets to
+lower-income households to support their lifestyle needs, including work
+and social activities.</p>
+<p>For full details and application process, please click <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+<p>You may also obtain the application forms from the General Office. Please
+submit all completed application forms to the General Office.</p>
