@@ -2,8 +2,8 @@ collections:
   for-our-amkpians:
     output: true
     order:
-      - Student Learning Space (MOE).md
+      - DigitalAccess@Home.md
       - Ezhishi.md
       - Pazhahutamil.md
+      - Student Learning Space (MOE).md
       - Zoom.md
-      - DigitalAccess@Home.md
