@@ -10,9 +10,6 @@ variant: tiptap
 </div>
 <p>&gt;<strong>Parents Support Group (PSG)</strong>
 </p>
-<p>
-<br>
-</p>
 <p>Chair:&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Mdm Chua Liting
