@@ -12,7 +12,7 @@ third_nav_title: Our Alumni
 <p>Name of Alumni</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Year of Graduation</p>
+<p>Year Of Attainment</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
@@ -33,13 +33,39 @@ third_nav_title: Our Alumni
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>CHARLES LLUP YONGJIE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Concert Band</p>
+<p>Band Major</p>
+<p>5 Distinctions in GCE 'O' Level</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>LIM MELODY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Leader</p>
+<p>4 Distinctions in GCE 'O' Level</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>NG HONG JUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contribution to Whitley Secondary School in Concert Band</p>
+<p>4 Distinctions in GCE 'O' Level</p>
 </td>
 </tr>
 </tbody>
