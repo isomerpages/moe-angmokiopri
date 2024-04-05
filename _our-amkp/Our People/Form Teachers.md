@@ -381,6 +381,8 @@ variant: tiptap
 <p><a href="mailto:vijaya_shankar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vijaya Shankar</a> 
 <br><a href="mailto:wellisa_leono_liaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wellisa Liaw</a>
 </p>
+<p><a href="darren_tan_yi_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yi Chen Darren</a>
+</p>
 </td>
 </tr>
 <tr>
