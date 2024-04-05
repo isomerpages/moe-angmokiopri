@@ -223,8 +223,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jamilah_bte_syed_ahamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jamilah Bte Syed Ahamed</a> 
-<br><a href="mailto:yeo_sze_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yeo Sze Min</a>
+<p><a href="tan_wee_eng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Wee Eng</a>
+</p>
+<p><a href="yeo_sze_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yeo Sze Min</a>
 </p>
 </td>
 </tr>
@@ -246,6 +247,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_ting_onn_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Chin</a>
+</p>
+<p><a href="mailto:jamilah_bte_syed_ahamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jamilah Bte Syed Ahamed</a>
 </p>
 <p><a href="liew_shaw_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liew Shaw Leong</a>
 </p>
@@ -347,7 +350,6 @@ variant: tiptap
 <p><a href="mailto:mohamad_riaz_sulaimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Riaz Sulaimi</a> 
 <br><a href="mailto:clara_tham_kar_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Clara Tham</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
