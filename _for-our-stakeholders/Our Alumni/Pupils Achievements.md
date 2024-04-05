@@ -1,5 +1,5 @@
 ---
-title: Our Achievements
+title: Pupils Achievements
 permalink: /for-our-stakeholders/permalink/
 variant: tiptap
 description: ""

@@ -2,7 +2,7 @@ collections:
   for-our-stakeholders:
     output: true
     order:
-      - Our Alumni/Our Achievements.md
+      - Our Alumni/Pupils Achievements.md
       - Our Alumni/.keep
       - Our Parents/2024 Meet The Parents.md
       - Our Parents/.keep
