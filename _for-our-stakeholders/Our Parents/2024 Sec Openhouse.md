@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Parents
 ---
-<p>&amp;gt;2024 Secondary Open House</p>
+<p>&gt;2024 Secondary Open House</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
