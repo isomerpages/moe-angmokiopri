@@ -23,6 +23,8 @@ variant: tiptap
 </p>
 <h5>CCA Letters and Schedule</h5>
 <p>Please refer to the links below for the school's CCA letters and schedule.</p>
+<p><strong>Term 3:</strong>  <a href="/files/Letters and Circulars/2024 Termly Letter/Term_3_CCA_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 CCA Schedule 2024</a>
+</p>
 <p><strong>Term 2:</strong>  <a href="/files/Letters%20and%20Circulars/2024%20Termly%20Letter/AMKP_NC_24_037_Term2_CCA_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 CCA Schedule 2024</a>
 </p>
 <p><strong>Term 1:</strong>  <a href="/files/Letters%20and%20Circulars/2024%20Termly%20Letter/AMKP_NC_24_006_Term1_CCA_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 CCA Schedule 2024</a>
