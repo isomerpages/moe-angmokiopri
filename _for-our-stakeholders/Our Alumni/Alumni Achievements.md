@@ -6,7 +6,13 @@ description: ""
 third_nav_title: Our Alumni
 ---
 <h4>Congratulations to our alumni on their recent achievements! We are proud of you!</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
