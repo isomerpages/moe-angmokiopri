@@ -69,7 +69,6 @@ variant: tiptap
 <p><a href="mailto:maheswari_krishnan_murthy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Maheswari d/o Krishnan Murthy</a> 
 <br><a href="mailto:nor_azlyna_mohd_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azlyna Bte Mohd Yusof</a>
 <br><a href="mailto:lee_mei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Mei Xuan</a>
-<br><a href="chee_wai_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chee Wai Yee</a>
 </p>
 </td>
 </tr>
@@ -81,6 +80,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nazreen_fathima_jagabar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nazreen Fathima</a> 
 <br><a href="mailto:chang_shuyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chang Shuyun</a>
+<br><a href="Mailto:irene_ho_cheow_kuang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Irene Ho</a>
 </p>
 </td>
 </tr>
