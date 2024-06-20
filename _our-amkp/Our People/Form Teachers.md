@@ -222,8 +222,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tan_wee_eng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Wee Eng</a>
-</p>
-<p><a href="yeo_sze_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yeo Sze Min</a>
+<br><a href="yeo_sze_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yeo Sze Min</a>
 </p>
 </td>
 </tr>
@@ -245,10 +244,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_ting_onn_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Chin</a>
-</p>
-<p><a href="mailto:jamilah_bte_syed_ahamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jamilah Bte Syed Ahamed</a>
-</p>
-<p><a href="liew_shaw_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liew Shaw Leong</a>
+<br><a href="mailto:jamilah_bte_syed_ahamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jamilah Bte Syed Ahamed</a>
+<br><a href="liew_shaw_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liew Shaw Leong</a>
 </p>
 </td>
 </tr>
@@ -378,8 +375,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vijaya_shankar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vijaya Shankar</a> 
 <br><a href="mailto:wellisa_leono_liaw@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wellisa Liaw</a>
-</p>
-<p><a href="darren_tan_yi_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yi Chen Darren</a>
+<br><a href="darren_tan_yi_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yi Chen Darren</a>
 </p>
 </td>
 </tr>
@@ -425,7 +421,6 @@ variant: tiptap
 <p><a href="mailto:soh_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Soh Mei Ling</a> 
 <br><a href="mailto:jex_nicholas_john_frederick@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jex Nicholas John Frederick</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
