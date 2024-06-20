@@ -11,7 +11,11 @@ variant: tiptap
 <p>&gt;<strong>2024</strong>  <strong>Form Teachers</strong>
 </p>
 <h5>2024 FORM TEACHERS</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -51,10 +55,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_wei_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Wang Wei Lin</a> 
-<br><a href="mailto:nur_fitri_faezah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Fitri Faezah Binti Mohamed</u></a> 
+<p><a href="mailto:nur_fitri_faezah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Fitri Faezah Binti Mohamed</u></a> 
 <br><a href="mailto:wong_ziwei_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Michelle Tan</a>
-</p>
+<br>Mr Yap How Joo</p>
 </td>
 </tr>
 <tr>
@@ -65,10 +68,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maheswari_krishnan_murthy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Maheswari d/o Krishnan Murthy</a> 
 <br><a href="mailto:nor_azlyna_mohd_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azlyna Bte Mohd Yusof</a>
-</p>
-<p><a href="mailto:lee_mei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Mei Xuan</a>
-</p>
-<p><a href="chee_wai_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chee Wai Yee</a>
+<br><a href="mailto:lee_mei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Mei Xuan</a>
 </p>
 </td>
 </tr>
@@ -80,6 +80,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nazreen_fathima_jagabar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nazreen Fathima</a> 
 <br><a href="mailto:chang_shuyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chang Shuyun</a>
+<br><a href="Mailto:irene_ho_cheow_kuang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Irene Ho</a>
+<br><a href="mailto:tiffany_sarah_sebastian_ravi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tiffany Sarah Sebastian Ravi</a>
 </p>
 </td>
 </tr>
@@ -89,10 +91,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wu_sufang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wu Sufang</a> 
-<br><a href="mailto:amirah_mohd_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Amirah Bte Mohd Ismail</a>
-</p>
-<p><a href="miguel_carlo_kung_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Miguel Carlo Kung Yong</a>
+<p><a href="mailto:amirah_mohd_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Amirah Bte Mohd Ismai</a>
+<br><a href="miguel_carlo_kung_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Miguel Carlo Kung Yong</a>
 </p>
 </td>
 </tr>
@@ -124,8 +124,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_adawiyah_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Adawiyah Bte Rosli</a> 
 <br><a href="mailto:tan_wei_ling_annette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Annette Ong</a>
-</p>
-<p><a href="chai_jia_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chai Jia Yang</a>
+<br><a href="chai_jia_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chai Jia Yang</a>
 </p>
 </td>
 </tr>
@@ -135,9 +134,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yong_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Amelia Ng</u></a> 
-<br><a href="mailto:harlina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Harlina</a>
-</p>
+<p><a href="mailto:ng_yong_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Amelia Ng</u></a>
+<br>Mr Gareth Chan</p>
 </td>
 </tr>
 <tr>
@@ -193,8 +191,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jun_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Jun Hui</a> 
 <br><a href="mailto:leong_cai_lin_monica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Monica Leong</a>
+<br><a href="mailto:tok_ann_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tok Ann Kee</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
