@@ -11,7 +11,11 @@ variant: tiptap
 <p>&gt;<strong>2024</strong>  <strong>Form Teachers</strong>
 </p>
 <h5>2024 FORM TEACHERS</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -51,10 +55,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_wei_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Wang Wei Lin</a> 
-<br><a href="mailto:nur_fitri_faezah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Fitri Faezah Binti Mohamed</u></a> 
+<p><a href="mailto:nur_fitri_faezah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Fitri Faezah Binti Mohamed</u></a> 
 <br><a href="mailto:wong_ziwei_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Michelle Tan</a>
-</p>
+<br>Mr Yap How Joo</p>
 </td>
 </tr>
 <tr>
@@ -65,10 +68,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maheswari_krishnan_murthy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Maheswari d/o Krishnan Murthy</a> 
 <br><a href="mailto:nor_azlyna_mohd_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azlyna Bte Mohd Yusof</a>
-</p>
-<p><a href="mailto:lee_mei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Mei Xuan</a>
-</p>
-<p><a href="chee_wai_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chee Wai Yee</a>
+<br><a href="mailto:lee_mei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Mei Xuan</a>
+<br><a href="chee_wai_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chee Wai Yee</a>
 </p>
 </td>
 </tr>
