@@ -124,8 +124,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_adawiyah_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Adawiyah Bte Rosli</a> 
 <br><a href="mailto:tan_wei_ling_annette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Annette Ong</a>
-</p>
-<p><a href="chai_jia_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chai Jia Yang</a>
+<br><a href="chai_jia_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chai Jia Yang</a>
 </p>
 </td>
 </tr>
@@ -135,9 +134,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yong_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Amelia Ng</u></a> 
-<br><a href="mailto:harlina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Harlina</a>
-</p>
+<p><a href="mailto:ng_yong_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Amelia Ng</u></a>
+<br>Mr Gareth Chan</p>
 </td>
 </tr>
 <tr>
