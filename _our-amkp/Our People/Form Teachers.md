@@ -91,10 +91,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wu_sufang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wu Sufang</a> 
-<br><a href="mailto:amirah_mohd_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Amirah Bte Mohd Ismail</a>
-</p>
-<p><a href="miguel_carlo_kung_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Miguel Carlo Kung Yong</a>
+<p><a href="mailto:amirah_mohd_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Amirah Bte Mohd Ismai</a>
+<br><a href="miguel_carlo_kung_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Miguel Carlo Kung Yong</a>
 </p>
 </td>
 </tr>
