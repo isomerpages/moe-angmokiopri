@@ -26,7 +26,8 @@ and other forms of proprietary rights. All rights, title and interest in
 the Contents are owned by, licensed to or controlled by Ang Mo Kio Primary
 School.</p>
 <p><strong>Privacy Policy </strong>
-<br>5.<strong> </strong>Click here to review this Web Site Privacy Statement.</p>
+<br>5.<strong> </strong>Click <a href="https://www.angmokiopri.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to review this
+Web Site Privacy Statement.</p>
 <p><strong>Restrictions on Use of Materials</strong>
 <br>6.<strong> </strong>Except as otherwise provided, the Contents of this
 Web Site shall not be reproduced, republished, uploaded, posted, transmitted
