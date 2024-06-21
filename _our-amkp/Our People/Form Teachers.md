@@ -57,7 +57,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_fitri_faezah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Fitri Faezah Binti Mohamed</u></a> 
 <br><a href="mailto:wong_ziwei_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Michelle Tan</a>
-<br>Mr Yap How Joo</p>
+<br><a href="mailto:Yap_How_Joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yap How Joo</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -197,7 +198,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AYH/Internal (P3)</strong>
+<p><strong>YH (P3)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
