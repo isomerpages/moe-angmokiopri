@@ -19,7 +19,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YH (P1)</strong>
+<p><strong>AYH (P1)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
