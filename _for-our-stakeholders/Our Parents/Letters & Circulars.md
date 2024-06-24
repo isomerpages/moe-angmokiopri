@@ -17,6 +17,8 @@ variant: tiptap
 </p>
 <h5>Termly Letters</h5>
 <p>Please refer to the links below for the school's Termly letters and schedule.</p>
+<p><strong>Term 3:</strong>  <a href="/files/Letters and Circulars/2024 Termly Letter/AMKP_SCH_24_011_AMKP_Term3_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 Termly Letter</a>
+</p>
 <p><strong>Term 2:</strong>  <a href="/files/Letters%20and%20Circulars/2024%20Termly%20Letter/AMKP_SCH_24_011_AMKP_Term2_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Termly Letter</a>
 </p>
 <p><strong>Term 1:</strong>  <a href="/files/Letters%20and%20Circulars/2024%20Termly%20Letter/AMKP_SCH_24_001_AMKP_Term1_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Termly Letter</a>
