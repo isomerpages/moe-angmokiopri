@@ -69,7 +69,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maheswari_krishnan_murthy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Maheswari d/o Krishnan Murthy</a> 
 <br><a href="mailto:nor_azlyna_mohd_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Azlyna Bte Mohd Yusof</a>
-<br><a href="mailto:lee_mei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Mei Xuan</a>
 </p>
 </td>
 </tr>
@@ -244,9 +243,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_ting_onn_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Chin</a>
-<br><a href="mailto:jamilah_bte_syed_ahamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jamilah Bte Syed Ahamed</a>
+<p><a href="mailto:jamilah_bte_syed_ahamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jamilah Bte Syed Ahamed</a>
 <br><a href="liew_shaw_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liew Shaw Leong</a>
+</p>
+<p><a href="mailto:lee_mei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Mei Xuan</a>
 </p>
 </td>
 </tr>
@@ -311,7 +311,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wu_wei_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu Wei Xiang</a> 
-<br><a href="mailto:doris_choong_wen_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Doris Choong</a>
+</p>
+<p><a href="mailto:chin_ting_onn_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Chin</a>
 </p>
 </td>
 </tr>
