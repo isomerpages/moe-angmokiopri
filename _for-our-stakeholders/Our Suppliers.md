@@ -7,8 +7,7 @@ description: ""
 <h1><strong>School Bus Advertisement (2024)</strong></h1>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
-<p><strong>Service Requirements</strong>
-</p>
+<h3><strong>Service Requirements</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>ww</p>
