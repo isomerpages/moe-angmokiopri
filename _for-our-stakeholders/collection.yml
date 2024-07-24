@@ -2,6 +2,7 @@ collections:
   for-our-stakeholders:
     output: true
     order:
+      - Our Suppliers.md
       - Our Parents/2024 Sec Openhouse.md
       - Our Parents/2024 Meet The Parents.md
       - Our Parents/.keep
