@@ -7,7 +7,7 @@ description: ""
 <h1><strong>School Bus Advertisement (2024)</strong></h1>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
-<h3><strong>Service Requirements</strong></h3>
+<h4><strong>Service Requirements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>ww</p>
@@ -19,8 +19,7 @@ Procedure below.</p>
 <p>ww</p>
 </li>
 </ol>
-<p><strong>Application Procedure</strong>
-</p>
+<h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Complete the (Information required from Vendor)</p>
@@ -44,8 +43,7 @@ Procedure below.</p>
 <p>Contact Person:</p>
 </li>
 </ul>
-<p><strong>How to get there?</strong>
-</p>
+<h4><strong>How to get there?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nearest MRT: Ang Mo Kio MRT</p>
