@@ -34,13 +34,13 @@ Procedure below.</p>
 <p>Address: 20 Ang Mo Kio Ave 3, Singapore 569920</p>
 </li>
 <li>
-<p>Contact Number:</p>
+<p>Contact Number: 6452 0794</p>
 </li>
 <li>
-<p>Email:</p>
+<p>Email: edmund_goh@schools.gov.sg</p>
 </li>
 <li>
-<p>Contact Person:</p>
+<p>Contact Person: Mr Edmund Goh</p>
 </li>
 </ul>
 <h4><strong>How to get there?</strong></h4>
