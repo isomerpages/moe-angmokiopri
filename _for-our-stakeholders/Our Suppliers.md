@@ -31,16 +31,16 @@ Procedure below.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 20 Ang Mo Kio Ave 3, Singapore 569920</p>
+<p><strong>Address</strong>: 20 Ang Mo Kio Ave 3, Singapore 569920</p>
 </li>
 <li>
-<p>Contact Number: 6452 0794</p>
+<p><strong>Contact:</strong> Number: 6452 0794</p>
 </li>
 <li>
-<p>Email: edmund_goh@schools.gov.sg</p>
+<p><strong>Email:</strong> edmund_goh@schools.gov.sg</p>
 </li>
 <li>
-<p>Contact Person: Mr Edmund Goh</p>
+<p><strong>Contact Person:</strong> Mr Edmund Goh</p>
 </li>
 </ul>
 <h4><strong>How to get there?</strong></h4>
