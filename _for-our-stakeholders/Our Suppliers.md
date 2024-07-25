@@ -22,7 +22,7 @@ Procedure below.</p>
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the (Information required from Vendor)</p>
+<p>Complete the Call for Proposal-Annex A (Information Required from Vendor)</p>
 </li>
 <li>
 <p>Submit the completed Call for Proposal-Annex A by closing date, 05 Aug
@@ -37,10 +37,10 @@ Procedure below.</p>
 <p><strong>Contact:</strong> Number: 6452 0794</p>
 </li>
 <li>
-<p><strong>Email:</strong> edmund_goh@schools.gov.sg</p>
+<p><strong>Email:</strong> nurlina_diyanah_salleh@schools.gov.sg</p>
 </li>
 <li>
-<p><strong>Contact Person:</strong> Mr Edmund Goh</p>
+<p><strong>Contact Person:</strong> Mdm Nurlina Diyana</p>
 </li>
 </ul>
 <h4><strong>How to get there?</strong></h4>
