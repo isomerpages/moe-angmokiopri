@@ -43,7 +43,7 @@ Required from Vendor)</p>
 <p><strong>Email:</strong> nurlina_diyanah_salleh@schools.gov.sg</p>
 </li>
 <li>
-<p><strong>Contact Person:</strong> Mdm Nurlina Diyana</p>
+<p><strong>Contact Person:</strong> Mrs Diyanah Goh</p>
 </li>
 </ul>
 <h4><strong>How to get there?</strong></h4>
