@@ -10,13 +10,13 @@ Procedure below.</p>
 <h4><strong>Service Requirements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>ww</p>
+<p>Calls for Proposal</p>
 </li>
 <li>
-<p>ww</p>
+<p>Terms and Condition for School Bus Operator</p>
 </li>
 <li>
-<p>ww</p>
+<p>Request for School Bus Service</p>
 </li>
 </ol>
 <h4><strong>Application Procedure</strong></h4>
@@ -25,13 +25,13 @@ Procedure below.</p>
 <p>Complete the (Information required from Vendor)</p>
 </li>
 <li>
-<p>Submit the completed Call for Proposal-Annex A by closing date, XX XXX
+<p>Submit the completed Call for Proposal-Annex A by closing date, 05 Aug
 2024, to the School's General office.</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address:</p>
+<p>Address: 20 Ang Mo Kio Ave 3, Singapore 569920</p>
 </li>
 <li>
 <p>Contact Number:</p>
