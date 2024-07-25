@@ -46,10 +46,11 @@ Procedure below.</p>
 <h4><strong>How to get there?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest MRT: Ang Mo Kio MRT</p>
+<p>Nearest MRT: Ang Mo Kio MRT Station (North-South Line), Mayflower MRT
+Station (Thomson East Coast Line)</p>
 </li>
 <li>
-<p>Bus number:</p>
+<p>Bus number: 76, 165, 166, 169, 132, 265, 268, 269</p>
 </li>
 </ul>
 <p></p>
