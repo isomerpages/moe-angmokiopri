@@ -29,8 +29,13 @@ Procedure below.</p>
 <p>Submit the completed Call for Proposal - Annex A by closing date, 05 August
 2024 to the School's General Office.</p>
 </li>
-<li>
-<p></p>
-</li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: 20 Ang Mo Kio Ave 3, Singapore 569920</p>
+</li>
+<li>
+<p>Contact Number: 6452 0794</p>
+</li>
+</ul>
 <p></p>
