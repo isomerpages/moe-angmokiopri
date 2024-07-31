@@ -44,4 +44,14 @@ Procedure below.</p>
 <p><strong>Contact</strong>: Mrs Diyanah Goh</p>
 </li>
 </ul>
+<h4>How to get there?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nearest MRT: Ang Mo Kio MRT Station (North-South Line), Mayflower MRT
+Station (Thomson-East Coast Line)</p>
+</li>
+<li>
+<p>Bus Number: 76, 165, 166, 169, 132, 265, 268,269</p>
+</li>
+</ul>
 <p></p>
