@@ -32,10 +32,16 @@ Procedure below.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 20 Ang Mo Kio Ave 3, Singapore 569920</p>
+<p><strong>Address:</strong> 20 Ang Mo Kio Ave 3, Singapore 569920</p>
 </li>
 <li>
-<p>Contact Number: 6452 0794</p>
+<p><strong>Contact Number:</strong> 6452 0794</p>
+</li>
+<li>
+<p><strong>Email:</strong> nurlina_diyanah_salleh@schools.gov.sg</p>
+</li>
+<li>
+<p><strong>Contact</strong>: Mrs Diyanah Goh</p>
 </li>
 </ul>
 <p></p>
