@@ -50,11 +50,11 @@ Required from Vendor)</p>
 <h4>How to get there?</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest MRT: Ang Mo Kio MRT Station (North-South Line), Mayflower MRT
-Station (Thomson-East Coast Line)</p>
+<p><strong>Nearest MRT:</strong> Ang Mo Kio MRT Station (North-South Line),
+Mayflower MRT Station (Thomson-East Coast Line)</p>
 </li>
 <li>
-<p>Bus Number: 76, 165, 166, 169, 132, 265, 268,269</p>
+<p><strong>Bus Number:</strong> 76, 165, 166, 169, 132, 265, 268,269</p>
 </li>
 </ul>
 <p></p>
