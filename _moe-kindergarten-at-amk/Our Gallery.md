@@ -6,7 +6,6 @@ variant: tiptap
 ---
 <p>&gt; Our Gallery</p>
 <h4>Growing Together</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/MK_Growing_Together_Gif.gif">
 </div>
