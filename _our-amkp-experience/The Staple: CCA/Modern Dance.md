@@ -13,9 +13,9 @@ variant: markdown
 * The Modern Dance CCA aims to develop the students' interest in and appreciation of dance as they express themselves through movement. Through a wide range of dance genres such as hip hop and contemporary dances, we hope to nurture confident individuals who demonstrate our school values of responsibility, resilience and excellence while working collaboratively to achieve artistic goals as a team.
 
 **<font size="5">   Teachers-in-Charge</font>**
-* Mrs Kaelyn Kang (First IC)
-* Mdm Tok Ann Kee (Second IC)
-* Mdm Fong Yen Yen
+* Miss Melissa Patricia Fong Shi Shan (First IC)
+* Mdm Fong Yen Yen (Second IC)
+* Ms Tiffany Sarah Sebastian Ravi
 
 **<font size="5">      CCA Days and Timing</font>**
 * Monday, 2.15pm to 4.15pm
