@@ -3,6 +3,7 @@ title: Arts & Crafts
 permalink: /our-amkp-experience/the-staple-cca/art-n-crafts/
 description: ""
 third_nav_title: "The Staple: CCA"
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Arts &amp; Crafts**
@@ -12,9 +13,8 @@ third_nav_title: "The Staple: CCA"
 
 **<font size="5">Teachers-in-Charge</font>**
 * Miss Maheswari D/O Krishnan Murthy (First IC)
-* Miss Wendy Nah (Second IC)
-* Mrs Wellisa Liaw
-* Mdm Monica Leong Cai Lin
+* Mdm Monica Leong Cai Lin (Second IC)
+* Ms Juliarti Junidi
 
 **<font size="5">CCA Days and Timing</font>**
 * Monday, 2.15pm to 4.15pm
