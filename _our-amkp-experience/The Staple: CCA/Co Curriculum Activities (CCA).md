@@ -3,6 +3,7 @@ title: Co Curriculum Activities (CCA)
 permalink: /our-amkp-experience/the-staple-cca/permalink/
 description: ""
 third_nav_title: "The Staple: CCA"
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Co-Curriculum Activities**
@@ -22,8 +23,8 @@ third_nav_title: "The Staple: CCA"
 | Clubs and Societies | Physical Sports | Uniformed Groups |  Visual and Performing Arts |
 | -------- | -------- | -------- |-------- |
 | Robotics | Badminton     | Red Cross Youth     | Arts &amp; Crafts |
-| Infocomm Technology (Computing)  | Basketball    | Scouts     | Brass Band     |
+| Maker Club | Basketball    | Scouts     | Brass Band     |
 | Innovation Programme  | Football     |      | English Drama     |
 |  | Table Tennis     |     | Modern Dance     | 
 | | Track &amp; Field     |      |      |
-| | Outdoor Adventure Club (ODAC)     |     |      |
+| |    |     |      |
