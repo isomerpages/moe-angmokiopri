@@ -17,6 +17,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hari Raya 2024" src="/images/MOE Kindergarten/Hari_Raya_2024.gif">
 </div>
+<h4>Tayo Station Adventures</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tayo Station Trip" src="/images/MOE Kindergarten/Tayo_Station.gif">
+</div>
 <h4>K2 Celebrates</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20Kindergarten/K2_Celebration.gif">
