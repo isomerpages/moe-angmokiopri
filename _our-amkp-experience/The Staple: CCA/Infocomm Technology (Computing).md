@@ -3,9 +3,10 @@ title: Infocomm Technology (Computing)
 permalink: /our-amkp-experience/the-staple-cca/infocomm-technology-computing/
 description: ""
 third_nav_title: "The Staple: CCA"
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
-&gt;**Infocomm Technology (Computing)**
+&gt;**Maker Club**
 
 **<font size="5">About</font>**
 
@@ -14,6 +15,8 @@ The Infocomm Technology (Computing) aims to ignite students’ interest in ICT i
 **<font size="5">Teachers-in-Charge</font>**
 * Mr Mohamad Riaz Sulaimi (First IC)
 * Miss Yeo Sze Min (Second IC)
+* Mrs Apiramee Anandarajah
+* Mdm Tan Siew Cheng @ Mrs Yau Siew Cheng
 
 **<font size="5">CCA Days and Timing</font>**
 * Monday, 2.15pm to 4.15pm
