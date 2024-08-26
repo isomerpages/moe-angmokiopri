@@ -3,6 +3,7 @@ title: Track and Field
 permalink: /our-amkp-experience/the-staple-cca/track-and-field/
 description: ""
 third_nav_title: "The Staple: CCA"
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Track and Field**
@@ -14,8 +15,8 @@ The Track and Field CCA aims to develop students who are enthusiastic and passio
 **<font size="5">Teachers-in-Charge</font>**
 
 * Mr Wu Wei Xiang (First IC)
-* Miss Judith Lin Xiu (Second IC)
-* Mdm S Thanaletchimi
+* Mdm Ng Yong Jia Amelia (Second IC)
+* Ms Chen Liming
 
 **<font size="5">CCA Days and Timing</font>**
 * Monday 2.15pm to 5.15pm
