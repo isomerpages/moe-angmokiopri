@@ -9,10 +9,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/MK_Growing_Together_Gif.gif">
 </div>
-<h4>Chinese New Year</h4>
-<p></p>
+<h4>Lunar Little Joys</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CNY 2024" src="/images/MOE Kindergarten/CNY_2024.gif">
+</div>
+<h4>Sweet Raya Smiles</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hari Raya 2024" src="/images/MOE Kindergarten/Hari_Raya_2024.gif">
 </div>
 <h4>K2 Celebrates</h4>
 <div class="isomer-image-wrapper">
