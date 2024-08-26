@@ -13,6 +13,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CNY 2024" src="/images/MOE Kindergarten/CNY_2024.gif">
 </div>
+<h4>Sweet Raya Smiles</h4>
+<h4> </h4>
 <h4>K2 Celebrates</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20Kindergarten/K2_Celebration.gif">
