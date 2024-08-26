@@ -9,6 +9,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/MK_Growing_Together_Gif.gif">
 </div>
+<h4>Chinese New Year </h4>
+<p></p>
+<p></p>
 <h4>K2 Celebrates</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20Kindergarten/K2_Celebration.gif">
