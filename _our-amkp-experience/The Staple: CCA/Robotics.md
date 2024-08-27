@@ -3,6 +3,7 @@ title: Robotics
 permalink: /our-amkp-experience/the-staple-cca/robotics/
 description: ""
 third_nav_title: "The Staple: CCA"
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Robotics**
@@ -13,7 +14,7 @@ The Robotics Club aims to nurture the innovative and creative minds of our stude
 
 **<font size="5">Teachers-in-Charge</font>**
 * Miss Nur Fitri Faezah Binte Mohamed (First IC)
-* Mdm Suzana Binte Gasaly (Second IC)
+* Mdm Tan Mui Ling Tabhita (Second IC)
 
 **<font size="5">CCA Days and Timing</font>**
 * Friday, 2.15pm to 4.15pm
