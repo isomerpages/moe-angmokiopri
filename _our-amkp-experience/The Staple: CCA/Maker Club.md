@@ -1,6 +1,6 @@
 ---
-title: Infocomm Technology (Computing)
-permalink: /our-amkp-experience/the-staple-cca/infocomm-technology-computing/
+title: Maker Club
+permalink: /our-amkp-experience/the-staple-cca/maker-club/
 description: ""
 third_nav_title: "The Staple: CCA"
 variant: markdown
