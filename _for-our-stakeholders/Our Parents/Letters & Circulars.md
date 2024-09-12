@@ -11,8 +11,7 @@ variant: tiptap
 <p>&gt;<strong>Letters &amp; Circulars</strong> (2024)</p>
 <h5>2024 School Calendar</h5>
 <p>Please refer to the links below for the school's termly calendar.</p>
-<p><strong><a href="/files/Letters and Circulars/2024 Termly Letter/Term4_Calendar.pdf" rel="noopener nofollow" target="_blank">Term 4 Calendar</a></strong>
-</p>
+<p></p>
 <p><strong><a href="/files/Term3_Calendar_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 Calendar</a></strong>
 </p>
 <p><strong><a href="/files/Letters%20and%20Circulars/2024%20Termly%20Letter/Term2_Calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Calendar</a></strong>
