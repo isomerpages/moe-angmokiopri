@@ -4,58 +4,110 @@ permalink: /our-suppliers/
 variant: tiptap
 description: ""
 ---
-<h1>School Bus Advertisement</h1>
+<h1>School Bus Operator</h1>
 <p></p>
-<p>To apply, please refer to the Service Requirement and the Application
-Procedure below.</p>
-<h4>Service Requirements</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Our Stakeholders/Our Suppliers/Call_for_Proposal__sch_bus_services__AMKP.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposals</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Our Stakeholders/Our Suppliers/3__TC_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Condition for School Bus Operator</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Our Stakeholders/Our Suppliers/4__Request_for_School_Bus_Service_and_TC_Governing_the_Requests_for_Services___For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Service</a>
-</p>
-</li>
-</ol>
-<h4>Application Procedure</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Complete the <a href="/files/Our Stakeholders/Our Suppliers/2__Information_from_Vendor__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A </a>(Information
-Required from Vendor)</p>
-</li>
-<li>
-<p>Submit the completed Call for Proposal - Annex A by closing date, 12 August
-2024 to the School's General Office.</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Address:</strong> 20 Ang Mo Kio Ave 3, Singapore 569920</p>
-</li>
-<li>
-<p><strong>Contact Number:</strong> 6452 0794</p>
-</li>
-<li>
-<p><strong>Email:</strong> nurlina_diyanah_salleh@schools.gov.sg</p>
-</li>
-<li>
-<p><strong>Contact</strong>: Mrs Diyanah Goh</p>
-</li>
-</ul>
-<h4>How to get there?</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Nearest MRT:</strong> Ang Mo Kio MRT Station (North-South Line),
-Mayflower MRT Station (Thomson-East Coast Line)</p>
-</li>
-<li>
-<p><strong>Bus Number:</strong> 76, 165, 166, 169, 132, 265, 268,269</p>
-</li>
-</ul>
+<p>Name of Bus Operator/Liaison officer: JANAMOS TRANSPORT SERVICE JTS, MR
+AMOS WONG
+<br>Tel No.:
+<br>Hand phone No:</p>
 <p></p>
+<h4>Daily School Bus Service&nbsp;</h4>
+<p>(i.e. for sending students from home to school and vice versa)</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="1">
+<p><strong>Distance</strong>
+</p>
+</th>
+<th rowspan="1" colspan="2">
+<p><strong>Up to 15 seater</strong>
+</p>
+</th>
+<th rowspan="1" colspan="2">
+<p><strong>&gt;30 seater</strong>
+</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>1 way</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>2 way</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>1 way</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>2 way</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>150</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>168</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>132</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>157</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt;2 – 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>192</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>144</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>168</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt;4 – 6km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>253</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>203</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>(updated Sept 2024)</p>
+<p></p>
+<p>Please note that the indicative rates above reflect the mandated maximum
+service charge for the respective distances, and are inclusive of 9% GST.</p>
