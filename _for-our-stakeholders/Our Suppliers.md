@@ -8,8 +8,7 @@ description: ""
 <p></p>
 <p>Name of Bus Operator/Liaison officer: JANAMOS TRANSPORT SERVICE JTS, MR
 AMOS WONG
-<br>Tel No.:
-<br>Hand phone No:</p>
+<br>Hand phone No: 91693336</p>
 <p></p>
 <h4>Daily School Bus Service&nbsp;</h4>
 <p>(i.e. for sending students from home to school and vice versa)</p>
