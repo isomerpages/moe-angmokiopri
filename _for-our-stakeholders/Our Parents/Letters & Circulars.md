@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 <p><strong><a href="/files/Term3_Calendar_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 Calendar</a></strong>
 </p>
-<p><strong>Term 2 Calendar</strong>
+<p><strong><a href="/files/Letters and Circulars/2024 Termly Letter/Term2_Calendar_updated.pdf" rel="noopener nofollow" target="_blank">Term 2 Calendar</a></strong>
 </p>
 <p><strong><a href="https://docs.google.com/spreadsheets/d/1wcosTNFMpRsHYkQ1QU51pa_sbMkzHa_w/edit#gid=1308896896" rel="noopener noreferrer nofollow" target="_blank">Term 1 Calendar</a></strong>
 </p>
