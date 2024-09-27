@@ -15,6 +15,7 @@ Ms Tan Siew Khim/VP : amkps@moe.edu.sg
 
 Ms Alethea Liew/VPA : amkps@moe.edu.sg
 
+
 ##### **IP HEADS**
 ![IP Heads](/images/About%20Us/EXCO/IP_Heads.jpg)
 Mdm Jamilah (SH/MT) | Mr Alan Choo (HOD/MT) | Mr Calvin Ong (HOD/SCI) | Ms Jasmin Lim (LH/SC) | Mdm Ang Wei Lin (LH/MA) | Miss Valeria Chua (HOD/MA) | Mdm Wellisa Liaw (LH/MA) | Miss Esheen Koh (LH/EL) | Mdm Pamela Tock (HOD/EL) | Mdm Nooraisha (SH Assessment & IPW)
