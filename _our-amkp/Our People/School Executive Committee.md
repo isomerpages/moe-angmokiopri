@@ -9,11 +9,11 @@ variant: markdown
 &gt; **2024 School Executive Committee**
 
 ##### **SCHOOL LEADERS**
-Mrs May Wong/Principal : amkps@moe.edu.sg
+**Mrs May Wong/Principal **: amkps@moe.edu.sg
 
-Ms Tan Siew Khim/VP : amkps@moe.edu.sg
+**Ms Tan Siew Khim/VP **: amkps@moe.edu.sg
 
-Ms Alethea Liew/VPA : amkps@moe.edu.sg
+**Ms Alethea Liew/VPA** : amkps@moe.edu.sg
 
 ##### **IP HEADS**
 ![IP Heads](/images/About%20Us/EXCO/IP_Heads.jpg)
