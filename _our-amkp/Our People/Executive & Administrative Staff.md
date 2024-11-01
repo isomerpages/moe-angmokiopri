@@ -58,12 +58,12 @@ variant: markdown
     <td>Mdm Lee Tan Khim </td>
   </tr>
   <tr>
-    <td><b>Operations Support Officer</b><br></td>
-    <td>Mdm Suriati Bte Jahuri </td>
-  </tr>
-  <tr>
     <td><b>Operations Support Officer</b></td>
     <td>Mr Tan Guan Cheong </td>
+  </tr>
+	  <tr>
+    <td><b>Operations Support Officer</b></td>
+    <td>Mr Chan Kim Chong </td>
   </tr>
   <tr>
     <td><b>Science Laboratory Assistant </b></td>
