@@ -9,12 +9,7 @@ variant: markdown
 &gt;**Executive &amp; Administrative Staff**
 
 <table>
-<thead>
-  <tr>
-    <th>Administration Manager</th>
-    <td>Mr Jagtar Singh</td>
-  </tr>
-</thead>
+
 <tbody>
   <tr>
     <td> <b>Administration Manager/ICT</b></td>
@@ -24,10 +19,7 @@ variant: markdown
     <td><b>Operations Manager</b></td>
     <td>Mr Richard Wee Kheng Hin</td>
   </tr>
-  <tr>
-		  <td><b>Operations Manager</b></td>
-    <td>Mr Warren Tan</td>
-  </tr>
+
   <tr>
     <td><b>Administrative Executive</b></td>
     <td>Mrs Nurlina Diyanah Goh</td>
@@ -36,10 +28,7 @@ variant: markdown
     <td><b>Administrative Executive</b></td>
     <td>Mdm Rosmawati Binte Mohamed </td>
   </tr>
-  <tr>
-		    <td><b>ICT Manager</b></td>
-    <td>Mr Iskandar Ramli </td>
-  </tr>
+
   <tr>
     <td><b>Corporate Support Officer</b></td>
     <td>Ms Michelle Pauline d/o Chellappan</td>
@@ -54,7 +43,7 @@ variant: markdown
   </tr>
   <tr>
     <td><b>Receptionist</b></td>
-    <td>Ms Diana Ho</td>
+    <td>Ms Sofiah</td>
   </tr>
   <tr>		
     <td><b>Operations Support Officer</b></td>
@@ -69,12 +58,12 @@ variant: markdown
     <td>Mdm Lee Tan Khim </td>
   </tr>
   <tr>
-    <td><b>Operations Support Officer</b><br></td>
-    <td>Mdm Suriati Bte Jahuri </td>
-  </tr>
-  <tr>
     <td><b>Operations Support Officer</b></td>
     <td>Mr Tan Guan Cheong </td>
+  </tr>
+	  <tr>
+    <td><b>Operations Support Officer</b></td>
+    <td>Mr Chan Kim Chong </td>
   </tr>
   <tr>
     <td><b>Science Laboratory Assistant </b></td>
