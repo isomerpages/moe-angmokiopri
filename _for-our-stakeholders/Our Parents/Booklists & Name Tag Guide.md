@@ -6,7 +6,7 @@ third_nav_title: Our Parents
 variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
-&gt;**2024 Booklists &amp; Name Tag Guide**
+&gt;**2025 Booklists &amp; Name Tag Guide**
 
 **<font size="5">Name Tag Guide</font>** <br>
 [Guide to affix name tags on school uniform](/files/Letters%20and%20Circulars/2024%20Booklist/Guide_affix_name_tags.pdf)
