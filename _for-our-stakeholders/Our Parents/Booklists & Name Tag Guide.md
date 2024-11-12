@@ -12,11 +12,12 @@ variant: markdown
 [Guide to affix name tags on school uniform](/files/Letters%20and%20Circulars/2024%20Booklist/Guide_affix_name_tags.pdf)
 
 **<font size="5">Book Lists</font>** <br>
-[P1 Booklist](/files/Letters%20and%20Circulars/2024%20Booklist/2024_booklist_P1.pdf) <br>
-[P2 Booklist](/files/Letters%20and%20Circulars/2024%20Booklist/2024_booklist_P2.pdf) <br>
-[P3 Booklist](/files/Letters%20and%20Circulars/2024%20Booklist/2024_booklist_P3.pdf) <br>
-[P4 Booklist](/files/Letters%20and%20Circulars/2024%20Booklist/2024_booklist_P4.pdf) <br>
-[P5 STD Booklist](/files/Letters%20and%20Circulars/2024%20Booklist/2024_booklist_P5.pdf) <br>
-[P5 FDN Booklist](/files/Letters%20and%20Circulars/2024%20Booklist/2024_booklist_P5_FDN.pdf) <br>
-[P6 STD Booklist](/files/Letters%20and%20Circulars/2024%20Booklist/2024_booklist_P6.pdf) <br>
-[P6 FDN Booklist](/files/Letters%20and%20Circulars/2024%20Booklist/2024_booklist_P6_FDN.pdf)
+[P1 Booklist](/files/Letters%20and%20Circulars/2025%20Booklist/P1.pdf) <br>
+[P2 Booklist](/files/Letters%20and%20Circulars/2025%20Booklist/P2.pdf)<br>
+[P3 Booklist](/files/Letters%20and%20Circulars/2025%20Booklist/P3.pdf)<br>
+[P4 Booklist](/files/Letters%20and%20Circulars/2025%20Booklist/P4.pdf)<br>
+[P5 Booklist](/files/Letters%20and%20Circulars/2025%20Booklist/P5.pdf)<br>
+[P5 FDN Booklist](/files/Letters%20and%20Circulars/2025%20Booklist/P5_FDN.pdf)<br>
+[P6 Booklist](/files/Letters%20and%20Circulars/2025%20Booklist/P6.pdf)<br>
+[P6 FDN Booklist](/files/Letters%20and%20Circulars/2025%20Booklist/P6_FDN.pdf)<br>
+
