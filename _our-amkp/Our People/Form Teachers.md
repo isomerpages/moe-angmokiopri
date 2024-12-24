@@ -289,7 +289,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yu_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasmine Lim</a> 
 <br><a href="mailto:lim_swee_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Estee Lim</a>
-<br><a href="mailto:nur_fitri_faezah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Fitri Faezah Binti Mohamed</u></a> 
+<br><a href="mailto:nur_fitri_faezah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nur Fitri Faezah Binti Mohamed</u></a>
 </p>
 </td>
 </tr>
