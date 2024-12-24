@@ -16,12 +16,12 @@ variant: tiptap
 <p></p>
 <h5>Termly Letters</h5>
 <p>Please refer to the links below for the school's Termly letters and schedule.</p>
-<p><strong>Term 1:</strong> 
+<p><strong>Term 1:</strong>
 </p>
 <h5>CCA Letters and Schedule</h5>
 <p>Please refer to the links below for the school's CCA letters and schedule.</p>
 <p></p>
-<p><strong>Term 1:</strong> 
+<p><strong>Term 1:</strong>
 </p>
 <h5></h5>
 <p></p>
