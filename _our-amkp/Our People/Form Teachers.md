@@ -300,7 +300,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xiao_yong_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Xiao Yong</a> 
-<br>Ms Melissa Wee Liang Mei
+<br><a href="mailto: WEE_LIANG_MEI@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Melissa Wee</a>
 <br><a href="mailto:chin_ting_onn_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Chin</a>
 </p>
 </td>
