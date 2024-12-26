@@ -48,7 +48,7 @@ variant: tiptap
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sutiana_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutiana_kamis@moe.edu.sgMs </a>
+<p><a href="mailto:sutiana_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutiana_kamis@moe.edu.sgMs</a>
 </p>
 </td>
 </tr>
@@ -78,6 +78,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Cheng Wei Lin, Eileen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://angmokiopri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">cheng_wei_lin_eileen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms He Jianfei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,13 +114,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheng Wei Lin, Eileen</p>
+<p>Ms He Jing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://angmokiopri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">cheng_wei_lin_eileen@moe.edu.sg</a>
+<p><a href="mailto: HE_JING@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms He Jing</a>
 </p>
 </td>
 </tr>
