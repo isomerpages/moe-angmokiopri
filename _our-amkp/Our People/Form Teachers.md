@@ -224,7 +224,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_peng_chuan_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vincent Tan</a> 
-<br>Ms Tan Mui Mui
+<br><a href="Mailto: Tan_mui_mui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Mui Mui</a>
 <br><a href="miguel_carlo_kung_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Miguel Carlo Kung Yong</a>
 </p>
 </td>
