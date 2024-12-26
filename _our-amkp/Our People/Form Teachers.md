@@ -157,7 +157,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chang Shuyun
+<p><a href="Mailto: CHANG_SHUYUN@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chang Shuyun</a>
 <br><a href="mailto:leong_cai_lin_monica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Monica Leong</a>
 <br><a href="mailto:tiffany_sarah_sebastian_ravi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tiffany Sarah Sebastian Ravi</a>
 </p>
