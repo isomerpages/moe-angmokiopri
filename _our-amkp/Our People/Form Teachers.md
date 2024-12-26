@@ -368,7 +368,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Siew Cheng
-<br>Mr Eric Soh Hiok Peng</p>
+<br><a href="Mailto: SOH_HIOK_PENG@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Eric Soh</a>
+</p>
 </td>
 </tr>
 <tr>
