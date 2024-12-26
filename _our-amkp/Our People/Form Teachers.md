@@ -66,7 +66,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Xue QI (Mrs Chong)
+<p><a href="Mailto: NG_XUE_QI@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Xue Qi (Mrs Chong)</a>
 <br>Mdm Nur Azimah Bte Mohd Jailani
 <br><a href="mailto:chang_cheng_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jack Chang</a>
 </p>
@@ -133,9 +133,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Wong Ziwei
+<p><a href="Mailto: WONG_ZIWEI_MICHELLE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Michelle WOng Ziwei</a>
 <br><a href="mailto:Yap_How_Joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yap How Joo</a>
-<br>Mdm Tan Wei Ling Annette</p>
+<br><a href="mailto: TAN_WEI_LING_ANNETTE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Wei Ling Annette</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -377,7 +378,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fong_yen_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fong Yen Yen</a>
-<br>Ms Lim Tian Jing</p>
+<br><a href="mailto: LIM_TIAN_JING@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Tian Jing</a>
+</p>
 </td>
 </tr>
 <tr>
