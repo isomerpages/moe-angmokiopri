@@ -367,7 +367,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Siew Cheng
+<p><a href="Mailto: TAN_SIEW_CHENG@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Siew Cheng</a>
 <br><a href="Mailto: SOH_HIOK_PENG@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Eric Soh</a>
 </p>
 </td>
