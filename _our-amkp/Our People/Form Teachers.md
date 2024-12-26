@@ -402,7 +402,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:valerie_chua_ruishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Valerie Low</a>
-<br>Ms SIti Noorul Ain</p>
+<br>Ms Siti Noorul Ain</p>
 </td>
 </tr>
 <tr>
