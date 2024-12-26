@@ -91,7 +91,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Kang Phay Jia Dawn
 <br><a href="mailto:dai_siming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dai Siming</a> 
-<br>Ms Juliarti Junidi</p>
+<br><a href="mailto: JULIARTI_JUNIDI@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliarti Junidi</a>
+</p>
 </td>
 </tr>
 <tr>
