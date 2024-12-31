@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
 </div>
-<p>&gt;<strong>2024</strong>  <strong>Form Teachers</strong>
+<p><strong>2025</strong>  <strong>Form Teachers</strong>
 </p>
 <p></p>
 <h5>2025 FORM TEACHERS</h5>
@@ -80,7 +80,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="Mailto: NG_XUE_QI@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Xue Qi (Mrs Chong)</a>
-<br>Mdm Nur Azimah Bte Mohd Jailani
+<br><a href="nur_azimah_mohd_jailani@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur Azimah Bte Mohd Jailani</a> 
 <br><a href="mailto:chang_cheng_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jack Chang</a>
 </p>
 </td>
@@ -165,7 +165,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mailto: WONG_ZIWEI_MICHELLE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Michelle WOng Ziwei</a>
+<p><a href="Mailto: WONG_ZIWEI_MICHELLE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Michelle Wong Ziwei</a>
 <br><a href="mailto:Yap_How_Joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yap How Joo</a>
 <br><a href="mailto: TAN_WEI_LING_ANNETTE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Wei Ling Annette</a>
 </p>
@@ -295,8 +295,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:melissa_foong_shi_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Melissa Foong</a>
-</p>
-<p><a href="mailto:chen_liming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chen Liming</a>
+<br><a href="mailto:chen_liming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chen Liming</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
