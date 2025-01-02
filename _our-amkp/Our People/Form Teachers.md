@@ -21,7 +21,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AYH (P1)</strong>
+<p><strong>YH (P1)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,7 +221,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YH (P3)</strong>
+<p><strong>AYH (P3)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -319,7 +319,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AYH (P4)</strong>
+<p><strong>YH (P4)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
