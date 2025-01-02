@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2024 Online Bus Booking</strong>
+<p><strong>2025 Online Bus Booking</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
