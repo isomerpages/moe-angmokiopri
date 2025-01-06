@@ -4,7 +4,7 @@ permalink: /our-amkp/our-story/principals-message/
 description: ""
 variant: markdown
 ---
-![](/images/Principal_Photo.jpg),
+![](/images/Principal_Photo.jpg)
          
 
 Happy New Year and welcome to the 2025 school year! Before I begin, I would like to express my heartfelt gratitude to our former Principal, Mrs. Wong, for her leadership in establishing the strong foundations that I now have the privilege of building upon as we move our school forward.
