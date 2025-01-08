@@ -14,7 +14,6 @@ variant: markdown
 
 **<font size="5">   Teachers-in-Charge</font>**
 * Miss Clara Tham Kar Ling (First IC)
-* Mr Chan Jun Xian, Gareth (second IC)
 
 **<font size="5">   CCA Days and Timing</font>**
 * Friday, 2.15pm to 4.15pm
