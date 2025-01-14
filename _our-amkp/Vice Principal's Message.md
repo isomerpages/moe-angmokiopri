@@ -13,4 +13,4 @@ I believe that every child has the potential to learn and grow, though each does
 Sincerely,
 
 Ms Tan Siew Khim 
-Vice-Principal
+<br>Vice-Principal
