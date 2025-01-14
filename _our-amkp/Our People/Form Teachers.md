@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="lee_chun_wan_cavin@moe.edu.sg" rel="noopener nofollow" target="_blank">Lee Chun Wan Calvin</a></strong>
+<p><strong><a href="lee_chun_wan_cavin@moe.edu.sg" rel="noopener nofollow" target="_blank">Lee Chun Wan Cavin</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
