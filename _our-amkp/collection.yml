@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - Vice Principal Message.md
+      - Vice Principal's Message.md
       - Our Story/.keep
       - Our Story/Our History.md
       - Our Story/Our Milestones.md
