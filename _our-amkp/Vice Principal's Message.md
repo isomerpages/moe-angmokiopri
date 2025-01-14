@@ -1,5 +1,5 @@
 ---
-title: Vice Principal Message
+title: Vice Principal's Message
 permalink: /vice-principal-message/
 variant: markdown
 description: ""
