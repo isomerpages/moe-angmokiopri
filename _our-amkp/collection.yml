@@ -2,8 +2,8 @@ collections:
   our-amkp:
     output: true
     order:
-      - Vice Principal Message.md
       - Principal's Message.md
+      - Vice Principal Message.md
       - Our Story/.keep
       - Our Story/Our History.md
       - Our Story/Our Milestones.md
