@@ -11,6 +11,10 @@ variant: markdown
 <table>
 
 <tbody>
+	  <tr>
+    <td> <b>Administration Manager</b></td>
+    <td>Ms Yvonne Loh</td>
+  </tr>
   <tr>
     <td> <b>Administration Manager/ICT</b></td>
     <td>Mr Edmund Goh</td>
@@ -43,7 +47,7 @@ variant: markdown
   </tr>
   <tr>
     <td><b>Receptionist</b></td>
-    <td>Ms Sofiah</td>
+    <td>Ms Nurul Iffah Sofiyah Zainuddin</td>
   </tr>
   <tr>		
     <td><b>Operations Support Officer</b></td>
