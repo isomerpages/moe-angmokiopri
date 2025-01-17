@@ -16,8 +16,7 @@ Ms Tan Siew Khim/VP : amkps@moe.edu.sg
 Ms Chen Yan Ting Nathalie/VP : amkps@moe.edu.sg
 
 Ms Alethea Liew/VPA : amkps@moe.edu.sg
-
-##### **EXCO** 
+ 
 
 
 **INSTRUCTIONAL PROGRAMME HEADS**
@@ -26,7 +25,6 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Ms Tock Yan Qing Pamela | Head of Department / English Language | tock_yan_qing_pamela@moe.edu.sg     |
@@ -39,6 +37,11 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Mdm Nooraisha Binte Mohamed Ibrahim | Subject Head / Assessment & IPW | nooraisha_mohamed_ibrahim@moe.edu.sg
 
 **PHYSICAL EDUCATION | ART | MUSIC**
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Miss Soh Mei Ling | Head of Department / Physical Education, Co-Curricular Activities & Aesthetics | soh_mei_ling@moe.edu.sg |
@@ -57,6 +60,11 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Miss Audrey Kwek | Subject Head / Character & Citizenship Education | kwek_audrey@moe.edu.sg
 
 **INFORMATION & COMMUNICATION TECHNOLOGY**
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Mr Desmond Tay | Head of Department / Information & Communication Technology | tay_boon_peng@moe.edu.sg |
