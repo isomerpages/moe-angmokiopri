@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
 </div>
-<p>&gt;<strong>Letters &amp; Circulars</strong> (2025)</p>
+<p><strong>Letters &amp; Circulars</strong> (2025)</p>
 <h5>2025 Publication</h5>
 <p><strong><a href="/files/Letters and Circulars/2025 Letters/2025_P1_Orientation_Slides__Compressed_.pdf" rel="noopener nofollow" target="_blank">Click here for the P1 Orientation slides</a></strong>
 </p>
@@ -22,5 +22,4 @@ variant: tiptap
 <p>Please refer to the links below for the school's CCA letters and schedule.</p>
 <p><strong>Term 1: </strong><a href="/files/Letters and Circulars/2025 Letters/2025_Term1_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 CCA Schedule</a>
 </p>
-<h5></h5>
 <p></p>
