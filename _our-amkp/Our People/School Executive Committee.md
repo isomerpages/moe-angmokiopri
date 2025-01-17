@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
-&gt; **2025 School Executive Committee**
+ **2025 School Executive Committee**
 
 ##### **SCHOOL LEADERS**
 Mr Muhammad Farizal Bin Umar Effendi/Principal : amkps@moe.edu.sg
@@ -20,7 +20,12 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 ##### **EXCO** 
 
 
-**INSTRUCTIONAL PROGRAMME HEAD**
+**INSTRUCTIONAL PROGRAMME HEADS**
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 
 | Name | Designation | Email |
 | -------- | -------- | -------- |
@@ -41,6 +46,11 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Ms Liao Ziyan | Subject Head / Aesthetics | liao_zi_yan@moe.edu.sg |
 
 **CHARACTER & CITIZENSHIP EDUCATION**
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Mrs Lim Wan Jun | Head of Department / Character & Citizenship Education | tan_wan_jun@moe.edu.sg |
@@ -53,6 +63,11 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Mr Chang Cheng Huan Jack | Subject Head / Information & Communication Technology | chang_cheng_huan@moe.edu.sg |
 
 **STAFF DEVELOPMENT COUNCIL**
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Ms Estee Lim | School Staff Developer | lim_swee_chin@moe.edu.sg |
@@ -62,6 +77,11 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Mr Mohamad Riaz Sulaimi | Senior Teacher / Science | mohamad_riaz_sulaimi@moe.edu.sg |
 
 **STUDENT MANAGEMENT & WELL-BEING**
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Mrs Desri Ann Lee | Head of Department / Student Management | desri_ann_leong@moe.edu.sg |
