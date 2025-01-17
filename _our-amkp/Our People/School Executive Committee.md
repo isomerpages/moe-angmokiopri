@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
-&gt; **2025 School Executive Committee**
+ **2025 School Executive Committee**
 
 ##### **SCHOOL LEADERS**
 Mr Muhammad Farizal Bin Umar Effendi/Principal : amkps@moe.edu.sg
@@ -20,10 +20,16 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 ##### **EXCO** 
 
 
-**INSTRUCTIONAL PROGRAMME HEAD**
+**INSTRUCTIONAL PROGRAMME HEADS**
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
 | Name | Designation | Email |
 | -------- | -------- | -------- |
-| Ms Tock Yan Qing Pamela     | Head of Department / English Language     | tock_yan_qing_pamela@moe.edu.sg     |
+| Ms Tock Yan Qing Pamela | Head of Department / English Language | tock_yan_qing_pamela@moe.edu.sg     |
 | Ms Melissa Wee Liang Mei | Level Head / English Language | wee_liang_mei@moe.edu.sg |
 |Ms Lim Tian Jing | Head of Department / Mother Tongue Languages | lim_tian_jing@moe.edu.sg |
 |Mrs Valerie Low | Head of Department / Mathematics | valerie_chua_ruishan@moe.edu.sg |
@@ -40,6 +46,11 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Ms Liao Ziyan | Subject Head / Aesthetics | liao_zi_yan@moe.edu.sg |
 
 **CHARACTER & CITIZENSHIP EDUCATION**
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Mrs Lim Wan Jun | Head of Department / Character & Citizenship Education | tan_wan_jun@moe.edu.sg |
@@ -52,6 +63,11 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Mr Chang Cheng Huan Jack | Subject Head / Information & Communication Technology | chang_cheng_huan@moe.edu.sg |
 
 **STAFF DEVELOPMENT COUNCIL**
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Ms Estee Lim | School Staff Developer | lim_swee_chin@moe.edu.sg |
@@ -61,6 +77,11 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Mr Mohamad Riaz Sulaimi | Senior Teacher / Science | mohamad_riaz_sulaimi@moe.edu.sg |
 
 **STUDENT MANAGEMENT & WELL-BEING**
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Mrs Desri Ann Lee | Head of Department / Student Management | desri_ann_leong@moe.edu.sg |
@@ -71,8 +92,3 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Mr Yong Yao Feng | Year Head / Primary 3 & 6 | yong_yao_feng@moe.edu.sg |
 | Ms Junisha Erat | Assistant Year Head / Primary 2 | junisha_erat@moe.edu.sg |
 | Ms Suganthi d/o Mariappan | Assistant Year Head / Primary 3 | suganthi_mariappan@moe.edu.sg |
-
-
-
-
-
