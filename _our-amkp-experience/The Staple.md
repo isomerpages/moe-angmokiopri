@@ -7,4 +7,4 @@ variant: markdown
 ![Sub-banner](/images/sub%20banner.jpg)
 **The Staple**
 
-![](/images/The_Staple___RISe.png)
+![](/images/The_Staple___RISE_new.png)
