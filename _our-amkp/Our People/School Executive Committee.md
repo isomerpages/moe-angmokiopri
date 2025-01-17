@@ -16,15 +16,16 @@ Ms Tan Siew Khim/VP : amkps@moe.edu.sg
 Ms Chen Yan Ting Nathalie/VP : amkps@moe.edu.sg
 
 Ms Alethea Liew/VPA : amkps@moe.edu.sg
- 
+
+##### **EXCO** 
 
 
 **INSTRUCTIONAL PROGRAMME HEADS**
 
 
-| Column 1 | Column 2 | Column 3 |
+|Name | Designation | Email |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| Ms Tock Yan Qing Pamela | Head of Department / English Language | tock_yan_qing_pamela@moe.edu.sg     |
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Ms Tock Yan Qing Pamela | Head of Department / English Language | tock_yan_qing_pamela@moe.edu.sg     |
@@ -36,24 +37,13 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Ms Jasmine Lim Yu Qian | Level Head / Science | lim_yu_qian@moe.edu.sg |
 | Mdm Nooraisha Binte Mohamed Ibrahim | Subject Head / Assessment & IPW | nooraisha_mohamed_ibrahim@moe.edu.sg
 
-**PHYSICAL EDUCATION | ART | MUSIC**
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Name | Designation | Email |
-| -------- | -------- | -------- |
+**INSTRUCTIONAL PROGRAMME HEADS**
 | Miss Soh Mei Ling | Head of Department / Physical Education, Co-Curricular Activities & Aesthetics | soh_mei_ling@moe.edu.sg |
 | Mr Mohammad Rizal Bin Kamid | Subject Head / Physical Education & Co-Curricular Activities | Mohammad_Rizal_B_KAMID@moe.gov.sg |
 | Ms Liao Ziyan | Subject Head / Aesthetics | liao_zi_yan@moe.edu.sg |
 
 **CHARACTER & CITIZENSHIP EDUCATION**
 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Mrs Lim Wan Jun | Head of Department / Character & Citizenship Education | tan_wan_jun@moe.edu.sg |
@@ -61,21 +51,13 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 
 **INFORMATION & COMMUNICATION TECHNOLOGY**
 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
 | Name | Designation | Email |
 | -------- | -------- | -------- |
-| Mr Desmond Tay | Head of Department / Information & Communication Technology | tay_boon_peng@moe.edu.sg |
+| Mr Desmond Tay Boon Peng | Head of Department / Information & Communication Technology | tay_boon_peng@moe.edu.sg |
 | Mr Chang Cheng Huan Jack | Subject Head / Information & Communication Technology | chang_cheng_huan@moe.edu.sg |
 
 **STAFF DEVELOPMENT COUNCIL**
 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Ms Estee Lim | School Staff Developer | lim_swee_chin@moe.edu.sg |
@@ -86,10 +68,6 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 
 **STUDENT MANAGEMENT & WELL-BEING**
 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Mrs Desri Ann Lee | Head of Department / Student Management | desri_ann_leong@moe.edu.sg |
