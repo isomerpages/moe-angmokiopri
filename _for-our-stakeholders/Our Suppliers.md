@@ -16,7 +16,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>THE CONTINENTAL BOOK CENTRE</p>
+<p><strong>THE CONTINENTAL BOOK CENTRE</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -110,10 +111,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SCHOOL BUS OPERATOR</p>
+<p><strong>SCHOOL BUS OPERATOR</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JANAMOS TRANSPORT SERVICE</p>
+<p><strong>JANAMOS TRANSPORT SERVICE</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -289,7 +292,8 @@ service charge for the respective distances, and are inclusive of 9% GST.</p>
 </tr>
 </tbody>
 </table>
-<p>After-School Care Arrangements</p>
+<p><strong>After-School Care Arrangements</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
