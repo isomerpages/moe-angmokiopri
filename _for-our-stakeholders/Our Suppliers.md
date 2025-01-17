@@ -33,7 +33,7 @@ description: ""
 <p>Contact no.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8078 1099 / 62478482</p>
+<p>8078 1099 / 6247 8482</p>
 </td>
 </tr>
 <tr>
@@ -41,8 +41,7 @@ description: ""
 <p>Name tag order</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://the" rel="noopener noreferrer nofollow" target="_blank">https://thecontinental.sg/products/ang-mo-kio-primary-school-uniform-name-tags</a>
-</p>
+<p>https://thecontinental.sg/products/ang-mo-kio-primary-school-uniform-name-tags</p>
 </td>
 </tr>
 <tr>
@@ -50,8 +49,7 @@ description: ""
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://thecontinental.sg/" rel="noopener noreferrer nofollow" target="_blank">https://thecontinental.sg/</a>
-</p>
+<p>https://thecontinental.sg/</p>
 </td>
 </tr>
 <tr>
@@ -141,9 +139,8 @@ description: ""
 AMOS WONG
 <br>Hand phone No: 91693336</p>
 <p></p>
-<blockquote>
-<h4>Daily School Bus Service&nbsp;</h4>
-</blockquote>
+<p><strong>Daily School Bus Service&nbsp;</strong>
+</p>
 <p>(i.e. for sending students from home to school and vice versa)</p>
 <table style="minWidth: 125px">
 <colgroup>
