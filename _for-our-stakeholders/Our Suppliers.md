@@ -49,7 +49,7 @@ description: ""
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://thecontinental.sg/" rel="noopener noreferrer nofollow" target="_blank">https://thecontinental.sg/</a> 
+<p><a href="https://thecontinental.sg/" rel="noopener noreferrer nofollow" target="_blank">https://thecontinental.sg/</a>
 </p>
 </td>
 </tr>
@@ -240,3 +240,53 @@ AMOS WONG
 <p></p>
 <p>Please note that the indicative rates above reflect the mandated maximum
 service charge for the respective distances, and are inclusive of 9% GST.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>DENTAL MATTERS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>HEALTH PROMOTION BOARD</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact no.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8764 5842</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating Hours*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday, 8.00 a.m. - 5.00 pm.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lunch Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.00 p.m. - 2.00 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
