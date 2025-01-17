@@ -79,7 +79,7 @@ description: ""
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Sims Close $03-08</p>
+<p>2 Sims Close #03-08</p>
 <p>Germini@Sims Singapore 387298</p>
 </td>
 </tr>
