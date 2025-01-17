@@ -21,9 +21,10 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 
 
 **INSTRUCTIONAL PROGRAMME HEAD**
+
 | Name | Designation | Email |
 | -------- | -------- | -------- |
-| Ms Tock Yan Qing Pamela     | Head of Department / English Language     | tock_yan_qing_pamela@moe.edu.sg     |
+| Ms Tock Yan Qing Pamela | Head of Department / English Language | tock_yan_qing_pamela@moe.edu.sg     |
 | Ms Melissa Wee Liang Mei | Level Head / English Language | wee_liang_mei@moe.edu.sg |
 |Ms Lim Tian Jing | Head of Department / Mother Tongue Languages | lim_tian_jing@moe.edu.sg |
 |Mrs Valerie Low | Head of Department / Mathematics | valerie_chua_ruishan@moe.edu.sg |
@@ -71,8 +72,3 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Mr Yong Yao Feng | Year Head / Primary 3 & 6 | yong_yao_feng@moe.edu.sg |
 | Ms Junisha Erat | Assistant Year Head / Primary 2 | junisha_erat@moe.edu.sg |
 | Ms Suganthi d/o Mariappan | Assistant Year Head / Primary 3 | suganthi_mariappan@moe.edu.sg |
-
-
-
-
-
