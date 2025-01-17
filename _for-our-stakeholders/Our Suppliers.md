@@ -4,13 +4,143 @@ permalink: /our-suppliers/
 variant: tiptap
 description: ""
 ---
-<h1>School Bus Operator</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SCHOOL</strong>  <strong>BOOKSHOP OPERATOR</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>THE CONTINENTAL BOOK CENTRE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>info@the-continental.com.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact no.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8078 1099 / 62478482</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name tag order</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://the" rel="noopener noreferrer nofollow" target="_blank">https://thecontinental.sg/products/ang-mo-kio-primary-school-uniform-name-tags</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Website</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://thecontinental.sg/" rel="noopener noreferrer nofollow" target="_blank">https://thecontinental.sg/</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SCHOOL UNIFORM SUPPLIER</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>BEAU VOIX UNIFORM</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Address</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Sims Close $03-08</p>
+<p>Germini@Sims Singapore 387298</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact no.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6743 6645</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Online Purchase</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>www.beauvoix.com.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCHOOL BUS OPERATOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JANAMOS TRANSPORT SERVICE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact Person</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Amos Wong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact no.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9169 3336</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Name of Bus Operator/Liaison officer: JANAMOS TRANSPORT SERVICE JTS, MR
 AMOS WONG
 <br>Hand phone No: 91693336</p>
 <p></p>
+<blockquote>
 <h4>Daily School Bus Service&nbsp;</h4>
+</blockquote>
 <p>(i.e. for sending students from home to school and vice versa)</p>
 <table style="minWidth: 125px">
 <colgroup>
