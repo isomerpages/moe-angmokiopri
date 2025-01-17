@@ -289,4 +289,55 @@ service charge for the respective distances, and are inclusive of 9% GST.</p>
 </tr>
 </tbody>
 </table>
+<p>After-School Care Arrangements</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NASCANS Student Care Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8876 1576</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Allkin StudentAcademy</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blk 230 AMK Ave 3 #01-1258</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>6452 1962</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Child at Street 11</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blk 102 AMK Ave 3, #01-1429</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>6455 3681</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
