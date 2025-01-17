@@ -27,7 +27,7 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Ms Melissa Wee Liang Mei | Level Head / English Language | wee_liang_mei@moe.edu.sg |
 |Ms Lim Tian Jing | Head of Department / Mother Tongue Languages | lim_tian_jing@moe.edu.sg |
 |Mrs Valerie Low | Head of Department / Mathematics | valerie_chua_ruishan@moe.edu.sg |
-| Mdm Welissa Liaw | Level Head / Mathematics | wellisa_leono_liaw@moe.edu.sg |
+| Mdm Wellisa Liaw | Level Head / Mathematics | wellisa_leono_liaw@moe.edu.sg |
 |Mr Calvin Ong Yu-Meng | Head of Department / Science| ong_yu_meng_calvin@moe.edu.sg |
 | Ms Jasmine Lim Yu Qian | Level Head / Science | lim_yu_qian@moe.edu.sg |
 | Mdm Nooraisha Binte Mohamed Ibrahim | Subject Head / Assessment & IPW | nooraisha_mohamed_ibrahim@moe.edu.sg
@@ -51,7 +51,7 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 
 | Name | Designation | Email |
 | -------- | -------- | -------- |
-| Mr Desmond Tay | Head of Department / Information & Communication Technology | tay_boon_peng@moe.edu.sg |
+| Mr Desmond Tay Boon Peng | Head of Department / Information & Communication Technology | tay_boon_peng@moe.edu.sg |
 | Mr Chang Cheng Huan Jack | Subject Head / Information & Communication Technology | chang_cheng_huan@moe.edu.sg |
 
 **STAFF DEVELOPMENT COUNCIL**
