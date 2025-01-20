@@ -21,6 +21,10 @@ She is accompanied by another student who represents the will to act and
 courage to step out of his comfort zone. He develops critical thinking
 skills and learn to appreciate diversity through the different creative
 lenses in his learning environment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_Chen_message_image.png">
+</div>
 <p>For me, education is not merely about imparting knowledge, but about cultivating
 a strong foundation while encouraging personal growth so our students become
 well-rounded individuals who are both firmly grounded and capable of reaching
