@@ -4,6 +4,10 @@ permalink: /vice-principal-administration/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_Alethea_Liew_Photo.png">
+</div>
 <p><em>"Education is not just about preparing students for the next exam, job, or stage of life. It is about preparing them to learn for life, to adapt to change, and to contribute meaningfully to society." – </em>Mr
 Chan Chun Sing, Minister for Education</p>
 <p></p>
