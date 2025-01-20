@@ -37,7 +37,7 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Miss Soh Mei Ling | Head of Department / Physical Education, Co-Curricular Activities & Aesthetics | soh_mei_ling@moe.edu.sg |
-| Mr Mohammad Rizal Bin Kamid | Subject Head / Physical Education & Co-Curricular Activities | Mohammad_Rizal_B_KAMID@moe.gov.sg |
+| Mr Mohammad Rizal Bin Kamid | Subject Head / Physical Education & Co-Curricular Activities | mohammad_rizal_b_kamid@moe.gov.sg |
 | Ms Liao Ziyan | Subject Head / Aesthetics | liao_zi_yan@moe.edu.sg |
 
 **CHARACTER & CITIZENSHIP EDUCATION**
@@ -70,7 +70,7 @@ Ms Alethea Liew/VPA : amkps@moe.edu.sg
 | -------- | -------- | -------- |
 | Mrs Desri Ann Lee | Head of Department / Student Management | desri_ann_leong@moe.edu.sg |
 | Mr Mark Chin | Subject Head / Student Management | chin_ting_onn_mark@moe.edu.sg |
-| Mr Ethan Tan Wu Xiang | Head of Department / Educational Support |  TAN_WU_SIANG_ETHAN@moe.edu.sg |
+| Mr Ethan Tan Wu Xiang | Head of Department / Educational Support |  tan_wu_siang_ethan@moe.edu.sg |
 | Mr Cavin Lee | Year Head / Primary 1 & 2 | lee_chun_wan_cavin@moe.edu.sg |
 | Mr Abdul Razif Bin Mohammad Rizal | Year Head / Primary 4 & 5 | abdul_razif_mohammad_rizal@moe.edu.sg |
 | Mr Yong Yao Feng | Year Head / Primary 3 & 6 | yong_yao_feng@moe.edu.sg |
