@@ -94,9 +94,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:fu_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Fu Shan</a> 
+</p>
+<p><a href="lina_julianna_margini@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lina Julianna Binte Margini</a>
+</p>
 <p><a href="mailto:julaiha_abd_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Julaiha Bte Abdul Aziz</a>
-<br><a href="mailto:fu_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Fu Shan</a> 
-<br><a href="lina_julianna_margini@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lina Julianna Binte Margini</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
