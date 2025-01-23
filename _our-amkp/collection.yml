@@ -2,7 +2,6 @@ collections:
   our-amkp:
     output: true
     order:
-      - Our School Facebook.md
       - Principal's Message.md
       - Vice Principal's Message.md
       - Vice Principal's 2 Message.md
@@ -27,4 +26,5 @@ collections:
       - Our Achievement/.keep
       - Our Achievement/Alumni.md
       - Our School's Calendar.md
+      - Our School Facebook.md
       - Contact Us.md
