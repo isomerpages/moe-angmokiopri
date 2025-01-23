@@ -11,7 +11,7 @@ third_nav_title: Our Parents
 Please refer to the links below for the slides shared during 2025 MTP 1.
 
 **<u>School Leader</u>** <br>
-[Ms Tan's Address](/files/Ms_Tan_s_Address.pdf)
+<a target="_blank" href="[Ms Tan's Address](/files/Ms_Tan_s_Address.pdf)">Ms Tan's Address</a>
 
 **<u>Primary 1</u>** <br>
 [1 Resilience MTP Slides](/files/1RS_Slides_MTP_2025.pdf) <br>
