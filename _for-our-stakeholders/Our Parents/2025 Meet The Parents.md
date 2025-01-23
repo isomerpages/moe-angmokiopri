@@ -10,6 +10,9 @@ third_nav_title: Our Parents
 **<font size="5">2025 MTP 1</font>**<br>
 Please refer to the links below for the slides shared during 2025 MTP 1.
 
+**<u>School Leader</u>** <br>
+[Ms Tan's Address](/files/Ms_Tan_s_Address.pdf)
+
 **<u>Primary 1</u>** <br>
 
 
