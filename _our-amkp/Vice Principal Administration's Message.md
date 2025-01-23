@@ -1,5 +1,5 @@
 ---
-title: Vice Principal Administration Message
+title: Vice Principal Administration's Message
 permalink: /vice-principal-administration/
 variant: tiptap
 description: ""
