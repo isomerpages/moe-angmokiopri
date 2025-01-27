@@ -1,6 +1,6 @@
 ---
-title: Vice Principal (Education)'s Message
-permalink: /vice-principal-education-message/
+title: Vice Principal (Education) Ms Tan's Message
+permalink: /vice-principal-education-ms-tan-message/
 variant: markdown
 description: ""
 ---

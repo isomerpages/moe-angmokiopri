@@ -1,6 +1,6 @@
 ---
-title: Vice Principal's (Education) Message
-permalink: /vice-principal-s-2-message/
+title: Vice Principal's (Education) Ms Chen's Message
+permalink: /vice-principal-ms-chen-message/
 variant: tiptap
 description: ""
 ---
