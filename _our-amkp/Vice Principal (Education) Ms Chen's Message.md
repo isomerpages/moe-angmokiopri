@@ -1,5 +1,5 @@
 ---
-title: Vice Principal's (Education) Ms Chen's Message
+title: Vice Principal (Education) Ms Chen's Message
 permalink: /vice-principal-ms-chen-message/
 variant: tiptap
 description: ""
