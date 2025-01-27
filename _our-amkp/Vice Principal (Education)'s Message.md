@@ -1,6 +1,6 @@
 ---
-title: Vice Principal's Message
-permalink: /vice-principal-message/
+title: Vice Principal (Education)'s Message
+permalink: /vice-principal-education-message/
 variant: markdown
 description: ""
 ---
