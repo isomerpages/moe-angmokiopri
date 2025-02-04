@@ -14,7 +14,7 @@ Find out more at the MK Open house!   Click the link here [https://www.moe.gov.s
 
 We look forward to meeting you! Do feel free to call us at 6250 9029 or visit our website [here](https://www.angmokiopri.moe.edu.sg/moe-kindergarten-at-amk/about-us/).
 
-![](/images/MOE%20Kindergarten/MK_Openhouse2024.jpg)
+![](/images/MOE%20Kindergarten/2025MK_Open_House.jpg)
 
 
 ![](/images/MOE%20Kindergarten/2023%20MK%20OH%20Flyer-1.png)
