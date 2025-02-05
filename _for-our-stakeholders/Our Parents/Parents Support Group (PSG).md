@@ -171,25 +171,18 @@ meals and engaging in physical activities for sharing with our parents
 and students. Enjoy!&nbsp;</p>
 <p><u>Banana Oat Smoothie</u>
 </p>
-<p>Missing Video</p>
 <p><u>Calamari Pasta</u>
 </p>
-<p>Missing Video</p>
 <p><u>Fruit Sandwich</u>
 </p>
-<p>Missing Video</p>
 <p><u>Potato and Chicken Salad</u>
 </p>
-<p>Missing Video</p>
 <p><u>Tortilla Wrap</u>
 </p>
-<p>Missing Video</p>
 <p><u>Vegetarian Sandwich</u>
 </p>
-<p>Missing Video</p>
 <p><u>Vegetarian Sandwich</u>
 </p>
-<p>Missing Video</p>
 <p><strong>Health Promotion (2)</strong>
 </p>
 <div class="iframe-wrapper">
