@@ -85,26 +85,26 @@ third_nav_title: Our Achievement
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name of CCA</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Achievement</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Certificate of Distinction for International Dance (SYF 2024)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Brass Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Certificate of Accomplishment for Band (SYF 2024)</p>
 </td>
 </tr>
 </tbody>
@@ -131,6 +131,31 @@ third_nav_title: Our Achievement
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Others</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Schools Digital Media Awards 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AMKP is one of the winners for the primary school video category</p>
 </td>
 </tr>
 <tr>
