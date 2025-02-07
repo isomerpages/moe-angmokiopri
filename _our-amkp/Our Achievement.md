@@ -40,7 +40,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong><u>Aesthetics</u></strong>
 </p>
 <table style="minWidth: 50px">
