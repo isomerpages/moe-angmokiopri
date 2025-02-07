@@ -9,8 +9,9 @@ third_nav_title: Our Achievement
 <p></p>
 <p><strong><u>Cognitive</u></strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -20,18 +21,27 @@ third_nav_title: Our Achievement
 <p>Name of Student</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Achievement</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Hai Yien (P5 RP)</p>
+<p>Ong Hai Yien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 RP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025 Raffles Scholarship (P5 - P6)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Aathmika</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -155,15 +165,7 @@ third_nav_title: Our Achievement
 <p>Schools Digital Media Awards 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AMKP is one of the winners for the primary school video category</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>AMKP is one of the winners for the Primary Schools video category</p>
 </td>
 </tr>
 </tbody>
