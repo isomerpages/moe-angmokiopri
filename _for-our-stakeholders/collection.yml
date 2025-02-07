@@ -2,6 +2,7 @@ collections:
   for-our-stakeholders:
     output: true
     order:
+      - Our Parents/Holistic Assessment 2025.md
       - Our Parents/.keep
       - Our Parents/Information for Parents.md
       - Our Parents/2025 Meet The Parents.md
