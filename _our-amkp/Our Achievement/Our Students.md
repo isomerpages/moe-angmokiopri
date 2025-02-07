@@ -40,7 +40,7 @@ third_nav_title: Our Achievement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aathmika</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
