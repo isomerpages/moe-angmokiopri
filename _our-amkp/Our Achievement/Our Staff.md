@@ -123,6 +123,17 @@ third_nav_title: Our Achievement
 <p>Silver</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Kelu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate of AST Award (EAS &amp; AEDs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facilitator of Workshops</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
