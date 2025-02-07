@@ -153,21 +153,5 @@ third_nav_title: Our Achievement
 </tr>
 </tbody>
 </table>
-<p>Others</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Schools Digital Media Awards 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AMKP is one of the winners for the Primary Schools video category</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p></p>
