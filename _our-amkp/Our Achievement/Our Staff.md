@@ -226,13 +226,24 @@ School Games</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Soh Mei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Long Service Medal (25 Years)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vincent Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Valedictory Letter</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For 15 years of contribution to the Education Service</p>
 </td>
 </tr>
 </tbody>
