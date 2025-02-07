@@ -2,7 +2,6 @@ collections:
   40th-anniversary:
     output: true
     order:
-      - Our Students.md
       - Foreword about Forty Tude.md
       - Our Logo.md
       - Our Milestones.md
