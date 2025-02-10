@@ -38,6 +38,90 @@ third_nav_title: Our Achievement
 <p>2025 Raffles Scholarship (P5 - P6)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aathmika</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winner for the Video Category for the National School Digital Media Award
+2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ang Kai Jun, Jervis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winner for the Video Category for the National School Digital Media Award
+2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guan Dingshang Ethan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winner for the Video Category for the National School Digital Media Award
+2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kakulapati Varish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winner for the Video Category for the National School Digital Media Award
+2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Farisha Binte Muhammad Faizal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winner for the Video Category for the National School Digital Media Award
+2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raju Narayanan Kamalika</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winner for the Video Category for the National School Digital Media Award
+2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sophia Nazruah Binte Sophian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winner for the Video Category for the National School Digital Media Award
+2024</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><u>Aesthetics</u></strong>
@@ -50,10 +134,10 @@ third_nav_title: Our Achievement
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name of Competition</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Award</p>
 </th>
 </tr>
 <tr>
@@ -66,10 +150,44 @@ third_nav_title: Our Achievement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Primary School Chinese Story-Telling Competition 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Penterjemah Pintar 2024</p>
+<p>(Malay Language Translation Competition jointly organised by Malay Language
+Council, Singapore and 4PM (Malay Youth Literary Association)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Disctinction for International Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment for Band (Brass Ensemble)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Digital Media Awards (SDMA) 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winner for the video category</p>
 </td>
 </tr>
 </tbody>
