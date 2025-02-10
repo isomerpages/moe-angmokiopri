@@ -7,8 +7,7 @@ third_nav_title: Our Achievement
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <p></p>
-<p><strong><u>Cognitive</u></strong>
-</p>
+<h4><strong><u>Cognitive</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -122,10 +121,93 @@ third_nav_title: Our Achievement
 2024</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDMA.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Harith Anaqi Bin Muhamad Atiq</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nuriz ZaraBinte Mansson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhao Zichen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chinese_competition.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Nur Haikal Bin Muhammad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nor Fareeesha Binte Mohamad Rizuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Nur Ikhlas Putera Muhamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cepat Tepat Competition 2024 (Malay Language competition orgaised by the
+Malay Language and Learning and Promotion commuttee and learning and promotion
+Committee and Mediacorp Suria</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong><u>Aesthetics</u></strong>
-</p>
+<h4><strong><u>Aesthetics</u></strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -192,8 +274,7 @@ Council, Singapore and 4PM (Malay Youth Literary Association)</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>CCAs</u></strong>
-</p>
+<h4><strong><u>CCAs</u></strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -226,8 +307,7 @@ Council, Singapore and 4PM (Malay Youth Literary Association)</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Social Leadership</u></strong>
-</p>
+<h4><strong><u>Social Leadership</u></strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
