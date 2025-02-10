@@ -43,6 +43,18 @@ third_nav_title: Our Achievement
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_language_award.png">
@@ -220,9 +232,6 @@ Committee and Mediacorp Suria</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance.png">
-</div>
 </td>
 </tr>
 <tr>
@@ -236,9 +245,6 @@ Committee and Mediacorp Suria</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brass_Band.png">
-</div>
 </td>
 </tr>
 <tr>
@@ -275,11 +281,34 @@ Committee and Mediacorp Suria</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance.png">
+</div>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Distinction for International Dance (SYF 2024)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brass_Band.png">
+</div>
 </td>
 </tr>
 <tr>
