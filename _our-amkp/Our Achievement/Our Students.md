@@ -57,6 +57,8 @@ third_nav_title: Our Achievement
 <p>4 Respect</p>
 </td>
 <td rowspan="2" colspan="1">
+<p></p>
+<p></p>
 <p>Penterjemah Pintar 2024 2ne Place</p>
 </td>
 </tr>
@@ -102,6 +104,20 @@ third_nav_title: Our Achievement
 <p>5 Care</p>
 </td>
 <td rowspan="4" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Cepat Tepat Competition 2024 (Malay Language competition orgaised by the
 Malay Language and Learning and Promotion commuttee and learning and promotion
 Committee and Mediacorp Suria</p>
@@ -146,6 +162,10 @@ Committee and Mediacorp Suria</p>
 <p>6 Respect</p>
 </td>
 <td rowspan="7" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>National School Digital Media Award 2024 Winner for the Video Category</p>
 </td>
 </tr>
