@@ -199,6 +199,9 @@ Committee and Mediacorp Suria</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -212,6 +215,9 @@ Committee and Mediacorp Suria</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brass_Band.png">
+</div>
 </td>
 </tr>
 <tr>
