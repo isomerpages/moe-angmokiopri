@@ -197,29 +197,8 @@ Committee and Mediacorp Suria</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Primary School Chinese Story-Telling Competition 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Penterjemah Pintar 2024</p>
-<p>(Malay Language Translation Competition jointly organised by Malay Language
-Council, Singapore and 4PM (Malay Youth Literary Association)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Place</p>
 </td>
 </tr>
 <tr>
@@ -228,6 +207,11 @@ Council, Singapore and 4PM (Malay Youth Literary Association)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Disctinction for International Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -240,10 +224,10 @@ Council, Singapore and 4PM (Malay Youth Literary Association)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Digital Media Awards (SDMA) 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Winner for the video category</p>
+<p></p>
 </td>
 </tr>
 </tbody>
