@@ -167,7 +167,7 @@ third_nav_title: Our Achievement
 <p>4 Resilence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Primary School Chinese Story-Telling Competition 2024 3rd Place</p>
 </td>
 </tr>
 <tr>
