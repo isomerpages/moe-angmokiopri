@@ -27,6 +27,11 @@ third_nav_title: Our Achievement
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ong Hai Yien</p>
 </td>
@@ -38,95 +43,8 @@ third_nav_title: Our Achievement
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Aathmika</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Winner for the Video Category for the National School Digital Media Award
-2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ang Kai Jun, Jervis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Winner for the Video Category for the National School Digital Media Award
-2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Guan Dingshang Ethan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Winner for the Video Category for the National School Digital Media Award
-2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kakulapati Varish</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Winner for the Video Category for the National School Digital Media Award
-2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nur Farisha Binte Muhammad Faizal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Winner for the Video Category for the National School Digital Media Award
-2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Raju Narayanan Kamalika</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Winner for the Video Category for the National School Digital Media Award
-2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sophia Nazruah Binte Sophian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Winner for the Video Category for the National School Digital Media Award
-2024</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDMA.png">
-</div>
 </td>
 </tr>
 <tr>
@@ -136,7 +54,7 @@ third_nav_title: Our Achievement
 <td rowspan="1" colspan="1">
 <p>4 Respect</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Penterjemah Pintar 2024 2ne Place</p>
 </td>
 </tr>
@@ -147,8 +65,98 @@ third_nav_title: Our Achievement
 <td rowspan="1" colspan="1">
 <p>5 Respect</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Penterjemah Pintar 2024 2ne Place</p>
+<p>Ang Kai Jun, Jervis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guan Dingshang Ethan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kakulapati Varish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Farisha Binte Muhammad Faizal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raju Narayanan Kamalika</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sophia Nazruah Binte Sophian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -186,7 +194,9 @@ third_nav_title: Our Achievement
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cepat Tepat Competition 2024 (Malay Language competition orgaised by the
+Malay Language and Learning and Promotion commuttee and learning and promotion
+Committee and Mediacorp Suria</p>
 </td>
 </tr>
 <tr>
@@ -197,7 +207,9 @@ third_nav_title: Our Achievement
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cepat Tepat Competition 2024 (Malay Language competition orgaised by the
+Malay Language and Learning and Promotion commuttee and learning and promotion
+Committee and Mediacorp Suria</p>
 </td>
 </tr>
 <tr>
@@ -211,6 +223,25 @@ third_nav_title: Our Achievement
 <p>Cepat Tepat Competition 2024 (Malay Language competition orgaised by the
 Malay Language and Learning and Promotion commuttee and learning and promotion
 Committee and Mediacorp Suria</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDMA.png">
+</div>
+<p></p>
 </td>
 </tr>
 </tbody>
