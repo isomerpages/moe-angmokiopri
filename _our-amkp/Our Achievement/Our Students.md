@@ -146,7 +146,7 @@ Committee and Mediacorp Suria</p>
 <p>6 Respect</p>
 </td>
 <td rowspan="7" colspan="1">
-<p>National School Digital Media Award2024 Winner for the Video Category</p>
+<p>National School Digital Media Award 2024 Winner for the Video Category</p>
 </td>
 </tr>
 <tr>
