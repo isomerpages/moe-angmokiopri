@@ -137,7 +137,7 @@ third_nav_title: Our Achievement
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Penterjemah Pintar 2024 2ne Place</p>
 </td>
 </tr>
 <tr>
@@ -145,10 +145,18 @@ third_nav_title: Our Achievement
 <p>Nuriz ZaraBinte Mansson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Penterjemah Pintar 2024 2ne Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_language_award.png">
+</div>
 </td>
 </tr>
 <tr>
