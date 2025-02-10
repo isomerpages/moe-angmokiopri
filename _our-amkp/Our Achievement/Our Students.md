@@ -114,6 +114,18 @@ third_nav_title: Our Achievement
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cepat_Tepat.png">
@@ -169,6 +181,18 @@ Committee and Mediacorp Suria</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -244,27 +268,6 @@ Committee and Mediacorp Suria</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Disctinction for International Dance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment for Band (Brass Ensemble)</p>
 </td>
 </tr>
 <tr>
