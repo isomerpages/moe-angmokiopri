@@ -59,7 +59,7 @@ third_nav_title: Our Achievement
 <td rowspan="2" colspan="1">
 <p></p>
 <p></p>
-<p>Penterjemah Pintar 2024 2ne Place</p>
+<p>Penterjemah Pintar 2024 2nd Place</p>
 </td>
 </tr>
 <tr>
