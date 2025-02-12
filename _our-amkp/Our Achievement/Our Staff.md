@@ -48,29 +48,7 @@ third_nav_title: Our Achievement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Adawiyah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOE Service Excellence Award 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Nurlina Diyanah Bte Salleh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOE Service Excellence Award 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rena Tay Wei Hsuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MOE Service Excellence Award 2024</p>
