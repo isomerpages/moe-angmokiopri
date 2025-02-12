@@ -15,18 +15,17 @@ third_nav_title: Our Achievement
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<h4><strong>2025 Raffles Scholarship (P5 - P6)</strong></h4>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Name of Student</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Class</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>2025 Raffles Scholarship (P5 - P6)</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -55,6 +54,14 @@ third_nav_title: Our Achievement
 <td rowspan="1" colspan="2">
 <h4><strong>Penterjemah Pintar 2024 2nd Place</strong></h4>
 </td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -94,6 +101,14 @@ third_nav_title: Our Achievement
 </td>
 </tr>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Name of Student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Zhao Zichen</p>
 </td>
@@ -120,6 +135,14 @@ third_nav_title: Our Achievement
 <td rowspan="1" colspan="2">
 <h4><strong>Cepat Tepat Competition 2024 (Malay Language competition orgaised by the Malay Language and Learning and Promotion commuttee and learning and promotion Committee and Mediacorp Suria)</strong></h4>
 </td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -174,10 +197,18 @@ third_nav_title: Our Achievement
 </td>
 </tr>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Name of Student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Aathmika⁠</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="1" colspan="1">
 <p>6 Respect</p>
 </td>
 </tr>
@@ -185,30 +216,48 @@ third_nav_title: Our Achievement
 <td rowspan="1" colspan="1">
 <p>Ang Kai Jun, Jervis</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Guan Dingshang Ethan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Kakulapati Varish</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Nur Farisha Binte Muhammad Faizal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Raju Narayanan Kamalika</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sophia Nazurah Binte Sophian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
 </td>
 </tr>
 </tbody>
