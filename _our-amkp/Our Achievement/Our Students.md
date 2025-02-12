@@ -8,9 +8,8 @@ third_nav_title: Our Achievement
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <p></p>
 <h4><strong><u>Cognitive</u></strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -22,13 +21,11 @@ third_nav_title: Our Achievement
 <th rowspan="1" colspan="1">
 <p>Class</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><strong>2025 Raffles Scholarship (P5 - P6)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -38,9 +35,6 @@ third_nav_title: Our Achievement
 <td rowspan="1" colspan="1">
 <p>P5 RP</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2025 Raffles Scholarship (P5 - P6)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,16 +43,17 @@ third_nav_title: Our Achievement
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_language_award.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Penterjemah Pintar 2024 2nd Place</strong></h4>
 </td>
 </tr>
 <tr>
@@ -67,11 +62,6 @@ third_nav_title: Our Achievement
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Respect</p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
-<p></p>
-<p>Penterjemah Pintar 2024 2nd Place</p>
 </td>
 </tr>
 <tr>
@@ -89,17 +79,18 @@ third_nav_title: Our Achievement
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/chinese_competition.jpg">
 </div>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>National Primary School Chinese Story-Telling Competition 2024 3rd Place</strong></h4>
 </td>
 </tr>
 <tr>
@@ -109,9 +100,6 @@ third_nav_title: Our Achievement
 <td rowspan="1" colspan="1">
 <p>4 Resilence</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>National Primary School Chinese Story-Telling Competition 2024 3rd Place</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -120,16 +108,17 @@ third_nav_title: Our Achievement
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cepat_Tepat.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Cepat Tepat Competition 2024 (Malay Language competition orgaised by the Malay Language and Learning and Promotion commuttee and learning and promotion Committee and Mediacorp Suria)</strong></h4>
 </td>
 </tr>
 <tr>
@@ -138,25 +127,6 @@ third_nav_title: Our Achievement
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Care</p>
-</td>
-<td rowspan="4" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>Cepat Tepat Competition 2024 (Malay Language competition orgaised by the
-Malay Language and Learning and Promotion commuttee and learning and promotion
-Committee and Mediacorp Suria</p>
 </td>
 </tr>
 <tr>
@@ -190,16 +160,17 @@ Committee and Mediacorp Suria</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDMA.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>National School Digital Media Award 2024 Winner for the Video Category</strong></h4>
 </td>
 </tr>
 <tr>
@@ -208,14 +179,6 @@ Committee and Mediacorp Suria</p>
 </td>
 <td rowspan="7" colspan="1">
 <p>6 Respect</p>
-</td>
-<td rowspan="7" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>National School Digital Media Award 2024 Winner for the Video Category</p>
 </td>
 </tr>
 <tr>
