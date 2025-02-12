@@ -133,7 +133,7 @@ third_nav_title: Our Achievement
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Cepat Tepat Competition 2024 (Malay Language competition organised by the Malay Language and Learning and Promotion committee and learning and promotion Committee and Mediacorp Suria)</strong></h4>
+<h4><strong>Cepat Tepat Competition 2024 (Malay Language competition organized by the Malay Language and Learning and Promotion committee and learning and promotion Committee and Mediacorp Suria)</strong></h4>
 </td>
 </tr>
 <tr>
