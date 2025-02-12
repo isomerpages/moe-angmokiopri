@@ -113,7 +113,7 @@ third_nav_title: Our Achievement
 <p>Zhao Zichen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Resilence</p>
+<p>4 Resilience</p>
 </td>
 </tr>
 <tr>
