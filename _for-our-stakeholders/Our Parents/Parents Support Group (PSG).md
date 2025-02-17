@@ -62,6 +62,25 @@ variant: tiptap
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/77.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chan Wai Kuan Faith (Member)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jessica Goh Siew Ling (Member)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
