@@ -18,74 +18,48 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/67.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p>PSG Designation</p>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Chua Liting</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/71.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chairman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Florence Ow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/69.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Aarthi Narasimhan</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/79.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr. Sudharsanam Tettu Komandur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/83.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Jessica Goh Siew Ling</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/75.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Kate Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Pramoda Kameswari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr. Vivek Kumar Koduvayur Ramesh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/73.png">
+</div>
 </td>
 </tr>
 </tbody>
