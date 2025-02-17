@@ -62,6 +62,14 @@ variant: tiptap
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chan Wai Kuan Faith (Member)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jessica Goh Siew Ling (Member)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
