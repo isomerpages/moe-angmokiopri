@@ -1,7 +1,7 @@
 ---
 title: Our Staff
 permalink: /our-staff/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <h4>Congratulation to all our staff on their achievements! We are proud of you!</h4>

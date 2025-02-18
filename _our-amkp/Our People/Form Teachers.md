@@ -3,7 +3,7 @@ title: Form Teachers
 permalink: /about-us/our-people/teaching-staff/form-teachers/
 description: ""
 third_nav_title: Our People
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -309,9 +309,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_ai_sien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lai- Foo Ai Sien</a> 
-<br><a href="mailto:wu_wei_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu Wei Xiang</a>
-</p>
-<p><a href="mailto: mohammad_rizal_kamid@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohammad Rizal Bin Kamid</a>
+<br><a href="mailto:wu_wei_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wu Wei Xiang</a><br><a href="mailto: mohammad_rizal_kamid@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohammad Rizal Bin Kamid</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
