@@ -3,7 +3,6 @@ title: Our Students
 permalink: /our-students/
 variant: tiptap
 description: ""
-third_nav_title: Our Achievement
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <p></p>
