@@ -2,4 +2,5 @@ collections:
   our-achievements:
     output: true
     order:
+      - Our Staff.md
       - Our Students.md
