@@ -44,7 +44,7 @@ description: ""
 <li>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s General Office.
-<br>• <a href="https://www.angmokiosec.moe.edu.sg/files/canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Application Form</u></a>
+<br>• <a href="/files/canteen_application_form.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 <li>
