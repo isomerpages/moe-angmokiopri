@@ -2,7 +2,6 @@ collections:
   our-amkp:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Principal's Message.md
       - Vice Principal (Education) Ms Tan's Message.md
       - Vice Principal (Education) Ms Chen's Message.md
@@ -27,4 +26,5 @@ collections:
       - Our People/MK@AMK.md
       - Our School's Calendar.md
       - Our School's Facebook.md
+      - School Canteen Advertisement.md
       - Contact Us.md
