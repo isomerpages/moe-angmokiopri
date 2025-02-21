@@ -84,7 +84,7 @@ variant: tiptap
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://angmokiopri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">cheng_wei_lin_eileen@moe.edu.sg</a>
+<p><a href="mailto:cheng_wei_lin_eileen@moe.edu.sg" rel="noopener nofollow" target="_blank">cheng_wei_lin_eileen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -126,13 +126,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cikgu Nur Sharafikah Binte Rohaizan&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Ms Nur Sharafikah Binte Rohaizan&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Nur_Sharafikah_Rohaizan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Sharafikah_Rohaizan@moe.edu.sg</a>
+<p><a href="mailto:Nur_Sharafikah_Rohaizan@moe.edu.sg" rel="noopener nofollow" target="_blank">Nur_Sharafikah_Rohaizan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
