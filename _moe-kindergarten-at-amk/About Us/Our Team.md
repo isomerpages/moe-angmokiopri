@@ -8,7 +8,7 @@ variant: tiptap
 <p>&gt;Our Team</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/MK_Staff_photo_edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/2025_MK_Staff.jpg">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -36,7 +36,7 @@ variant: tiptap
 <p>Centre Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: Tan_jamie@moe.edu.sg" rel="noopener nofollow" target="_blank">Tan_jamie@moe.edu.sg</a>
+<p><a href="mailto:Jamie_Tan@schools.gov.sg" rel="noopener nofollow" target="_blank">Jamie_Tan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -120,7 +120,7 @@ variant: tiptap
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: HE_JING@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms He Jing</a>
+<p><a href="mailto:He_Jing@moe.edu.sg" rel="noopener nofollow" target="_blank">He_Jing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
