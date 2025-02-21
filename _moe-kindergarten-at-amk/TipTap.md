@@ -2,8 +2,9 @@
 title: TipTap
 permalink: /moe-kindergarten-at-amk/tiptap/
 description: ""
+variant: markdown
 ---
->TipTap
+>2025 Fmaily Handbook
 
 ![](/images/MOE%20Kindergarten/TipTap.jpg)
 
