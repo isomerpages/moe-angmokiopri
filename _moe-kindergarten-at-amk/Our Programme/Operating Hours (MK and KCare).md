@@ -22,3 +22,7 @@ Monday to Friday: 12:00pm to 7:00pm
 (During School Holidays)
 
 Monday to Friday: 7:00am to 7:00pm
+
+![](/images/MOE%20Kindergarten/2025_kcare_sample_tt.png)
+
+![](/images/MOE%20Kindergarten/2025_kcare_sample_tt2.png)
