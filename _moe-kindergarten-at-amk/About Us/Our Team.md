@@ -48,7 +48,7 @@ variant: tiptap
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sutiana_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutiana_kamis@moe.edu.sgMs</a>
+<p><a href="mailto:sutiana_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutiana_kamis@moe.edu.sg</a>
 </p>
 </td>
 </tr>
