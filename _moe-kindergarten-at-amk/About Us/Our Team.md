@@ -8,7 +8,7 @@ variant: tiptap
 <p>&gt;Our Team</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/MK_Staff_photo_edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/2025_MK_Staff.jpg">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -36,7 +36,7 @@ variant: tiptap
 <p>Centre Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: Tan_jamie@moe.edu.sg" rel="noopener nofollow" target="_blank">Tan_jamie@moe.edu.sg</a>
+<p><a href="mailto:Jamie_Tan@schools.gov.sg" rel="noopener nofollow" target="_blank">Jamie_Tan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sutiana_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutiana_kamis@moe.edu.sgMs</a>
+<p><a href="mailto:sutiana_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutiana_kamis@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://angmokiopri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">cheng_wei_lin_eileen@moe.edu.sg</a>
+<p><a href="mailto:cheng_wei_lin_eileen@moe.edu.sg" rel="noopener nofollow" target="_blank">cheng_wei_lin_eileen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -120,19 +120,19 @@ variant: tiptap
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: HE_JING@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms He Jing</a>
+<p><a href="mailto:He_Jing@moe.edu.sg" rel="noopener nofollow" target="_blank">He_Jing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cikgu Nur Sharafikah Binte Rohaizan&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Ms Nur Sharafikah Binte Rohaizan&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Nur_Sharafikah_Rohaizan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Sharafikah_Rohaizan@moe.edu.sg</a>
+<p><a href="mailto:Nur_Sharafikah_Rohaizan@moe.edu.sg" rel="noopener nofollow" target="_blank">Nur_Sharafikah_Rohaizan@moe.edu.sg</a>
 </p>
 </td>
 </tr>

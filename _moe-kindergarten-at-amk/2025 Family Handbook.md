@@ -1,9 +1,10 @@
 ---
-title: TipTap
+title: 2025 Family Handbook
 permalink: /moe-kindergarten-at-amk/tiptap/
 description: ""
+variant: markdown
 ---
->TipTap
+>2025 Fmaily Handbook
 
 ![](/images/MOE%20Kindergarten/TipTap.jpg)
 
