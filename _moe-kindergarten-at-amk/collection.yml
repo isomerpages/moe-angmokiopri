@@ -2,7 +2,6 @@ collections:
   moe-kindergarten-at-amk:
     output: true
     order:
-      - MK Uniform Information.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Our Vision and Mission.md
@@ -17,3 +16,4 @@ collections:
       - Our Gallery.md
       - TipTap.md
       - Open House.md
+      - MK Uniform Information.md
