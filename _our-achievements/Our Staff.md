@@ -175,4 +175,46 @@ Learning Designers Circle(SgLDC)]</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SPSSC Service Recognition Certificate</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contributions and commitment to the smooth organisation of the 2024 National
+School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soh Mei Ling</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Valedictory Letter</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For 15 years of contribution to the Education Service</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vincent Tan</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
