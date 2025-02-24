@@ -5,7 +5,37 @@ variant: tiptap
 description: ""
 ---
 <h4>Congratulation to all our staff on their achievements! We are proud of you!</h4>
-<p><strong>National Day Awards</strong>
+<h3>2025</h3>
+<p><strong>Staff Presentation</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shamine Santhana Krishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Co-facilitating at the workshop entitled "Cultivating Tamil Speaking Skills
+through Joyful learning" in Lower Primary Classrooms</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamad Riaz Sulaimi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hosted Colleagues from Greendale Secondary School to share about Arduino
+in Urban Farming System @ AMKP</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>2024</h3>
+<p><strong>National Day Awards 2024</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -121,7 +151,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Associate of AST Award</strong>
+<p><strong>Associate of AST Award 2024</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -164,7 +194,7 @@ Learning Designers Circle(SgLDC)]</p>
 </tr>
 </tbody>
 </table>
-<p><strong>SPSSC Service Recognition Certificate</strong>
+<p><strong>SPSSC Service Recognition Certificate 2024</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -183,7 +213,7 @@ School Games</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Valedictory Letter</strong>
+<p><strong>Valedictory Letter 2024</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
