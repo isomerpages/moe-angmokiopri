@@ -180,110 +180,66 @@ variant: tiptap
 </table>
 <p><strong>STUDENT MANAGEMENT &amp; WELL-BEING</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Desri Ann Lee</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department / Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>desri_ann_leong@moe.edu.sg</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27_RED.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mark Chin</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chin_ting_onn_mark@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ethan Tan Wu Xiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department / Educational Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_wu_siang_ethan@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Cavin Lee</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/28.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Primary 1 &amp; 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_chun_wan_cavin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Abdul Razif Bin Mohammad Rizal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head / Primary 4 &amp; 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>abdul_razif_mohammad_rizal@moe.edu.sg</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/29.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yong Yao Feng</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/30.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Primary 3 &amp; 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yong_yao_feng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Junisha Erat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head / Primary 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>junisha_erat@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Suganthi d/o Mariappan</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/31_YELLOW.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / Primary 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>suganthi_mariappan@moe.edu.sg</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/32_BLUE.png">
+</div>
 </td>
 </tr>
 </tbody>
