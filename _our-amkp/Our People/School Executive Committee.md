@@ -24,15 +24,10 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="tock_yan_qing_pamela@moe.edu.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/02.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/03.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="wee_liang_mei@moe.edu.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/03.png"></a>
+<p></p>
 </td>
 </tr>
 <tr>
