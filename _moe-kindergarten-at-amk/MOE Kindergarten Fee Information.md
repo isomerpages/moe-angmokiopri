@@ -37,6 +37,9 @@ in the full kindergarten fee being payable for the month.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/MK_FAS1.jpg">
+</div>
 <h2>Monthly Kindergarten Care Fee</h2>
 <p>The monthly fee for KCare is:</p>
 <ul data-tight="true" class="tight">
