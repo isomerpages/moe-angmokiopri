@@ -52,8 +52,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lim_ching_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Ching Yin</a></strong>
-</p>
-<p><strong><a href="mailto:lim_swee_chin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Estee Lim</a></strong>
+<br><strong><a href="mailto:lim_swee_chin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Estee Lim</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,8 +66,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:seow_susan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Susan Seow</a> <br><a href="mailto:tok_ann_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tok Ann Kee</a></strong>
-</p>
-<p><strong>Ms Sharinee Tevermuthu</strong>
+<br><strong>Ms Sharinee Tevermuthu</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
