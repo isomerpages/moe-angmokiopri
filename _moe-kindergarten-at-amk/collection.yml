@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-amk:
     output: true
     order:
+      - MOE Kindergarten Fee Information.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Our Vision and Mission.md
