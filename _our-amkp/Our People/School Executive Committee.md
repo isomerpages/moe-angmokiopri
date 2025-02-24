@@ -28,10 +28,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/02.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/03.png">
 </div>
@@ -39,58 +37,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Melissa Wee Liang Mei</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>wee_liang_mei@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Tian Jing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_tian_jing@moe.edu.sg</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/09.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Valerie Low</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/05.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>valerie_chua_ruishan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Wellisa Liaw</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wellisa_leono_liaw@moe.edu.sg</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/07.png">
+</div>
 <p>Mr Calvin Ong Yu-Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_yu_meng_calvin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jasmine Lim Yu Qian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_yu_qian@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nooraisha Binte Mohamed Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nooraisha_mohamed_ibrahim@moe.edu.sg</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/08.png">
+</div>
 </td>
 </tr>
 </tbody>
