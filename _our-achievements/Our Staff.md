@@ -20,7 +20,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Co-facilitating at the workshop entitled "Cultivating Tamil Speaking Skills
-through Joyful learning" in Lower Primary Classrooms</p>
+through Joyful learning in Lower Primary Classrooms" on 19th &amp; 20th
+February</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +30,7 @@ through Joyful learning" in Lower Primary Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hosted Colleagues from Greendale Secondary School to share about Arduino
-in Urban Farming System @ AMKP</p>
+in Urban Farming System @ AMKP on 14th February</p>
 </td>
 </tr>
 </tbody>
