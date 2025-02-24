@@ -209,8 +209,8 @@ Learning Designers Circle(SgLDC)]</p>
 <p>Soh Mei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Contributions and commitment to the smooth organisation of the 2024 National
-School Games</p>
+<p>Contributions and commitment to the organisation of the National School
+Games</p>
 </td>
 </tr>
 </tbody>
