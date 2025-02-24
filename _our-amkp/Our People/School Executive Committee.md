@@ -166,26 +166,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Philomena Mohan</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/23_BLUE.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>james_philomena_sashikala@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chang Shuyun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chang_shuyun@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamad Riaz Sulaimi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mohamad_riaz_sulaimi@moe.edu.sg</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20.png">
+</div>
 </td>
 </tr>
 </tbody>
