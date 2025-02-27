@@ -18,3 +18,5 @@ We look forward to meeting you! Do feel free to call us at 6250 9029 or visit ou
 
 
 ![](/images/MOE%20Kindergarten/2023%20MK%20OH%20Flyer-1.png)
+
+Click [here](/files/MK/MKOH_2025_briefing_slides.pdf) to view MK Open House slides.
