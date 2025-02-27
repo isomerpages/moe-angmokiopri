@@ -48,7 +48,7 @@ variant: tiptap
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sutiana_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutiana_kamis@moe.edu.sg</a>
+<p><a href="mailto:sutiana_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sutiana_Kamis@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -60,7 +60,7 @@ variant: tiptap
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: PREETI_PRASAD_KALE@moe.edu.sg" rel="noopener nofollow" target="_blank">Preeti_prasad_kale@moe.edu.sg</a>
+<p><a href="mailto: PREETI_PRASAD_KALE@moe.edu.sg" rel="noopener nofollow" target="_blank">Preeti_Prasad_Kale@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -72,7 +72,7 @@ variant: tiptap
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: MAK_HELIN@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Mak Helin</a>
+<p><a href="mailto: MAK_HELIN@moe.edu.sg" rel="noopener nofollow" target="_blank">Mak Helin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_wei_lin_eileen@moe.edu.sg" rel="noopener nofollow" target="_blank">cheng_wei_lin_eileen@moe.edu.sg</a>
+<p><a href="mailto:cheng_wei_lin_eileen@moe.edu.sg" rel="noopener nofollow" target="_blank">Cheng_Wei_Lin_Eileen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -96,7 +96,7 @@ variant: tiptap
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:he_jianfei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">he_jianfei@moe.edu.sg</a>
+<p><a href="mailto:he_jianfei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">He_Jianfei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ variant: tiptap
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:han_jing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_jing_a@moe.edu.sg</a>
+<p><a href="mailto:han_jing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Han_Jing_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -144,7 +144,7 @@ variant: tiptap
 <p>Tamil Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aruna_devi_alaguraju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aruna_devi_alaguraju@moe.edu.sg</a>
+<p><a href="mailto:aruna_devi_alaguraju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Aruna_Devi_Alaguraju@moe.edu.sg</a>
 </p>
 </td>
 </tr>
