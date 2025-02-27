@@ -6,9 +6,14 @@ third_nav_title: About Us
 variant: tiptap
 ---
 <p>&gt;Our Team</p>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/2025_MK_Staff.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/2025_Staff_photo.jpg">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
