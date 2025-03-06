@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero backgound image.gif
+      background: /images/Slide1.gif
       key_highlights:
         - title: Letters & Circulars
           description: ""
@@ -15,4 +15,5 @@ sections:
         - title: Meet-The-Parent
           description: Links to MTP slides
           url: https://www.angmokiopri.moe.edu.sg/parents/letters-and-circulars/meet-the-parents/
+      variant: center
 ---
