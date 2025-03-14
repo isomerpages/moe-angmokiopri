@@ -44,6 +44,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tejas Srinivasan Kirupahari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Navadhiran S/O Ganison</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,14 +64,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 Integrity</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tejas Srinivasan Kirupahari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 Respect</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ description: ""
 <p>Ong Hai Yien</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 RP</p>
+<p>P5 Respect</p>
 </td>
 </tr>
 <tr>
