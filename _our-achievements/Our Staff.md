@@ -16,6 +16,16 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chang Shuyun</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presented at S1 Cluster Sharing Workshop on 5 March 2025 “Engaging strategies
+employed by AMKP P2 CL teachers in teaching the new CL syllabus”</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Shamine Santhana Krishnan</p>
 </td>
 <td rowspan="1" colspan="1">
