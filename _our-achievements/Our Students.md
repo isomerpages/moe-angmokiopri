@@ -15,6 +15,59 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
+<h4><strong>National Tamil Spelling Bee organised by Mediacorp 2025 (5th position)</strong></h4>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rajalingam Thiyazhini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nagulan Arivazhagan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Navadhiran S/O Ganison</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Prasanna Kanishka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tejas Srinivasan Kirupahari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>2025 Raffles Scholarship (P5 - P6)</strong></h4>
 </td>
 </tr>
