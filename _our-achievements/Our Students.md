@@ -68,6 +68,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9017.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <h4><strong>2025 Raffles Scholarship (P5 - P6)</strong></h4>
 </td>
 </tr>
