@@ -21,6 +21,9 @@ and enable them to demonstrate individually and with others, the physical
 skills, practices and values to enjoy active and healthy living.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beige_Minimalist_Mood_Photo_Collage__4_.png">
+</div>
 <p><strong>Our Approach</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -54,7 +57,6 @@ students to eventually assume all the responsibility for their learning
 </ul>
 </li>
 </ul>
-<p></p>
 <p><strong>Our Key Programmes</strong>
 </p>
 <ol data-tight="true" class="tight">
