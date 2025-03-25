@@ -29,15 +29,13 @@ skills, practices and values to enjoy active and healthy living.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Camp_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P5_Camp_3.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Camp_2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P5_Camp_7.jpg">
 </div>
 </th>
 </tr>
