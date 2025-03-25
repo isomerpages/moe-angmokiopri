@@ -21,26 +21,6 @@ and enable them to demonstrate individually and with others, the physical
 skills, practices and values to enjoy active and healthy living.</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P5_Camp_3.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P5_Camp_7.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p><strong>Our Approach</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -126,6 +106,16 @@ and these include:</p>
 </ul>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/PAL_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beige_Minimalist_Mood_Photo_Collage.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Sports_Carnival_1.jpg">
+</div>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>Programme for Active Learning (PAL) – Sports &amp; Games and Outdoor Education Modules (P1-P2)</strong>
