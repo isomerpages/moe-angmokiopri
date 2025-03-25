@@ -19,9 +19,30 @@ we hope to develop in students the knowledge (Head), attitude (Heart) and
 skills (Hand) to pursue and enjoy a physically active and healthy lifestyle
 and enable them to demonstrate individually and with others, the physical
 skills, practices and values to enjoy active and healthy living.</p>
-<p></p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Camp_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Camp_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Our Approach</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -59,7 +80,8 @@ students to eventually assume all the responsibility for their learning
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Physical Education @ AMKP (P1-P6)</p>
+<p><strong>Physical Education @ AMKP (P1-P6)</strong>
+</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
@@ -108,8 +130,8 @@ and these include:</p>
 </ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Programme for Active Learning (PAL) – Sports &amp; Games and Outdoor Education
-Modules (P1-P2)</p>
+<p><strong>Programme for Active Learning (PAL) – Sports &amp; Games and Outdoor Education Modules (P1-P2)</strong>
+</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
@@ -134,10 +156,10 @@ such as nature, clouds, sun and wind, which cannot be found indoors. P2
 students learn to orientate themselves in school using pictorial map/directions
 and appreciate nature and Singapore’s rich biodiversity through the study
 of trees</p>
-<p></p>
 </li>
 </ul>
-<p>3. Kaleidoscope (P1-P6)</p>
+<p>3. <strong>Kaleidoscope (P1-P6)</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Believing in student voice, the Kaleidoscope provides a platform for students
