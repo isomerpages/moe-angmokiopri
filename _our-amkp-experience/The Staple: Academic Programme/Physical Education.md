@@ -114,7 +114,7 @@ and these include:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beige_Minimalist_Mood_Photo_Collage.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Carnival_1.jpg">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Sports_Carnival_1.jpg">
 </div>
 <ol start="2" data-tight="true" class="tight">
 <li>
