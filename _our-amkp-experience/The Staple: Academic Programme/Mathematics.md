@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /our-amkp-experience/the-staple-academic-programme/mathematics/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Mathematics**
@@ -31,8 +32,10 @@ third_nav_title: "The Staple: Academic Programme"
 2. Learning Support for Mathematics (LSM) Programme (P1-P2)
 * This specialised early intervention programme conducted by LSM-trained teachers helps students who need additional help with Mathematics to develop basic numeracy skills. Students are identified to attend this programme through screening conducted upon school entry. 
 
+![](/images/Maths.jpg)
+
 3. ICAN Programme - Improving Confidence and Achievement in Numeracy (P3-P6)
 * The ICAN programme aims to better support and motivate students to acquire knowledge and skills in numeracy, enhance memory retention and raise students’ confidence levels in Mathematics through intervention strategies that are guided by research. These lessons follow the FREMC structure – Factual Fluency, Readiness, Engagement, Mastery and Consolidation. 
 
-5. Excellence 2000 (E2K) Mathematics Programme (P4-P5)
+4. Excellence 2000 (E2K) Mathematics Programme (P4-P5)
 * Conducted by school teachers who have been trained in the E2K pedagogy, this programme aims to develop the mathematical reasoning skills of High Progress Learners in Mathematics and deepen their conceptual understanding through an inquiry approach.
