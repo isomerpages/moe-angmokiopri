@@ -3,7 +3,7 @@ title: Physical Education
 permalink: /our-amkp-experience/our-curriculum/physical-education/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -54,6 +54,7 @@ students to eventually assume all the responsibility for their learning
 </ul>
 </li>
 </ul>
+<p></p>
 <p><strong>Our Key Programmes</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -106,7 +107,6 @@ and these include:</p>
 </ul>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 94%;" height="auto" width="100%" alt="" src="/images/PAL_2.jpg">
 </div>
@@ -146,6 +146,9 @@ and appreciate nature and Singapore’s rich biodiversity through the study
 of trees</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Health_Fiesta_3.jpg">
+</div>
 <p>3. <strong>Kaleidoscope (P1-P6)</strong>
 </p>
 <ul data-tight="true" class="tight">
