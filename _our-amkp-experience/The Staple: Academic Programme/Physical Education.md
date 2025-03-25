@@ -3,7 +3,7 @@ title: Physical Education
 permalink: /our-amkp-experience/our-curriculum/physical-education/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
