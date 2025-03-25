@@ -86,7 +86,7 @@ and authentic.</p>
 </ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Learning Support for Mathematics (LSM) Programme (P1-42)</p>
+<p>Learning Support for Mathematics (LSM) Programme (P1-P4)</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
