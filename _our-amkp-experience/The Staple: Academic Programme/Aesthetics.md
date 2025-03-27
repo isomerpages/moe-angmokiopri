@@ -8,8 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
 </div>
-<p><strong>Art</strong>
-</p>
+<p></p>
 <p><strong>Our Aim</strong>
 </p>
 <p>Every child, experiencing the wonder of art and music, uncovers their
@@ -52,6 +51,34 @@ and prepare our students for the future.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>Enrich</strong>
+</p>
+<p>We deepen students' artistic experiences through curated programmes and
+valued partnerships. Our students engage with professional artists, experience
+art in museum settings, and contribute to community spaces, connecting
+classroom learning with the wider arts community. Examples include:</p>
+<ul>
+<li>
+<p>Arts Assembly Programme</p>
+</li>
+<li>
+<p>ChildISH@AMKP showcase (in partnership with Singapore Art Museum)</p>
+</li>
+<li>
+<p>Yarn Bombing Project with Kelly Jin Mei (an Artist-In-School Scheme project
+supported by the National Arts Council)</p>
+</li>
+<li>
+<p>P3 Art for Social Change Project with Tan Zi Xi (an Artist-In-School Scheme
+project supported by the National Arts Council)</p>
+</li>
+<li>
+<p>P4 Museum-based Learning Programme to the National Gallery Singapore</p>
+</li>
+<li>
+<p>P5 Creative Bin Project (in partnership with Ang Mo Kio Town Council)</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -59,95 +86,51 @@ and prepare our students for the future.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>Empower</strong>
+</p>
+<p>We nurture student leadership and develop artistic excellence through
+specialised programmes that allow students to deepen their interests and
+share their passion with peers. Our <strong>Art &amp; Music Champions programmes</strong> and <strong>Art Club CCA</strong> create
+opportunities for students to take ownership of their learning, inspire
+others, and contribute meaningfully to both school and community through
+the arts.</p>
+<p>
+<br>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Elevate</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Elevate</strong>
+</p>
+<p>We celebrate student creativity and artistic achievement through various
+platforms. Through these platforms, our students gain confidence in presenting
+their work, receive recognition for their artistic achievements, and inspire
+others with their creative expressions.</p>
 <p></p>
+<p><strong>AMKP Kaleidoscope</strong>
+</p>
+<p>Our signature arts showcase is a vibrant multimodal platform aimed at
+fostering talent showmanship, nurturing confidence, and exposing pupils
+to live presentations. The programme features both live and digital formats:</p>
+<ul>
+<li>
+<p>Live presentations during recesses &amp; assemblies</p>
+</li>
+<li>
+<p>Recorded showcase for online viewing</p>
+</li>
+<li>
+<p>Student-led art exhibitions</p>
+</li>
+<li>
+<p>Makers@Recess activities</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
 <p></p>
-<p><strong>Our Key Programmes</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Art Skills and Exposure (P1-P6)</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Guided by the 4 Es approach (Experience, Exposure, Expression and Enrichment),
-our art skills and exposure modules for six years include: Exploring Different
-Medium: 2D &amp; 3D (Module 1) for P1, Exploring Different Medium: 2D &amp;
-3D (Module 2) for P2, Batik Painting and Digital Comic Art for P3, Ceramics
-Appreciation, Museum Based Learning at National Gallery of Singapore and
-Photography for P4, Ceramics Appreciation and Digital Imaging for P5 and
-Ceramic Appreciation and Stop Motion (animation) for P6.</p>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Museum Trail @ AMKP (P1-P6)</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Featuring 6 art movements (Pop Art, Cubism, Impressionism, Realism, Surrealism
-and Contemporary Art), the Museum Trail @ AMKP aims to provide our students
-with an authentic museum experience to enjoy the 6 murals to appreciate
-art, discuss and reflect while embarking on a learning journey withing
-the school compound under 3 broad themes of self and immediate environment,
-Singapore Past, Present and Future and World and Region Around Us.</p>
-</li>
-</ul>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Kids Got Voice (P1-P6)</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Believing in student voice, the Kids Got Voice provides a platform for
-students to showcase their interests and talents in art (as well as music,
-drama and PE).</p>
-</li>
-</ul>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p>Programme for Active Learning (PAL) – Visual Art Module (P1-P2)</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>The Programme for Active Learning (PAL) is an integral part of the curriculum
-for Primary 1 and 2 students offering active, hands-on and meaningful learning
-experiences for our lower primary students.</p>
-</li>
-<li>
-<p>The Visual Arts Module for Primary 1 students allows them to create a
-variety of 2D and 3D artwork (using recycled materials) in a garden to
-express their love for the environment.</p>
-</li>
-<li>
-<p>The Visual Arts Module for Primary 2 students exposes them to diverse
-cultures around the world and allows them to create a variety of artwork
-related to different cultures.</p>
-</li>
-</ul>
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p>Museum-based Learning (P4)</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>The Museum-based Learning experience comprises of a visit to National
-Gallery Singapore, which creates a platform for students to understand
-Singapore’s history and heritage. It also allows them to be involved as
-artists and audience to create and appreciate art.</p>
-</li>
-</ul>
 <p></p>
