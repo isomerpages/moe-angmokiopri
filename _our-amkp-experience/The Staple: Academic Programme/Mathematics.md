@@ -46,7 +46,7 @@ further develop their self-assurance.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_pic_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -56,12 +56,9 @@ Through real-world problem-solving tasks, <strong>Mathematics Journalling</stron
 discussions using data and statistics, students learn to apply mathematical
 thinking to contribute positively to society.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math_3.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
 </div>
 <p>By integrating these values into our Mathematics curriculum, we ensure
 that students not only excel academically but also develop essential life
@@ -97,23 +94,11 @@ basic numeracy skills. Students are identified to attend this programme
 through screening conducted upon school entry.</p>
 </li>
 </ul>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>ICAN Programme - Improving Confidence and Achievement in Numeracy (P3-P6)</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>The ICAN programme aims to better support and motivate students to acquire
-knowledge and skills in numeracy, enhance memory retention and raise students’
-confidence levels in Mathematics through intervention strategies that are
-guided by research. These lessons follow the FREMC structure – Factual
-Fluency, Readiness, Engagement, Mastery and Consolidation.</p>
-</li>
-</ul>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p>Excellence 2000 (E2K) Mathematics Programme (P4-P5)</p>
+<p>Excellence 2000 (E2K) Mathematics Programme (P4-P5) and Mathematics Olympiad
+(P4-P6)</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
@@ -122,6 +107,17 @@ Fluency, Readiness, Engagement, Mastery and Consolidation.</p>
 this programme aims to develop the mathematical reasoning skills of High
 Progress Learners in Mathematics and deepen their conceptual understanding
 through an inquiry approach.</p>
+</li>
+<li>
+<p>Mathematics Olympiad programme nurtures young problem solvers by challenging
+them to think critically, sharpen their analytical skills, and explore
+concepts beyond the standard curriculum. Through the engaging training
+sessions, students develop essential 21st-century competencies such as
+critical thinking, inventive thinking, and effective communication. Each
+year, our Maths Olympiad students represent the school in local and international
+competitions. In 2024, our students achieved outstanding results—3 Gold,
+4 Silver, 7 Bronze, and 21 Honourable Mentions in the SASMO, NMOS, and
+the Visual-Spatial Mathlympics.</p>
 </li>
 </ul>
 <p></p>
