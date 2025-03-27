@@ -3,7 +3,7 @@ title: Mother Tongue Languages
 permalink: /our-amkp-experience/the-staple-academic-programme/mother-tongue-languages/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -57,6 +57,7 @@ the MTL reading programme includes the setting up of reading corners in
 the classroom with interesting and age-appropriate story books, organisation
 of activities that promote the love for reading which includes student
 book reviews and reading portfolios.</p>
+<p></p>
 <p>In 2025, AMKP rolled out the MTL SOAR programme, designed to <strong>S</strong>park
 interest,<strong> O</strong>pen minds, enabling students to <strong>A</strong>ppreciate
 cultural heritage, and <strong>R</strong>ise as confident readers. 30 minutes
@@ -65,6 +66,7 @@ with age-appropriate texts, creating meaningful opportunities to explore
 various stories with the aim of developing students’ interest in reading,
 and at the same time nurture the emerging 21st-century competencies such
 as civic literacy, communication and critical thinking.</p>
+<p></p>
 <p>AMKP also establishes partnership with parents by inviting them to conduct
 storytelling sessions for the Lower Primary students.</p>
 </li>
