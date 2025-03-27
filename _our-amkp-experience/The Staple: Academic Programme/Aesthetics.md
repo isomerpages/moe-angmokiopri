@@ -18,7 +18,7 @@ enriching the world around them.</p>
 <p><strong>Our Approach</strong>
 </p>
 <p>We embrace the 4E framework to deliver meaningful aesthetic experiences
-for every AMKPian: <strong style="color: #ffc72a;">Expose</strong>, 
+for every AMKPian: <strong style="color:#FCAB18;">Expose</strong>, 
 <strong style="color: #0033a0;">Enrich</strong>, 
 <strong style="color: #3aae2a;">Empower</strong>, 
 <strong style="color: #c20f2f;">Elevate</strong>.</p>
