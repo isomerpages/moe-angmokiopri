@@ -16,6 +16,8 @@ variant: tiptap
 confident users of the Mother Tongue Language and cultural inheritors who
 appreciate their unique identity and culture.</p>
 <p><strong><u>Our Approach</u></strong>
+</p>
+<p>
 <br><strong>Joyful Learners</strong>
 <br>Learning of Mother Tongue Languages is made enjoyable through role-play,
 collaborative tasks, interactive games and the use of Edtech tools. Students
@@ -38,10 +40,6 @@ can better understand and appreciate their unique identity and culture.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
