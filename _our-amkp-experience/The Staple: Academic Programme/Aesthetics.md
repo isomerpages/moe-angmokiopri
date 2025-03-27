@@ -3,7 +3,7 @@ title: Aesthetics
 permalink: /our-amkp-experience/our-curriculum/art/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -18,10 +18,57 @@ enriching the world around them.</p>
 <p><strong>Our Approach</strong>
 </p>
 <p>We embrace the 4E framework to deliver meaningful aesthetic experiences
-for every AMKPian: <strong style="color:#FCAB18;">Expose</strong>, 
-<strong style="color: #0033a0;">Enrich</strong>, 
-<strong style="color: #3aae2a;">Empower</strong>, 
-<strong style="color: #c20f2f;">Elevate</strong>.</p>
+for every AMKPian: <strong>Expose</strong>, <strong>Enrich</strong>, <strong>Empower</strong>, <strong>Elevate</strong>.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Expose</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Expose</strong>
+</p>
+<p>Through our comprehensive six-year journey at AMKP, students embark on
+an enriching exploration of diverse artistic and musical expressions. Our
+curriculum spans a wide range of art forms, from traditional mediums to
+digital platforms, nurturing creativity and cultural appreciation. By integrating
+educational technology and new media into our programmes, we create engaging,
+relevant learning experiences that develop e-21st century competencies
+and prepare our students for the future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art___Music_Curriculum_q.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="481" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMaa_tFsOZckeezyovAOwZSbc3SuEkGeEg6mGmzZz3fZQq3HEdXGMEx2QGtvfcTH65QNuwEWueQOrYlDMKw8d0ouXztyhbbfAsBWXI-QGr2mytPW667Ywy9CZnbnggUoHxMEE-Mw?key=p1WLlIUdYSGhwMYrSEfkkGU9">
+</div>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="481" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd8CIss4F4hR2mYPGgq76NW2_Wvmevv6x2vG3wa3YQkmIc1BLbtbcZQKrWmG9FfTYxPdZsbt_t5zxn_EwafgWQ7nqwm4xnpcrS8OgRlWJeb8qZIXtlOqMuJYWHq0Z3_SxnJT5AMUQ?key=p1WLlIUdYSGhwMYrSEfkkGU9">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Enrich</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Empower</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Elevate</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p><strong>Our Key Programmes</strong>
 </p>
