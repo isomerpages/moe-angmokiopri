@@ -24,7 +24,7 @@ digital platforms, nurturing creativity and cultural appreciation. By integratin
 educational technology and new media into our programmes, we create engaging,
 relevant learning experiences that develop e-21st century competencies
 and prepare our students for the future.</p>
-<p><strong>Our Art &amp; Music Curriculum</strong>
+<div style="text-align: center;"><p><strong>Our Art &amp; Music Curriculum</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Aim_Every_child__experiencing_the_wonder_of_art_and_music__uncovers_their_creative_spark_and_flourishes_into_a_confident__expressive_individual__enriching_the_world_around_them__Our_Approach_W.png">
@@ -74,11 +74,9 @@ the arts.</p>
 <p>We celebrate student creativity and artistic achievement through various
 platforms. Through these platforms, our students gain confidence in presenting
 their work, receive recognition for their artistic achievements, and inspire
-others with their creative expressions. </p><p>
-</p><div style="text-align: center;"><p>
-	<strong>AMKP Kaleidoscope</strong>
-  </p><p></p><ul><li>
-<p>Our signature arts showcase is a vibrant multimodal platform aimed at
+others with their creative expressions.
+</p><div style="text-align: center;"><p><strong>AMKP Kaleidoscope</strong></p></div><p>
+Our signature arts showcase is a vibrant multimodal platform aimed at
 fostering talent showmanship, nurturing confidence, and exposing pupils
 to live presentations. The programme features both live and digital formats:</p>
 <ul>
@@ -95,8 +93,8 @@ to live presentations. The programme features both live and digital formats:</p>
 <p>Makers@Recess activities</p>
 </li>
 </ul>
-</li>
-</ul>
+
+
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="481" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdF6GOL1_7Qc1qRpTAhSAH_xsR9QEckxDTUzDIJ0oUbODLwAEKrbBlSeefd4uxkNwe4q66uumcoMpAhUMQ1QNzYAZ4VJ_L5G4HEnAwrxXF0caCAL1e4Dd2Dz5fcg4u1UZljKTLk?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
