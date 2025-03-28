@@ -12,13 +12,9 @@ third_nav_title: "The Staple: Academic Programme"
 </p>
 <p><strong>Our Aim</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p>At AMKP, we aspire to nurture joyful digital learners and develop confident
 and caring citizens through empowering our students’ learning with EdTech
 and fostering cyber wellness practices.</p>
-</li>
-</ul>
 <p><strong>Our Approach</strong>
 </p>
 <p>To achieve these outcomes, we adopt a two-tier approach in alignment with
