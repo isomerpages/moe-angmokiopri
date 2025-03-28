@@ -16,8 +16,8 @@ enriching the world around them.</p>
 <h4><strong>Our Approach</strong></h4>
 <p>We embrace the 4E framework to deliver meaningful aesthetic experiences
 for every AMKPian: <strong>Expose</strong>, <strong>Enrich</strong>, <strong>Empower</strong>, <strong>Elevate</strong>.</p>
-<p></p>
-<p><strong>Expose</strong>
+<p>
+</p><p><strong>Expose</strong>
 </p><p>Through our comprehensive six-year journey at AMKP, students embark on
 an enriching exploration of diverse artistic and musical expressions. Our
 curriculum spans a wide range of art forms, from traditional mediums to
