@@ -14,10 +14,9 @@ variant: markdown
 creative spark and flourishes into a confident, expressive individual,
 enriching the world around them.</p>
 <h4><strong>Our Approach</strong></h4>
-    <p>We embrace the 4E framework to deliver meaningful aesthetic experiences
-    for every AMKPian: <strong style="color: orange;">Expose</strong>, <strong style="color: blue;">Enrich</strong>, <strong style="color: green;">Empower</strong>, <strong style="color: red;">Elevate</strong>.
+<p>We embrace the 4E framework to deliver meaningful aesthetic experiences for every AMKPian: <strong style="color: orange;">Expose</strong>, <strong style="color: blue;">Enrich</strong>, <strong style="color: green;">Empower</strong>, <strong style="color: red;">Elevate</strong>.
 
-</p><h4><strong style="color: orange;">Expose</strong></h4>
+</p><h4><strong style="color: orange !important;">Expose</strong></h4>
 
 <p>Through our comprehensive six-year journey at AMKP, students embark on
 an enriching exploration of diverse artistic and musical expressions. Our
@@ -34,7 +33,7 @@ and prepare our students for the future.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="481" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXchfNx6GhTBYNtwZ4frP8gaOSk9FoiraRbYWTYYqo-rHrdX9amf4GoTh3HqZJE4XI_Vsi_3FK21jxz3rh_ouVHsXq_ObCahsDdCrolYH_b9XkDx4ZuCm_8dMW0Wumjcwxtx5D4bQw?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
-<h4><strong style="color: blue;">Enrich</strong></h4>
+<h4><strong style="color: blue !important;">Enrich</strong></h4>
 
 <p>We deepen students' artistic experiences through curated programmes and
 valued partnerships. Our students engage with professional artists, experience
@@ -65,19 +64,19 @@ project supported by the National Arts Council)</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="481" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRYgLSnhUeO2rHVcn5yb73eCCh_1oTxRDreA88ISmDdDWxgmTSfwfsox0wCntWjkGaNGfH1zZKUcOkqE_3APuvSoVroZyn0GQzxgTOrc8__ntFPI4mK52BoK5XGFqYVclSVSsG?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
-<h4><strong>Empower</strong></h4>
+    <h4><strong style="color: green !important;">Empower</strong></h4>
 <p>We nurture student leadership and develop artistic excellence through
 specialised programmes that allow students to deepen their interests and
 share their passion with peers. Our <strong>Art &amp; Music Champions programmes</strong> and <strong>Art Club CCA</strong> create
 opportunities for students to take ownership of their learning, inspire
 others, and contribute meaningfully to both school and community through
 the arts.</p>
-<h4><strong>Elevate</strong></h4>
+    <h4><strong style="color: red !important;">Elevate</strong></h4>
 <p>We celebrate student creativity and artistic achievement through various
 platforms. Through these platforms, our students gain confidence in presenting
 their work, receive recognition for their artistic achievements, and inspire
 others with their creative expressions.</p>
-<div style="text-align: center;">
+<p></p><div style="text-align: center;">
 <strong>AMKP Kaleidoscope</strong></div>
 <p>Our signature arts showcase is a vibrant multimodal platform aimed at
 fostering talent showmanship, nurturing confidence, and exposing pupils
