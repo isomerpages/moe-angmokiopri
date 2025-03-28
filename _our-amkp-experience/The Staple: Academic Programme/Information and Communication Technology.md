@@ -59,7 +59,7 @@ creativity.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="339" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfdQX15wtmuwAdulOZ0FUc17EM3NjebUtKcJm10rqC3XeB-sROYNgATA0Tgf8dWu8eE4w_aapcHRm8cY-hiODNuLk0Nxoiq9rltrmapv8la6w6dhN2m82gXUSOJExan2EIOlce6HQ?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
-<p><strong>3. Robotics Club and Maker Club</strong>
+<p><strong>3. CCAs - Robotics Club and Maker Club</strong>
 </p>
 <p>The <strong>Robotics Club </strong>aims to nurture the innovative and creative
 minds of our students. The students acquire important 21<sup>st</sup> Century
@@ -68,7 +68,7 @@ as a team to co-create, learn coding and find ways of programming robots
 to solve real-world and authentic tasks. Selected students are expose to
 national-level competitions to hone their skills.</p>
 <p>&nbsp;</p>
-<p>The <strong>Makers Club </strong>CCA aims to ignite our students’ interest
+<p>The <strong>Makers Club </strong>aims to ignite our students’ interest
 in ICT in an engaging and meaningful way through the use of digital media
 and technologies leveraging on AI. During CCA sessions, our students demonstrate
 the application of their ICT skills in co-creating prototypes and new products
