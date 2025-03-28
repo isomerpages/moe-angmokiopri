@@ -21,7 +21,7 @@ and fostering cyber wellness practices.</p>
 the EdTech Masterplan 2030 to support the holistic development of every
 student and provides an enriching learning experience in AMKP.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="336" width="492" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQxsAr2xZkxkh2_XF_XuXjsg-QqwuDr5Ne0mBIierdsSD69eo5AC8YikKVpx_PSTvyrZqtjGBw7EHa3yw0c-QotGptyHExWNc6qqfr8SKADEMRQHIV-8BEXEU3hWFvbsTIPcYSKQ?key=p1WLlIUdYSGhwMYrSEfkkGU9">
+<img style="margin-left:0px;margin-top:0px;" height="300" width="450" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQxsAr2xZkxkh2_XF_XuXjsg-QqwuDr5Ne0mBIierdsSD69eo5AC8YikKVpx_PSTvyrZqtjGBw7EHa3yw0c-QotGptyHExWNc6qqfr8SKADEMRQHIV-8BEXEU3hWFvbsTIPcYSKQ?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -51,7 +51,7 @@ skills.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="253" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRoOAwddi63c0OmvpRmbAiKP7sflLeOpleqhxy2giABbUxmZlUujMpQL-p67XSxIIFALAwJYmJKhLsQS-IORozb2mwVQHEyfyd-SjZomiqkUsMG24siqmVPip-oA59QLUrZYxVoA?key=p1WLlIUdYSGhwMYrSEfkkGU9">
+<img style="margin-left:0px;margin-top:0px;" height="300" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRoOAwddi63c0OmvpRmbAiKP7sflLeOpleqhxy2giABbUxmZlUujMpQL-p67XSxIIFALAwJYmJKhLsQS-IORozb2mwVQHEyfyd-SjZomiqkUsMG24siqmVPip-oA59QLUrZYxVoA?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="339" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfIjcCPIVyltLEOjfv6Q2XjZlR6EkcfDuZMnIYfAzqZvx3jjLRvAHJASv5K9_CEl2hNlxp6V4J6iBhWO0L9bQF3bGr8WIzlYYdYmc6xpOE9eDajf9YPo28uexezaDqhyVI3DJ3srA?key=p1WLlIUdYSGhwMYrSEfkkGU9">
