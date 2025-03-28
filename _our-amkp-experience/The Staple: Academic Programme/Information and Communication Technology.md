@@ -40,10 +40,26 @@ student and provides an enriching learning experience in AMKP.</p>
 </ul>
 <p><strong>Our Key Programmes include</strong>
 </p>
+<p><strong>1. Digital Literacy Programme</strong>
+</p>
+<p>(P1-P2) Develop students foundational digital literacy skills including
+touch-typing portals and familiarise with the SLS and ICON login portal
+and features and basic MS PowerPoint for class presentations.</p>
+<p>(P3-P4) Strengthen students digital literacy in using Canva for digital
+art programme and the usage of SLS packages and padlet through the integration
+with Interdisciplinary Project Work (IPW).</p>
+<p>(P5-P6) Empower students with coding through the IMDA Code-for-Fun (CFF)
+programme for the P5 level and also the extension of CFF with AI coding
+modules for the P6s during post-PSLE activity to foster problem-solving
+skills.
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="253" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRoOAwddi63c0OmvpRmbAiKP7sflLeOpleqhxy2giABbUxmZlUujMpQL-p67XSxIIFALAwJYmJKhLsQS-IORozb2mwVQHEyfyd-SjZomiqkUsMG24siqmVPip-oA59QLUrZYxVoA?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="339" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfIjcCPIVyltLEOjfv6Q2XjZlR6EkcfDuZMnIYfAzqZvx3jjLRvAHJASv5K9_CEl2hNlxp6V4J6iBhWO0L9bQF3bGr8WIzlYYdYmc6xpOE9eDajf9YPo28uexezaDqhyVI3DJ3srA?key=p1WLlIUdYSGhwMYrSEfkkGU9">
+</div>
 <p><strong>2. Maker Education</strong>
 </p>
 <p>AMKP Maker Education aims to develop our students’ 21<sup>st</sup> century
@@ -73,7 +89,20 @@ in a collaborative learning environment.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="339" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1thqgor-HhJz3rJXMNT9qBybUXUOgA3hwj0AWt6Ypsjb5eYvc-e4egJR1JK-gtynXJrH4DDiBj06vGEofVk9tH7Z5BwXyHpY-rK4IZYBUt1MDcqRX8N1x4LpAXs_eO4IVbVtV?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
-<p>4. Cyber Wellness Programme</p>
+<p><strong>4. Cyber Wellness Programme</strong>
+</p>
+<p>Our AMKP Cyber Wellness programme is designed to empower students to be
+safe, responsible, and respectful online users. We educate students and
+emphasize the importance of practicing cybersafety habits and preventing
+cyberbullying. Through engaging assembly programs, recess activities, and
+interactive classroom lessons, students learn to protect themselves online
+and promote kindness to themselves and others.&nbsp;</p>
+<p>Our programme encourages responsible digital behavior and ensures students
+acquire the skills necessary to navigate online safely and ethically and
+be kind to others.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="339" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdgJkE_CqMNzT3957FmzYEgsEIBkoTe39FUNX3xfGQjsAjSxdF-Vkw1DQbrm63F09ql50UxpcYbIVtFScsIEyuA4NvsGqJrKZQc9ltmzI_9CxmvZRYhBpgUoq24I_LBChsuhk6w?key=p1WLlIUdYSGhwMYrSEfkkGU9">
+</div>
 <p>
 <br>
 <br>
