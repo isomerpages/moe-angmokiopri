@@ -74,12 +74,10 @@ the arts.</p>
 <p>We celebrate student creativity and artistic achievement through various
 platforms. Through these platforms, our students gain confidence in presenting
 their work, receive recognition for their artistic achievements, and inspire
-others with their creative expressions.</p>
-<p></p>
-<p><strong>AMKP Kaleidoscope</strong>
-</p>
-<ul>
-<li>
+others with their creative expressions. </p><p>
+</p><div style="text-align: center;"><p>
+	<strong>AMKP Kaleidoscope</strong>
+  </p><p></p><ul><li>
 <p>Our signature arts showcase is a vibrant multimodal platform aimed at
 fostering talent showmanship, nurturing confidence, and exposing pupils
 to live presentations. The programme features both live and digital formats:</p>
@@ -105,4 +103,4 @@ to live presentations. The programme features both live and digital formats:</p>
 <p></p><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/amkpkaleidoscope/about">
 <img style="margin-left:0px;margin-top:0px;" height="259" width="259" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdf7u9dsOzO25qZeZorWCq-2woBCAyPIah1LM-z7HBsneav9K6Itcl9KIHK4W0dP4TQzmK4h3lfnCqS86ySS-_sq4_P12UEuUcN6V9hkyuITVwAs1cvn1PUs5QXlxzfS_780jWmLg?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 
-<p></p></a>
+<p></p></a></div>
