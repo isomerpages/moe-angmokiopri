@@ -32,8 +32,7 @@ student and provides an enriching learning experience in AMKP.</p>
 <p>Tier 1 includes level-wide digital literacy programmes</p>
 </li>
 <li>
-<p>Tier 2 includes Talent Development through CCAs (Robotics Club and Maker
-Club)</p>
+<p>Tier 2 includes Talent Development through CCAs (<strong>Robotics Club</strong> and <strong>Maker Club</strong>)</p>
 </li>
 <li>
 <p>AMKP Maker Education (school-wide approach)</p>
