@@ -69,7 +69,7 @@ creativity.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="339" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfdQX15wtmuwAdulOZ0FUc17EM3NjebUtKcJm10rqC3XeB-sROYNgATA0Tgf8dWu8eE4w_aapcHRm8cY-hiODNuLk0Nxoiq9rltrmapv8la6w6dhN2m82gXUSOJExan2EIOlce6HQ?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
-<p><strong>3. CCAs - Robotics Club and Maker Club</strong>
+<p><strong>3. Talent Development through CCAs (Robotics Club and Maker Club)</strong>
 </p>
 <p>The <strong>Robotics Club </strong>aims to nurture the innovative and creative
 minds of our students. The students acquire important 21<sup>st</sup> Century
