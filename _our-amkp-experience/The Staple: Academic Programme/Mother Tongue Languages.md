@@ -31,6 +31,11 @@ opportunities are created for our students to express themselves in their
 Mother Tongue Language, as we believe that frequent use of the language
 will result in increased confidence.
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22.jpg">
+</div>
+<p>
 <br><strong>Cultural inheritors</strong>
 <br>Our students are exposed to a variety of cultural activities as they engage
 in hands-on sessions to create traditional crafts, view cultural performances
