@@ -3,7 +3,7 @@ title: Mother Tongue Languages
 permalink: /our-amkp-experience/the-staple-academic-programme/mother-tongue-languages/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -16,10 +16,14 @@ variant: markdown
 confident users of the Mother Tongue Language and cultural inheritors who
 appreciate their unique identity and culture.</p>
 <p><strong>Our Approach</strong>
-<br><strong>Joyful Learners</strong></p><br>Learning of Mother Tongue Languages is made enjoyable through role-play,
+<br><strong>Joyful Learners</strong>
+</p>
+<p>
+<br>Learning of Mother Tongue Languages is made enjoyable through role-play,
 collaborative tasks, interactive games and the use of Edtech tools. Students
 experience the joy in learning Mother Tongue Languages as we make the experiences
-authentic and relevant to them.<p></p>
+authentic and relevant to them.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.jpg">
 </div>
