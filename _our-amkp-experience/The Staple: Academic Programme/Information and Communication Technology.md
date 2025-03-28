@@ -24,6 +24,9 @@ and fostering cyber wellness practices.</p>
 <p>To achieve these outcomes, we adopt a two-tier approach in alignment with
 the EdTech Masterplan 2030 to support the holistic development of every
 student and provides an enriching learning experience in AMKP.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="298" width="437" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQxsAr2xZkxkh2_XF_XuXjsg-QqwuDr5Ne0mBIierdsSD69eo5AC8YikKVpx_PSTvyrZqtjGBw7EHa3yw0c-QotGptyHExWNc6qqfr8SKADEMRQHIV-8BEXEU3hWFvbsTIPcYSKQ?key=p1WLlIUdYSGhwMYrSEfkkGU9">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tier 1 includes level-wide digital literacy programmes</p>
@@ -31,12 +34,7 @@ student and provides an enriching learning experience in AMKP.</p>
 <li>
 <p>Tier 2 includes Talent Development through CCAs (Robotics Club and Maker
 Club)</p>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="298" width="437" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQxsAr2xZkxkh2_XF_XuXjsg-QqwuDr5Ne0mBIierdsSD69eo5AC8YikKVpx_PSTvyrZqtjGBw7EHa3yw0c-QotGptyHExWNc6qqfr8SKADEMRQHIV-8BEXEU3hWFvbsTIPcYSKQ?key=p1WLlIUdYSGhwMYrSEfkkGU9">
-</div>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>AMKP Maker Education (school-wide approach)</p>
 </li>
@@ -44,8 +42,9 @@ Club)</p>
 <p><strong>Our Key Programmes include</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="339" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfIjcCPIVyltLEOjfv6Q2XjZlR6EkcfDuZMnIYfAzqZvx3jjLRvAHJASv5K9_CEl2hNlxp6V4J6iBhWO0L9bQF3bGr8WIzlYYdYmc6xpOE9eDajf9YPo28uexezaDqhyVI3DJ3srA?key=p1WLlIUdYSGhwMYrSEfkkGU9">
+<img style="margin-left:0px;margin-top:0px;" height="253" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRoOAwddi63c0OmvpRmbAiKP7sflLeOpleqhxy2giABbUxmZlUujMpQL-p67XSxIIFALAwJYmJKhLsQS-IORozb2mwVQHEyfyd-SjZomiqkUsMG24siqmVPip-oA59QLUrZYxVoA?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
+<p></p>
 <p><strong>2. Maker Education</strong>
 </p>
 <p>AMKP Maker Education aims to develop our students’ 21<sup>st</sup> century
@@ -67,14 +66,16 @@ Competencies such as problem-solving and communication skills as they collaborat
 as a team to co-create, learn coding and find ways of programming robots
 to solve real-world and authentic tasks. Selected students are expose to
 national-level competitions to hone their skills.</p>
-<p>&nbsp;</p>
 <p>The <strong>Makers Club </strong>aims to ignite our students’ interest
 in ICT in an engaging and meaningful way through the use of digital media
 and technologies leveraging on AI. During CCA sessions, our students demonstrate
 the application of their ICT skills in co-creating prototypes and new products
 in a collaborative learning environment.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="339" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1thqgor-HhJz3rJXMNT9qBybUXUOgA3hwj0AWt6Ypsjb5eYvc-e4egJR1JK-gtynXJrH4DDiBj06vGEofVk9tH7Z5BwXyHpY-rK4IZYBUt1MDcqRX8N1x4LpAXs_eO4IVbVtV?key=p1WLlIUdYSGhwMYrSEfkkGU9">
+</div>
+<p>4. Cyber Wellness Programme</p>
 <p>
 <br>
+<br>
 </p>
-<p>To achieve these outco</p>
-<p></p>
