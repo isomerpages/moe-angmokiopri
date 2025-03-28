@@ -76,9 +76,9 @@ the arts.</p><p>
 platforms. Through these platforms, our students gain confidence in presenting
 their work, receive recognition for their artistic achievements, and inspire
 others with their creative expressions.</p>
-<p></p><div style="text-align: center;">
-    <p><strong style="font-size: 20px;">AMKP Kaleidoscope</strong>
-</p><p>Our signature arts showcase is a vibrant multimodal platform aimed at
+<div style="text-align: center;">
+	<p><strong style="font-size: 20px;">AMKP Kaleidoscope</strong></p>
+	<div style="text-align: left;"><p>Our signature arts showcase is a vibrant multimodal platform aimed at
 fostering talent showmanship, nurturing confidence, and exposing pupils
 to live presentations. The programme features both live and digital formats:</p>
 <ul>
@@ -100,4 +100,4 @@ to live presentations. The programme features both live and digital formats:</p>
 <p></p>
 </li>
 </ul>
-<p></p></div>
+<p></p></div></div>
