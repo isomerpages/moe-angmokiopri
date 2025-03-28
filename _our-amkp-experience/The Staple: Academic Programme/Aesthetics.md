@@ -3,7 +3,7 @@ title: Aesthetics
 permalink: /our-amkp-experience/our-curriculum/art/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <div class="isomer-image-wrapper">
