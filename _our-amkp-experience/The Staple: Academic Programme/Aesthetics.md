@@ -3,7 +3,7 @@ title: Aesthetics
 permalink: /our-amkp-experience/our-curriculum/art/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
@@ -16,9 +16,10 @@ enriching the world around them.</p>
 <h4><strong>Our Approach</strong></h4>
 <p>We embrace the 4E framework to deliver meaningful aesthetic experiences
 for every AMKPian: <strong>Expose</strong>, <strong>Enrich</strong>, <strong>Empower</strong>, <strong>Elevate</strong>.</p>
-<p>
-</p><p><strong>Expose</strong>
-</p><p>Through our comprehensive six-year journey at AMKP, students embark on
+<p></p>
+<p><strong>Expose</strong>
+</p>
+<p>Through our comprehensive six-year journey at AMKP, students embark on
 an enriching exploration of diverse artistic and musical expressions. Our
 curriculum spans a wide range of art forms, from traditional mediums to
 digital platforms, nurturing creativity and cultural appreciation. By integrating
@@ -58,7 +59,6 @@ project supported by the National Arts Council)</p>
 <p>P5 Creative Bin Project (in partnership with Ang Mo Kio Town Council)</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Empower</strong>
 </p>
 <p>We nurture student leadership and develop artistic excellence through
@@ -67,11 +67,6 @@ share their passion with peers. Our <strong>Art &amp; Music Champions programmes
 opportunities for students to take ownership of their learning, inspire
 others, and contribute meaningfully to both school and community through
 the arts.</p>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
 <p><strong>Elevate</strong>
 </p>
 <p>We celebrate student creativity and artistic achievement through various
