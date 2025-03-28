@@ -29,14 +29,11 @@ authentic and relevant to them.</p>
 Language through the use of differentiated teaching approaches. Various
 opportunities are created for our students to express themselves in their
 Mother Tongue Language, as we believe that frequent use of the language
-will result in increased confidence.
-<br>
-</p>
+will result in increased confidence.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22.jpg">
 </div>
-<p>
-<br><strong>Cultural inheritors</strong>
+<p><strong>Cultural inheritors</strong>
 <br>Our students are exposed to a variety of cultural activities as they engage
 in hands-on sessions to create traditional crafts, view cultural performances
 and immerse themselves in the festivities during the celebration of Chinese
@@ -105,6 +102,9 @@ and love for the Mother Tongue Languages by encouraging them to attend
 and experience local cultural performances. At the same time, CPEF provides
 students with an immersive experience in the arts outside of the classroom,
 while supporting cultural performing arts groups in Singapore.</p>
+</li>
+<li>
+<p></p>
 </li>
 </ol>
 <p></p>
