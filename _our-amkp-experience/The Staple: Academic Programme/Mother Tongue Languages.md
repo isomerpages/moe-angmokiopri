@@ -10,17 +10,20 @@ variant: tiptap
 </div>
 <p><strong>Mother Tongue Languages</strong>
 </p>
-<p><strong><u>Our Aim</u></strong>
+<p><strong>Our Aim</strong>
 </p>
 <p>At AMKP, the Mother Tongue Language teachers seek to nurture joyful learners,
 confident users of the Mother Tongue Language and cultural inheritors who
 appreciate their unique identity and culture.</p>
-<p><strong><u>Our Approach</u></strong>
+<p><strong>Our Approach</strong>
 <br><strong>Joyful Learners</strong>
+</p>
+<p>
 <br>Learning of Mother Tongue Languages is made enjoyable through role-play,
 collaborative tasks, interactive games and the use of Edtech tools. Students
 experience the joy in learning Mother Tongue Languages as we make the experiences
 authentic and relevant to them.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.jpg">
 </div>
