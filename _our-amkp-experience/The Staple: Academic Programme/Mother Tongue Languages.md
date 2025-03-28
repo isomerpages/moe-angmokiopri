@@ -52,13 +52,13 @@ can better understand and appreciate their unique identity and culture.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Reading Programme</p>
+<p><strong>Reading Programme</strong>
+</p>
 <p>Reading is instrumental to development of language competency. At AMKP,
 the MTL reading programme includes the setting up of reading corners in
 the classroom with interesting and age-appropriate story books, organisation
 of activities that promote the love for reading which includes student
 book reviews and reading portfolios.</p>
-<p></p>
 <p>In 2025, AMKP rolled out the MTL SOAR programme, designed to <strong>S</strong>park
 interest,<strong> O</strong>pen minds, enabling students to <strong>A</strong>ppreciate
 cultural heritage, and <strong>R</strong>ise as confident readers. 30 minutes
@@ -67,44 +67,48 @@ with age-appropriate texts, creating meaningful opportunities to explore
 various stories with the aim of developing students’ interest in reading,
 and at the same time nurture the emerging 21st-century competencies such
 as civic literacy, communication and critical thinking.</p>
-<p></p>
 <p>AMKP also establishes partnership with parents by inviting them to conduct
 storytelling sessions for the Lower Primary students.</p>
+<p></p>
 </li>
 <li>
-<p>Higher Mother Tongue Language (P3-P6)</p>
+<p><strong>Higher Mother Tongue Language (P3-P6)</strong>
+</p>
 <p>To further strengthen the learning of MTL from an early age, AMKP offers
 HMTL across the 3 official MTLs at Primary 3 and 4 for students who showed
 strong proficiency and interest in Mother Tongue Language (MTL). The curriculum
 is designed to enthuse P3 and P4&nbsp; students who demonstrate the ability
 and interest to develop higher levels of MTL language proficiency and cultural
 knowledge.</p>
+<p></p>
 </li>
 <li>
-<p>Mother Tongue Support Programme (MTSP) (P3-P4)</p>
+<p><strong>Mother Tongue Support Programme (MTSP) (P3-P4)</strong>
+</p>
 <p>Conducted by trained school teachers, MTSP focuses on building a stronger
 foundation in students’ oracy and literacy skills for our students who
 need additional support in their literacy development.</p>
+<p></p>
 </li>
 <li>
-<p>Mother Tongue Fortnight and Cultural Camp (P1-P6)</p>
+<p><strong>Mother Tongue Fortnight and Cultural Camp (P1-P6)</strong>
+</p>
 <p>Mother Tongue Language (MTL) Fortnight and Cultural Camp aims to create
 an immersive environment for learning and appreciating Mother Tongue Languages
 and Cultures. Students are exposed to a wide variety of activities, with
 the objective that these cultural activities would deepen our students’
 understanding of their cultural roots and promote the learning of MTL in
 a fun and engaging way</p>
+<p></p>
 </li>
 <li>
-<p>Cultural Performance Exposure Scheme (CPES)</p>
+<p><strong>Cultural Performance Exposure Scheme (CPES)</strong>
+</p>
 <p>The Cultural Performance Exposure Scheme aims to enrich students’ learning
 and love for the Mother Tongue Languages by encouraging them to attend
 and experience local cultural performances. At the same time, CPEF provides
 students with an immersive experience in the arts outside of the classroom,
 while supporting cultural performing arts groups in Singapore.</p>
-</li>
-<li>
-<p></p>
 </li>
 </ol>
 <p></p>
