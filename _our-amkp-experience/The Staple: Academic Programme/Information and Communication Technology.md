@@ -1,7 +1,7 @@
 ---
 title: Information and Communication Technology
 permalink: /information-and-communication-technology/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: "The Staple: Academic Programme"
 ---
@@ -21,7 +21,7 @@ and fostering cyber wellness practices.</p>
 the EdTech Masterplan 2030 to support the holistic development of every
 student and provides an enriching learning experience in AMKP.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="298" width="437" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQxsAr2xZkxkh2_XF_XuXjsg-QqwuDr5Ne0mBIierdsSD69eo5AC8YikKVpx_PSTvyrZqtjGBw7EHa3yw0c-QotGptyHExWNc6qqfr8SKADEMRQHIV-8BEXEU3hWFvbsTIPcYSKQ?key=p1WLlIUdYSGhwMYrSEfkkGU9">
+<img style="margin-left:0px;margin-top:0px;" height="300" width="450" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQxsAr2xZkxkh2_XF_XuXjsg-QqwuDr5Ne0mBIierdsSD69eo5AC8YikKVpx_PSTvyrZqtjGBw7EHa3yw0c-QotGptyHExWNc6qqfr8SKADEMRQHIV-8BEXEU3hWFvbsTIPcYSKQ?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -51,7 +51,7 @@ skills.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="253" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRoOAwddi63c0OmvpRmbAiKP7sflLeOpleqhxy2giABbUxmZlUujMpQL-p67XSxIIFALAwJYmJKhLsQS-IORozb2mwVQHEyfyd-SjZomiqkUsMG24siqmVPip-oA59QLUrZYxVoA?key=p1WLlIUdYSGhwMYrSEfkkGU9">
+<img style="margin-left:0px;margin-top:0px;" height="300" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRoOAwddi63c0OmvpRmbAiKP7sflLeOpleqhxy2giABbUxmZlUujMpQL-p67XSxIIFALAwJYmJKhLsQS-IORozb2mwVQHEyfyd-SjZomiqkUsMG24siqmVPip-oA59QLUrZYxVoA?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="339" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfIjcCPIVyltLEOjfv6Q2XjZlR6EkcfDuZMnIYfAzqZvx3jjLRvAHJASv5K9_CEl2hNlxp6V4J6iBhWO0L9bQF3bGr8WIzlYYdYmc6xpOE9eDajf9YPo28uexezaDqhyVI3DJ3srA?key=p1WLlIUdYSGhwMYrSEfkkGU9">
@@ -69,7 +69,7 @@ creativity.</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="339" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfdQX15wtmuwAdulOZ0FUc17EM3NjebUtKcJm10rqC3XeB-sROYNgATA0Tgf8dWu8eE4w_aapcHRm8cY-hiODNuLk0Nxoiq9rltrmapv8la6w6dhN2m82gXUSOJExan2EIOlce6HQ?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
-<p><strong>3. CCAs - Robotics Club and Maker Club</strong>
+<p><strong>3. Talent Development through CCAs (Robotics Club and Maker Club)</strong>
 </p>
 <p>The <strong>Robotics Club </strong>aims to nurture the innovative and creative
 minds of our students. The students acquire important 21<sup>st</sup> Century
