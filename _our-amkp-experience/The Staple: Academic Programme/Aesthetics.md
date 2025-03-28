@@ -14,8 +14,7 @@ variant: markdown
 creative spark and flourishes into a confident, expressive individual,
 enriching the world around them.</p>
 <h4><strong>Our Approach</strong></h4>
-    <p>We embrace the 4E framework to deliver meaningful aesthetic experiences
-    for every AMKPian: <strong style="color: orange;">Expose</strong>, <strong style="color: blue;">Enrich</strong>, <strong style="color: green;">Empower</strong>, <strong style="color: red;">Elevate</strong>.
+<p>We embrace the 4E framework to deliver meaningful aesthetic experiences for every AMKPian: <strong style="color: orange;">Expose</strong>, <strong style="color: blue;">Enrich</strong>, <strong style="color: green;">Empower</strong>, <strong style="color: red;">Elevate</strong>.
 
 </p><h4><strong style="color: orange;">Expose</strong></h4>
 
