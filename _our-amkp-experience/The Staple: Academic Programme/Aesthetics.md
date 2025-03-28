@@ -102,7 +102,7 @@ to live presentations. The programme features both live and digital formats:</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="481" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdF6GOL1_7Qc1qRpTAhSAH_xsR9QEckxDTUzDIJ0oUbODLwAEKrbBlSeefd4uxkNwe4q66uumcoMpAhUMQ1QNzYAZ4VJ_L5G4HEnAwrxXF0caCAL1e4Dd2Dz5fcg4u1UZljKTLk?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
-<div class="isomer-image-wrapper">
+<p></p><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/amkpkaleidoscope/about">
 <img style="margin-left:0px;margin-top:0px;" height="259" width="259" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdf7u9dsOzO25qZeZorWCq-2woBCAyPIah1LM-z7HBsneav9K6Itcl9KIHK4W0dP4TQzmK4h3lfnCqS86ySS-_sq4_P12UEuUcN6V9hkyuITVwAs1cvn1PUs5QXlxzfS_780jWmLg?key=p1WLlIUdYSGhwMYrSEfkkGU9">
-</div>
-<p></p>
+
+<p></p></a>
