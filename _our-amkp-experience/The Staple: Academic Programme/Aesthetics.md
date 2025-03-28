@@ -18,8 +18,7 @@ enriching the world around them.</p>
 for every AMKPian: <strong>Expose</strong>, <strong>Enrich</strong>, <strong>Empower</strong>, <strong>Elevate</strong>.</p>
 <p></p>
 <p><strong>Expose</strong>
-</p>
-<p>Through our comprehensive six-year journey at AMKP, students embark on
+</p><p>Through our comprehensive six-year journey at AMKP, students embark on
 an enriching exploration of diverse artistic and musical expressions. Our
 curriculum spans a wide range of art forms, from traditional mediums to
 digital platforms, nurturing creativity and cultural appreciation. By integrating
