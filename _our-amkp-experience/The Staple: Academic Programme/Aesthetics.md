@@ -26,18 +26,18 @@ digital platforms, nurturing creativity and cultural appreciation. By integratin
 educational technology and new media into our programmes, we create engaging,
 relevant learning experiences that develop e-21st century competencies
 and prepare our students for the future.</p>
-<p></p>
+<p><strong>Our Art &amp; Music Curriculum</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Aim_Every_child__experiencing_the_wonder_of_art_and_music__uncovers_their_creative_spark_and_flourishes_into_a_confident__expressive_individual__enriching_the_world_around_them__Our_Approach_W.png">
 </div>
-<p>
-<br><strong>Enrich</strong>
+<p><strong>Enrich</strong>
 </p>
 <p>We deepen students' artistic experiences through curated programmes and
 valued partnerships. Our students engage with professional artists, experience
 art in museum settings, and contribute to community spaces, connecting
 classroom learning with the wider arts community. Examples include:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Arts Assembly Programme</p>
 </li>
@@ -68,6 +68,9 @@ share their passion with peers. Our <strong>Art &amp; Music Champions programmes
 opportunities for students to take ownership of their learning, inspire
 others, and contribute meaningfully to both school and community through
 the arts.</p>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
 <p><strong>Elevate</strong>
@@ -78,6 +81,8 @@ their work, receive recognition for their artistic achievements, and inspire
 others with their creative expressions.</p>
 <p><strong>AMKP Kaleidoscope</strong>
 </p>
+<ul>
+<li>
 <p>Our signature arts showcase is a vibrant multimodal platform aimed at
 fostering talent showmanship, nurturing confidence, and exposing pupils
 to live presentations. The programme features both live and digital formats:</p>
@@ -93,6 +98,8 @@ to live presentations. The programme features both live and digital formats:</p>
 </li>
 <li>
 <p>Makers@Recess activities</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
