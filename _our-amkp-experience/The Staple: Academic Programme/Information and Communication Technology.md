@@ -21,7 +21,7 @@ and fostering cyber wellness practices.</p>
 the EdTech Masterplan 2030 to support the holistic development of every
 student and provides an enriching learning experience in AMKP.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="298" width="437" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQxsAr2xZkxkh2_XF_XuXjsg-QqwuDr5Ne0mBIierdsSD69eo5AC8YikKVpx_PSTvyrZqtjGBw7EHa3yw0c-QotGptyHExWNc6qqfr8SKADEMRQHIV-8BEXEU3hWFvbsTIPcYSKQ?key=p1WLlIUdYSGhwMYrSEfkkGU9">
+<img style="margin-left:0px;margin-top:0px;" height="336" width="492" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQxsAr2xZkxkh2_XF_XuXjsg-QqwuDr5Ne0mBIierdsSD69eo5AC8YikKVpx_PSTvyrZqtjGBw7EHa3yw0c-QotGptyHExWNc6qqfr8SKADEMRQHIV-8BEXEU3hWFvbsTIPcYSKQ?key=p1WLlIUdYSGhwMYrSEfkkGU9">
 </div>
 <ul data-tight="true" class="tight">
 <li>
