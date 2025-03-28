@@ -16,32 +16,33 @@ variant: tiptap
 confident users of the Mother Tongue Language and cultural inheritors who
 appreciate their unique identity and culture.</p>
 <p><strong><u>Our Approach</u></strong>
-</p>
-<p>
 <br><strong>Joyful Learners</strong>
 <br>Learning of Mother Tongue Languages is made enjoyable through role-play,
 collaborative tasks, interactive games and the use of Edtech tools. Students
 experience the joy in learning Mother Tongue Languages as we make the experiences
-authentic and relevant to them.
-<br>
-<br><strong>Confident users of Mother Tongue Languages</strong>
+authentic and relevant to them.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.jpg">
+</div>
+<p><strong>Confident users of Mother Tongue Languages</strong>
 <br>In AMKP, we build up students’ confidence in using their Mother Tongue
 Language through the use of differentiated teaching approaches. Various
 opportunities are created for our students to express themselves in their
 Mother Tongue Language, as we believe that frequent use of the language
 will result in increased confidence.
 <br>
-<br><strong> Cultural inheritors</strong>
+<br><strong>Cultural inheritors</strong>
 <br>Our students are exposed to a variety of cultural activities as they engage
 in hands-on sessions to create traditional crafts, view cultural performances
 and immerse themselves in the festivities during the celebration of Chinese
 New Year, Hari Raya and Deepavali. Through these experiences, students
 can better understand and appreciate their unique identity and culture.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_1.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="367" width="492" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEumn7nfItRkdcQaUcdEjAvXFxErHY_m97R4nSE7n9F2VNxQOZfGMMfvAYfEpfWEvk9sav3Mpzw9bEDdbG35JdfRv89Qg55UHqWdBBjTdFSytU2oLje8T6aLAmErjbx2-y4BLhww?key=p1WLlIUdYSGhwMYrSEfkkGU9">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_3.jpg">
 </div>
