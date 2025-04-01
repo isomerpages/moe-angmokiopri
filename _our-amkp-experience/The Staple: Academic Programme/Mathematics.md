@@ -3,7 +3,7 @@ title: Mathematics
 permalink: /our-amkp-experience/the-staple-academic-programme/mathematics/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -56,9 +56,8 @@ Through real-world problem-solving tasks, <strong>Mathematics Journalling</stron
 discussions using data and statistics, students learn to apply mathematical
 thinking to contribute positively to society.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_revised.jpg">
 </div>
 <p>By integrating these values into our Mathematics curriculum, we ensure
 that students not only excel academically but also develop essential life
