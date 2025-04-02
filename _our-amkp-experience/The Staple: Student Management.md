@@ -15,7 +15,7 @@ promotes responsibility and respect.</p>
 </li>
 <li>
 <p>Empowering students as School Ambassadors: Encouraging students to take
-an active role in supporting their peers and promoting positive behavior.</p>
+an active role in supporting their peers and promoting positive behaviour.</p>
 </li>
 <li>
 <p>Promoting inclusivity and care: Cultivating a culture where every student
