@@ -111,7 +111,7 @@ creating an environment that nurtures growth, inclusivity, and care.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
 <p>As part of our effort to grow the leader in all our AMKPians, students
-are taught leadership skills which they hone as they practise the WISER
+are taught leadership skills which they hone as they practice the WISER
 skillset. The skillset helps them develop a mindset we refer to as the
 SAGE mindset. A tiered approach is adopted where Tier 1 includes all AMKPians
 while Tier 2 includes class leaders who serve as subject champions and
@@ -179,8 +179,7 @@ experiences that nurture different aspects of growth.</p>
 <p>ICT Proficiency</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Utilization of Application Software such as
-<br>PowerPoint and Microsoft Word</p>
+<p>Utilization of Application Software such as PowerPoint and Microsoft Word</p>
 </li>
 <li>
 <p>Typing Skills</p>
@@ -266,3 +265,35 @@ role models while industry experts share valuable insights and hands-on
 experiences to inspire them to achieve their goals. A highlight was our
 collaboration with a hairstylist with 30+ years of experience, where students
 learned self-grooming tips and received professional haircuts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_22.jpg">
+</div>
+<p><strong>Learning Journeys</strong>
+</p>
+<p>&nbsp;Special learning journeys are designed to inspire and create lasting
+memories for our students. These experiences go beyond traditional learning,
+offering opportunities to explore the world around them.</p>
+<p>Past trips include visits to the <strong>Ang Mo Kio Fire Station</strong> and
+the <strong>ArtScience Museum</strong>, where students engage with real-world
+professionals. These learning journeys are carefully curated to spark curiosity,
+encourage exploration, and deepen understanding of the world in fun and
+memorable ways.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_23.jpg">
+</div>
+<p><strong>Contribution to Our Community</strong>
+</p>
+<p>ASPIRE pupils also engage in community activities, such as the Ang Mo
+Kio Town Council Creative Bin Project. Pupils painted public bins with
+vibrant designs, turning an ordinary object into a creative expression
+that beautifies shared spaces. This initiative helped to instill a sense
+of ownership and civic pride in both the pupils and the community. Their
+contributions encourage others to appreciate and care for their surroundings,
+making the community a more welcoming place for everyone.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_24.jpg">
+</div>
+<p></p>
