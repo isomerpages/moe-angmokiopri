@@ -1,7 +1,7 @@
 ---
 title: "The Staple: Student Management"
 permalink: /the-staple-student-management/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p><strong>Our Aim</strong>
@@ -47,7 +47,7 @@ creating an environment that nurtures growth, inclusivity, and care.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
 </div>
-<p><strong>Greetings - Greet everyone you meet!</strong>
+<p><strong> </strong></p><p style="colour:#FFC000"><strong> Greetings - Greet everyone you meet!</strong>
 </p>
 <p><strong>Greet everyone you see</strong>
 </p>
