@@ -229,3 +229,40 @@ experiences that nurture different aspects of growth.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_18.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_19.jpg">
+</div>
+<p><strong><em>Aesthetic Expression</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Art Activities to Encourage Creativity&nbsp;</p>
+</li>
+<li>
+<p>Dance Programme for Teachers’ Day</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_20.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_21.jpg">
+</div>
+<p><strong>Partnering Others<u><br></u></strong>At <strong>ASPIRE</strong>,
+we believe in learning beyond the classroom. Through partnerships with <strong>secondary school mentors</strong> and <strong>industry professionals</strong>,
+we equip students with real-world skills to build confidence and increase
+motivation.
+<br>
+<br>
+</p>
+<p>Our peer mentorship programme connects our students with secondary school
+role models while industry experts share valuable insights and hands-on
+experiences to inspire them to achieve their goals. A highlight was our
+collaboration with a hairstylist with 30+ years of experience, where students
+learned self-grooming tips and received professional haircuts.</p>
