@@ -56,7 +56,7 @@ Through real-world problem-solving tasks, <strong>Mathematics Journalling</stron
 discussions using data and statistics, students learn to apply mathematical
 thinking to contribute positively to society.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="200%" width="100%" alt="" src="/images/newpic2.jpg">
+<img style="width: 120%" height="200%" width="120%" alt="" src="/images/newpic2.jpg">
 </div>
 <p>By integrating these values into our Mathematics curriculum, we ensure
 that students not only excel academically but also develop essential life
