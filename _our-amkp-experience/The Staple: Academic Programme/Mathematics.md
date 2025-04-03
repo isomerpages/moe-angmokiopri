@@ -55,9 +55,8 @@ the role of mathematics in fostering social responsibility and empathy.
 Through real-world problem-solving tasks, <strong>Mathematics Journalling</strong> and
 discussions using data and statistics, students learn to apply mathematical
 thinking to contribute positively to society.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_revised.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/newpic1.jpg">
 </div>
 <p>By integrating these values into our Mathematics curriculum, we ensure
 that students not only excel academically but also develop essential life
