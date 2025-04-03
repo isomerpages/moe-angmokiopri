@@ -2,9 +2,10 @@
 title: Our History
 permalink: /our-amkp/our-story/our-history/
 description: ""
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
-&gt; **Our Story**
+&gt; **Our History**
 
 <img src="/images/About%20Us/AMK%20History%201.jpg" style="width:40%">
 
@@ -116,7 +117,15 @@ These facilities will be able to support implementation of MOE-initiated Program
   </tr>
 	  <tr>
     <td class="tg-cly1">Mrs Lim Bee Lay</td>
-    <td class="tg-cly1">2021 - Current </td>
+    <td class="tg-cly1">2021 - 2023 </td>
+			 </tr>
+  <tr>
+    <td class="tg-faf8">Mrs May Wong </td>
+    <td class="tg-faf8">2024 </td>
+  </tr>
+	  <tr>
+    <td class="tg-cly1">Mr Muhammad Farizal</td>
+    <td class="tg-cly1">2025 - current </td>
   </tr>
 </tbody>
 </table>
