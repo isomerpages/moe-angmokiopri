@@ -112,9 +112,11 @@ and these include:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 94%;" height="auto" width="100%" alt="" src="/images/PAL_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beige_Minimalist_Mood_Photo_Collage.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_picture.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Sports_Carnival_1.jpg">
 </div>
