@@ -198,7 +198,7 @@ experience for all its pupils here in Ang Mo Kio Primary School.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Farizal</p>
+<p>Mr Muhammad Farizal Bin Umar Effendi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025 - current</p>
