@@ -197,15 +197,14 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee-Fu Shan
-<br>Mdm Lina Julianna Binte Margini
-<br>Mdm Julaiha Bte Abdul Aziz</p>
+<p>Mdm Chang Shuyun
+<br>Mdm Monica Leong
+<br>Ms Tiffany Sarah Sebastian Ravi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:chang_shuyun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chang Shuyun</a><br><a href="mailto:leong_cai_lin_monica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Monica Leong</a><br><a href="mailto:tiffany_sarah_sebastian_ravi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tiffany Sarah Sebastian Ravi</a></strong>
+</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>2 Excellence</strong>
 </p>
