@@ -642,8 +642,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:xu_yue_min_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Koh</a> <br><a href="mailto:shamine_santhana_krishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Shamine</a><br></strong>
-<a href="mailto: TAN_WU_SIANG_ETHAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">TAN_WU_SIANG_ETHAN@SCHOOLS.GOV.SG</a>
+<p><strong><a href="mailto:xu_yue_min_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Koh</a> <br></strong>
+<a href="mailto: SHAMINE_SANTHANA_KRISHNAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">SHAMINE_SANTHANA_KRISHNAN@SCHOOLS.GOV.SG</a><strong><br></strong><a href="mailto: TAN_WU_SIANG_ETHAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">TAN_WU_SIANG_ETHAN@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
