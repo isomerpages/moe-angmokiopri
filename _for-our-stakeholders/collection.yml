@@ -2,7 +2,6 @@ collections:
   for-our-stakeholders:
     output: true
     order:
-      - Our Parents/MOE Group Personal Accident (GPA) Insurance.md
       - Our Parents/.keep
       - Our Parents/Information for Parents.md
       - Our Parents/Holistic Assessment 2025.md
@@ -12,6 +11,7 @@ collections:
       - Our Parents/Booklists & Name Tag Guide.md
       - Our Parents/Education & Career Guidance.md
       - Our Parents/Parents Gateway.md
+      - Our Parents/MOE Group Personal Accident (GPA) Insurance.md
       - Our Parents/Important Helplines.md
       - Our SAC.md
       - Our Staff.md
