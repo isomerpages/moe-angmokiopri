@@ -211,16 +211,14 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tabitha Tan</p>
-<p>Mdm Amelia Ng</p>
-<p>Mdm Amirah Bte Mohd Ismai</p>
+<p>Mdm Tabitha Tan
+<br>Mdm Amelia Ng
+<br>Mdm Amirah Bte Mohd Ismai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tan_mui_lin_tabitha@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_mui_lin_tabitha@schools.gov.sg</a>
-</p>
-<p><a href="ng_yong_jia@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_yong_jia@schools.gov.sg</a>
-</p>
-<p><a href="amirah_mohd_ismail@schools.gov.sg" rel="noopener nofollow" target="_blank">amirah_mohd_ismail@schools.gov.sg</a>
+<br><a href="ng_yong_jia@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_yong_jia@schools.gov.sg</a>
+<br><a href="amirah_mohd_ismail@schools.gov.sg" rel="noopener nofollow" target="_blank">amirah_mohd_ismail@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -239,11 +237,11 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Junisha Erat</strong>
+<p>Ms Suganthi d/o Mariappan
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: JUNISHA_ERAT@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">JUNISHA_ERAT@SCHOOLS.GOV.SG</a>
+<p><a href="mailto: suganthi_mariappan@schools.gov.sg" rel="noopener nofollow" target="_blank">suganthi_mariappan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -253,15 +251,14 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Shu Jun</strong>
-</p>
-<p><strong>Mr Chai Jia Yang</strong>
-</p>
-<p><strong>Mdm Justina Yim Keat Yee</strong>
+<p>Ms Yeo Sze Min
+<br>Mdm Nooraisha
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_shu_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Shu Jun</a><br><a href="mailto:chai_jia_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chai Jia Yang</a><br><a href="mailto:yim_keat_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Justina Yim Keat Yee</a></strong>
+<p><a href="mailto:yeo_sze_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_sze_min@schools.gov.sg
+</a><br><a href="mailto:nooraisha_mohamed_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nooraisha_mohamed_ibrahim@schools.gov.sg
+</a>
 </p>
 </td>
 </tr>
