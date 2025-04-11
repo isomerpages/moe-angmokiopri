@@ -110,7 +110,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: FU_SHAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">FU_SHAN@SCHOOLS.GOV.SG</a><strong><br><a href="mailto:lina_julianna_margini@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lina Julianna Binte Margini</a> <br><a href="mailto:julaiha_abd_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Julaiha Bte Abdul Aziz</a></strong>
+<p><a href="mailto: FU_SHAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">FU_SHAN@SCHOOLS.GOV.SG</a><strong><br></strong>
+<a href="mailto: LINA_JULIANNA_MARGINI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">LINA_JULIANNA_MARGINI@SCHOOLS.GOV.SG</a><strong><br></strong><a href="mailto: JULIARTI_JUNIDI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">JULIARTI_JUNIDI@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
