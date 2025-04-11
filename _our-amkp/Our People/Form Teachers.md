@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lee_chun_wan_cavin@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_chun_wan_cavin@moe.edu.sg</a></strong>
+<p><a href="mailto:LEE_CHUN_WAN_CAVIN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">LEE_CHUN_WAN_CAVIN@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
