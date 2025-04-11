@@ -129,7 +129,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:kang_phay_jia@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Kang Phay Jia Dawn</a> <br><a href="mailto:dai_siming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dai Siming</a> <br><a href="mailto:JULIARTI_JUNIDI@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliarti Junidi</a></strong>
+<p><a href="mailto: KANG_PHAY_JIA@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">KANG_PHAY_JIA@SCHOOLS.GOV.SG</a><strong><br><a href="mailto:dai_siming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dai Siming</a> <br><a href="mailto:JULIARTI_JUNIDI@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliarti Junidi</a></strong>
 </p>
 </td>
 </tr>
