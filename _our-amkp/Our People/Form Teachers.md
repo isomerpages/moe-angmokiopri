@@ -91,7 +91,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: NG_XUE_QI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">NG_XUE_QI@SCHOOLS.GOV.SG</a><strong><br><a href="mailto:nur_azimah_mohd_jailani@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Azimah Bte Mohd Jailani</a> <br><a href="mailto:chang_cheng_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jack Chang</a></strong>
+<p><a href="mailto: NG_XUE_QI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">NG_XUE_QI@SCHOOLS.GOV.SG</a><strong><br></strong>
+<a href="mailto: NUR_AZIMAH_MOHD_JAILANI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">NUR_AZIMAH_MOHD_JAILANI@SCHOOLS.GOV.SG</a><strong><br></strong><a href="mailto: CHANG_CHENG_HUAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">CHANG_CHENG_HUAN@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
