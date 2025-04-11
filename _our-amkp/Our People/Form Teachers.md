@@ -3,7 +3,7 @@ title: Form Teachers
 permalink: /about-us/our-people/teaching-staff/form-teachers/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -237,8 +237,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suganthi d/o Mariappan
-</p>
+<p>Ms Suganthi d/o Mariappan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: suganthi_mariappan@schools.gov.sg" rel="noopener nofollow" target="_blank">suganthi_mariappan@schools.gov.sg</a>
@@ -252,13 +251,11 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Sze Min
-<br>Mdm Nooraisha
-</p>
+<br>Mdm Nooraisha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_sze_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_sze_min@schools.gov.sg
-</a><br><a href="mailto:nooraisha_mohamed_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nooraisha_mohamed_ibrahim@schools.gov.sg
-</a>
+<p><a href="mailto:yeo_sze_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_sze_min@schools.gov.sg </a>
+<br><a href="mailto:nooraisha_mohamed_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nooraisha_mohamed_ibrahim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -268,15 +265,14 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Michelle Wong Ziwei</strong>
-</p>
-<p><strong>Mr Yap How Joo</strong>
-</p>
-<p><strong>Mdm Tan Wei Ling Annette</strong>
-</p>
+<p>Mdm Michelle Wong Ziwei</p>
+<p>Mr Yap How Joo</p>
+<p>Mdm Tan Wei Ling Annette</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="Mailto:WONG_ZIWEI_MICHELLE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Michelle Wong Ziwei</a><br><a href="mailto:Yap_How_Joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yap How Joo</a><br><a href="mailto:TAN_WEI_LING_ANNETTE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Wei Ling Annette</a></strong>
+<p><a href="Mailto:WONG_ZIWEI_MICHELLE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Michelle Wong Ziwei</a>
+<br><a href="mailto:Yap_How_Joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yap How Joo</a>
+<br><a href="mailto:TAN_WEI_LING_ANNETTE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Wei Ling Annette</a>
 </p>
 </td>
 </tr>
@@ -286,26 +282,32 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nor Azlyna Bte Moh Yusof</strong>
-</p>
-<p><strong>Mr Chen Jia Xing</strong>
-</p>
-<p><strong>Ms Maheswari d/o Krishnan Murthy</strong>
-</p>
+<p>Mdm Michelle Wong Ziwei</p>
+<p>Mr Yap How Joo</p>
+<p>Mdm Tan Wei Ling Annette</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Mailto:WONG_ZIWEI_MICHELLE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Michelle Wong Ziwei</a>
+<br><a href="mailto:Yap_How_Joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yap How Joo</a>
+<br><a href="mailto:TAN_WEI_LING_ANNETTE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Wei Ling Annette</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>3 Excellence</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Michelle Wong Ziwei</p>
+<p>Mr Yap How Joo</p>
+<p>Mdm Tan Wei Ling Annette</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Mailto:WONG_ZIWEI_MICHELLE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Michelle Wong Ziwei</a>
+<br><a href="mailto:Yap_How_Joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yap How Joo</a>
+<br><a href="mailto:TAN_WEI_LING_ANNETTE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Wei Ling Annette</a>
+</p>
 </td>
 </tr>
 </tbody>
