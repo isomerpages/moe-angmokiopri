@@ -674,7 +674,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:jex_nicholas_john_frederick@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jex Nicholas John Frederick</a><br><a href="mailto:soh_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Soh Mei Ling</a></strong>
+<p><a href="mailto: JEX_NICHOLAS_JOHN_FREDERICK@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">JEX_NICHOLAS_JOHN_FREDERICK@SCHOOLS.GOV.SG</a><strong><br></strong>
+<a href="mailto: SOH_MEI_LING@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">SOH_MEI_LING@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
