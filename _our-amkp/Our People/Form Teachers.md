@@ -409,7 +409,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:clara_tham_kar_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Clara Tham</a><br></strong>
+<p><a href="mailto: CLARA_THAM_KAR_LING@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">CLARA_THAM_KAR_LING@SCHOOLS.GOV.SG</a><strong><br></strong>
 <a href="mailto: TAN_WEE_ENG_A@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">TAN_WEE_ENG_A@SCHOOLS.GOV.SG</a>
 </p>
 </td>
