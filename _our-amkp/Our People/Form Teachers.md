@@ -262,7 +262,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:suganthi_mariappan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Suganthi d/o Mariappan</a></strong>
+<p><a href="mailto: SUGANTHI_MARIAPPAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">SUGANTHI_MARIAPPAN@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
