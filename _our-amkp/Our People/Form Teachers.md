@@ -470,7 +470,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:low_ying_yan_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Adeline Low</a> <br></strong>
+<p><a href="mailto: LOW_YING_YAN_ADELINE@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">LOW_YING_YAN_ADELINE@SCHOOLS.GOV.SG</a><strong><br></strong>
 <a href="mailto: GOH_LENG_HUAT@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">GOH_LENG_HUAT@SCHOOLS.GOV.SG</a>
 </p>
 </td>
