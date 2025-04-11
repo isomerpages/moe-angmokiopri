@@ -409,7 +409,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:clara_tham_kar_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Clara Tham</a><br><a href="mailto:tan_wee_eng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Wee Eng</a></strong>
+<p><strong><a href="mailto:clara_tham_kar_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Clara Tham</a><br></strong>
+<a href="mailto: TAN_WEE_ENG_A@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">TAN_WEE_ENG_A@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
