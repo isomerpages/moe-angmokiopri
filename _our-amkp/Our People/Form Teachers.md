@@ -326,7 +326,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_peng_chuan_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vincent Tan</a> <br><a href="Mailto:Tan_mui_mui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Mui Mui</a><br><a href="mailto:miguel_carlo_kung_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Miguel Carlo Kung Yong</a></strong>
+<p><strong><a href="mailto:tan_peng_chuan_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vincent Tan</a> <br></strong>
+<a href="mailto: TAN_MUI_MUI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">TAN_MUI_MUI@SCHOOLS.GOV.SG</a><strong><br></strong><a href="mailto: MIGUEL_CARLO_KUNG_YONG@MOE.EDU.SG" rel="noopener nofollow" target="_blank">MIGUEL_CARLO_KUNG_YONG@MOE.EDU.SG</a>
 </p>
 </td>
 </tr>
