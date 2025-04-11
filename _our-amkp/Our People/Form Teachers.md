@@ -3,7 +3,7 @@ title: Form Teachers
 permalink: /about-us/our-people/teaching-staff/form-teachers/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -271,8 +271,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Jun Hui
-<br>Ms Liao Ziyan
-</p>
+<br>Ms Liao Ziyan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="Mailto:lee_jun_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_jun_hui@schools.gov.sg</a>
@@ -293,8 +292,22 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="Mailto:tan_peng_chuan_vincent@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_peng_chuan_vincent@schools.gov.sg</a>
 <br><a href="mailto:tan_mui_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mui_mui@schools.gov.sg</a>
-<br><a href="mailto:miguel_carlo_kung_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">miguel_carlo_kung_yong@moe.edu.sg
-</a>
+<br><a href="mailto:miguel_carlo_kung_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">miguel_carlo_kung_yong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3 Care</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Melissa Foong
+<br>Ms Chen Liming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Mailto:melissa_foong_shi_shan@schools.gov.sg" rel="noopener nofollow" target="_blank">melissa_foong_shi_shan@schools.gov.sg </a>
+<br><a href="mailto:chen_liming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_liming@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -304,13 +317,14 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Melissa Foong<br>Ms Chen Liming</p>
+<p>Mrs Lai- Foo Ai Sien</p>
+<p>Mr Wu Wei Xiang</p>
+<p>Mr Mohammad Rizal Bin Kamid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mailto:melissa_foong_shi_shan@schools.gov.sg" rel="noopener nofollow" target="_blank">melissa_foong_shi_shan@schools.gov.sg
-</a>
-<br><a href="mailto:chen_liming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_liming@schools.gov.sg
-</a>
+<p><a href="Mailto:tan_peng_chuan_vincent@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_peng_chuan_vincent@schools.gov.sg</a>
+<br><a href="mailto:tan_mui_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mui_mui@schools.gov.sg</a>
+<br><a href="mailto:miguel_carlo_kung_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">miguel_carlo_kung_yong@m</a>
 </p>
 </td>
 </tr>
@@ -333,8 +347,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="abdul_razif_mohammad_rizal@schools.gov.sg" rel="noopener nofollow" target="_blank">abdul_razif_mohammad_rizal@schools.gov.sg
-</a>
+<p><a href="abdul_razif_mohammad_rizal@schools.gov.sg" rel="noopener nofollow" target="_blank">abdul_razif_mohammad_rizal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
