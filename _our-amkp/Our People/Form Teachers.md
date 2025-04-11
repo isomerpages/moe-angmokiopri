@@ -3,7 +3,7 @@ title: Form Teachers
 permalink: /about-us/our-people/teaching-staff/form-teachers/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -117,7 +117,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -227,8 +227,8 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-</p><p>
-</p><table style="minWidth: 75px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -529,8 +529,8 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p></p><p>
-	<table style="minWidth: 75px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -539,11 +539,11 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YH (P5)</strong>
+<p><strong>YH (P6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Abdul Razif</strong>
+<p><strong>Mr Yong Yao Feng</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -553,7 +553,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 Resilience</strong>
+<p><strong>6 Resilience</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -568,7 +568,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 Respect</strong>
+<p><strong>6 Respect</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -585,7 +585,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 Integrity</strong>
+<p><strong>6 Integrity</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -602,7 +602,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 Care</strong>
+<p><strong>6 Care</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -619,7 +619,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 Excellence</strong>
+<p><strong>6 Excellence</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -636,5 +636,6 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-</p><p></p>
+<p></p>
+<p></p>
 <p></p>
