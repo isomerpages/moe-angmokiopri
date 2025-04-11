@@ -24,7 +24,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Chun Wan Cavin</p>
+<p><strong>Mr Lee Chun Wan Cavin</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lee_chun_wan_cavin@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_chun_wan_cavin@schools.gov.sg</a>
@@ -129,7 +130,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Junisha Erat</p>
+<p><strong>Ms Junisha Erat</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="junisha_erat@schools.gov.sg" rel="noopener nofollow" target="_blank">junisha_erat@schools.gov.sg</a>
@@ -237,7 +239,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suganthi d/o Mariappan</p>
+<p><strong>Ms Suganthi d/o Mariappan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: suganthi_mariappan@schools.gov.sg" rel="noopener nofollow" target="_blank">suganthi_mariappan@schools.gov.sg</a>
@@ -325,7 +328,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Chun Wan Cavin</p>
+<p><strong>Mr Abdul Razif</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lee_chun_wan_cavin@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_chun_wan_cavin@schools.gov.sg</a>
@@ -430,7 +434,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Chun Wan Cavin</p>
+<p><strong>Mr Abdul Razif</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lee_chun_wan_cavin@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_chun_wan_cavin@schools.gov.sg</a>
