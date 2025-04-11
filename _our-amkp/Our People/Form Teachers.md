@@ -80,7 +80,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -625,7 +624,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Adeline Low </strong>
+<p><strong>Ms Adeline Low</strong>
 </p>
 <p><strong>Mr Goh Leng Huat</strong>
 </p>
@@ -687,7 +686,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Mohamad Riaz Sulaimi </strong>
+<p><strong>Mr Mohamad Riaz Sulaimi</strong>
 </p>
 <p><strong>Ms Audrey Kwek</strong>
 </p>
@@ -753,9 +752,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Alan Chua Gim Sen </strong>
+<p><strong>Mr Alan Chua Gim Sen</strong>
 </p>
-<p><strong>Ms Nursyafiqah Sawal </strong>
+<p><strong>Ms Nursyafiqah Sawal</strong>
 </p>
 <p><strong>Dr. Philomena Mohan</strong>
 </p>
@@ -839,7 +838,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Vijaya Shankar </strong>
+<p><strong>Mrs Vijaya Shankar</strong>
 </p>
 <p><strong>Ms Wellisa Liaw</strong>
 </p>
@@ -861,7 +860,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Michelle Koh </strong>
+<p><strong>Ms Michelle Koh</strong>
 </p>
 <p><strong>Miss Shamine</strong>
 </p>
@@ -885,7 +884,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Desri Lee </strong>
+<p><strong>Mrs Desri Lee</strong>
 </p>
 <p><strong>Mr Calvin Ong</strong>
 </p>
