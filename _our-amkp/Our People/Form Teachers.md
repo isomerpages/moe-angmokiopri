@@ -531,7 +531,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:TAN_SIEW_CHENG@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Siew Cheng</a><br><a href="mailto:SOH_HIOK_PENG@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Eric Soh</a></strong>
+<p><a href="mailto: TAN_SIEW_CHENG@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">TAN_SIEW_CHENG@SCHOOLS.GOV.SG</a><strong><br><a href="mailto:SOH_HIOK_PENG@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Eric Soh</a></strong>
 </p>
 </td>
 </tr>
