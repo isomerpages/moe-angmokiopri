@@ -227,7 +227,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>
+</p><p>
 </p><table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -529,7 +529,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-</p><p>
+<p></p><p>
 	<table style="minWidth: 75px">
 <colgroup>
 <col>
