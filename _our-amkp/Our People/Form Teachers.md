@@ -3,7 +3,7 @@ title: Form Teachers
 permalink: /about-us/our-people/teaching-staff/form-teachers/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -11,13 +11,12 @@ variant: markdown
 <p><strong>2025</strong>  <strong>Form Teachers</strong>
 </p>
 <h5><strong>2025 FORM TEACHERS</strong></h5>
-
-<table style="width: 100%; table-layout: fixed;">
-    <colgroup>
-    <col style="width: 20%">
-    <col style="width: 40%">
-    <col style="width: 40%">
-    </colgroup>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -119,12 +118,12 @@ variant: markdown
 </tbody>
 </table>
 <p></p>
-<table style="width: 100%; table-layout: fixed;">
-    <colgroup>
-    <col style="width: 20%">
-    <col style="width: 40%">
-    <col style="width: 40%">
-    </colgroup>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -229,12 +228,12 @@ variant: markdown
 </tbody>
 </table>
 <p></p>
-<table style="width: 100%; table-layout: fixed;">
-    <colgroup>
-    <col style="width: 20%">
-    <col style="width: 40%">
-    <col style="width: 40%">
-    </colgroup>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -325,20 +324,19 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="Mailto:foo_ai_sien@schools.gov.sg" rel="noopener nofollow" target="_blank">foo_ai_sien@schools.gov.sg</a>
 <br><a href="mailto:wu_wei_xiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_wei_xiang@schools.gov.sg</a>
-<br><a href="mailto:mohammad_rizal_kamid@schools.gov.sg" rel="noopener nofollow" target="_blank">mohammad_rizal_kamid@schools.gov.sg
-</a>
+<br><a href="mailto:mohammad_rizal_kamid@schools.gov.sg" rel="noopener nofollow" target="_blank">mohammad_rizal_kamid@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<table style="width: 100%; table-layout: fixed;">
-    <colgroup>
-    <col style="width: 20%">
-    <col style="width: 40%">
-    <col style="width: 40%">
-    </colgroup>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -380,12 +378,9 @@ variant: markdown
 <br>Mdm Nur Fitri Faezah Binti Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="jasmine_yq_lim@schools.gov.sg" rel="noopener nofollow" target="_blank">jasmine_yq_lim@schools.gov.sg
-</a> 
-<br><a href="chan_jun_xian_gareth@schools.gov.sg" rel="noopener nofollow" target="_blank">chan_jun_xian_gareth@schools.gov.sg
-</a> 
-<br><a href="nur_fitri_faezah_mohamed@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_fitri_faezah_mohamed@schools.gov.sg
-</a>
+<p><a href="jasmine_yq_lim@schools.gov.sg" rel="noopener nofollow" target="_blank">jasmine_yq_lim@schools.gov.sg </a>
+<br><a href="chan_jun_xian_gareth@schools.gov.sg" rel="noopener nofollow" target="_blank">chan_jun_xian_gareth@schools.gov.sg </a>
+<br><a href="nur_fitri_faezah_mohamed@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_fitri_faezah_mohamed@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -399,10 +394,8 @@ variant: markdown
 <br>Ms Melissa Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="xiao_yong_samuel@schools.gov.sg" rel="noopener nofollow" target="_blank">xiao_yong_samuel@schools.gov.sg
-</a> 
-<br><a href="wee_liang_mei@schools.gov.sg" rel="noopener nofollow" target="_blank">wee_liang_mei@schools.gov.sg
-</a>
+<p><a href="xiao_yong_samuel@schools.gov.sg" rel="noopener nofollow" target="_blank">xiao_yong_samuel@schools.gov.sg </a>
+<br><a href="wee_liang_mei@schools.gov.sg" rel="noopener nofollow" target="_blank">wee_liang_mei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -416,10 +409,8 @@ variant: markdown
 <br>Ms Rizwanah Begum Binte Mohamad Yoonus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="koh_esheen@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_esheen@schools.gov.sg
-</a>
-<br><a href="rizwanah_begum_mohamad_yoonus@schools.gov.sg" rel="noopener nofollow" target="_blank">rizwanah_begum_mohamad_yoonus@schools.gov.sg
-</a>
+<p><a href="koh_esheen@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_esheen@schools.gov.sg </a>
+<br><a href="rizwanah_begum_mohamad_yoonus@schools.gov.sg" rel="noopener nofollow" target="_blank">rizwanah_begum_mohamad_yoonus@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -433,8 +424,7 @@ variant: markdown
 <br>Mr Goh Leng Huat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="low_ying_yan_adeline@schools.gov.sg" rel="noopener nofollow" target="_blank">low_ying_yan_adeline@schools.gov.sg
-</a> 
+<p><a href="low_ying_yan_adeline@schools.gov.sg" rel="noopener nofollow" target="_blank">low_ying_yan_adeline@schools.gov.sg </a>
 <br><a href="goh_leng_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_leng_huat@schools.gov.sg</a>
 </p>
 </td>
@@ -442,12 +432,12 @@ variant: markdown
 </tbody>
 </table>
 <p></p>
-<table style="width: 100%; table-layout: fixed;">
-    <colgroup>
-    <col style="width: 20%">
-    <col style="width: 40%">
-    <col style="width: 40%">
-    </colgroup>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -459,8 +449,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="abdul_razif_mohammad_rizal@schools.gov.sg" rel="noopener nofollow" target="_blank">abdul_razif_mohammad_rizal@schools.gov.sg
-</a>
+<p><a href="abdul_razif_mohammad_rizal@schools.gov.sg" rel="noopener nofollow" target="_blank">abdul_razif_mohammad_rizal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -474,10 +463,8 @@ variant: markdown
 <br>Ms Audrey Kwek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mohamad_riaz_sulaimi@schools.gov.sg" rel="noopener nofollow" target="_blank">mohamad_riaz_sulaimi@schools.gov.sg
-</a>
-<br><a href="kwek_audrey@schools.gov.sg" rel="noopener nofollow" target="_blank">kwek_audrey@schools.gov.sg
-</a>
+<p><a href="mohamad_riaz_sulaimi@schools.gov.sg" rel="noopener nofollow" target="_blank">mohamad_riaz_sulaimi@schools.gov.sg </a>
+<br><a href="kwek_audrey@schools.gov.sg" rel="noopener nofollow" target="_blank">kwek_audrey@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -491,10 +478,8 @@ variant: markdown
 <br>Mr Eric Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_siew_cheng@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_siew_cheng@schools.gov.sg
-</a> 
-<br><a href="soh_hiok_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">soh_hiok_peng@schools.gov.sg
-</a>
+<p><a href="tan_siew_cheng@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_siew_cheng@schools.gov.sg </a>
+<br><a href="soh_hiok_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">soh_hiok_peng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -508,10 +493,8 @@ variant: markdown
 <br>Mr Mark Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="fong_yen_yen@schools.gov.sg" rel="noopener nofollow" target="_blank">fong_yen_yen@schools.gov.sg
-</a> 
-<br><a href="chin_ting_onn_mark@schools.gov.sg" rel="noopener nofollow" target="_blank">chin_ting_onn_mark@schools.gov.sg
-</a>
+<p><a href="fong_yen_yen@schools.gov.sg" rel="noopener nofollow" target="_blank">fong_yen_yen@schools.gov.sg </a>
+<br><a href="chin_ting_onn_mark@schools.gov.sg" rel="noopener nofollow" target="_blank">chin_ting_onn_mark@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -526,8 +509,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="chua_gim_sen@schools.gov.sg" rel="noopener nofollow" target="_blank">chua_gim_sen@schools.gov.sg</a>
-<br><a href="nursyafiqah_sawal@schools.gov.sg" rel="noopener nofollow" target="_blank">nursyafiqah_sawal@schools.gov.sg
-</a>
+<br><a href="nursyafiqah_sawal@schools.gov.sg" rel="noopener nofollow" target="_blank">nursyafiqah_sawal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -542,20 +524,19 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="valerie_rs_chua@schools.gov.sg" rel="noopener nofollow" target="_blank">valerie_rs_chua@schools.gov.sg</a> 
-<br><a href="lim_tian_jing@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_tian_jing@schools.gov.sg
-</a>
+<br><a href="lim_tian_jing@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_tian_jing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<table style="width: 100%; table-layout: fixed;">
-    <colgroup>
-    <col style="width: 20%">
-    <col style="width: 40%">
-    <col style="width: 40%">
-    </colgroup>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -567,8 +548,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="yong_yao_feng@schools.gov.sg" rel="noopener nofollow" target="_blank">yong_yao_feng@schools.gov.sg
-</a>
+<p><a href="yong_yao_feng@schools.gov.sg" rel="noopener nofollow" target="_blank">yong_yao_feng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -598,12 +578,9 @@ variant: markdown
 <br>Mr Ethan Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="xu_yue_min_michelle@schools.gov.sg" rel="noopener nofollow" target="_blank">xu_yue_min_michelle@schools.gov.sg
-</a> 
-<br><a href="shamine_santhana_krishnan@schools.gov.sg" rel="noopener nofollow" target="_blank">shamine_santhana_krishnan@schools.gov.sg
-</a> 
-<br><a href="tan_wu_siang_ethan@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_wu_siang_ethan@schools.gov.sg
-</a>
+<p><a href="xu_yue_min_michelle@schools.gov.sg" rel="noopener nofollow" target="_blank">xu_yue_min_michelle@schools.gov.sg </a>
+<br><a href="shamine_santhana_krishnan@schools.gov.sg" rel="noopener nofollow" target="_blank">shamine_santhana_krishnan@schools.gov.sg </a>
+<br><a href="tan_wu_siang_ethan@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_wu_siang_ethan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -618,8 +595,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="desri_ann_leong@schools.gov.sg" rel="noopener nofollow" target="_blank">desri_ann_leong@schools.gov.sg</a> 
-<br><a href="ong_yu_meng_calvin@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_yu_meng_calvin@schools.gov.sg
-</a> </p>
+<br><a href="ong_yu_meng_calvin@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_yu_meng_calvin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -634,10 +611,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tay_boon_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">tay_boon_peng@schools.gov.sg</a>
-<br><a href="tan_wan_jun@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_wan_jun@schools.gov.sg
-</a>
-<br><a href="apiramee_e_subramaniam@schools.gov.sg" rel="noopener nofollow" target="_blank">apiramee_e_subramaniam@schools.gov.sg
-</a>
+<br><a href="tan_wan_jun@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_wan_jun@schools.gov.sg </a>
+<br><a href="apiramee_e_subramaniam@schools.gov.sg" rel="noopener nofollow" target="_blank">apiramee_e_subramaniam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -651,10 +626,8 @@ variant: markdown
 <br>Ms Soh Mei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="jex_nicholas_john_frederick@schools.gov.sg" rel="noopener nofollow" target="_blank">jex_nicholas_john_frederick@schools.gov.sg
-</a> 
-<br><a href="soh_mei_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">soh_mei_ling@schools.gov.sg
-</a>
+<p><a href="jex_nicholas_john_frederick@schools.gov.sg" rel="noopener nofollow" target="_blank">jex_nicholas_john_frederick@schools.gov.sg </a>
+<br><a href="soh_mei_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">soh_mei_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
