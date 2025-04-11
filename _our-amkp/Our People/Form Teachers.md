@@ -11,7 +11,8 @@ variant: markdown
 <p><strong>2025</strong>  <strong>Form Teachers</strong>
 </p>
 <h5><strong>2025 FORM TEACHERS</strong></h5>
-    <table style="width: 100%; table-layout: fixed;">
+
+<table style="width: 100%; table-layout: fixed;">
     <colgroup>
     <col style="width: 20%">
     <col style="width: 40%">
