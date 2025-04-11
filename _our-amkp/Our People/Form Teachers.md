@@ -10,7 +10,6 @@ variant: tiptap
 </div>
 <p><strong>2025</strong>  <strong>Form Teachers</strong>
 </p>
-<p></p>
 <h5><strong>2025 FORM TEACHERS</strong></h5>
 <table style="minWidth: 75px">
 <colgroup>
@@ -25,25 +24,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lee Chun Wan Cavin</strong>
-</p>
+<p>Mr Lee Chun Wan Cavin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:LEE_CHUN_WAN_CAVIN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">LEE_CHUN_WAN_CAVIN@SCHOOLS.GOV.SG</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teachers</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
+<p><a href="lee_chun_wan_cavin@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_chun_wan_cavin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -53,15 +37,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lim Ching Yin</strong>
-</p>
-<p><strong>Ms Estee Lim</strong>
-</p>
+<p>Ms Lim Ching Yin
+<br>Ms Estee Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: LIM_CHING_YIN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">LIM_CHING_YIN@SCHOOLS.GOV.SG</a>
-</p>
-<p><a href="mailto: ESTEE_LIM@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">ESTEE_LIM@SCHOOLS.GOV.SG</a>
+<p><a href="lim_ching_yin@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_ching_yin@schools.gov.sg</a>
+<br><a href="estee_lim@schools.gov.sg" rel="noopener nofollow" target="_blank">estee_lim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -71,13 +52,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Susan Seow <br>Mdm Tok Ann Kee <br>Ms Sarinee Tevermuthu</strong>
-</p>
+<p>Ms Susan Seow
+<br>Mdm Tok Ann Kee
+<br>Ms Sarinee Tevermuthu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: SEOW_SUSAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">SEOW_SUSAN@SCHOOLS.GOV.SG</a><strong><br></strong>
-<a href="mailto: TOK_ANN_KEE@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">TOK_ANN_KEE@SCHOOLS.GOV.SG</a>
-<br><strong><a href="mailto: sharinee_tevermuthu_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Sharinee Tevermuthu</a></strong>
+<p><a href="seow_susan@schools.gov.sg" rel="noopener nofollow" target="_blank">seow_susan@schools.gov.sg</a> 
+<br><a href="tok_ann_kee@schools.gov.sg" rel="noopener nofollow" target="_blank">tok_ann_kee@schools.gov.sg</a> 
+<br><a href="sharinee_tevermuthu_a@schools.gov.sg" rel="noopener nofollow" target="_blank">sharinee_tevermuthu_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -87,12 +69,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Ng Xue Qi (Mrs Chong) <br>Mdm Nur Azimah Bte Mohd Jailani <br>Mr Jack Chang</strong>
-</p>
+<p>Mdm Ng Xue Qi (Mrs Chong)
+<br>Mdm Nur Azimah Bte Mohd Jailani
+<br>Mr Jack Chang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: NG_XUE_QI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">NG_XUE_QI@SCHOOLS.GOV.SG</a><strong><br></strong>
-<a href="mailto: NUR_AZIMAH_MOHD_JAILANI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">NUR_AZIMAH_MOHD_JAILANI@SCHOOLS.GOV.SG</a><strong><br></strong><a href="mailto: CHANG_CHENG_HUAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">CHANG_CHENG_HUAN@SCHOOLS.GOV.SG</a>
+<p><a href="ng_xue_qi@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_xue_qi@schools.gov.sg</a> 
+<br><a href="nur_azimah_mohd_jailani@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_azimah_mohd_jailani@schools.gov.sg</a> 
+<br><a href="chang_cheng_huan@schools.gov.sg" rel="noopener nofollow" target="_blank">chang_cheng_huan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -102,16 +86,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Lee-Fu Shan</strong>
-</p>
-<p><strong>Mdm Lina Julianna Binte Margini</strong>
-</p>
-<p><strong>Mdm Julaiha Bte Abdul Aziz</strong>
-</p>
+<p>Mrs Lee-Fu Shan
+<br>Mdm Lina Julianna Binte Margini
+<br>Mdm Julaiha Bte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: FU_SHAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">FU_SHAN@SCHOOLS.GOV.SG</a><strong><br></strong>
-<a href="mailto: LINA_JULIANNA_MARGINI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">LINA_JULIANNA_MARGINI@SCHOOLS.GOV.SG</a><strong><br></strong><a href="mailto: JULAIHA_ABD_AZIZ@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">JULAIHA_ABD_AZIZ@SCHOOLS.GOV.SG</a>
+<p><a href="fu_shan@schools.gov.sg" rel="noopener nofollow" target="_blank">fu_shan@schools.gov.sg</a>
+<br><a href="lina_julianna_margini@schools.gov.sg" rel="noopener nofollow" target="_blank">lina_julianna_margini@schools.gov.sg</a>
+<br><a href="julaiha_abd_aziz@schools.gov.sg" rel="noopener nofollow" target="_blank">julaiha_abd_aziz@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -121,19 +103,132 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Kang Phay Jia Dawn</strong>
-</p>
-<p><strong>Mdm Dai Siming</strong>
-</p>
-<p><strong>Ms Juliarti Junidi</strong>
-</p>
+<p>Mdm Kang Phay Jia Dawn
+<br>Mdm Dai Siming
+<br>Ms Juliarti Junidi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: KANG_PHAY_JIA@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">KANG_PHAY_JIA@SCHOOLS.GOV.SG</a><strong><br></strong>
-<a href="mailto: DAI_SIMING@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">DAI_SIMING@SCHOOLS.GOV.SG</a><strong><br></strong><a href="mailto: JULIARTI_JUNIDI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">JULIARTI_JUNIDI@SCHOOLS.GOV.SG</a>
+<p><a href="kang_phay_jia@schools.gov.sg" rel="noopener nofollow" target="_blank">kang_phay_jia@schools.gov.sg</a> 
+<br><a href="dai_siming@schools.gov.sg" rel="noopener nofollow" target="_blank">dai_siming@schools.gov.sg</a>
+<br><a href="juliarti_junidi@schools.gov.sg" rel="noopener nofollow" target="_blank">juliarti_junidi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>YH (P2)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Junisha Erat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="junisha_erat@schools.gov.sg" rel="noopener nofollow" target="_blank">junisha_erat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2 Resilience</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Ching Yin
+<br>Ms Estee Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lim_ching_yin@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_ching_yin@schools.gov.sg</a>
+<br><a href="estee_lim@schools.gov.sg" rel="noopener nofollow" target="_blank">estee_lim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Susan Seow
+<br>Mdm Tok Ann Kee
+<br>Ms Sarinee Tevermuthu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="seow_susan@schools.gov.sg" rel="noopener nofollow" target="_blank">seow_susan@schools.gov.sg</a> 
+<br><a href="tok_ann_kee@schools.gov.sg" rel="noopener nofollow" target="_blank">tok_ann_kee@schools.gov.sg</a> 
+<br><a href="sharinee_tevermuthu_a@schools.gov.sg" rel="noopener nofollow" target="_blank">sharinee_tevermuthu_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2 Integrity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Xue Qi (Mrs Chong)
+<br>Mdm Nur Azimah Bte Mohd Jailani
+<br>Mr Jack Chang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2 Care</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee-Fu Shan
+<br>Mdm Lina Julianna Binte Margini
+<br>Mdm Julaiha Bte Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2 Excellence</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kang Phay Jia Daw
+<br>Mdm Dai Siming
+<br>Ms Juliarti Junidi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>AYH (P2)</strong>
@@ -145,20 +240,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: JUNISHA_ERAT@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">JUNISHA_ERAT@SCHOOLS.GOV.SG</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Form Teachers</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
 </p>
 </td>
 </tr>
@@ -698,6 +779,130 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<h5></h5>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
