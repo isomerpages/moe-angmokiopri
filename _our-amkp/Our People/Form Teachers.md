@@ -11,12 +11,12 @@ variant: markdown
 <p><strong>2025</strong>  <strong>Form Teachers</strong>
 </p>
 <h5><strong>2025 FORM TEACHERS</strong></h5>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+    <table style="width: 100%; table-layout: fixed;">
+    <colgroup>
+    <col style="width: 20%">
+    <col style="width: 40%">
+    <col style="width: 40%">
+    </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -118,12 +118,12 @@ variant: markdown
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table style="width: 100%; table-layout: fixed;">
+    <colgroup>
+    <col style="width: 20%">
+    <col style="width: 40%">
+    <col style="width: 40%">
+    </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -228,12 +228,12 @@ variant: markdown
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table style="width: 100%; table-layout: fixed;">
+    <colgroup>
+    <col style="width: 20%">
+    <col style="width: 40%">
+    <col style="width: 40%">
+    </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -331,12 +331,13 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<p></p>
+<table style="width: 100%; table-layout: fixed;">
+    <colgroup>
+    <col style="width: 20%">
+    <col style="width: 40%">
+    <col style="width: 40%">
+    </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -362,10 +363,8 @@ variant: markdown
 <br>Mr Tan Wee Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="clara_tham_kar_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">clara_tham_kar_ling@schools.gov.sg
-</a>
-<br><a href="tan_wee_eng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_wee_eng_a@schools.gov.sg
-</a>
+<p><a href="clara_tham_kar_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">clara_tham_kar_ling@schools.gov.sg</a>
+<br><a href="tan_wee_eng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_wee_eng_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -435,19 +434,19 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="low_ying_yan_adeline@schools.gov.sg" rel="noopener nofollow" target="_blank">low_ying_yan_adeline@schools.gov.sg
 </a> 
-<br><a href="goh_leng_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_leng_huat@schools.gov.sg
-</a>
+<br><a href="goh_leng_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_leng_huat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<p></p>
+<table style="width: 100%; table-layout: fixed;">
+    <colgroup>
+    <col style="width: 20%">
+    <col style="width: 40%">
+    <col style="width: 40%">
+    </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -550,12 +549,12 @@ variant: markdown
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table style="width: 100%; table-layout: fixed;">
+    <colgroup>
+    <col style="width: 20%">
+    <col style="width: 40%">
+    <col style="width: 40%">
+    </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
