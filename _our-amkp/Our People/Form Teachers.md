@@ -594,7 +594,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yong_yao_feng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yong Yao Feng</a></strong>
+<p><a href="mailto: YONG_YAO_FENG@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">YONG_YAO_FENG@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
