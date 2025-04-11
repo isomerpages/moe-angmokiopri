@@ -438,7 +438,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:xiao_yong_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Xiao Yong</a> <br><a href="mailto:WEE_LIANG_MEI@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Melissa Wee</a></strong>
+<p><a href="mailto: XIAO_YONG_SAMUEL@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">XIAO_YONG_SAMUEL@SCHOOLS.GOV.SG</a><strong> <br></strong>
+<a href="mailto: WEE_LIANG_MEI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">WEE_LIANG_MEI@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
@@ -454,7 +455,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: KOH_ESHEEN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">KOH_ESHEEN@SCHOOLS.GOV.SG</a><strong><br><a href="mailto:rizwanah_begum_mohamad_yoonus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rizwanah Begum Binte Mohamad Yoonus</a></strong>
+<p><a href="mailto: KOH_ESHEEN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">KOH_ESHEEN@SCHOOLS.GOV.SG</a><strong><br></strong>
+<a href="mailto: RIZWANAH_BEGUM_MOHAMAD_YOONUS@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">RIZWANAH_BEGUM_MOHAMAD_YOONUS@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
