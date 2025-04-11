@@ -25,7 +25,11 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lee_chun_wan_cavin@moe.edu.sg" rel="noopener nofollow" target="_blank">Lee Chun Wan Cavin</a></strong>
+<p><strong>Lee Chun Wan Cavin</strong>
+</p>
+</td>
+	<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:lee_chun_wan_cavin@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_chun_wan_cavin@moe.edu.sg</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,11 +53,19 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><strong>1 Resilience</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lim_ching_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Ching Yin</a></strong>
-<br><strong><a href="mailto:lim_swee_chin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Estee Lim</a></strong>
+	</td><td rowspan="1" colspan="1">
+<p><strong>Lim Ching Yin</strong>
 </p>
+</td>
+	<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:lim_ching_yin@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_ching_yin@moe.edu.sg</a></strong>
+</p>
+</td>
+
+<td rowspan="1" colspan="1">
+
+<br><strong><a href="mailto:lim_swee_chin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Estee Lim</a></strong>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
