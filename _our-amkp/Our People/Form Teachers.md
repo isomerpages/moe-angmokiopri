@@ -111,7 +111,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: FU_SHAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">FU_SHAN@SCHOOLS.GOV.SG</a><strong><br></strong>
-<a href="mailto: LINA_JULIANNA_MARGINI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">LINA_JULIANNA_MARGINI@SCHOOLS.GOV.SG</a><strong><br></strong><a href="mailto: JULIARTI_JUNIDI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">JULIARTI_JUNIDI@SCHOOLS.GOV.SG</a>
+<a href="mailto: LINA_JULIANNA_MARGINI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">LINA_JULIANNA_MARGINI@SCHOOLS.GOV.SG</a><strong><br></strong><a href="mailto: JULAIHA_ABD_AZIZ@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">JULAIHA_ABD_AZIZ@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
@@ -129,7 +129,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: KANG_PHAY_JIA@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">KANG_PHAY_JIA@SCHOOLS.GOV.SG</a><strong><br><a href="mailto:dai_siming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dai Siming</a> <br><a href="mailto:JULIARTI_JUNIDI@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliarti Junidi</a></strong>
+<p><a href="mailto: KANG_PHAY_JIA@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">KANG_PHAY_JIA@SCHOOLS.GOV.SG</a><strong><br></strong>
+<a href="mailto: DAI_SIMING@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">DAI_SIMING@SCHOOLS.GOV.SG</a><strong><br></strong><a href="mailto: JULIARTI_JUNIDI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">JULIARTI_JUNIDI@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
@@ -143,7 +144,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:junisha_erat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Junisha Erat</a></strong>
+<p><a href="mailto: JUNISHA_ERAT@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">JUNISHA_ERAT@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
