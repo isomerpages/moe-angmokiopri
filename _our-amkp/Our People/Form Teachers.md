@@ -374,7 +374,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:abdul_razif_mohammad_rizal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Razif</a></strong>
+<p><a href="mailto: ABDUL_RAZIF_MOHAMMAD_RIZAL@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">ABDUL_RAZIF_MOHAMMAD_RIZAL@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
