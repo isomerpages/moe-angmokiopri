@@ -309,7 +309,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lee_jun_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Jun Hui</a><br><a href="mailto:liao_zi_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Liao Ziyan</a></strong>
+<p><strong><a href="mailto:lee_jun_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Jun Hui</a><br></strong>
+<a href="mailto: LIAO_ZI_YAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">LIAO_ZI_YAN@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
