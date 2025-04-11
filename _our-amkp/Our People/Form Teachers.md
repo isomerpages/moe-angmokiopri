@@ -317,14 +317,15 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lai- Foo Ai Sien</p>
-<p>Mr Wu Wei Xiang</p>
-<p>Mr Mohammad Rizal Bin Kamid</p>
+<p>Mrs Lai-Foo Ai Sien
+<br>Mr Wu Wei Xiang
+<br>Mr Mohammad Rizal Bin Kamid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mailto:tan_peng_chuan_vincent@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_peng_chuan_vincent@schools.gov.sg</a>
-<br><a href="mailto:tan_mui_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mui_mui@schools.gov.sg</a>
-<br><a href="mailto:miguel_carlo_kung_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">miguel_carlo_kung_yong@m</a>
+<p><a href="Mailto:foo_ai_sien@schools.gov.sg" rel="noopener nofollow" target="_blank">foo_ai_sien@schools.gov.sg</a>
+<br><a href="mailto:wu_wei_xiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_wei_xiang@schools.gov.sg</a>
+<br><a href="mailto:mohammad_rizal_kamid@schools.gov.sg" rel="noopener nofollow" target="_blank">mohammad_rizal_kamid@schools.gov.sg
+</a>
 </p>
 </td>
 </tr>
@@ -357,12 +358,14 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Ching Yin
-<br>Ms Estee Lim</p>
+<p>Ms Clara Tham
+<br>Mr Tan Wee Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_ching_yin@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_ching_yin@schools.gov.sg</a>
-<br><a href="estee_lim@schools.gov.sg" rel="noopener nofollow" target="_blank">estee_lim@schools.gov.sg</a>
+<p><a href="clara_tham_kar_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">clara_tham_kar_ling@schools.gov.sg
+</a>
+<br><a href="tan_wee_eng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_wee_eng_a@schools.gov.sg
+</a>
 </p>
 </td>
 </tr>
@@ -372,14 +375,17 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Susan Seow
-<br>Mdm Tok Ann Kee
-<br>Ms Sarinee Tevermuthu</p>
+<p>Ms Jasmine Lim
+<br>Mr Chan Jun Xian Gareth
+<br>Mdm Nur Fitri Faezah Binti Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="seow_susan@schools.gov.sg" rel="noopener nofollow" target="_blank">seow_susan@schools.gov.sg</a> 
-<br><a href="tok_ann_kee@schools.gov.sg" rel="noopener nofollow" target="_blank">tok_ann_kee@schools.gov.sg</a> 
-<br><a href="sharinee_tevermuthu_a@schools.gov.sg" rel="noopener nofollow" target="_blank">sharinee_tevermuthu_a@schools.gov.sg</a>
+<p><a href="jasmine_yq_lim@schools.gov.sg" rel="noopener nofollow" target="_blank">jasmine_yq_lim@schools.gov.sg
+</a> 
+<br><a href="chan_jun_xian_gareth@schools.gov.sg" rel="noopener nofollow" target="_blank">chan_jun_xian_gareth@schools.gov.sg
+</a> 
+<br><a href="nur_fitri_faezah_mohamed@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_fitri_faezah_mohamed@schools.gov.sg
+</a>
 </p>
 </td>
 </tr>
@@ -389,14 +395,14 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Xue Qi (Mrs Chong)
-<br>Mdm Nur Azimah Bte Mohd Jailani
-<br>Mr Jack Chang</p>
+<p>Mr Samuel Xiao Yong
+<br>Ms Melissa Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ng_xue_qi@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_xue_qi@schools.gov.sg</a> 
-<br><a href="nur_azimah_mohd_jailani@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_azimah_mohd_jailani@schools.gov.sg</a> 
-<br><a href="chang_cheng_huan@schools.gov.sg" rel="noopener nofollow" target="_blank">chang_cheng_huan@schools.gov.sg</a>
+<p><a href="xiao_yong_samuel@schools.gov.sg" rel="noopener nofollow" target="_blank">xiao_yong_samuel@schools.gov.sg
+</a> 
+<br><a href="wee_liang_mei@schools.gov.sg" rel="noopener nofollow" target="_blank">wee_liang_mei@schools.gov.sg
+</a>
 </p>
 </td>
 </tr>
@@ -406,14 +412,14 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee-Fu Shan
-<br>Mdm Lina Julianna Binte Margini
-<br>Mdm Julaiha Bte Abdul Aziz</p>
+<p>Ms Esheen Koh
+<br>Ms Rizwanah Begum Binte Mohamad Yoonus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="fu_shan@schools.gov.sg" rel="noopener nofollow" target="_blank">fu_shan@schools.gov.sg</a>
-<br><a href="lina_julianna_margini@schools.gov.sg" rel="noopener nofollow" target="_blank">lina_julianna_margini@schools.gov.sg</a>
-<br><a href="julaiha_abd_aziz@schools.gov.sg" rel="noopener nofollow" target="_blank">julaiha_abd_aziz@schools.gov.sg</a>
+<p><a href="koh_esheen@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_esheen@schools.gov.sg
+</a>
+<br><a href="rizwanah_begum_mohamad_yoonus@schools.gov.sg" rel="noopener nofollow" target="_blank">rizwanah_begum_mohamad_yoonus@schools.gov.sg
+</a>
 </p>
 </td>
 </tr>
@@ -423,14 +429,14 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kang Phay Jia Dawn
-<br>Mdm Dai Siming
-<br>Ms Juliarti Junidi</p>
+<p>Ms Adeline Low
+<br>Mr Goh Leng Huat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="kang_phay_jia@schools.gov.sg" rel="noopener nofollow" target="_blank">kang_phay_jia@schools.gov.sg</a> 
-<br><a href="dai_siming@schools.gov.sg" rel="noopener nofollow" target="_blank">dai_siming@schools.gov.sg</a>
-<br><a href="juliarti_junidi@schools.gov.sg" rel="noopener nofollow" target="_blank">juliarti_junidi@schools.gov.sg</a>
+<p><a href="low_ying_yan_adeline@schools.gov.sg" rel="noopener nofollow" target="_blank">low_ying_yan_adeline@schools.gov.sg
+</a> 
+<br><a href="goh_leng_huat@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_leng_huat@schools.gov.sg
+</a>
 </p>
 </td>
 </tr>
@@ -453,7 +459,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lee_chun_wan_cavin@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_chun_wan_cavin@schools.gov.sg</a>
+<p><a href="abdul_razif_mohammad_rizal@schools.gov.sg" rel="noopener nofollow" target="_blank">abdul_razif_mohammad_rizal@schools.gov.sg
+</a>
 </p>
 </td>
 </tr>
@@ -463,12 +470,14 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Ching Yin
-<br>Ms Estee Lim</p>
+<p>Mr Mohamad Riaz Sulaimi
+<br>Ms Audrey Kwek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_ching_yin@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_ching_yin@schools.gov.sg</a>
-<br><a href="estee_lim@schools.gov.sg" rel="noopener nofollow" target="_blank">estee_lim@schools.gov.sg</a>
+<p><a href="mohamad_riaz_sulaimi@schools.gov.sg" rel="noopener nofollow" target="_blank">mohamad_riaz_sulaimi@schools.gov.sg
+</a>
+<br><a href="kwek_audrey@schools.gov.sg" rel="noopener nofollow" target="_blank">kwek_audrey@schools.gov.sg
+</a>
 </p>
 </td>
 </tr>
