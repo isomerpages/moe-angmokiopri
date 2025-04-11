@@ -202,9 +202,9 @@ variant: markdown
 <br>Ms Tiffany Sarah Sebastian Ravi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chang_shuyun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chang Shuyun</a>
-<br><a href="mailto:leong_cai_lin_monica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Monica Leong</a>
-<br><a href="mailto:tiffany_sarah_sebastian_ravi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tiffany Sarah Sebastian Ravi</a>
+<p><a href="mailto:chang_shuyun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_shuyun@schools.gov.sg</a>
+<br><a href="mailto:leong_cai_lin_monica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_cai_lin_monica@schools.gov.sg</a>
+<br><a href="mailto:tiffany_sarah_sebastian_ravi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tiffany_sarah_sebastian_ravi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -270,14 +270,13 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Wong Ziwei</p>
-<p>Mr Yap How Joo</p>
-<p>Mdm Tan Wei Ling Annette</p>
+<p>Mr Lee Jun Hui
+<br>Ms Liao Ziyan
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mailto:WONG_ZIWEI_MICHELLE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Michelle Wong Ziwei</a>
-<br><a href="mailto:Yap_How_Joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yap How Joo</a>
-<br><a href="mailto:TAN_WEI_LING_ANNETTE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Wei Ling Annette</a>
+<p><a href="Mailto:lee_jun_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_jun_hui@schools.gov.sg</a>
+<br><a href="mailto:liao_zi_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liao_zi_yan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -287,14 +286,15 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Wong Ziwei</p>
-<p>Mr Yap How Joo</p>
-<p>Mdm Tan Wei Ling Annette</p>
+<p>Mr Vincent Tan
+<br>Mdm Tan Mui Mui
+<br>Mr Miguel Carlo Kung Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mailto:WONG_ZIWEI_MICHELLE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Michelle Wong Ziwei</a>
-<br><a href="mailto:Yap_How_Joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yap How Joo</a>
-<br><a href="mailto:TAN_WEI_LING_ANNETTE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Wei Ling Annette</a>
+<p><a href="Mailto:tan_peng_chuan_vincent@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_peng_chuan_vincent@schools.gov.sg</a>
+<br><a href="mailto:tan_mui_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mui_mui@schools.gov.sg</a>
+<br><a href="mailto:miguel_carlo_kung_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">miguel_carlo_kung_yong@moe.edu.sg
+</a>
 </p>
 </td>
 </tr>
@@ -304,14 +304,13 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Wong Ziwei</p>
-<p>Mr Yap How Joo</p>
-<p>Mdm Tan Wei Ling Annette</p>
+<p>Ms Melissa Foong<br>Ms Chen Liming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mailto:WONG_ZIWEI_MICHELLE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Michelle Wong Ziwei</a>
-<br><a href="mailto:Yap_How_Joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yap How Joo</a>
-<br><a href="mailto:TAN_WEI_LING_ANNETTE@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Wei Ling Annette</a>
+<p><a href="Mailto:melissa_foong_shi_shan@schools.gov.sg" rel="noopener nofollow" target="_blank">melissa_foong_shi_shan@schools.gov.sg
+</a>
+<br><a href="mailto:chen_liming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_liming@schools.gov.sg
+</a>
 </p>
 </td>
 </tr>
@@ -334,7 +333,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lee_chun_wan_cavin@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_chun_wan_cavin@schools.gov.sg</a>
+<p><a href="abdul_razif_mohammad_rizal@schools.gov.sg" rel="noopener nofollow" target="_blank">abdul_razif_mohammad_rizal@schools.gov.sg
+</a>
 </p>
 </td>
 </tr>
