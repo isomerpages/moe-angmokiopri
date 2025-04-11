@@ -580,7 +580,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:valerie_chua_ruishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Valerie Low</a><br><a href="mailto:LIM_TIAN_JING@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Tian Jing</a></strong>
+<p><a href="mailto: VALERIE_RS_CHUA@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">VALERIE_RS_CHUA@SCHOOLS.GOV.SG</a><strong><br></strong>
+<a href="mailto: LIM_TIAN_JING@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">LIM_TIAN_JING@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
