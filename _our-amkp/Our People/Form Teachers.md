@@ -51,7 +51,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Email</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -97,7 +98,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:seow_susan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Susan Seow</a> <br><a href="mailto:tok_ann_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tok Ann Kee</a></strong>
-<br><strong>Ms Sharinee Tevermuthu</strong>
+<br><strong><a href="mailto: sharinee_tevermuthu_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Sharinee Tevermuthu</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,9 +116,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Xue Qi (Mrs Chong)
 <br>Mdm Nur Azimah Bte Mohd Jailani
-<br>Mr Jack Chang
-<br>
-</p>
+<br>Mr Jack Chang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="Mailto:NG_XUE_QI@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Xue Qi (Mrs Chong)</a><br><a href="mailto:nur_azimah_mohd_jailani@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Azimah Bte Mohd Jailani</a> <br><a href="mailto:chang_cheng_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jack Chang</a></strong>
@@ -140,7 +139,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="Mailto:fu_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Lee-Fu Shan</a><br><a href="mailto:lina_julianna_margini@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lina Julianna Binte Margini</a> <br><a href="mailto:julaiha_abd_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Julaiha Bte Abdul Aziz</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -159,7 +159,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:kang_phay_jia@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Kang Phay Jia Dawn</a> <br><a href="mailto:dai_siming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dai Siming</a> <br><a href="mailto:JULIARTI_JUNIDI@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Juliarti Junidi</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -197,7 +198,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Email</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -463,7 +465,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Email</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -596,7 +599,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Email</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -729,7 +733,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Email</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
