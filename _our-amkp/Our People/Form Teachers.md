@@ -292,7 +292,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: YEO_SZE_MIN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">YEO_SZE_MIN@SCHOOLS.GOV.SG</a><strong><br><a href="mailto:nooraisha_mohamed_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nooraisha</a></strong>
+<p><a href="mailto: YEO_SZE_MIN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">YEO_SZE_MIN@SCHOOLS.GOV.SG</a><strong><br></strong>
+<a href="mailto: NOORAISHA_MOHAMED_IBRAHIM@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">NOORAISHA_MOHAMED_IBRAHIM@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
