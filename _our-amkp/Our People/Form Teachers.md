@@ -212,7 +212,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:nor_azlyna_mohd_yusof@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nor Azlyna Bte Moh Yusof</a> <br><a href="mailto:chen_jia_xing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Jia Xing</a> <br><a href="mailto:maheswari_krishnan_murthy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Maheswari d/o Krishnan Murthy</a></strong>
+<p><strong><a href="mailto:nor_azlyna_mohd_yusof@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nor Azlyna Bte Moh Yusof</a> <br></strong>
+<a href="mailto: CHEN_JIA_XING@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">CHEN_JIA_XING@SCHOOLS.GOV.SG</a><strong><br></strong><a href="mailto: MAHESWARI_KRISHNAN_MURTHY@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">MAHESWARI_KRISHNAN_MURTHY@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
@@ -345,7 +346,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:melissa_foong_shi_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Melissa Foong</a><br></strong>
+<p><a href="mailto: MELISSA_FOONG_SHI_SHAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">MELISSA_FOONG_SHI_SHAN@SCHOOLS.GOV.SG</a><strong><br></strong>
 <a href="mailto: CHEN_LIMING@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">CHEN_LIMING@SCHOOLS.GOV.SG</a>
 </p>
 </td>
