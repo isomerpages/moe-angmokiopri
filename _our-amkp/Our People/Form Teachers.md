@@ -59,9 +59,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lim_ching_yin@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_ching_yin@moe.edu.sg</a></strong>
+<p><a href="mailto: LIM_CHING_YIN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">LIM_CHING_YIN@SCHOOLS.GOV.SG</a>
 </p>
-<p><strong><a href="mailto:lim_swee_chin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Estee Lim</a></strong>
+<p><a href="mailto: ESTEE_LIM@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">ESTEE_LIM@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
@@ -75,7 +75,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:seow_susan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Susan Seow</a> <br><a href="mailto:tok_ann_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tok Ann Kee</a></strong>
+<p><a href="mailto: SEOW_SUSAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">SEOW_SUSAN@SCHOOLS.GOV.SG</a><strong><br></strong>
+<a href="mailto: TOK_ANN_KEE@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">TOK_ANN_KEE@SCHOOLS.GOV.SG</a>
 <br><strong><a href="mailto: sharinee_tevermuthu_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Sharinee Tevermuthu</a></strong>
 </p>
 </td>
@@ -90,7 +91,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="Mailto:NG_XUE_QI@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Xue Qi (Mrs Chong)</a><br><a href="mailto:nur_azimah_mohd_jailani@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Azimah Bte Mohd Jailani</a> <br><a href="mailto:chang_cheng_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jack Chang</a></strong>
+<p><a href="mailto: NG_XUE_QI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">NG_XUE_QI@SCHOOLS.GOV.SG</a><strong><br><a href="mailto:nur_azimah_mohd_jailani@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nur Azimah Bte Mohd Jailani</a> <br><a href="mailto:chang_cheng_huan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jack Chang</a></strong>
 </p>
 </td>
 </tr>
