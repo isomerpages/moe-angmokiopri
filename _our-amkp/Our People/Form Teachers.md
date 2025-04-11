@@ -569,7 +569,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: CHUA_GIM_SEN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">CHUA_GIM_SEN@SCHOOLS.GOV.SG</a><strong><br></strong>
-<a href="mailto: NURSYAFIQAH_SAWAL@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">NURSYAFIQAH_SAWAL@SCHOOLS.GOV.SG</a><strong><br><a href="mailto:james_philomena_sashikala@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr. Philomena Mohan</a></strong>
+<a href="mailto: NURSYAFIQAH_SAWAL@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">NURSYAFIQAH_SAWAL@SCHOOLS.GOV.SG</a><strong><br></strong><a href="mailto: JAMES_PHILOMENA_SASHIKALA@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">JAMES_PHILOMENA_SASHIKALA@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
