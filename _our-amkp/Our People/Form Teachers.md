@@ -658,7 +658,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:desri_ann_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Desri Lee</a> <br><a href="mailto:ong_yu_meng_calvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Calvin Ong</a></strong>
+<p><a href="mailto: DESRI_ANN_LEONG@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">DESRI_ANN_LEONG@SCHOOLS.GOV.SG</a><strong><br></strong>
+<a href="mailto: ONG_YU_MENG_CALVIN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">ONG_YU_MENG_CALVIN@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
