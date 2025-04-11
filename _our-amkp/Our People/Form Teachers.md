@@ -546,7 +546,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:fong_yen_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fong Yen Yen</a><br><a href="mailto:chin_ting_onn_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Chin</a></strong>
+<p><a href="mailto: FONG_YEN_YEN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">FONG_YEN_YEN@SCHOOLS.GOV.SG</a><strong><br></strong>
+<a href="mailto: CHIN_TING_ONN_MARK@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">CHIN_TING_ONN_MARK@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
