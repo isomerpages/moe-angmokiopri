@@ -310,7 +310,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lee_jun_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Jun Hui</a><br></strong>
+<p><a href="mailto: LEE_JUN_HUI@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">LEE_JUN_HUI@SCHOOLS.GOV.SG</a><strong><br></strong>
 <a href="mailto: LIAO_ZI_YAN@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">LIAO_ZI_YAN@SCHOOLS.GOV.SG</a>
 </p>
 </td>
