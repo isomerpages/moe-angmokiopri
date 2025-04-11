@@ -514,7 +514,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:mohamad_riaz_sulaimi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohamad Riaz Sulaimi</a> <br><a href="mailto:kwek_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Audrey Kwek</a></strong>
+<p><strong><a href="mailto:mohamad_riaz_sulaimi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohamad Riaz Sulaimi</a> <br></strong>
+<a href="mailto: KWEK_AUDREY@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">KWEK_AUDREY@SCHOOLS.GOV.SG</a>
 </p>
 </td>
 </tr>
