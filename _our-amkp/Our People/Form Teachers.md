@@ -590,14 +590,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Desri Lee
-<br>Mr Calvin Ong</p>
-<p>Dr Philomena Mohan</p>
+<br>Mr Calvin Ong
+<br>Dr Philomena Mohan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="desri_ann_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">desri_ann_leong@schools.gov.sg</a>
 <br><a href="ong_yu_meng_calvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yu_meng_calvin@schools.gov.sg</a>
-</p>
-<p><a href="mailto:james_philomena_sashikala@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_philomena_sashikala@schools.gov.sg</a> 
+<br><a href="mailto:james_philomena_sashikala@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_philomena_sashikala@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
