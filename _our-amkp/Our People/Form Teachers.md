@@ -55,7 +55,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Susan Seow
 <br>Mdm Tok Ann Kee
-<br>Ms Sarinee Tevermuthu</p>
+<br>Ms Sharinee Tevermuthu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seow_susan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seow_susan@schools.gov.sg</a>
