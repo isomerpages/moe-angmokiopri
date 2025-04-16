@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kaleidoscope_Site_Banners__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_AMKP_Aesthetics_Website_Banner.png">
 </div>
 <h4><strong>Our Aim</strong></h4>
 <p>Every child, experiencing the wonder of art and music, uncovers their
