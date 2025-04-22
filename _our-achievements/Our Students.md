@@ -7,7 +7,6 @@ description: ""
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <p></p>
 <h4><strong><u>Cognitive</u></strong></h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -16,7 +15,151 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Tamizh Mozhi Vizha (Tamil Learning Festival) 2025 -  Consolation</strong></h4>
+<h4><strong>Teck Ghee CC Chinese Storytelling Competition 2025</strong></h4>
+<h4><strong>P5 &amp; P6 Category - 1st Prize</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Student</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhao Zichen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Excellence</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Teck Ghee CC Chinese Storytelling Competition 2025</strong></h4>
+<h4><strong>P1 &amp; P2 Category - 3rd Prize</strong></h4>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Jin Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 Resilience</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Tirukkural Vizha 2025 Literary Competitions - Motivational Prize</strong></h4>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jeyakumar Magizh Vadhani&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rajesh Manan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Varathan Archshune</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Excellence</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Singapore Tamizhar Eyakkam Competition 2025 - Consolation Prize</strong></h4>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tejas Srinivasan Kirupahari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tharanika Karunanithi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Integrity</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Tamizh Mozhi Vizha (Tamil Learning Festival) 2025 - Consolation</strong></h4>
 </th>
 </tr>
 <tr>
