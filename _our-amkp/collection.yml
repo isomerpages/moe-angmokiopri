@@ -2,6 +2,7 @@ collections:
   our-amkp:
     output: true
     order:
+      - Student Councillor President Message.md
       - Principal's Message.md
       - Vice Principal (Education) Ms Tan's Message.md
       - Vice Principal (Education) Ms Chen's Message.md
