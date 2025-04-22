@@ -75,7 +75,6 @@ so I hope to continue to cultivate my leadership skills and be given the
 opportunity to serve wherever I may be. Let’s all continue to Rise and
 Shine to be the best version of ourselves!</p>
 <p></p>
-<p><strong>Yours sincerely</strong>,</p>
-<p>Hailey Tan</p>
-<p></p>
-<p></p>
+<p><strong>Yours sincerely</strong>,
+<br>Hailey Tan</p>
+Student Councillor President 2025
