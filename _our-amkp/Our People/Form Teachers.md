@@ -3,7 +3,7 @@ title: Form Teachers
 permalink: /about-us/our-people/teaching-staff/form-teachers/
 description: ""
 third_nav_title: Our People
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -40,7 +40,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Lim Ching Yin
 <br>Ms Estee Lim</p>
-<p>Mr Muralindran s/o Rajendran</p>
+<br>Mr Muralindran s/o Rajendran<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ching_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ching_yin@schools.gov.sg</a>
