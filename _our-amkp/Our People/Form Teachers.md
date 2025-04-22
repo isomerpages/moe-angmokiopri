@@ -39,14 +39,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Ching Yin
-<br>Ms Estee Lim</p>
-<br>Mr Muralindran s/o Rajendran<p></p>
+<br>Ms Estee Lim
+<br>Mr Muralindran s/o Rajendran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ching_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ching_yin@schools.gov.sg</a>
 <br><a href="mailto:estee_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">estee_lim@schools.gov.sg</a>
-</p>
-<p><a href="mailto: muralindran_rajendran@schools.gov.sg" rel="noopener nofollow" target="_blank">muralindran_rajendran@schools.gov.sg</a>
+<br><a href="mailto: muralindran_rajendran@schools.gov.sg" rel="noopener nofollow" target="_blank">muralindran_rajendran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
