@@ -5,7 +5,13 @@ description: ""
 third_nav_title: About Us
 variant: tiptap
 ---
-<p>&gt;Our Team</p>
+<p>&gt; Our Team</p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
@@ -13,8 +19,10 @@ variant: tiptap
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/2025_Staff_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/MK_Staff_Photo.jpg">
 </div>
+<p><strong><u>(From Left to Right): Ms Eden, Ms Preeti, He Laoshi, Cikgu Sha, Ms Helin, Ms Jamie (Centre Head), Chen Laoshi, Ms Tiana, Jing Jing Laoshi, Mrs Aruna, Han Laoshi</u></strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
