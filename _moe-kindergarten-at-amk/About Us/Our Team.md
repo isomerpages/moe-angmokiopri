@@ -5,7 +5,7 @@ description: ""
 third_nav_title: About Us
 variant: tiptap
 ---
-<p>&gt;Our Team</p>
+<p>&gt; Our Team</p>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
@@ -13,8 +13,14 @@ variant: tiptap
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/2025_Staff_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/2025_MK_Staff.jpg">
 </div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
