@@ -1,6 +1,6 @@
 ---
-title: Our Student Councillor President's Message
-permalink: /student-councillor-president-message/
+title: From the Students' Desk
+permalink: /from-the-students-desk/
 variant: markdown
 description: ""
 ---
