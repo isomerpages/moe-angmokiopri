@@ -17,15 +17,29 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4>2025 Raffles Science Olympiad</h4>
+<h4><strong>2025 Raffles Science Olympiad</strong></h4>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Li Sih-Yao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 RP</p>
+<p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze</p>
@@ -36,7 +50,7 @@ description: ""
 <p>Cao Xinyun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 CA</p>
+<p>5 Ccare</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit</p>
