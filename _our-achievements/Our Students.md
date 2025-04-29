@@ -7,7 +7,61 @@ description: ""
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <p></p>
 <h4><strong><u>Cognitive</u></strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Participation in the SST Digital Citizenship Facilitation Workshop 2025</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Student</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ramesh Tanvi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leah Lim Xin Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Simon Lee Chu Rong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SST_Students.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
