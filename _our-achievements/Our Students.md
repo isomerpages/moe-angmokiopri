@@ -128,8 +128,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Teck Ghee CC Chinese Storytelling Competition 2025</strong></h4>
-<h4><strong>P5 &amp; P6 Category - 1st Prize</strong></h4>
+<h4><strong>Teck Ghee CC Chinese Storytelling Competition 2025 P5 &amp; P6 Category - 1st Prize</strong></h4>
 </th>
 </tr>
 <tr>
@@ -160,8 +159,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Teck Ghee CC Chinese Storytelling Competition 2025</strong></h4>
-<h4><strong>P1 &amp; P2 Category - 3rd Prize</strong></h4>
+<h4><strong>Teck Ghee CC Chinese Storytelling Competition 2025 P1 &amp; P2 Category - 3rd Prize</strong></h4>
 </th>
 </tr>
 <tr>
