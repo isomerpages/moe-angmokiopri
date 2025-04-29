@@ -1,7 +1,7 @@
 ---
 title: Our Students
 permalink: /our-students/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
@@ -53,8 +53,15 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Lim Jun Yi Jonathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4EN</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SST_Students.jpg">
 </div>
