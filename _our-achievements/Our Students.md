@@ -7,6 +7,134 @@ description: ""
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <p></p>
 <h4><strong><u>Cognitive</u></strong></h4>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>2025 Singapore and Asian Schools Math Olympiad (SASMO) Primary 6</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xu Zixin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ampo John Paul Mapaye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>George Goh Xuan Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Li Ruoyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teng Waylen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tung Jing En, Jean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gan Tong En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rastogi Savir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zuo Yuyang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honorable Mention</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
