@@ -22,9 +22,7 @@ for self-directed and collaborative learning.</p>
 <p>Our students engage in a mix of classroom learning and real-world activities
 that help them make sense of Science and understand applications to everyday
 life. To achieve this, the science learning experience in AMKP is made
-“visible, inclusive and authentic” with the following approaches:To achieve
-this, the science learning experience in AMKP is made “visible, inclusive
-and authentic” with the following approaches:</p>
+“visible, inclusive and authentic” with the following approaches:</p>
 <p></p>
 <p><strong><u>Within Classroom</u></strong>
 </p>
