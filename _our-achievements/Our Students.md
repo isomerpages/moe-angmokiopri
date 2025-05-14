@@ -1,7 +1,7 @@
 ---
 title: Our Students
 permalink: /our-students/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>

@@ -3,7 +3,7 @@ title: Science
 permalink: /our-amkp-experience/the-staple-academic-programme/science/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -22,9 +22,7 @@ for self-directed and collaborative learning.</p>
 <p>Our students engage in a mix of classroom learning and real-world activities
 that help them make sense of Science and understand applications to everyday
 life. To achieve this, the science learning experience in AMKP is made
-“visible, inclusive and authentic” with the following approaches:To achieve
-this, the science learning experience in AMKP is made “visible, inclusive
-and authentic” with the following approaches:</p>
+“visible, inclusive and authentic” with the following approaches:</p>
 <p></p>
 <p><strong><u>Within Classroom</u></strong>
 </p>
