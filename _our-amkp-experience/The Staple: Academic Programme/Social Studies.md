@@ -57,6 +57,10 @@ field-based learning also motivates and sustains their interest in the
 subject matter as they learn to explore, construct new knowledge and make
 connections to the topic being studied.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ss2.png">
+</div>
+<p></p>
 </li>
 <li>
 <p><strong>Performance Tasks</strong>
@@ -66,6 +70,38 @@ the students’ ability to translate and transfer key knowledge, skills and
 values in a new context. The performance tasks allow students to apply
 the knowledge, skills and values in a real-world context to showcase their
 learning and understanding of the theme.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ss3.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ss4.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ss5.png">
+</div>
+</th>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ss6.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 </li>
 <li>
@@ -77,9 +113,6 @@ to the community, through the learning and application of values, knowledge
 and skills. Using their knowledge from their lessons they engender projects
 to share their learning in the community to contribute meaningfully.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ss2.png">
-</div>
 </li>
 </ol>
 <p></p>
