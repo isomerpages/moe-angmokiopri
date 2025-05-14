@@ -12,34 +12,23 @@ variant: markdown
 </p>
 <p><strong>Our Aim</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>At Ang Mo Kio Primary, our Science Department nurtures the joy of learning
-science by sparking curiosity and critical thinking through engaging lessons,
-hands-on experiments, and inquiry-based learning. We equip students for
-21st-century challenges with social-emotional skills, ICT skills, and skills
-for self-directed and collaborative learning.</p>
-</li>
-</ul>
+<p>At Ang Mo Kio Primary, our Science Department nurtures the joy of learning science by sparking curiosity and critical thinking through engaging lessons, hands-on experiments, and inquiry-based learning. We equip students for 21st-century challenges with social-emotional skills, ICT skills, and skills for self-directed and collaborative learning.</p>
+
+
 <p><strong>Our Approach</strong>
 </p>
-<p>Our students engage in a mix of classroom learning and real-world activities
-that help them make sense of Science and understand applications to everyday
-life. To achieve this, the science learning experience in AMKP is made
-“visible, inclusive and authentic” with the following approaches:To achieve
-this, the science learning experience in AMKP is made “visible, inclusive
-and authentic” with the following approaches:</p>
+Our students engage in a mix of classroom learning and real-world activities that help them make sense of Science and understand applications to everyday life. To achieve this, the science learning experience in AMKP is made “visible, inclusive and authentic” with the following approaches:To achieve this, the science learning experience in AMKP is made “visible, inclusive
+and authentic” with the following approaches:<p></p>
 <p><strong><u>Within Classroom</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Inquiry-Based Learning</strong>
-</p>
-</li>
+	</p></li>
 </ul>
-<p>Students work together to explore real-world problems through experiments
+Students work together to explore real-world problems through experiments
 and data analysis, developing their inquiry skills, creativity, and problem-solving
-abilities.</p>
+abilities.<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
