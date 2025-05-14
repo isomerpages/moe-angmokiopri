@@ -3,7 +3,7 @@ title: Science
 permalink: /our-amkp-experience/the-staple-academic-programme/science/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -12,23 +12,31 @@ variant: markdown
 </p>
 <p><strong>Our Aim</strong>
 </p>
-<p>At Ang Mo Kio Primary, our Science Department nurtures the joy of learning science by sparking curiosity and critical thinking through engaging lessons, hands-on experiments, and inquiry-based learning. We equip students for 21st-century challenges with social-emotional skills, ICT skills, and skills for self-directed and collaborative learning.</p>
-
-
+<p>At Ang Mo Kio Primary, our Science Department nurtures the joy of learning
+science by sparking curiosity and critical thinking through engaging lessons,
+hands-on experiments, and inquiry-based learning. We equip students for
+21st-century challenges with social-emotional skills, ICT skills, and skills
+for self-directed and collaborative learning.</p>
 <p><strong>Our Approach</strong>
 </p>
-Our students engage in a mix of classroom learning and real-world activities that help them make sense of Science and understand applications to everyday life. To achieve this, the science learning experience in AMKP is made “visible, inclusive and authentic” with the following approaches:To achieve this, the science learning experience in AMKP is made “visible, inclusive
-and authentic” with the following approaches:<p></p>
+<p>Our students engage in a mix of classroom learning and real-world activities
+that help them make sense of Science and understand applications to everyday
+life. To achieve this, the science learning experience in AMKP is made
+“visible, inclusive and authentic” with the following approaches:To achieve
+this, the science learning experience in AMKP is made “visible, inclusive
+and authentic” with the following approaches:</p>
+<p></p>
 <p><strong><u>Within Classroom</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Inquiry-Based Learning</strong>
-	</p></li>
+</p>
+</li>
 </ul>
-Students work together to explore real-world problems through experiments
+<p>Students work together to explore real-world problems through experiments
 and data analysis, developing their inquiry skills, creativity, and problem-solving
-abilities.<p></p>
+abilities.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -208,7 +216,19 @@ Food Day, while maintaining eco-gardens and recycling initiatives.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci18.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Celebrating the Joy of Learning Science</strong>
+</p>
+</li>
+</ul>
+<p>Students showcase experiments, participate in hands-on demonstrations,
+and explore interactive exhibits during Science Fiesta, celebrating scientific
+discovery together. Selected students deepen their scientific inquiry through
+E2K Science enrichment, Innovation Programme and represent our school in
+Science Olympiad competitions.
 <br>
 </p>
