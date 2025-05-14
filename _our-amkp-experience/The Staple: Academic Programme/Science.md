@@ -128,41 +128,50 @@ collection tools, our students learn scientific concepts at their own pace.</p>
 Singaore Botanic Gardens, Sungei Buloh Wetland Reserve), Science Centre,
 Zoo and workshops. Our school Eco-Garden Learning Trail, hydroponics and
 Automated Urban Farming systems provide hands-on nature and farming experiences.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci13.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci11.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci12.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/sci9.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/sci8.jpg">
+</div>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci7.png">
+</div>
 </td>
 </tr>
 </tbody>
