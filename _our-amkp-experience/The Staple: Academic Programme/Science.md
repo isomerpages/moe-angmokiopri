@@ -176,4 +176,50 @@ Automated Urban Farming systems provide hands-on nature and farming experiences.
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Promote sustainability and environmental awareness</strong>
+</p>
+</li>
+</ul>
+<p>Science and Green champions advocate for environmental causes through
+World Water Day, Earth Day, and Biodiversity Day activities, and Clean
+Food Day, while maintaining eco-gardens and recycling initiatives.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/sci16.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci14.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci15.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
+<p>
+<br>
+</p>
