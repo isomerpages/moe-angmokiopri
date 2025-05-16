@@ -17,10 +17,14 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-Chang Shuyun<br>
-<br>Tan Shujun<br>
-<br>Chen Jiaxing<br>
-<br>Amelia Ng<br>
+<p>Chang Shuyun
+<br>
+<br>Tan Shujun
+<br>
+<br>Chen Jiaxing
+<br>
+<br>Amelia Ng
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presented at S1 Virtual Cluster Sharing (Chinese Language) on the "Use
