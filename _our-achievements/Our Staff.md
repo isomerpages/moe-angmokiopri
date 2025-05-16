@@ -24,7 +24,6 @@ description: ""
 <br>Chen Jiaxing
 <br>
 <br>Amelia Ng
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
