@@ -17,11 +17,10 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 PLT Team</p>
-<p>Chang Shuyun</p>
-<p>Tan Shujun</p>
-<p>Chen Jiaxing</p>
-<p>Amelia Ng</p>
+Chang Shuyun<br>
+<br>Tan Shujun<br>
+<br>Chen Jiaxing<br>
+<br>Amelia Ng<br>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presented at S1 Virtual Cluster Sharing (Chinese Language) on the Use
