@@ -1,19 +1,33 @@
 ---
 title: Our Staff
 permalink: /our-staff/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <h4>Congratulation to all our staff on their achievements! We are proud of you!</h4>
 <h3>2025</h3>
 <p><strong><u>Staff Presentation</u></strong>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+Chang Shuyun<br>
+<br>Tan Shujun<br>
+<br>Chen Jiaxing<br>
+<br>Amelia Ng<br>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presented at S1 Virtual Cluster Sharing (Chinese Language) on the "Use
+of ICT in Teaching and Learning", hosted by Holy Innocents' Primary School
+on 9th May 2025.</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Chang Shuyun</p>
