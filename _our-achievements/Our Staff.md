@@ -23,8 +23,8 @@ Chang Shuyun<br>
 <br>Amelia Ng<br>
 </td>
 <td rowspan="1" colspan="1">
-<p>Presented at S1 Virtual Cluster Sharing (Chinese Language) on the Use
-of ICT in Teaching and Learning, hosted by Holy Innocents' Primary School
+<p>Presented at S1 Virtual Cluster Sharing (Chinese Language) on the "Use
+of ICT in Teaching and Learning", hosted by Holy Innocents' Primary School
 on 9th May 2025.</p>
 </td>
 </tr>
