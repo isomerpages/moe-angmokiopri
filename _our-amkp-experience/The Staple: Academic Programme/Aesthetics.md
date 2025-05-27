@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-permalink: /our-amkp-experience/our-curriculum/art/
+permalink: /our-amkp-experience/our-curriculum/aesthetics/
 description: ""
 third_nav_title: "The Staple: Academic Programme"
 variant: tiptap

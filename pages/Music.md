@@ -2,7 +2,6 @@
 title: Music
 permalink: /our-amkp-experience/our-curriculum/music/
 description: ""
-third_nav_title: "The Staple: Academic Programme"
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Music**
@@ -33,5 +32,4 @@ third_nav_title: "The Staple: Academic Programme"
 * Believing in student voice, the Kids Got Voice provides a platform for students to showcase their interests and talents in music (as well as art, drama and PE). 
 
 4. Music Learning Journey (P3) 
-* The Music Learning Journey to Esplanade provides our P3 students an opportunity to watch a musical performances at Esplanade and have a guided tour of the theatre. 
-
+* The Music Learning Journey to Esplanade provides our P3 students an opportunity to watch a musical performances at Esplanade and have a guided tour of the theatre.
