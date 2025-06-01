@@ -1,7 +1,7 @@
 ---
 title: Our Staff
 permalink: /our-staff/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <h4>Congratulation to all our staff on their achievements! We are proud of you!</h4>
@@ -30,10 +30,8 @@ to Empowering Students and Teachers in EdTech" on 22 May 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presented at SgLDC 2025 Virtual Meet 1 on 17th and 18th March on the topic:
-AI-powered Science Self-directed learning &amp; growth through scaffolded
-guidance and note-taking.</p>
-<p>Conferred <strong>Connector Badge </strong>for sharing new perspectives,
-teaching practices, or learning theories on SgLDC.</p>
+"AI-powered Science Self-directed learning &amp; growth through scaffolded guidance and note-taking".
+<br>Conferred <strong>Connector Badge </strong>for sharing new perspectives, teaching practices, or learning theories on SgLDC.</p>
 </td>
 </tr>
 <tr>
