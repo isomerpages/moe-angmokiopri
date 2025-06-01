@@ -1,7 +1,7 @@
 ---
 title: Our Staff
 permalink: /our-staff/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4>Congratulation to all our staff on their achievements! We are proud of you!</h4>
@@ -17,14 +17,34 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chua Gim Sen Alan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presented and co-facilitated Teacher-Led Workshop (TLW) - "From Engaging
+to Empowering Students and Teachers in EdTech" on 22 May 2025.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mhamad Riaz Sulaimi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presented at SgLDC 2025 Virtual Meet 1 on 17th and 18th March on the topic:
+AI-powered Science Self-directed learning &amp; growth through scaffolded
+guidance and note-taking.</p>
+<p>Conferred <strong>Connector Badge </strong>for sharing new perspectives,
+teaching practices, or learning theories on SgLDC.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chang Shuyun
 <br>
 <br>Tan Shujun
 <br>
 <br>Chen Jiaxing
 <br>
-<br>Amelia Ng
-</p>
+<br>Amelia Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presented at S1 Virtual Cluster Sharing (Chinese Language) on the "Use
