@@ -26,7 +26,7 @@ to Empowering Students and Teachers in EdTech" on 22 May 2025.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mhamad Riaz Sulaimi</p>
+<p>Mohamad Riaz Sulaimi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presented at SgLDC 2025 Virtual Meet 1 on 17th and 18th March on the topic:
