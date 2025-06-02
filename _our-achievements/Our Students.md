@@ -1,13 +1,51 @@
 ---
 title: Our Students
 permalink: /our-students/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <p></p>
 <h4><strong><u>Cognitive</u></strong></h4>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Hwa Chong Info-Communications Challenge 2025</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xu Zixin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Platinum Award</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
