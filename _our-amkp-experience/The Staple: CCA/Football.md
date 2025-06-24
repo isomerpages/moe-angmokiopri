@@ -18,4 +18,5 @@ The Football CCA aims to nurture students’ passion for the sport and shape wel
 * Mr Miguel Carlo Kung Yong Long  
 
 **<font size="5">CCA Days and Timing</font>**
-* Monday &amp; Friday, 2.15pm to 4.15pm
+* **Monday**, 2.15 p.m. to 4.15 p.m. (*Selected students in competitive team*)
+* **Friday**, 2.15 p.m. to 4.15 p.m. (Mass CCA)
