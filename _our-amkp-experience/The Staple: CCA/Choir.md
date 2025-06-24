@@ -16,4 +16,4 @@ The Choir CCA is an exciting new co-curricular activity (CCA) offered at AMK pri
 *   Mr Samuel Xiao (Second IC)
 
 **<font size="5">      CCA Days and Timing</font>**
-* **Friday**, 2.15 p.m. to 4.15 p.m. 
+* **Friday**, 2.15 p.m. to 4.15 p.m.
