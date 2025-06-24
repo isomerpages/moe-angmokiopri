@@ -14,7 +14,9 @@ variant: markdown
 **<font size="5">Teachers-in-Charge</font>**
 * Miss Maheswari D/O Krishnan Murthy (First IC)
 * Mdm Monica Leong Cai Lin (Second IC)
+* Nur Azimah Bte Mohd Jailani
+* Ms Tiffany Sarah Sebastian
 * Ms Juliarti Junidi
 
 **<font size="5">CCA Days and Timing</font>**
-* Monday, 2.15pm to 4.15pm
+* **Monday**, 2.15 p.m. to 4.15 p.m.
