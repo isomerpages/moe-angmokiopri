@@ -10,11 +10,12 @@ variant: markdown
 
 **<font size="5">About</font>**
 
-* The Red Cross Youth CCA aims to instil the Red Cross Youth spirit and strengthen core values such as compassion, passion and professionalism in all members. Red Cross Youths are groomed to become good citizens with strong senses of civic responsibility to show care and concern for fellow members of the community through the acquisition of life-saving knowledge and skills such as basic first-aid. They are trained to be adaptable, resilient and confident team players.
+The Red Cross Youth CCA is committed to promoting values such as compassion, passion, and professionalism in all our members. Our Red Cross Links engage in a range of enriching activities, including first aid training, foot drills, and service education. Beyond school-based events, our Links also participate in a variety of programmes and competitions organised by Red Cross Youth, such as the First Aid Championship (FAC), Disaster and Risk Reduction Championship (DRRC), Ambassadors of Blood Championship (ABC), Linkamania Camp, World Red Cross Day, and Grateful Hearts. Through these diverse and engaging activities, our Links develop adaptability, resilience, and confidence as collaborative team players.
+
 
 **<font size="5">   Teachers-in-Charge</font>**
 * Mrs Vijaya Shankar (First IC)
 * Mr Goh Leng Huat (Second IC)
 
 **<font size="5">      CCA Days and Timing</font>**
-* Friday, 2.15pm to 4.15pm
+* **Friday**, 2.15 p.m. to 4.15 p.m.
