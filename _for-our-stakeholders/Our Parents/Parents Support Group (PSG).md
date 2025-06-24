@@ -41,44 +41,53 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/79.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/83.png">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/75.png">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/73.png">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/77.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Goh Siew Ling Jessica
+<br>(Member)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Wai Kuan Faith (Member)</p>
+<p>Mdm Sein Lai Myo Lwin</p>
+<p>(Member)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jessica Goh Siew Ling (Member)</p>
+<p>Mdm Charumathi Munuswamy</p>
+<p>(Member)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Neeti Bhardwaj
+<br>(Member)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shailajiah Devi D/O Surash Pillai (Member)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ramona Thet Mon Aye
+<br>(Member)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
