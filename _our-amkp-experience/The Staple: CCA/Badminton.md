@@ -23,4 +23,5 @@ The Badminton CCA aims to bring joy to our students as they learn to play the ga
 
 
 **<font size="5">   CCA Days and Timing</font>**
-* **Monday** &amp; **Friday**, 2.15 p.m. to 4.15 p.m.
+* **Monday**, 2.15 p.m. to 4.15 p.m. (P5 and P6)
+* **Friday**, 2.15 p.m. to 4.15 p.m. (P3 and P4)
