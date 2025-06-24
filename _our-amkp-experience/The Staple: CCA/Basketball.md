@@ -14,11 +14,12 @@ variant: markdown
 The objectives of the Basketball CCA are to ignite our students’ interest in basketball and equip them with the necessary game skills to maximise their potential. Our students will learn how to interact with others, develop resilience, sportsmanship and a positive sense of self.
 
 **<font size="5">Teachers-in-Charge</font>**
-* Miss Lee Mei Xuan (First IC)
-* Mr Lee Jun Hui (Second IC)
-* Mr Chen Jia Xing
+* Mr Lee Jun Hui (First IC)
+* Mr Chen Jia Xing (Second IC)
+* Ms Esheen Koh
 
 
 **<font size="5">CCA Days and Timing
 </font>**
-* Monday &amp; Friday, 2.15pm to 4.15pm
+* **Monday**, 2.15 p.m. to 4.15 p.m. (*Selected students in competitive team*)
+* **Friday**, 2.15 p.m. to 4.15 p.m. (Mass CCA)
