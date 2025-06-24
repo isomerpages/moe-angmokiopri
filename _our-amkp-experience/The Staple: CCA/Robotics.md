@@ -10,11 +10,14 @@ variant: markdown
 
 **<font size="5">About</font>**
 
-The Robotics Club aims to nurture the innovative and creative minds of our students. They acquire important life skills such as effective communication and collaboration as they work together as a team to invent and find ways of programming robots to solve problems. 
+The Robotics Club nurtures students’ creativity and innovation while equipping them with essential life skills such as communication, collaboration, and problem-solving. Through hands-on learning, students design, build, and program robots to tackle real-life challenges, fostering critical thinking and teamwork.
+
+Using age-appropriate kits like LEGO Education SPIKE, they learn STEM (Science, Technology, Engineering, and Mathematics) concepts in a way that promotes curiosity, perseverance, and innovation. This helps students to develop a strong foundation in coding and problem-solving, preparing them for future technological advancements while making learning enjoyable. 
 
 **<font size="5">Teachers-in-Charge</font>**
 * Miss Nur Fitri Faezah Binte Mohamed (First IC)
 * Mdm Tan Mui Ling Tabhita (Second IC)
+* Mr Chua Gim Sen Alan 
 
 **<font size="5">CCA Days and Timing</font>**
-* Friday, 2.15pm to 4.15pm
+* **Friday**, 2.15 p.m. to 4.15 p.m.
