@@ -17,7 +17,7 @@ Using age-appropriate kits like LEGO Education SPIKE, they learn STEM (Science, 
 **<font size="5">Teachers-in-Charge</font>**
 * Miss Nur Fitri Faezah Binte Mohamed (First IC)
 * Mdm Tan Mui Ling Tabhita (Second IC)
-* Mr Chua Gim Sen Alan (Third IC)
+* Mr Chua Gim Sen Alan 
 
 **<font size="5">CCA Days and Timing</font>**
 * Friday, 2.15 p.m. to 4.15 p.m.
