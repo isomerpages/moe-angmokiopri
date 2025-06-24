@@ -10,10 +10,10 @@ variant: markdown
 
 **<font size="5">About</font>**
 
-The Football CCA aims to develop our students’ interest and passion in football. Through a series of ball and game management trainings, values such as responsibility, resilience, excellence and teamwork are taught and reinforced.
+The Football CCA aims to nurture students’ passion for the sport and shape well-rounded individuals on and off the field. Through structured training sessions and friendly competitions, students develop fundamental ball skills while fostering values like resilience, responsibility, and a spirit of excellence.
 
 **<font size="5">   Teachers-in-Charge</font>**
-* Mr Chan Jun Xian, Gareth( (First IC)
+* Mr Chan Jun Xian, Gareth (First IC)
 * Mr Eric Soh (Second IC)
 * Mr Miguel Carlo Kung Yong Long  
 
