@@ -10,10 +10,12 @@ variant: markdown
 
 **<font size="5">About</font>**
 
-* Scouts CCA focusses on encouraging the students to be selfless individuals who are always willing to serve others and the community. Through a wide range of activities planned such as community service to the residents in the Ang Mo Kio neighbourhood, camp and team bonding games, our students will be learning important values such as showing care and respect for others.
+The Scouts CCA strives to nurture our pupils into confident individuals who are committed to service. Our Cub Scouts develop essential skills such as First Aid, Outdoor Cooking, Track and Trail, Map Reading, Knotting, and Foot Drills, while gaining valuable knowledge about their country and community. Through participation in various events such as the South Area Orienteering Competition, Job Week, National Day Commemoration, and national camps, our Cub Scouts develop strong communication skills, teamwork, and resilience.
+
 
 **<font size="5">   Teachers-in-Charge</font>**
 * Miss Clara Tham Kar Ling (First IC)
+* Md Tan Mui Mui (Second IC)
 
 **<font size="5">   CCA Days and Timing</font>**
-* Friday, 2.15pm to 4.15pm
+* **Friday**, 2.15 p.m. to 4.15 p.m.
