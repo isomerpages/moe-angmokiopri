@@ -13,8 +13,8 @@ variant: markdown
 The Table Tennis CCA aims to provide our students with an opportunity to enjoy the sport regardless of their skill level. They will learn the fundamental skills such as forehand and backhand hits, serving and spinning the balls, and different racquet holding styles. Our students will be given opportunities to reflect on some of the key sporting values of fair play and team spirit during the reflection sessions.
 
 **<font size="5">Teachers-in-Charge</font>**
-* Mdm Ng Xue Qi (First IC)
-* Mdm Foo Ai Sien (Second IC)
+* Mdm Foo Ai Sien (First IC)
+* Mdm Ng Xue Qi (Second IC)
 * Mr Chai Jia Yang
 
 **<font size="5">CCA Days and Timing</font>**
