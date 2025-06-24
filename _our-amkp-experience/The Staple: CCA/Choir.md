@@ -5,9 +5,15 @@ variant: markdown
 description: ""
 third_nav_title: "The Staple: CCA"
 ---
-<p>![Sub-banner](/images/sub%20banner.jpg)</p>
-<p>&amp;gt;**<strong>Choir</strong>**</p>
-<p><strong>&lt;font size="5"&gt;About&lt;/font&gt;</strong>
-</p>
-<p>The Modern Dance CCA aims to develop the students' interest in and appreciation
-of dance as they express themselves through movement. Through a wide range</p>
+![Sub-banner](/images/sub%20banner.jpg)&gt;**Choir**
+
+**<font size="5">About</font>**
+
+The Choir CCA is an exciting new co-curricular activity (CCA) offered at AMK primary school, aimed at nurturing students' musical talents and fostering a love for singing. Through the power of voice, this CCA is designed to instil discipline, teamwork, and a deep appreciation for music in our young learners.
+
+**<font size="5">   Teachers-in-Charge</font>**
+*   Mr Joseph Yap How Joo (First IC)
+*   Mr Samuel Xiao (Second IC)
+
+**<font size="5">      CCA Days and Timing</font>**
+* **Friday**, 2.15 p.m. to 4.15 p.m. 
