@@ -18,4 +18,5 @@ The Table Tennis CCA aims to provide our students with an opportunity to enjoy t
 * Mr Chai Jia Yang
 
 **<font size="5">CCA Days and Timing</font>**
-* Monday &amp; Friday, 2.15pm to 4.15pm
+* **Monday**, 2.15 p.m. to 4.15 p.m. (*Selected students in competitive team*)
+* **Friday**, 2.15 p.m. to 4.15 p.m. (Mass CCA)
