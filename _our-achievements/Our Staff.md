@@ -26,11 +26,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Valerie Chua Ruishan (Mrs Low)</p>
-<p>Wellisa Leono Liaw</p>
-<p>Junisha Erat</p>
-<p>Julaiha Abd Aziz</p>
-<p>Lee Jun Hui</p>
+<p>Valerie Chua Ruishan (Mrs Low)
+<br>Wellisa Leono Liaw
+<br>Junisha Erat
+<br>Julaiha Abd Aziz
+<br>Lee Jun Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TCEF 2025: Playful Pathways: Nurturing Mathematics Learning Through Purposeful
