@@ -21,7 +21,8 @@ description: ""
 <p>Gareth Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TCEF 2025: APP-lying Gamification to Outdoor Education with Actionbound</p>
+<p>Presented at Teachers’ Conference and Excel Fest (TCEF) 2025 - 
+	<br>APP-lying Gamification to Outdoor Education with Actionbound.</p>
 </td>
 </tr>
 <tr>
@@ -33,8 +34,8 @@ description: ""
 <br>Lee Jun Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TCEF 2025: Playful Pathways: Nurturing Mathematics Learning Through Purposeful
-Play at Ang Mo Kio Primary School</p>
+<p>Presented at Teachers’ Conference and Excel Fest (TCEF) 2025 - 
+<br>Playful Pathways: Nurturing Mathematics Learning Through Purposeful Play at Ang Mo Kio Primary School.</p>
 </td>
 </tr>
 <tr>

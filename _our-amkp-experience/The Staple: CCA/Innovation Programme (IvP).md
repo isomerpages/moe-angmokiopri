@@ -3,6 +3,7 @@ title: Innovation Programme (IvP)
 permalink: /our-amkp-experience/the-staple-cca/innovation-programme/
 description: ""
 third_nav_title: "The Staple: CCA"
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Innovation Programme (IvP)**
@@ -13,6 +14,7 @@ The Innovation Programme (IvP), an initiative from MOE Gifted Education branch, 
 
 **<font size="5">   Teachers-in-Charge</font>**
 * Mdm Tan Siew Cheng 
+* Mr Mohamad Riaz Sulaimi
 
 **<font size="5">      CCA Days and Timing</font>**
-* Monday, 2.15pm to 4.15pm
+* **Friday**, 2.15 p.m. to 4.15 p.m.
