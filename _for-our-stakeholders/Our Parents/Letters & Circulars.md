@@ -25,7 +25,8 @@ variant: tiptap
 <p></p>
 <h5>Termly Letters</h5>
 <p>Please refer to the links below for the school's Termly letters and schedule.</p>
-<p>Term 3:</p>
+<p><strong>Term 3:</strong>  <a href="/files/Letters and Circulars/2025 Letters/2025_AMKP_Term3_letter.pdf" rel="noopener nofollow" target="_blank">2025 AMKP Term 3 Letter</a>
+</p>
 <p><strong>Term 1: </strong><a href="/files/Letters and Circulars/2025 Letters/2025_AMKP_Term1_letter.pdf" rel="noopener nofollow" target="_blank">2025 AMKP Term 1 Letter</a>
 </p>
 <h5>CCA Letters and Schedule</h5>
