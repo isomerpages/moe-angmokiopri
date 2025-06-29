@@ -17,6 +17,7 @@ variant: tiptap
 <h5>2025 School Calendar</h5>
 <p>Please refer to the links below for the school's termly calendar.</p>
 <p><a href="/files/AMKP_School_Calendar_Term_3_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 Calendar</a>
+<a href="/files/AMKP_School_Calendar_Term_3_2025_updated.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 <p><a href="/files/AMKP_School_Calendar_2025_Term_2__for_Stakeholders_on_School_Website_.pdf" rel="noopener nofollow" target="_blank">Term 2 Calendar</a>
 </p>
@@ -25,6 +26,8 @@ variant: tiptap
 <p></p>
 <h5>Termly Letters</h5>
 <p>Please refer to the links below for the school's Termly letters and schedule.</p>
+<p><strong>Term 3:</strong>  <a href="/files/Letters and Circulars/2025 Letters/2025_AMKP_Term3_letter.pdf" rel="noopener nofollow" target="_blank">2025 AMKP Term 3 Letter</a>
+</p>
 <p><strong>Term 1: </strong><a href="/files/Letters and Circulars/2025 Letters/2025_AMKP_Term1_letter.pdf" rel="noopener nofollow" target="_blank">2025 AMKP Term 1 Letter</a>
 </p>
 <h5>CCA Letters and Schedule</h5>
