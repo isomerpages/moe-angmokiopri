@@ -13,5 +13,6 @@ description: ""
 </p>
 <p><a href="/files/AMKP_School_Calendar_2025_Term_2__for_Stakeholders_on_School_Website_.pdf" rel="noopener nofollow" target="_blank">Term 2 Calendar</a>
 </p>
-<p><a href="/files/AMKP_School_Calendar_Term_3_2025.pdf" rel="noopener nofollow" target="_blank">Term 3 Calendar</a>
+<p><a href="/files/AMKP_School_Calendar_Term_3_2025.pdf" rel="noopener nofollow" target="_blank">Term 3 Calen</a>
+<a href="/files/AMKP_School_Calendar_Term_3_2025_updated.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/AMKP_School_Calendar_Term_3_2025.pdf" rel="noopener nofollow" target="_blank">dar</a>
 </p>
