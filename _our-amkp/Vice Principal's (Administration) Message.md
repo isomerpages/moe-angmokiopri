@@ -6,8 +6,9 @@ description: ""
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_Liew.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_Liew2.png">
 </div>
 <p>Education is not just about acquiring knowledge; it is about nurturing
 every child to be a lifelong learner, ready to navigate the challenges
