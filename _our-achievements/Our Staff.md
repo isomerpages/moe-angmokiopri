@@ -1,7 +1,7 @@
 ---
 title: Our Staff
 permalink: /our-staff/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4>Congratulation to all our staff on their achievements! We are proud of you!</h4>
@@ -21,8 +21,8 @@ description: ""
 <p>Gareth Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Presented at Teachers’ Conference and Excel Fest (TCEF) 2025 - 
-	<br>APP-lying Gamification to Outdoor Education with Actionbound.</p>
+<p>Presented at Teachers’ Conference and Excel Fest (TCEF) 2025 -
+<br>APP-lying Gamification to Outdoor Education with Actionbound.</p>
 </td>
 </tr>
 <tr>
@@ -34,8 +34,9 @@ description: ""
 <br>Lee Jun Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Presented at Teachers’ Conference and Excel Fest (TCEF) 2025 - 
-<br>Playful Pathways: Nurturing Mathematics Learning Through Purposeful Play at Ang Mo Kio Primary School.</p>
+<p>Presented at Teachers’ Conference and Excel Fest (TCEF) 2025 -
+<br>Playful Pathways: Nurturing Mathematics Learning Through Purposeful Play
+at Ang Mo Kio Primary School.</p>
 </td>
 </tr>
 <tr>
@@ -99,6 +100,15 @@ February</p>
 <td rowspan="1" colspan="1">
 <p>Hosted Colleagues from Greendale Secondary School to share about Arduino
 in Urban Farming System @ AMKP on 14th February</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edmund Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presented at AST for "EAS for EAS Learning" (EfEL) titled: POWER UP WITH
+PAIR CHAT</p>
 </td>
 </tr>
 </tbody>
