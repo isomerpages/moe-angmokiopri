@@ -491,7 +491,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fong Yen Yen
-<br>Mr Mark Chin</p>
+<br>Mr Mark Chin
+<br><strong>Syafiqah</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fong_yen_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong_yen_yen@schools.gov.sg</a>
@@ -506,10 +508,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Gim Sen Alan
-<br>Ms Nursyafiqah Sawal</p>
+<br>Mrs Pamela
+<br><strong>Ms Nursyafiqah Sawal</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_gim_sen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_gim_sen@schools.gov.sg</a>
+<br><a href="mailto: tock_yan_qing_pamela@schools.gov.sg" rel="noopener nofollow" target="_blank">tock_yan_qing_pamela@schools.gov.sg</a>
 <br><a href="mailto:nursyafiqah_sawal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nursyafiqah_sawal@schools.gov.sg</a>
 </p>
 </td>
