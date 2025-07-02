@@ -40,7 +40,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Lim Ching Yin
 <br>Ms Estee Lim
-<br>Mr Muralindran s/o Rajendran</p>
+<br><strong>Mr Muralindran s/o Rajendran</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ching_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ching_yin@schools.gov.sg</a>
@@ -146,13 +147,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Shu Jun
-<br>Mr Chai Jia Yang
+<p>Mr Chai Jia Yang
+<br>Mdm Tan Shu Jun
 <br>Mdm Justina Yim Keat Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_shu_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_jun@schools.gov.sg</a>
-<br><a href="mailto:chai_jia_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chai_jia_yang@schools.gov.sg</a>
+<p><a href="mailto:chai_jia_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chai_jia_yang@schools.gov.sg</a>
+<br><a href="mailto:tan_shu_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_jun@schools.gov.sg</a>
 <br><a href="mailto:yim_keat_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yim_keat_yee@schools.gov.sg</a>
 </p>
 </td>
@@ -182,12 +183,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Nor Azlyna Bte Moh Yusof
 <br>Mr Chen Jia Xing
-<br>Ms Maheswari d/o Krishnan Murthy</p>
+<br>Ms Siti Noorbiyah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nor_azlyna_mohd_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_azlyna_mohd_yusof@schools.gov.sg</a>
 <br><a href="mailto:chen_jia_xing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jia_xing@schools.gov.sg</a>
-<br><a href="mailto:maheswari_krishnan_murthy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maheswari_krishnan_murthy@schools.gov.sg</a>
+<br><a href="Siti_Noorbiyah_Abdullah_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Siti_Noorbiyah_Abdullah_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -198,13 +199,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chang Shuyun
-<br>Mdm Monica Leong
-<br>Ms Tiffany Sarah Sebastian Ravi</p>
+<br>Mdm Monica Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chang_shuyun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_shuyun@schools.gov.sg</a>
 <br><a href="mailto:leong_cai_lin_monica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_cai_lin_monica@schools.gov.sg</a>
-<br><a href="mailto:tiffany_sarah_sebastian_ravi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tiffany_sarah_sebastian_ravi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
