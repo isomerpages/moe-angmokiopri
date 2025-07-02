@@ -272,13 +272,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lee Jun Hui
 <br>Mr Muralindran s/o Rajendran
-<br><strong>Yee Chin</strong>
-</p>
+<br>Ms Phang Yee Chin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jun_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jun_hui@schools.gov.sg</a>
 </p>
 <p><a href="mailto: muralindran_rajendran@schools.gov.sg" rel="noopener nofollow" target="_blank">muralindran_rajendran@schools.gov.sg</a>
+<br><a href="mailto: Phang_Yee_Chin@schools.gov.sg" rel="noopener nofollow" target="_blank">Phang_Yee_Chin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -491,12 +491,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Fong Yen Yen
 <br>Mr Mark Chin
-<br><strong>Syafiqah</strong>
-</p>
+<br>Ms Nursyafiqah Sawal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fong_yen_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong_yen_yen@schools.gov.sg</a>
 <br><a href="mailto:chin_ting_onn_mark@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_ting_onn_mark@schools.gov.sg</a>
+<br><a href="mailto: nursyafiqah_sawal@schools.gov.sg" rel="noopener nofollow" target="_blank">nursyafiqah_sawal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -507,14 +507,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Gim Sen Alan
-<br>Mrs Pamela
-<br><strong>Ms Nursyafiqah Sawal</strong>
-</p>
+<br>Mrs Pamela</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_gim_sen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_gim_sen@schools.gov.sg</a>
 <br><a href="mailto: tock_yan_qing_pamela@schools.gov.sg" rel="noopener nofollow" target="_blank">tock_yan_qing_pamela@schools.gov.sg</a>
-<br><a href="mailto:nursyafiqah_sawal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nursyafiqah_sawal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
