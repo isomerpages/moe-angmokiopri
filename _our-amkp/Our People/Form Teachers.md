@@ -39,7 +39,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Ching Yin
-<br>Ms Estee Lim</p>
+<br>Ms Estee Lim
+<br>Ms Shahida Binte Mohd Said</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ching_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ching_yin@schools.gov.sg</a>
