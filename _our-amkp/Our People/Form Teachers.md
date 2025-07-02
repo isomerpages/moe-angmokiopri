@@ -45,6 +45,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ching_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ching_yin@schools.gov.sg</a>
 <br><a href="mailto:estee_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">estee_lim@schools.gov.sg</a>
+<br><a href="mailto: shahida_mohd_said@schools.gov.sg" rel="noopener nofollow" target="_blank">shahida_mohd_said@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -288,14 +289,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Vincent Tan
-<br>Mdm Tan Mui Mui
-<br><strong>Mr Miguel Carlo Kung Yong</strong>
-</p>
+<br>Mdm Tan Mui Mui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_peng_chuan_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_peng_chuan_vincent@schools.gov.sg</a>
 <br><a href="mailto:tan_mui_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mui_mui@schools.gov.sg</a>
-<br><a href="mailto:miguel_carlo_kung_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miguel_carlo_kung_yong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
