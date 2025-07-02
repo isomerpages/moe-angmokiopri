@@ -3,7 +3,7 @@ title: Form Teachers
 permalink: /about-us/our-people/teaching-staff/form-teachers/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -73,13 +73,11 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Xue Qi (Mrs Chong)
-<br>Mdm Nur Azimah Bte Mohd Jailani
-<br>Mr Jack Chang</p>
+<br>Mdm Nur Azimah Bte Mohd Jailani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_xue_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_xue_qi@schools.gov.sg</a>
 <br><a href="mailto:nur_azimah_mohd_jailani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azimah_mohd_jailani@schools.gov.sg</a>
-<br><a href="mailto:chang_cheng_huan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_cheng_huan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
