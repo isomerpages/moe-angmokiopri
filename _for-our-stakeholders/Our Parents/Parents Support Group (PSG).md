@@ -57,7 +57,6 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/Mdm_Jassica.png">
 </div>
@@ -232,6 +231,4 @@ and students. Enjoy!&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe height="435" width="581" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l_vmf7L4R_s"></iframe>
 </div>
-<p>
-<br>
-</p>
+<p></p>
