@@ -64,13 +64,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sein Lai Myo Lwin</p>
-<p>(Member)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/Mdm_Neeti.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Charumathi Munuswamy</p>
-<p>(Member)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/Mdm_Ramona.png">
+</div>
 </td>
 </tr>
 <tr>
