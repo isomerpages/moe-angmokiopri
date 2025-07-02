@@ -57,34 +57,40 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Siew Ling Jessica
-<br>(Member)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/Mdm_Jassica.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sein Lai Myo Lwin</p>
-<p>(Member)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/Mdm_Neeti.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Charumathi Munuswamy</p>
-<p>(Member)</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Neeti Bhardwaj
-<br>(Member)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Shailajiah Devi D/O Surash Pillai (Member)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/Mdm_Ramona.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ramona Thet Mon Aye
-<br>(Member)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/Mdm_Chaumathi.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/Mdm_Shailajilah.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/Mdm_Sein.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -230,6 +236,4 @@ and students. Enjoy!&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe height="435" width="581" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l_vmf7L4R_s"></iframe>
 </div>
-<p>
-<br>
-</p>
+<p></p>
