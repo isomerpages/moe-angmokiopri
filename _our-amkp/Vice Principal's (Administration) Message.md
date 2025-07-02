@@ -30,7 +30,7 @@ the public at the Mother Tongue Languages Symposium, unleashing their creativity
 by collaborating with teachers and a local artist to co-create the “Deforestation”
 mural along our classroom block. These experiences embody the learning
 and growth we aspire for them to achieve.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>This, however, cannot be accomplished by the school alone. I believe that
 education is a collaborative effort that thrives on strong partnerships
 between parents, educators, and the wider school community. Together with
