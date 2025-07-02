@@ -24,13 +24,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="wee_liang_mei@moe.edu.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/03.png"></a>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pam_image.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_Image_blank.png">
 </div>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="wee_liang_mei@moe.edu.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/03.png"></a>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -177,6 +176,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pam_image.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
