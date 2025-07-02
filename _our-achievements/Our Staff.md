@@ -108,7 +108,7 @@ in Urban Farming System @ AMKP on 14th February</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presented at AST for "EAS for EAS Learning" (EfEL) titled: POWER UP WITH
-PAIR CHAT</p>
+PAIR CHAT on 25 June</p>
 </td>
 </tr>
 </tbody>
