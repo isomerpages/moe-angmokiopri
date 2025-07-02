@@ -614,13 +614,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Desmond Tay
-<br>Ms Tan Wan Jun
-<br>Mrs Anand</p>
+<br>Mrs Anand
+<br>Ms Tan Wan Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_boon_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_boon_peng@schools.gov.sg</a>
-<br><a href="mailto:tan_wan_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_jun@schools.gov.sg</a>
 <br><a href="mailto:apiramee_e_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">apiramee_e_subramaniam@schools.gov.sg</a>
+<br><a href="mailto:tan_wan_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_jun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
