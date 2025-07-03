@@ -25,7 +25,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong> Awardees (Semester 1)</strong>
+<p><strong>Awardees (Semester 1)</strong>
 </p>
 </td>
 </tr>
@@ -677,7 +677,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
+<p><strong>Sports Event</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -685,19 +685,71 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Award</strong>
+<p><strong>Awardee</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Badminton Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SEAN SIM WEE KIAT</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Xu Zixin</p>
+<p>6 Resilience</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>BENJAMIN ENG</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>THUREIN HTAIKE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Gymnastics (Artistic) Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CHONG HAU TERNG</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Platinum Award</p>
+<p><strong>HAILEY TAN</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>LI YUN-SYUAN</strong>
+</p>
 </td>
 </tr>
 </tbody>
