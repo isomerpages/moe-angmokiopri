@@ -17,4 +17,4 @@ The English Drama CCA aims to develop confident and expressive individuals who a
 * Ms Amirah Bte Mohd Ismail  (Second IC)
 
 **<font size="5">   CCA Days and Timing</font>**
-* **Monday**, 2.15 p.m. to 4.15 p.m.
+* **Friday**, 2.15 p.m. to 4.15 p.m.
