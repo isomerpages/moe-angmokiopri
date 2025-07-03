@@ -15,6 +15,7 @@ The English Drama CCA aims to develop confident and expressive individuals who a
 **<font size="5">Teacher-in-Charge</font>**
 * Mr Jex Nicholas John Frederick (First IC)
 * Ms Amirah Bte Mohd Ismail  (Second IC)
+* Mrs Pamela Thio
 
 **<font size="5">   CCA Days and Timing</font>**
 * **Friday**, 2.15 p.m. to 4.15 p.m.
