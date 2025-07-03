@@ -16,6 +16,7 @@ The Football CCA aims to nurture students’ passion for the sport and shape wel
 * Mr Chan Jun Xian, Gareth (First IC)
 * Mr Eric Soh (Second IC)
 * Mr Miguel Carlo Kung Yong Long  
+* Mdm Nor Aishah Binte Sa'ad
 
 **<font size="5">CCA Days and Timing</font>**
 * **Monday**, 2.15 p.m. to 4.15 p.m. (*Selected students in competitive team*)
