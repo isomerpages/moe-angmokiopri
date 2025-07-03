@@ -19,4 +19,4 @@ variant: markdown
 * Ms Juliarti Junidi
 
 **<font size="5">CCA Days and Timing</font>**
-* **Monday**, 2.15 p.m. to 4.15 p.m.
+* **Friday**, 2.15 p.m. to 4.15 p.m.
