@@ -507,7 +507,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Gim Sen Alan
-<br>Mrs Pamela</p>
+<br>Mrs Pamela Thio</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_gim_sen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_gim_sen@schools.gov.sg</a>
