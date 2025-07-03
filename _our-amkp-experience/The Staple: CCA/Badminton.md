@@ -20,6 +20,7 @@ The Badminton CCA aims to bring joy to our students as they learn to play the ga
 * Ms Rizwanah Begum
 * Mdm Tan Shu Jun
 * Mdm Lina Julianna Binte Margini
+* Miss Phang Yee Chin
 
 
 **<font size="5">   CCA Days and Timing</font>**
