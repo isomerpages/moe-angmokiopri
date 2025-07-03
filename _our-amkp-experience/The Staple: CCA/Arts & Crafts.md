@@ -17,6 +17,7 @@ variant: markdown
 * Nur Azimah Bte Mohd Jailani
 * Ms Tiffany Sarah Sebastian
 * Ms Juliarti Junidi
+* Mdm Shahida Binte Mohd Said
 
 **<font size="5">CCA Days and Timing</font>**
 * **Friday**, 2.15 p.m. to 4.15 p.m.
