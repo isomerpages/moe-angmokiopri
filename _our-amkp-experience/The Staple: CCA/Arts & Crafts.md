@@ -15,7 +15,7 @@ variant: markdown
 * Nur Azimah Bte Mohd Jailani (First IC)
 * Mdm Monica Leong Cai Lin (Second IC)
 * Ms Tiffany Sarah Sebastian
-* Ms Juliarti Junidi
+* Mr Muralindran s/o Rajendran
 * Mdm Shahida Binte Mohd Said
 
 **<font size="5">CCA Days and Timing</font>**
