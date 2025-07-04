@@ -374,8 +374,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Jasmine Lim
 <br>Mr Chan Jun Xian Gareth
-<br><strong>Mdm Nur Fitri Faezah Binti Mohamed</strong>
-</p>
+<br>Mdm Nur Fitri Faezah Binti Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jasmine_yq_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_yq_lim@schools.gov.sg</a>

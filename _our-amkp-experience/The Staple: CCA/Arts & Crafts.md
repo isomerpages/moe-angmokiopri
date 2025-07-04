@@ -12,11 +12,10 @@ variant: markdown
 * The Arts &amp; Crafts Club provides opportunities for our students to enrich their learning in the aesthetic domain. Our students will learn the importance of imagination and expression as they are exposed to a wide range of art and craft forms that will enhance their individual creativity and encourage them to pursue their passion in the aesthetics.
 
 **<font size="5">Teachers-in-Charge</font>**
-* Miss Maheswari D/O Krishnan Murthy (First IC)
+* Nur Azimah Bte Mohd Jailani (First IC)
 * Mdm Monica Leong Cai Lin (Second IC)
-* Nur Azimah Bte Mohd Jailani
 * Ms Tiffany Sarah Sebastian
-* Ms Juliarti Junidi
+* Mr Muralindran s/o Rajendran
 * Mdm Shahida Binte Mohd Said
 
 **<font size="5">CCA Days and Timing</font>**
