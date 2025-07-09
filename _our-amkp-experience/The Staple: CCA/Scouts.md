@@ -37,24 +37,11 @@ resilience.</p>
 <p><strong>Friday</strong>, 2.15 p.m. to 4.15 p.m.</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Scouts__2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scouts__1_jpeg.jpg">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scouts__2.jpg">
+</div>
 <p></p>
