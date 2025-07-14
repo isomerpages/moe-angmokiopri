@@ -21,3 +21,5 @@ Using age-appropriate kits like LEGO Education SPIKE, they learn STEM (Science, 
 
 **<font size="5">CCA Days and Timing</font>**
 * **Friday**, 2.15 p.m. to 4.15 p.m.
+![](/images/robotics.jpg)
+![](/images/MM.png)
