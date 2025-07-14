@@ -44,6 +44,13 @@ description: ""
 <p>Certificate of Recognition</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Silent_Heroes_Award_2025___Audrey_Mukherjee.png">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong><u>AMKP Model Student Award (Class)</u></strong></h4>
