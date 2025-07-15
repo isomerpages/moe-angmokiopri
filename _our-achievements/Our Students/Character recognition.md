@@ -5,6 +5,52 @@ variant: tiptap
 description: ""
 third_nav_title: Our Students
 ---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Singapore Silent Heroes Award 2025 &nbsp;</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AUDREY MUKHERJEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Recognition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Silent_Heroes_Award_2025___Audrey_Mukherjee.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong><u>AMKP Model Student Award (Class)</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
