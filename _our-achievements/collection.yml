@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Staff/.keep
-      - Our Staff.md
       - Our Students/.keep
       - Our Students/Cognitive recognition.md
       - Our Students/Character recognition.md
