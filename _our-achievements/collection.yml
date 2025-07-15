@@ -2,6 +2,6 @@ collections:
   our-achievements:
     output: true
     order:
-      - Character Recognition.md
       - Our Staff.md
       - Our Students.md
+      - Character Recognition.md
