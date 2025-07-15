@@ -2,9 +2,11 @@ collections:
   our-achievements:
     output: true
     order:
-      - Our Staff.md
+      - Our Staff/.keep
+      - Our Staff/Presentation.md
+      - Our Staff/Award.md
       - Our Students/.keep
       - Our Students/Cognitive recognition.md
       - Our Students/Character recognition.md
-      - Our Students/Aesthetic recognition.md
+      - Our Students/Aesthetics recognition.md
       - Our Students/CCA recognition.md

@@ -1,5 +1,5 @@
 ---
-title: Aesthetic recognition
+title: Aesthetics recognition
 permalink: /aesthetic-recognition/
 variant: tiptap
 description: ""
