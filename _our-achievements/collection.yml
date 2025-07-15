@@ -2,6 +2,6 @@ collections:
   our-achievements:
     output: true
     order:
-      - Our Students/Our Students.md
-      - Our Students/.keep
       - Our Staff.md
+      - Our Students/.keep
+      - Our Students/Our Students.md
