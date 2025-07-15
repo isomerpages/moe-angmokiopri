@@ -4,3 +4,4 @@ permalink: /character-recognition/
 variant: tiptap
 description: ""
 ---
+<p></p>
