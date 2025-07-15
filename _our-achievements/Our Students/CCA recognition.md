@@ -289,4 +289,69 @@ third_nav_title: Our Students
 </tr>
 </tbody>
 </table>
+<h4><strong><u>Singapore Youth Festival 2024</u></strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Distinction</strong> for International Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance.png">
+</div>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Brass Ensemble</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Accomplishment</strong> for Band</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brass_Band.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
