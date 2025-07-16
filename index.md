@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/newgif_ezgif_com_optimize.gif
+      background: /images/ezgif_com_animated_gif_maker.gif
       key_highlights:
         - title: Letters & Circulars
           description: ""
