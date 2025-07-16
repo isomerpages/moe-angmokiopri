@@ -44,7 +44,7 @@ in the full kindergarten fee being payable for the month.</p>
 <p>The monthly fee for KCare is:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Up to $235 for Singapore Citizens (SCs) - Fee shown here is after $150
+<p>Up to $392 for Singapore Citizens (SCs) - Fee shown here is after $242
 Basic Subsidy</p>
 </li>
 <li>
