@@ -6,7 +6,265 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Singapore Primary Science Olympiad (SPSO) 2025</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kendrick Loo Feng Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cao Xinyun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gabriel Loo Quan Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nawfa Farheen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Li Sih-Yao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teow Jun Yu Darren</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ooi Hao Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ananya Satheeshkumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wu Keyou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tung Yi Zhe, Joel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seah Rui Zheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hong Jiyoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Yu En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Ziyi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Navadhiran s/o Ganison</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nyein Kyi Phyu Kyaw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Peraduan Saya Boleh Bercerita (I can tell a story)  Contest 2025 - Bronze Award</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Qadriyah Binte Mohamad Shawal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Rizwan Rasip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Hana Binte Mohammad Saifudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nayla Shaqiilah Binte Muhammad Isqandar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2 Integrity</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
