@@ -147,7 +147,7 @@ third_nav_title: Our Students
 <p>Seah Rui Zheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 Excellence</p>
+<p>P5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit</p>
@@ -218,7 +218,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Peraduan Saya Boleh Bercerita (I can tell a story)  Contest 2025 - Bronze Award</strong></h4>
+<h4><strong>Peraduan Saya Boleh Bercerita (I can tell a story) Contest 2025 - Bronze Award</strong></h4>
 </th>
 </tr>
 <tr>
