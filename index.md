@@ -15,5 +15,5 @@ sections:
         - title: Meet-The-Parent
           description: Links to MTP slides
           url: https://www.angmokiopri.moe.edu.sg/parents/letters-and-circulars/meet-the-parents/
-      variant: center
+      variant: image
 ---
