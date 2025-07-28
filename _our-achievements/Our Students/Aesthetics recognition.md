@@ -16,9 +16,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Singapore Youth Festival Art Exhibition </strong></h4>
-<p><strong>(Category A)</strong>
-</p>
+<h4><strong>Singapore Youth Festival Art Exhibition - Category A</strong></h4>
 </th>
 </tr>
 <tr>
