@@ -268,9 +268,8 @@ third_nav_title: Our Students
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_c.png">
 </div>
-<p>On-site SYF Art Exhibition display @ National Gallery Singapore</p>
-<p>Artwork showcased @ Artist Talk during the Official Opening of SYF Art
-Exhibition</p>
+<p>On-site SYF Art Exhibition display @ National Gallery Singapore/ Artwork
+showcased @ Artist Talk during the Official Opening of SYF Art Exhibition</p>
 </td>
 </tr>
 </tbody>
