@@ -6,6 +6,149 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Performance at Singapore Youth Festival 2025 - Celebrations Arts Express</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHARU SARAN MADESWARAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHALLA MEENAKSHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEN SHERMAINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DUONG HAI YEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAI MIN HUI, KAELYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEO MEI LI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ISABELLE ENG LE XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NADELLA THANMAYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG YU EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOK YU HANN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Excellence&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;CHONG QI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RACHAEL GOH XUAN NI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Integrity&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NATALIE GOH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/syf1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/syf2.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/syf3.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
