@@ -14,7 +14,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Performance at Singapore Youth Festival 2025 - Celebrations Arts Express</strong></h4>
+<h4><strong>Modern Dance Performance at Singapore Youth Festival 2025 - Celebrations (Arts Express)</strong></h4>
 </th>
 </tr>
 <tr>
