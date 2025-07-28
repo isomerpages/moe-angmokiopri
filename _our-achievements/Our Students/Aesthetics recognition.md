@@ -145,6 +145,7 @@ third_nav_title: Our Students
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/syf3.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -158,8 +159,21 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Singapore Youth Festival Art Exhibition - Category C</strong></h4>
+<h4><strong>Singapore Youth Festival Art Exhibition 2025</strong></h4>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_c.png">
+</div>
+<p>Artwork displayed in SYF Art Exhibition @ National Gallery Singapore</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/artist_talk.png">
+</div>
+<p>Artwork featured @ Artist Talk during the Official Opening of SYF Art
+Exhibition</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -265,11 +279,7 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_c.png">
-</div>
-<p>On-site SYF Art Exhibition display @ National Gallery Singapore/ Artwork
-showcased @ Artist Talk during the Official Opening of SYF Art Exhibition</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -283,8 +293,17 @@ showcased @ Artist Talk during the Official Opening of SYF Art Exhibition</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Singapore Youth Festival Art Exhibition - Category B</strong></h4>
+<h4><strong>Singapore Youth Festival Art Exhibition 2025</strong></h4>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_b.png">
+</div>
+<p>Artwork displayed in SYF Art Exhibition display @ National Gallery Singapore
+and MOE HQ (Bouna Vista)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -401,11 +420,7 @@ showcased @ Artist Talk during the Official Opening of SYF Art Exhibition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_b.png">
-</div>
-<p>On-site SYF Art Exhibition display @ National Gallery Singapore and MOE
-HQ (Bouna Vista)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -419,8 +434,16 @@ HQ (Bouna Vista)</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Singapore Youth Festival Art Exhibition - Category A</strong></h4>
+<h4><strong>Singapore Youth Festival Art Exhibition 2025</strong></h4>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_a.png">
+</div>
+<p>Artwork displayed in SYF Art Exhibition @ National Gallery Singapore</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -516,10 +539,7 @@ HQ (Bouna Vista)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_a.png">
-</div>
-<p>On-site SYF Art Exhibition display @ National Gallery Singapore</p>
+<p></p>
 </td>
 </tr>
 </tbody>
