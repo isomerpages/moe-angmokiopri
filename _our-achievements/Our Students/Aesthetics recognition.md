@@ -268,6 +268,9 @@ third_nav_title: Our Students
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_c.png">
 </div>
+<p>On-site SYF Art Exhibition display @ National Gallery Singapore</p>
+<p>Artwork showcased @ Artist Talk during the Official Opening of SYF Art
+Exhibition</p>
 </td>
 </tr>
 </tbody>
@@ -399,14 +402,15 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_b.png">
+</div>
+<p>On-site SYF Art Exhibition display @ National Gallery Singapore and MOE
+HQ (Bouna Vista)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_b.png">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -516,6 +520,7 @@ third_nav_title: Our Students
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_a.png">
 </div>
+<p>On-site SYF Art Exhibition display @ National Gallery Singapore</p>
 </td>
 </tr>
 </tbody>
