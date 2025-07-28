@@ -150,20 +150,19 @@ third_nav_title: Our Students
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Singapore Youth Festival Art Exhibition 2025</strong></h4>
+<th rowspan="1" colspan="2">
+<h4><strong>Singapore Youth Festival Art Exhibition 2025 - Certificate of Recognition (Special Mention)</strong></h4>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_c.png">
 </div>
@@ -184,10 +183,6 @@ Exhibition</p>
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Award</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -195,9 +190,6 @@ Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition (Special Mention)</p>
 </td>
 </tr>
 <tr>
@@ -207,9 +199,6 @@ Exhibition</p>
 <td rowspan="1" colspan="1">
 <p>5 Excellence</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition (Special Mention)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -217,9 +206,6 @@ Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Excellence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition (Special Mention)</p>
 </td>
 </tr>
 <tr>
@@ -229,9 +215,6 @@ Exhibition</p>
 <td rowspan="1" colspan="1">
 <p>5 Respect</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition (Special Mention)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -239,9 +222,6 @@ Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition (Special Mention)</p>
 </td>
 </tr>
 <tr>
@@ -251,9 +231,6 @@ Exhibition</p>
 <td rowspan="1" colspan="1">
 <p>6 Care</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition (Special Mention)</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -261,9 +238,6 @@ Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition (Special Mention)</p>
 </td>
 </tr>
 <tr>
@@ -273,31 +247,27 @@ Exhibition</p>
 <td rowspan="1" colspan="1">
 <p>6 Resilience</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition (Special Mention)</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Singapore Youth Festival Art Exhibition 2025</strong></h4>
+<th rowspan="1" colspan="2">
+<h4><strong>Singapore Youth Festival Art Exhibition 2025 - Certificate of Recognition</strong></h4>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_b.png">
 </div>
@@ -314,10 +284,6 @@ and MOE HQ (Bouna Vista)</p>
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Award</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -325,9 +291,6 @@ and MOE HQ (Bouna Vista)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
 </td>
 </tr>
 <tr>
@@ -337,9 +300,6 @@ and MOE HQ (Bouna Vista)</p>
 <td rowspan="1" colspan="1">
 <p>3 Excellence</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -347,9 +307,6 @@ and MOE HQ (Bouna Vista)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Excellence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
 </td>
 </tr>
 <tr>
@@ -359,9 +316,6 @@ and MOE HQ (Bouna Vista)</p>
 <td rowspan="1" colspan="1">
 <p>3 Integrity</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -369,9 +323,6 @@ and MOE HQ (Bouna Vista)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
 </td>
 </tr>
 <tr>
@@ -381,9 +332,6 @@ and MOE HQ (Bouna Vista)</p>
 <td rowspan="1" colspan="1">
 <p>3 Resilience</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -391,9 +339,6 @@ and MOE HQ (Bouna Vista)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Excellence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
 </td>
 </tr>
 <tr>
@@ -403,9 +348,6 @@ and MOE HQ (Bouna Vista)</p>
 <td rowspan="1" colspan="1">
 <p>4 Respect</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -414,31 +356,27 @@ and MOE HQ (Bouna Vista)</p>
 <td rowspan="1" colspan="1">
 <p>4 Respect</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Singapore Youth Festival Art Exhibition 2025</strong></h4>
+<th rowspan="1" colspan="2">
+<h4><strong>Singapore Youth Festival Art Exhibition 2025 - Certificate of Recognition</strong></h4>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_a.png">
 </div>
@@ -454,10 +392,6 @@ and MOE HQ (Bouna Vista)</p>
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Award</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -467,9 +401,6 @@ and MOE HQ (Bouna Vista)</p>
 <td rowspan="1" colspan="1">
 <p>2 Care</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -477,9 +408,6 @@ and MOE HQ (Bouna Vista)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Excellence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
 </td>
 </tr>
 <tr>
@@ -489,9 +417,6 @@ and MOE HQ (Bouna Vista)</p>
 <td rowspan="1" colspan="1">
 <p>2 Integrity</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -499,9 +424,6 @@ and MOE HQ (Bouna Vista)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
 </td>
 </tr>
 <tr>
@@ -511,9 +433,6 @@ and MOE HQ (Bouna Vista)</p>
 <td rowspan="1" colspan="1">
 <p>2 Resilience</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -521,9 +440,6 @@ and MOE HQ (Bouna Vista)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
 </td>
 </tr>
 <tr>
@@ -533,12 +449,9 @@ and MOE HQ (Bouna Vista)</p>
 <td rowspan="1" colspan="1">
 <p>2 Resilience</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
