@@ -8,10 +8,10 @@ description: ""
 <p>The monthly fee for MK is:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>$160 for Singapore Citizens (SCs).</p>
+<p>$160 for Singapore Citizens (SCs)</p>
 </li>
 <li>
-<p>$320 for Singapore Permanent Residents (PRs).</p>
+<p>$320 for Singapore Permanent Residents (PRs)</p>
 </li>
 </ul>
 <h2>Kindergarten Fee Assistance Scheme (KiFAS) Subsidy</h2>
@@ -48,7 +48,7 @@ in the full kindergarten fee being payable for the month.</p>
 Basic Subsidy</p>
 </li>
 <li>
-<p>Up to $392 for Singapore Permanent Residents (PRs).</p>
+<p>Up to $392 for Singapore Permanent Residents (PRs)</p>
 </li>
 </ul>
 <p>You may utilise the KCare Eligibility Calculator available on the MOE
