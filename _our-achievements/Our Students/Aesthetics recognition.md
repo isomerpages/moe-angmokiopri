@@ -14,7 +14,377 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Modern Dance Performance at Singapore Youth Festival 2025 - Celebrations (Arts Express)</strong></h4>
+<h4><strong>Singapore Youth Festival Art Exhibition 2025 - Certificate of Recognition (Special Mention)</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_c.png">
+</div>
+<p>Artwork displayed in SYF Art Exhibition @ National Gallery Singapore</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/artist_talk.png">
+</div>
+<p>Artwork featured @ Artist Talk during the Official Opening of SYF Art
+Exhibition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAWFA FARHEEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEOW HONG KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU KEYOU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HONG JIYOO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JESSIE TAY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG BEINING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE JIE XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WANG DUO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Singapore Youth Festival Art Exhibition 2025 - Certificate of Recognition</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_b.png">
+</div>
+<p>Artwork displayed in SYF Art Exhibition display @ National Gallery Singapore
+and MOE HQ (Bouna Vista)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HAFIZ 'ADLI BIN MUHAMAD ATIQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ONG YUAN AN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VENKATESH THANVIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FION TING XIN YUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DESTINY SIM HUAN XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU YIJUN (AMELIA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHOW YEE SYUN CHARLOTTE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOI YU XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHREYA ANIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Singapore Youth Festival Art Exhibition 2025 - Certificate of Recognition</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_a.png">
+</div>
+<p>Artwork displayed in SYF Art Exhibition @ National Gallery Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ROWEN NG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PALINES MARIA MARGARET TORRES</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HAYLIE CHIN LE ERN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEO YU XIN ADELE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ALISHA GHOSE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARFA ALIYAH D/O SHAIKKADERGANI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AUZYNN SHAQUILLE BIN JASZRY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>The Youth Station Project</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEN KEHUI KOBELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AISHWARYA JIAHUI ISSAC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RNI_Films_IMG_89B1E93F_4FAF_447B_BA2A_021E281472C8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RNI_Films_IMG_11B71E2F_9E60_4CF2_ADC9_E5C284AB3AE8.jpg">
+</div>
+<p>Students' submission to be featured on <a href="https://www.youtube.com/SingaporeYouthFestivalSYF" rel="noopener nofollow" target="_blank">SYF Youtube Channel</a> in
+mid-August 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Modern Dance Performance at Singapore Youth Festival 2025 - Celebrations (ArtsExpress)</strong></h4>
 </th>
 </tr>
 <tr>
@@ -145,313 +515,6 @@ third_nav_title: Our Students
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/syf3.jpg">
 </div>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<h4><strong>Singapore Youth Festival Art Exhibition 2025 - Certificate of Recognition (Special Mention)</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_c.png">
-</div>
-<p>Artwork displayed in SYF Art Exhibition @ National Gallery Singapore</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/artist_talk.png">
-</div>
-<p>Artwork featured @ Artist Talk during the Official Opening of SYF Art
-Exhibition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NAWFA FARHEEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Care</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHEOW HONG KAI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Excellence</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WU KEYOU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Excellence</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HONG JIYOO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Respect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JESSIE TAY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Resilience</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ZHANG BEINING</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Care</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LEE JIE XIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Resilience</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WANG DUO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Resilience</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<h4><strong>Singapore Youth Festival Art Exhibition 2025 - Certificate of Recognition</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_b.png">
-</div>
-<p>Artwork displayed in SYF Art Exhibition display @ National Gallery Singapore
-and MOE HQ (Bouna Vista)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HAFIZ 'ADLI BIN MUHAMAD ATIQ</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Care</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ONG YUAN AN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Excellence</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>VENKATESH THANVIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Excellence</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FION TING XIN YUAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Integrity</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DESTINY SIM HUAN XIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Respect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WU YIJUN (AMELIA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Resilience</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHOW YEE SYUN CHARLOTTE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Excellence</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LOI YU XI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Respect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SHREYA ANIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Respect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<h4><strong>Singapore Youth Festival Art Exhibition 2025 - Certificate of Recognition</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cat_a.png">
-</div>
-<p>Artwork displayed in SYF Art Exhibition @ National Gallery Singapore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ROWEN NG</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Care</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PALINES MARIA MARGARET TORRES</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Excellence</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HAYLIE CHIN LE ERN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Integrity</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>YEO YU XIN ADELE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Respect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ALISHA GHOSE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Resilience</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ARFA ALIYAH D/O SHAIKKADERGANI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Resilience</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AUZYNN SHAQUILLE BIN JASZRY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Resilience</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
