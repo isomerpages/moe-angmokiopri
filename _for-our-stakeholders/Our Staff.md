@@ -30,7 +30,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2024busbooking" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024busbooking</a>
+<p><a href="https://go.gov.sg/2025busbooking" rel="noopener nofollow" target="_blank">https://go.gov.sg/2025busbooking</a>
 </p>
 </td>
 </tr>
