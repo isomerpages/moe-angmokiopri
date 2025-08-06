@@ -6,6 +6,99 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Singapore Youth STEM Fair 2025</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Our Ang Mo Kio Primary School innovators have achieved remarkable success
+at this year’s Singapore Youth STEM Fair 2025!</p>
+<p></p>
+<p>We are proud to share that our students were awarded the <strong>Distinction Project Award</strong>, <strong>Best Written Report</strong>,
+and <strong>Best Display and Exhibit</strong> in the Primary Category. Their
+dedication, teamwork, and passion for science and technology were clearly
+demonstrated as they presented their energy-harvesting innovation confidently
+to esteemed guests and school leaders.</p>
+<p>Congratulations to our young changemakers for making the school proud
+through your inspiring efforts and outstanding achievements!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HONG JIYOO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TANGUTURI ABHIRAM KUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG SHUYA SOPHIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DAARSHAAN GOPI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TIFFANY LIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/stem2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/stem33.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM1.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
