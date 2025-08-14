@@ -6,6 +6,109 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Singapore Youth STEM Fair 2025</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Our Ang Mo Kio Primary School’s team of five resilient students have achieved
+remarkable success at this year’s Singapore Youth STEM Fair 2025, through
+hard work, consistent effort, and strong teacher guidance.</p>
+<p>Under the dedicated mentorship of our passionate science teachers, their
+project on Clean Energy Harvesting Technology not only showcased scientific
+curiosity and innovation, also stood out among the best across primary
+schools in Singapore.</p>
+<p>The team clinched the following three top accolades in the Primary School
+Category:</p>
+<p>🏆 <strong>Distinction Project Award</strong>
+</p>
+<p>🏆<strong> Best Written Report Award</strong> (the only primary school)</p>
+<p>🏆 <strong>Best Display and Exhibit Award</strong> (the only primary school)</p>
+<p>We celebrate our young changemakers for embodying the values of resilience,
+excellence and teamwork. They have soar on up to the stars above, lighting
+up Ang Mo Kio Primary School.</p>
+<p>Congratulations to our pupils and their teacher mentors! May their effort
+and success inspire every current and future AMKPians to press on with
+courage and determination to realise their dreams.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HONG JIYOO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TANGUTURI ABHIRAM KUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG SHUYA SOPHIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DAARSHAAN GOPI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TIFFANY LIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/stem2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/stem33.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
