@@ -447,7 +447,7 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Moden Dance</strong>
+<p><strong>Modern Dance</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
