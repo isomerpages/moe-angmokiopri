@@ -6,6 +6,34 @@ description: ""
 third_nav_title: Our Staff
 ---
 <h4>Congratulation to all our staff on their achievements! We are proud of you!</h4>
+<h3>2025</h3>
+<p><strong><u>National Day Awards 2025</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Abdul Razif Bin Mohammad Rizal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soh Hiok Peng</p>
+<p>Vijaya Shankar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Long Service Medal (25 Years)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>2024</h3>
 <p><strong><u>National Day Awards 2024</u></strong>
 </p>
