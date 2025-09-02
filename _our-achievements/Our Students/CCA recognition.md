@@ -15,7 +15,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>international Youth Dance Festival - Silver Award</strong></h4>
+<h4><strong>International Youth Dance Festival - Silver Award</strong></h4>
 </th>
 </tr>
 <tr>
