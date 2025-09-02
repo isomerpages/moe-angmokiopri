@@ -17,6 +17,24 @@ third_nav_title: Our Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Nursyafiqah Sawal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presented at S1 Cluster Sharing Workshop with Malay teachers on the topic&nbsp;“Picture
+Composition Writing using F.E.A.S.T.”</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dai Siming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presented at NLC at Singapore Centre for Chinese Language on the topic
+"Innovative ways to use AI as a learning tool"</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Yeo Sze Min</p>
 <p>Gareth Chan</p>
 </td>
