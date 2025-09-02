@@ -15,6 +15,105 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<h4><strong>international Youth Dance Festival - Silver Award</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHALLA MEENAKSHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEN SHERMAINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAI MIN HUI, KAELYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEO MEI LI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ISABELLE ENG LE XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NADELLA THANMAYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG YU EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHOU XIAOTANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/small.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/small1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <h4><strong>Modern Dance Performance at Singapore Youth Festival 2025 - Celebrations (ArtsExpress)</strong></h4>
 </th>
 </tr>
