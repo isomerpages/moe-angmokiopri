@@ -31,6 +31,8 @@ variant: tiptap
 </p>
 <h5>CCA Letters and Schedule</h5>
 <p>Please refer to the links below for the school's CCA letters and schedule.</p>
+<p><strong>Term 4:</strong>  <a href="/files/Letters and Circulars/2025 Letters/2025_Term4_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 CCA Schedule</a>
+</p>
 <p><strong>Term 3:</strong>  <a href="/files/Letters and Circulars/2025 Letters/2025_Term3_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 CCA Schedule</a>
 </p>
 <p><strong>Term 2:</strong>  <a href="/files/Letters and Circulars/2025 Letters/2025_Term2_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 CCA Schedule</a>
