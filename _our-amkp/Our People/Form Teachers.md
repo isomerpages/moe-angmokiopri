@@ -88,8 +88,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lee-Fu Shan
-<br>Mdm Lina Julianna Binte Margini</p>
-<p>Mdm Julaiha Bte Abdul Aziz</p>
+<br>Mdm Lina Julianna Binte Margini
+<br>Mdm Julaiha Bte Abdul Aziz</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
