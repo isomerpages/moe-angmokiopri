@@ -72,13 +72,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julaiha Bte Abdul Aziz
-<br>Mdm Ng Xue Qi (Mrs Chong)
+<p>Mdm Ng Xue Qi (Mrs Chong)
 <br>Mdm Nur Azimah Bte Mohd Jailani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="julaiha_abd_aziz@schools.gov.sg" rel="noopener nofollow" target="_blank">julaiha_abd_aziz@schools.gov.sg</a>
-<br><a href="mailto:ng_xue_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_xue_qi@schools.gov.sg</a>
+<p><a href="mailto:ng_xue_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_xue_qi@schools.gov.sg</a>
 <br><a href="mailto:nur_azimah_mohd_jailani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azimah_mohd_jailani@schools.gov.sg</a>
 </p>
 </td>
@@ -91,6 +89,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Lee-Fu Shan
 <br>Mdm Lina Julianna Binte Margini</p>
+<p>Mdm Julaiha Bte Abdul Aziz</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fu_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fu_shan@schools.gov.sg</a>
