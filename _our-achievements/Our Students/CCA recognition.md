@@ -6,6 +6,184 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Red Cross First Aid Competition 2025</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ANANYA SATHEESHKUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 EXCELLENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD AWARD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LU SHIQI SHAVELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD AWARD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASHLYN SUHAILAH BINTE SUKHAIRUL NIZAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EXCELLENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD AWARD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHOO KAI QING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 INTEGRITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD AWARD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ESMOND CHENG KENG BOON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESILIENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD AWARD</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>National Primary Games Creation Competition 2025</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GABRIEL LOO QUAN HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TANGUTURI ABHIRAM KUMAR&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYE CHAN PHYU&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JIMENEZ AUDREY PERALTA&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAEL WONG ZHI LEI&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HANG HAO XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HENG TOK MENG&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JALAL SYED MUHAMMAD RAYYAN&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ADITI IYER&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESPECT</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
