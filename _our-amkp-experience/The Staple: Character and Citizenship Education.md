@@ -2,6 +2,7 @@
 title: "The Staple: Character and Citizenship Education"
 permalink: /our-amkp-experience/the-staple-character-and-citizenship-education/
 description: ""
+variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
 &gt;**Character and Citizenship Education**
@@ -49,3 +50,15 @@ description: ""
 
 9. Family Education
 * Family Education focusses on the teaching and learning of&nbsp;skills to strengthen relationships. This will nurture&nbsp;confidence&nbsp;and seed&nbsp;positive experiences&nbsp;for a longer term perspective of the value of families, which provides the foundation for the building of communities and developing the&nbsp;resilience&nbsp;of our people for the flourishing of the nation.
+
+10. Values in Action (VIA)
+
+Our Primary 4 students have been making remarkable strides in environmental advocacy through their VIA project, "AMKP Cares for the Environment," guided by the inspiring slogan "AMKP: Little Steps, Green Future!"
+
+During BBC Week in Term 2, our P4 students first shared their comprehensive Plant Care Guides with Primary 2 students, fostering environmental awareness amongst younger pupils and creating a culture of sustainability within our school community.
+
+The project reached new heights on 2 September when selected P4 iPW groups presented their Plant Care Guides to the public, demonstrating deep knowledge on nurturing different plant species. Following these informative presentations, our P4 Science Champions conducted engaging workshops, teaching community members to construct mini-gardens using recycled materials.
+
+The day concluded meaningfully as members of the public wrote personal pledges outlining their commitment to building a greener environment. This initiative beautifully demonstrates how our young environmental advocates are creating positive ripple effects, inspiring both peers and the wider community to embrace sustainable practices for our planet's future.
+
+![](/images/via.png)
