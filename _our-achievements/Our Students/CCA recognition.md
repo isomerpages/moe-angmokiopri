@@ -1366,4 +1366,132 @@ third_nav_title: Our Students
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AURON ALEXANDRE FERNANDEZ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEOW HONG KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYSER TAY YU CHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD HAIQAL HAKIMI BIN MUHAMMAD FAIZAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN MARTIN MARSHAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD ERIZAN BIN MUHAMMAD NAZRI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMAD FITRISYA BIN IDRUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAGULAN ARIVAZHAGAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD EAN ESHAN GOH JUN LONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MITHRESH KUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RIFQI MATIN BIN MOKHSEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AMBAL MANI LISHANTH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AARIQ DANISH BIN SHA'ARI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KANG JUNU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MATTEO PRAINITO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 CARE</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
