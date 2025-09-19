@@ -2,6 +2,7 @@ collections:
   our-achievements:
     output: true
     order:
+      - Example Title.md
       - Our Staff/.keep
       - Our Staff/Presentation.md
       - Our Staff/Award.md
