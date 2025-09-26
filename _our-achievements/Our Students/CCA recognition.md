@@ -2276,6 +2276,18 @@ third_nav_title: Our Students
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Wushu Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CHONG HAU TERNG</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nsg.jpg">
