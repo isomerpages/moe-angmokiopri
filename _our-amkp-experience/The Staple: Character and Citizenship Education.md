@@ -80,13 +80,9 @@ to their friends as a gesture of appreciation, expressing gratitude and
 words of thanks to one another. Other interaction activities during lessons
 also help to develop social skills and foster peer support and bonding
 among students.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
@@ -125,10 +121,14 @@ with the knowledge, skills and values to understand Singapore’s history,
 realities and challenges unique to our nation, appreciate our journey to
 nationhood, cultivate the instincts for survival as a nation, and have
 confidence in our nation’s future.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE7.png">
+</div>
 <p></p>
 </li>
-</ol>
-<ol start="5" data-tight="true" class="tight">
 <li>
 <p><strong>Values-in-Action (VIA)</strong>
 </p>
@@ -163,7 +163,8 @@ confidence in our nation’s future.</p>
 <p></p>
 <p></p>
 <p></p>
-<p>Our Home and School</p>
+<p><strong>Our Home and School</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Supporting The Transition from MK to P1</p>
@@ -196,7 +197,8 @@ confidence in our nation’s future.</p>
 <p></p>
 <p></p>
 <p></p>
-<p>Our School and Community</p>
+<p><strong>Our School and Community</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Keeping our Environment Clean and Appreciating Cleaners for Their Work</p>
@@ -220,8 +222,13 @@ confidence in our nation’s future.</p>
 <td rowspan="1" colspan="1">
 <p>P5</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>Our Community, Singapore and The World</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Understanding the Needs of Our Community and Building Neighborliness</p>
@@ -233,9 +240,6 @@ confidence in our nation’s future.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>P6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Appreciating the Contributions of Our Pioneers and Strengthening Intergenerational
@@ -269,17 +273,8 @@ community to embrace sustainable practices for our planet's future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via.png">
 </div>
-<p>Mental Health Education is one of the key features of the CCE curriculum.
-Through these lessons, students are equipped with knowledge and skills
-to build their resilience, strengthen their mental well-being and resolve
-their challenges. For example, students learn to differentiate normal stress
-from distress and mental illness. They learn to break negative thinking
-patterns, overcome social emotional problems and seek help when they need
-to. Students are also taught to stand up against stigma around mental health
-issues.</p>
+<p></p>
 </li>
-</ol>
-<ol start="6" data-tight="true" class="tight">
 <li>
 <p><strong>Education and Career Guidance (ECG)</strong>
 </p>
@@ -289,7 +284,6 @@ a growth mindset, adaptability and a resilient attitude to embrace future
 opportunities and appreciate the value of all occupations.</p>
 </li>
 </ol>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE4.png">
 </div>
@@ -297,7 +291,7 @@ opportunities and appreciate the value of all occupations.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE5.png">
 </div>
 <p></p>
-<ol start="6" data-tight="true" class="tight">
+<ol start="7" data-tight="true" class="tight">
 <li>
 <p><strong>Sexuality Education</strong>
 </p>
