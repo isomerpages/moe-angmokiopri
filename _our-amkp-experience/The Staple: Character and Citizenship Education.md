@@ -319,7 +319,7 @@ ICT. <strong>Link to <a href="https://www.angmokiopri.moe.edu.sg/information-and
 <p></p>
 </li>
 <li>
-<p><strong>Family Education </strong>
+<p><strong>Family Education</strong>
 </p>
 <p>Family Education focusses on the teaching and learning of&nbsp;skills
 to strengthen relationships. This will nurture&nbsp;confidence&nbsp;and
