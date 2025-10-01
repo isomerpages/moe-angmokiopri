@@ -45,11 +45,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Executive</strong>
+<p><strong>ICT Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Nurlina Diyanah Goh</p>
+<p>Mr Koh Chia Yee</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosmawati Binte Mohamed</p>
+<p>Mrs Nurlina Diyanah Goh</p>
 </td>
 </tr>
 <tr>
