@@ -132,6 +132,8 @@ confidence in our nation’s future.</p>
 <li>
 <p><strong>Values-in-Action (VIA)</strong>
 </p>
+</li>
+</ol>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -156,20 +158,16 @@ confidence in our nation’s future.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1</p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>Our Home and School</strong>
+<p><strong>P1</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Home and School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Supporting The Transition from MK to P1</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1_1.jpg">
 </div>
@@ -177,89 +175,117 @@ confidence in our nation’s future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2_1.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Home and School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Passing on Our Knowledge: Learning About Our Character Strengths and Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4_1.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3_1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4_1.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Passing on Our Knowledge: Learning About Our Character Strengths and Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3</p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>Our School and Community</strong>
+<p><strong>P3</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our School and Community</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Keeping our Environment Clean and Appreciating Cleaners for Their Work</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5_1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6_1.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4</p>
+<p><strong>P4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our School and Community</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Educating School Mates and the Public on Caring for the Environment</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7_1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8_1.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5</p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>Our Community, Singapore and The World</strong>
+<p><strong>P5</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Community, Singapore and The World</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Understanding the Needs of Our Community and Building Neighborliness</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture11_1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture12_1.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6</p>
+<p><strong>P6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Community, Singapore and The World</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Appreciating the Contributions of Our Pioneers and Strengthening Intergenerational
 Bonds</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10_1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9_1.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>In particular, our Primary 4 students have been making remarkable strides
 in environmental advocacy through their VIA project, "AMKP Cares for the
 Environment," guided by the inspiring slogan "AMKP: Little Steps, Green
@@ -277,21 +303,21 @@ members to construct mini-gardens using recycled materials.</p>
 pledges outlining their commitment to building a greener environment. This
 initiative beautifully demonstrates how our young environmental advocates
 are creating positive ripple effects, inspiring both peers and the wider
-community to embrace sustainable practices for our planet's future.</p>
+community to embrace sustainable practices for our planet’s future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via.png">
 </div>
 <p></p>
-</li>
+<ol start="6" data-tight="true" class="tight">
 <li>
 <p><strong>Education and Career Guidance (ECG)</strong>
 </p>
+</li>
+</ol>
 <p>ECG helps students develop a sense of purpose in life. By nurturing self-awareness
 and self-directedness for lifelong learning, ECG helps students develop
 a growth mindset, adaptability and a resilient attitude to embrace future
 opportunities and appreciate the value of all occupations.</p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE4.png">
 </div>
