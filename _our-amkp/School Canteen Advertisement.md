@@ -30,7 +30,7 @@ description: ""
 <p>Asia Cuisine (Halal Japanese/Korean/Western/noodles/rice etc)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 June 2025</p>
+<p>31 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal</p>
