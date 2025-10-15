@@ -6,15 +6,92 @@ description: ""
 third_nav_title: Our Staff
 ---
 <h4>Congratulation to all our staff on their achievements! We are proud of you!</h4>
-<h3>2025</h3>
-<p><strong><u>National Day Awards 2025</u></strong>
-</p>
+<h3><strong>2025</strong></h3>
+<h4><strong><u>MOE Innergy &amp; Outstanding Innovator Awards 2025</u></strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Project Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award Type</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Playful Pathways: Nurturing Mathematics Learning through Purposeful Play</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>APP-lying Gamification to Outdoor Education with Actionbound</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Recipient</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamad Riaz Sulaimi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Innovator Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong><u>National Day Awards 2025</u></strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Recipient</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Abdul Razif Bin Mohammad Rizal</p>
@@ -34,15 +111,24 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<h3>2024</h3>
-<p><strong><u>National Day Awards 2024</u></strong>
-</p>
+<h3><strong>2024</strong></h3>
+<h4><strong><u>National Day Awards 2024</u></strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Recipient</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mark Chin</p>
@@ -67,14 +153,23 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<p><strong><u>MOE Service Excellence Award 2024</u></strong>
-</p>
+<h4><strong><u>MOE Service Excellence Award 2024</u></strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Recipient</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Xu Yuemin Michelle</p>
@@ -133,13 +228,18 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<p><strong><u>Nominee for President's Award for Teachers 2024</u></strong>
-</p>
+<h4><strong><u>Nominee for President's Award for Teachers 2024</u></strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Recipient</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Yeo Sze Min</p>
@@ -152,14 +252,23 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<p><strong><u>Associate of AST Award 2024</u></strong>
-</p>
+<h4><strong><u>Associate of AST Award 2024</u></strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Recipient</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tan Kelu</p>
@@ -195,14 +304,23 @@ Learning Designers Circle(SgLDC)]</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>SPSSC Service Recognition Certificate 2024</u></strong>
-</p>
+<h4><strong><u>SPSSC Service Recognition Certificate 2024</u></strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Recipient</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Soh Mei Ling</p>
@@ -222,6 +340,16 @@ Games</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Recipient</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Vincent Tan</p>
