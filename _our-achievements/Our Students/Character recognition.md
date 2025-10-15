@@ -33,7 +33,7 @@ third_nav_title: Our Students
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Badminton Championships</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,6 +55,33 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NICOLE AUDREY ISWANTO </strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>THARANIKA KARUNANITHI</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ZENITH KUAN</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Football Championships</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,6 +89,27 @@ third_nav_title: Our Students
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>THUREIN HTAIKE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>RIFQI MATIN BIN MOKHSEN</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>XIE ZIRUI</strong>
 </p>
 </td>
 </tr>
