@@ -58,7 +58,7 @@ third_nav_title: Our Students
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NICOLE AUDREY ISWANTO </strong>
+<p><strong>NICOLE AUDREY ISWANTO</strong>
 </p>
 </td>
 </tr>
