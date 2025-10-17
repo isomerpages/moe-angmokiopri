@@ -103,7 +103,7 @@ collection tools, our students learn scientific concepts at their own pace.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_17_at_13_22_56.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_17_at_13_22_56.jpg">
 </div>
 </th>
 </tr>
@@ -137,7 +137,7 @@ Automated Urban Farming systems provide hands-on nature and farming experiences.
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_17_at_13_01_23.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_17_at_13_01_23.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,7 +149,7 @@ Automated Urban Farming systems provide hands-on nature and farming experiences.
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/sci9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_17_at_13_01_24.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
