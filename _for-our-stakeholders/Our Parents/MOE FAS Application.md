@@ -13,5 +13,5 @@ scan the QR code for the application from.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_FAS_Application_v2.jpg">
 </div>
-<p>If you prefer hardcopy, if click here to download the <a href="/files/Letters and Circulars/2025 MOE FAS/MOE_FAS_Application_Form_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">pdf</a> and
-email to Mdm Tan Yoke Lien at tan_yoke_lien@schools.gov.sg</p>
+<p>If you prefer hardcopy, please click <a href="/files/Letters and Circulars/2025 MOE FAS/MOE_FAS_Application_Form_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the pdf and email to Mdm Tan Yoke Lien at tan_yoke_lien@schools.gov.sg</p>
