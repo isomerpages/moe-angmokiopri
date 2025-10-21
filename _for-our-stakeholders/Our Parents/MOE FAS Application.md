@@ -7,7 +7,7 @@ third_nav_title: Our Parents
 ---
 <p>For 2026 MOE FAS Application, please click on the URL provided below or
 scan the QR code for the application from.</p>
-<p>URL: <a href="https://go.gov.sg/moe-fas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-fas</a>
+<p>URL: <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
 <p>QR Code:</p>
 <div class="isomer-image-wrapper">
