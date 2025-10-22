@@ -360,7 +360,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tay Boon Peng</p>
+<p>Tay Boon Peng Desmond</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver</p>
