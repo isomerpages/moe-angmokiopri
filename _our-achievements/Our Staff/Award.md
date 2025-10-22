@@ -7,6 +7,56 @@ third_nav_title: Our Staff
 ---
 <h4>Congratulation to all our staff on their achievements! We are proud of you!</h4>
 <h3><strong>2025</strong></h3>
+<h4><strong><u>Associate of AST Award Recipients 2025</u></strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Recipient</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamad Riaz Sulaimi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Innovator (Technology for Learning)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong><u>SPSSC Council Service Recognition (CSR)</u></strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Recipient</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soh Mei Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohammad Rizal Bin Kamid</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong><u>MOE Innergy &amp; Outstanding Innovator Awards 2025</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
