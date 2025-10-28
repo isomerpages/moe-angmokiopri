@@ -16,19 +16,20 @@ sections:
           description: Links to MTP slides
           url: https://www.angmokiopri.moe.edu.sg/parents/letters-and-circulars/meet-the-parents/
       variant: image
+      size: md
   - infopic:
       title: President's Award for Teachers
       id: infopic
       description: Nominate closes on 9th January 2026, 12 pm
-      button: Scan to nominate
+      button: Click or Scan to nominate
       url: https://form.gov.sg/68ae474d09f68097e77beda3
       image: /images/1__PAT.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Outstanding Youth Education Award
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Click or Scan to nominate
       alt: Image alt text
+      url: https://go.gov.sg/oyea2026
+      image: /images/2__OYEA.jpg
 ---
