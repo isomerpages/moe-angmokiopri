@@ -24,4 +24,11 @@ sections:
       url: https://form.gov.sg/68ae474d09f68097e77beda3
       image: /images/1__PAT.jpg
       alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
