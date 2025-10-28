@@ -32,4 +32,24 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/oyea2026
       image: /images/2__OYEA.jpg
+  - textcards:
+      title: 2026 Teachers Award
+      subtitle: Nominate the teacher now!
+      id: textcards
+      description: Is there an AMKP teacher you know who is inspiring? Nominate
+        him/her for PAT 2026 and OYEA 2026 by 9th January 2026 and CTA 2026 31st
+        December 2025.
+      cards:
+        - title: PAT 2026
+          description: President’s Award for Teachers (PAT)
+          linktext: Click on link to nominate
+          url: https://go.gov.sg/pat2026
+        - title: OYEA 2026
+          description: Outstanding Youth in Education Award (OYEA)
+          linktext: Click on link to nominate
+          url: https://go.gov.sg/oyea2026
+        - title: CTA 2026
+          description: NIE Caring Teacher Awards (CTA) 2026
+          linktext: Click on the link to nominate
+          url: https://www.cta.nie.edu.sg/nominate
 ---
