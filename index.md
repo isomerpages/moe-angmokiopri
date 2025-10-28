@@ -34,7 +34,7 @@ sections:
       image: /images/2__OYEA.jpg
       description: Nominate closes on 9th January 2026, 12 pm
   - infopic:
-      title: NIE Caring Teacher Awards
+      title: NIE Caring Teacher Award
       id: infopic
       description: Nominate closes on 31st December 2025, 11.59 p.m.
       button: Click to nominate
