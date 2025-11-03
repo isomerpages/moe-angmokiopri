@@ -6,6 +6,183 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Pena Emasku (Malay Language Essay Writing) Competition</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Khalisoh Binte Khalid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Iman Ariq Bin Sariman Sah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Humyra Dalia Binte Issaddiq</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rania Binte Afzainizam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alisha Marie Tagala Sunanda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Hai Yien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nurizz Zara Binte Mansoor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Ezany Rozaimi Bin Hamzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hafiz ‘Adil Bin Muhamad Atiq</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Razan Ahamd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Superstar Reader Competition (Organised by CPCLL)</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seam Kai Rui Kendrick</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
