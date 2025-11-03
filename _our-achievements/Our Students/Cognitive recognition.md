@@ -153,7 +153,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Superstar Reader Competition (Organised by CPCLL) </strong></h4>
+<h4><strong>Superstar Reader Competition (Organised by CPCLL)</strong></h4>
 </th>
 </tr>
 <tr>
