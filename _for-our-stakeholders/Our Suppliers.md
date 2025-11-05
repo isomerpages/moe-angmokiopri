@@ -41,7 +41,8 @@ description: ""
 <p>Name tag order</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://thecontinental.sg/products/ang-mo-kio-primary-school-uniform-name-tags</p>
+<p><a href="https://thecontinental.sg/products/ang-mo-kio-primary-school-uniform-name-tags-2026#" rel="noopener nofollow" target="_blank">https://thecontinental.sg/products/ang-mo-kio-primary-school-uniform-name-tags-2026#</a>
+</p>
 </td>
 </tr>
 <tr>
