@@ -36,6 +36,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>AMKPS Library Books Catalogue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://schoolibrary.moe.edu.sg/angmokiopri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener nofollow" target="_blank">https://schoolibrary.moe.edu.sg/angmokiopri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>MOE Intranet</strong>
 </p>
 </td>
