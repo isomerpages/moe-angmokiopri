@@ -6,7 +6,64 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>NSG Track &amp; Field Championship 2025</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Junior Boys 1000m </strong>(Timing – 03:38.78)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xie Zirui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Junior Girls Overhand Beanbag Throw</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Carlier Marie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TnF2.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TnF1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
