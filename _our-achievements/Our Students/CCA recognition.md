@@ -2243,7 +2243,7 @@ third_nav_title: Our Students
 </tr>
 </tbody>
 </table>
-<h4><strong><u>AMKP Model Student Award (CCA)</u></strong></h4>
+<h4><strong><u>2025 Semester 1 - AMKP Model Student Award (CCA)</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
