@@ -6,6 +6,95 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
+<h4><strong><u>2025 SEMESTER 2 - AMKP Model Student Award (Class)</u></strong></h4>
+<p></p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Primary 1</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Awardees (Semester 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 RESILIENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>QADRIYYAH BINTE MOHAMAD SHAWAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OW WEI HONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD IQRAM QUSYAIRI BIN MUHAMMAD IHSAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALDABA JUAN SEBASTIAN AUSTRIA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 INTEGRITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIM ZHEN YANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HAU JIA XING JESSLYN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 CARE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOANG TRUNG HIEU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAYANG NUR HUMAIRA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 EXCELLENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LAKSHIV KARTHI RATHINAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOFIA LEE JIA EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1_MSA_Sem_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -210,7 +299,7 @@ third_nav_title: Our Students
 </tr>
 </tbody>
 </table>
-<h4><strong><u>AMKP Model Student Award (Class)</u></strong></h4>
+<h4><strong><u>2025 SEMESTER 1 - AMKP Model Student Award (Class)</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
