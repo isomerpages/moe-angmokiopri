@@ -6,6 +6,191 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
+<h4><strong><u>2025 SEMESTER 2 AMKP Model Student Award (CCA)</u></strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardee</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art &amp; Crafts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 EXCELLENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MD. MU’AZ BIN MD. MUHAIMIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NICOLE AUDREY ISWANTO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 EXCELLENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KINSLEY LIEW KANG LE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brass Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Qi Hui, Cheryl</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KIM HYOYEON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESILIENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Shuya Sophia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESILIENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MD. MIKAEL BIN MD. MUHAIMIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Makers Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 INTEGRITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KENDRICK LOO FENG KAI&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NADELLA THANMAYI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 INTEGRITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHOO KAI QING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merwin Chong Yi San</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 EXCELLENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHANG YIXIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HANG YUAN XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 INTEGRITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GEORGE GOH XUAN YANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_MSA_Sem_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
