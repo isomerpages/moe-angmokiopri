@@ -15,6 +15,117 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
+<h4><strong>Celebrating Our Innovation Programme (IvP) Achievements</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>We are delighted to share that all the four projects submitted by our
+pupils for the IvP Project Judging 2025 have achieved outstanding results!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Project Title</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Pupils</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clean Energy Generation Using Piezo Transducers in Wheels</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tanguturi Abhiram Kumar (5IN)</p>
+<p>Hong Jiyoo (5RP)</p>
+<p>Nathalie Tan Rui Xin (5EN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wheel.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gaze-Controlled Wheelchair Using Smart Technology</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gabriel Loo Quan Heng (5IN)</p>
+<p>Ethan Yeo Ming En (5RS)</p>
+<p>Wang Ziyi (5IN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/riaz_n_studnets.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Harnessing Thermocouple Peltier Cells and Seebeck Effect to Generate Clean
+Energy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cao Xinyun (5CA)</p>
+<p>Nawfa Farheen (5CA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nawfa_xinyun.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Blink-to-Speak: Gaze-Controlled Phrase Grid for Non-Verbal Communication</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tung Yi Zhe, Joel (5EN)</p>
+<p>Teow Jun Yu Darren (5RS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2g1b.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Each project showcases thoughtful problem-solving and creative use of
+science and technology to improve lives.</p>
+<p>They reflect our pupils’ curiosity, creativity and potential to using
+innovation to make a meaningful impact on the community.</p>
+<p>We are immensely proud of our pupils for pushing the boundaries of innovation
+and representing our school with excellence.&nbsp; Let’s continue to nurture
+inquisitive minds and inspire future changemakers in AMKP!</p>
+<p>A big congratulations to our young innovators and their dedicated teacher-mentors
+for their hard work and perseverance. 🎉</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
 <h4><strong>Pena Emasku (Malay Language Essay Writing) Competition</strong></h4>
 </th>
 </tr>
