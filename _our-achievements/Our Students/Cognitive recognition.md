@@ -26,9 +26,6 @@ pupils for the IvP Project Judging 2025 have achieved outstanding results!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Project Title</strong>
 </p>
 </td>
@@ -36,13 +33,17 @@ pupils for the IvP Project Judging 2025 have achieved outstanding results!</p>
 <p><strong>Name of Pupils</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.</p>
-</td>
-<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
 <p>Clean Energy Generation Using Piezo Transducers in Wheels</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,13 +51,19 @@ pupils for the IvP Project Judging 2025 have achieved outstanding results!</p>
 <p>Hong Jiyoo (5RP)</p>
 <p>Nathalie Tan Rui Xin (5EN)</p>
 </td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wheel.jpg">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p>Gaze-Controlled Wheelchair Using Smart Technology</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,30 +71,50 @@ pupils for the IvP Project Judging 2025 have achieved outstanding results!</p>
 <p>Ethan Yeo Ming En (5RS)</p>
 <p>Wang Ziyi (5IN)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/riaz_n_studnets.jpg">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
 <p>Harnessing Thermocouple Peltier Cells and Seebeck Effect to Generate Clean
 Energy</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cao Xinyun (5CA)</p>
 <p>Nawfa Farheen (5CA)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nawfa_xinyun.jpg">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.</p>
-</td>
-<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
 <p>Blink-to-Speak: Gaze-Controlled Phrase Grid for Non-Verbal Communication</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tung Yi Zhe, Joel (5EN)</p>
 <p>Teow Jun Yu Darren (5RS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2g1b.jpg">
+</div>
 </td>
 </tr>
 <tr>
