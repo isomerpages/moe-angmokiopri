@@ -39,11 +39,7 @@ pupils for the IvP Project Judging 2025 have achieved outstanding results!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
 <p>Clean Energy Generation Using Piezo Transducers in Wheels</p>
-</li>
-</ol>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,11 +55,7 @@ pupils for the IvP Project Judging 2025 have achieved outstanding results!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
-<li>
 <p>Gaze-Controlled Wheelchair Using Smart Technology</p>
-</li>
-</ol>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,12 +72,8 @@ pupils for the IvP Project Judging 2025 have achieved outstanding results!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
 <p>Harnessing Thermocouple Peltier Cells and Seebeck Effect to Generate Clean
 Energy</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cao Xinyun (5CA)</p>
@@ -100,11 +88,7 @@ Energy</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="4" data-tight="true" class="tight">
-<li>
 <p>Blink-to-Speak: Gaze-Controlled Phrase Grid for Non-Verbal Communication</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tung Yi Zhe, Joel (5EN)</p>
