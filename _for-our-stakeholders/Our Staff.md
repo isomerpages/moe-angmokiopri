@@ -26,11 +26,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2025 Online Bus Booking</strong>
+<p><strong>2026 Online Bus Booking</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2025busbooking" rel="noopener nofollow" target="_blank">https://go.gov.sg/2025busbooking</a>
+<p><a href="https://go.gov.sg/2026busbooking" rel="noopener nofollow" target="_blank">https://go.gov.sg/2026busbooking</a>
 </p>
 </td>
 </tr>
