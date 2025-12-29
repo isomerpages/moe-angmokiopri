@@ -134,7 +134,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rizwanah_begum_mohamad_yoonus@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rizwanah_begum_mohamad_yoonus@schools.gov.sg</a>
-<br><a href="mailto:dai_siming@schools.gov." rel="noopener noreferrer nofollow" target="_blank"></a>
+<br><a href="mailto:siti_noorbiyah_abdullah_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_noorbiyah_abdullah_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -183,14 +183,12 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Wong Ziwei
-<br>Mr Joseph Yap How Joo
-<br>Mdm Tan Wei Ling Annette</p>
+<p>Mdm Tok Ann Kee
+<br>Ms Sharinee Tevermuthu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_ziwei_michelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ziwei_michelle@schools.gov.sg</a>
-<br><a href="mailto:yap_how_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_how_joo@schools.gov.sg</a>
-<br><a href="mailto:tan_wei_ling_annette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_ling_annette@schools.gov.sg</a>
+<p><a href="mailto:tok_ann_kee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tok_ann_kee@schools.gov.sg</a>
+<br><a href="mailto:sharinee_tevermuthu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharinee_tevermuthu_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -200,7 +198,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nor Azlyna Bte Moh Yusof
+<p>Ms Justina Yim Keat Yee
 <br>Mr Chen Jia Xing
 <br>Ms Siti Noorbiyah</p>
 </td>
