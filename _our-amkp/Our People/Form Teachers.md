@@ -28,9 +28,9 @@ variant: markdown
 	<br>Ms Junisha Erat</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chun_wan_cavin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun_wan_cavin@schools.gov.sg</a></p><p></p><p>
+<p><a href="mailto:lee_chun_wan_cavin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun_wan_cavin@schools.gov.sg</a></p><p></p>
 <a href="mailto:junisha_erat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junisha_erat@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -43,9 +43,9 @@ variant: markdown
 <br>Mdm Tan Shu Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nor_azlyna_mohd_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_azlyna_mohd_yusof@schools.gov.sg</a>
+<p><a href="mailto:nor_azlyna_mohd_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_azlyna_mohd_yusof@schools.gov.sg</a></p><p></p>
 <br><a href="mailto:tan_shu_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_jun@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
