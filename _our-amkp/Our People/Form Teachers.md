@@ -228,14 +228,12 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tabitha Tan
-<br>Mdm Amelia Ng
-<br>Mdm Amirah Bte Mohd Ismai</p>
+<p>Mdm Kang Phay Jia Dawn
+<br>Mdm Dai Siming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_mui_lin_tabitha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mui_lin_tabitha@schools.gov.sg</a>
-<br><a href="mailto:ng_yong_jia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_jia@schools.gov.sg</a>
-<br><a href="amirah_mohd_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amirah_mohd_ismail@schools.gov.sg</a>
+<p><a href="mailto:mailto:kang_phay_jia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kang_phay_jia@schools.gov.sg</a>
+<br><a href="mailto:dai_siming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dai_siming@schools.gov.sg</a>
 </p>
 </td>
 </tr>
