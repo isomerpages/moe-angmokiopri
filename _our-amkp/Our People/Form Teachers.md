@@ -199,13 +199,11 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Justina Yim Keat Yee
-<br>Mr Chen Jia Xing
-<br>Ms Siti Noorbiyah</p>
+<br>Mdm Nur Azimah Bte Mohd Jailani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nor_azlyna_mohd_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_azlyna_mohd_yusof@schools.gov.sg</a>
-<br><a href="mailto:chen_jia_xing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jia_xing@schools.gov.sg</a>
-<br><a href="Siti_Noorbiyah_Abdullah_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Siti_Noorbiyah_Abdullah_A@schools.gov.sg</a>
+<p><a href="mailto:yim_keat_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yim_keat_yee@schools.gov.sg</a>
+<br><a href="mailto:nur_azimah_mohd_jailani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azimah_mohd_jailani@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -215,12 +213,12 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chang Shuyun
-<br>Mdm Monica Leong</p>
+<p>Mdm Fu Shan (Mrs Lee)
+<br>Mdm Julaiha Bte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chang_shuyun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_shuyun@schools.gov.sg</a>
-<br><a href="mailto:leong_cai_lin_monica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_cai_lin_monica@schools.gov.sg</a>
+<p><a href="mailto:fu_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fu_shan@schools.gov.sg</a>
+<br><a href="mailto:julaiha_abd_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">julaiha_abd_aziz@schools.gov.sg</a>
 </p>
 </td>
 </tr>
