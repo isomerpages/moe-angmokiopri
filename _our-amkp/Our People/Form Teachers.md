@@ -472,12 +472,12 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Riaz Sulaimi
-<br>Ms Audrey Kwek</p>
+<p>Miss Esheen Koh
+<br>Mr Gareth Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamad_riaz_sulaimi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_riaz_sulaimi@schools.gov.sg</a>
-<br><a href="mailto:kwek_audrey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_audrey@schools.gov.sg</a>
+<p><a href="mailto:koh_esheen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_esheen@schools.gov.sg</a>
+<br><a href="mailto:chan_jun_xian_gareth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_jun_xian_gareth@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -502,12 +502,11 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fong Yen Yen
-<br>Mr Mark Chin
-<br>Ms Nursyafiqah Sawal</p>
+<p>Ms Jasmine Lim Yu Qian
+<br>Mr Chen Jia Xing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fong_yen_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong_yen_yen@schools.gov.sg</a>
+<p><a href="mailto:jasmine_yq_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_yq_lim@schools.gov.sg</a>
 <br><a href="mailto:chin_ting_onn_mark@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_ting_onn_mark@schools.gov.sg</a>
 <br><a href="mailto: nursyafiqah_sawal@schools.gov.sg" rel="noopener nofollow" target="_blank">nursyafiqah_sawal@schools.gov.sg</a>
 </p>
