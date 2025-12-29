@@ -154,11 +154,11 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Junisha Erat</strong>
+<p><strong>Mr Cavin Lee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:junisha_erat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junisha_erat@schools.gov.sg</a>
+<p><a href="mailto:lee_chun_wan_cavin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun_wan_cavin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -168,14 +168,12 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chai Jia Yang
-<br>Mdm Tan Shu Jun
-<br>Mdm Justina Yim Keat Yee</p>
+<p>Ms Aziana Aziz
+<br>Mdm Monica Leong Cai Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chai_jia_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chai_jia_yang@schools.gov.sg</a>
-<br><a href="mailto:tan_shu_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shu_jun@schools.gov.sg</a>
-<br><a href="mailto:yim_keat_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yim_keat_yee@schools.gov.sg</a>
+<p><a href="mailto:tan_shu_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
+<br><a href="mailto:leong_cai_lin_monica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_cai_lin_monica@schools.gov.sg</a>
 </p>
 </td>
 </tr>
