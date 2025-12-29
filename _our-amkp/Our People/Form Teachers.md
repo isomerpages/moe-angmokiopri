@@ -20,15 +20,16 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YH (P1)</strong>
+<p><strong>P1 YH/ AYH</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Junisha Erat</strong>
-</p>
+	<p><strong>Mr Lee Chun Wan Cavin
+	<br>Ms Junisha Erat</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:junisha_erat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junisha_erat@schools.gov.sg</a>
+<p><a href="mailto:lee_chun_wan_cavin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun_wan_cavin@schools.gov.sg</a></p><p></p><p>
+<a href="mailto:junisha_erat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junisha_erat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -39,7 +40,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nor Azlyna Bte Mohd Yusof
-<br>MdmTan Shu Jun</p>
+<br>Mdm Tan Shu Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nor_azlyna_mohd_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_azlyna_mohd_yusof@schools.gov.sg</a>
