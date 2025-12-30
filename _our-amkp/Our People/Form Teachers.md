@@ -116,12 +116,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Yong Jia Amelia
-<br>Ms Sarah</p>
+<br>Mdm Sarah Bee Binte Jakfar</p>
 </td>
 <td rowspan="1" colspan="1">
-<a href="mailto:ng_yong_jia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_jia@schools.gov.sg</a>
+<p><a href="mailto:ng_yong_jia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_jia@schools.gov.sg</a>
 <br><a href="mailto:." rel="noopener noreferrer nofollow" target="_blank"></a>
-<p></p>
+</p><p></p>
 </td>
 </tr>
 <tr><td rowspan="1" colspan="1">
@@ -268,7 +268,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ethan Tan
-<br>Miss Shamine</p>
+<br>Ms Shamine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_wu_siang_ethan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wu_siang_ethan@schools.gov.sg</a>
@@ -314,7 +314,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mr Goh Leng Huat
 <br>Mdm Ariyanti Sukaimi
-<br>Miss Lim Ching Yin</p>
+<br>Ms Lim Ching Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mailto:goh_leng_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_leng_huat@schools.gov.sg</a>
@@ -329,7 +329,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Clara Tham Kar Ling
+<p>Ms Clara Tham Kar Ling
 <br>Ms Nur Fitri Faezah Binti Mohamed Yusof</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -470,7 +470,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Esheen Koh
+<p>Ms Esheen Koh
 <br>Mr Gareth Chan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -485,7 +485,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wellisa Liaw
+<p>Ms Wellisa Liaw
 <br>Mr Samuel Xiao Yong</p>
 </td>
 <td rowspan="1" colspan="1">
