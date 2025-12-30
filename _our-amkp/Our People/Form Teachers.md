@@ -319,7 +319,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mailto:goh_leng_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_leng_huat@schools.gov.sg</a>
 <br><a href="mailto:ariyanti_sukaimi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ariyanti_sukaimi@schools.gov.sg</a>
-<br><a href="mailto:chen_liming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
+<br><a href="mailto:lim_ching_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ching_yin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
