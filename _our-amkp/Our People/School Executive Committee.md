@@ -12,8 +12,9 @@ variant: tiptap
 </p>
 <h5><strong>SCHOOL LEADERS</strong></h5>
 <p>Mr Muhammad Farizal Bin Umar Effendi/Principal : amkps@moe.edu.sg</p>
-<p>Ms Tan Siew Khim/VP : amkps@moe.edu.sg</p>
-<p>Ms Chen Yan Ting Nathalie/VP : amkps@moe.edu.sg</p>
+<p>Ms Chen Yan Ting Nathalie/VP :<a href="mailto:amkps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amkps@moe.edu.sg</a>
+</p>
+<p>Mr Nicholas Tan/VP : amkps@moe.edu.sg</p>
 <p>Ms Alethea Liew/VPA : amkps@moe.edu.sg</p>
 <p><strong>INSTRUCTIONAL PROGRAMME HEADS</strong>
 </p>
