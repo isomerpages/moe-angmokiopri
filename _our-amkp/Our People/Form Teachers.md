@@ -60,7 +60,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seow_susan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seow_susan@schools.gov.sg</a>
 <br><a href="mailto:junisha_erat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junisha_erat@schools.gov.sg</a>
-<br><a href="mailto:julaiha_abd_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">julaiha_abd_aziz@schools.gov.sg</a>
+<br><a href="mailto:juliarti_junidi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juliarti_junidi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
