@@ -18,7 +18,7 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Senior Special Education Needs Officer (Snr. SENO)</strong>
+<p><strong>Senior Special Education Needs (SEN) Officer</strong>
 </p>
 </td>
 </tr>
@@ -27,7 +27,7 @@ variant: markdown
 <p>Ms Adele Chang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chang_chia_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_chia_yun@moe.edu.sg</a>
+<p><a href="mailto:chang_chia_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_chia_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -36,7 +36,7 @@ variant: markdown
 <p>Mdm Nurasmawiyah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurasmawiyah_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurasmawiyah_zainal@moe.edu.sg</a>
+<p><a href="mailto:nurasmawiyah_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurasmawiyah_zainal@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -46,7 +46,7 @@ variant: markdown
 <p>Ms Shaleni Batu Malek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shaleni_batu_malek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shaleni_batu_malek@moe.edu.sg</a>
+<p><a href="mailto:shaleni_batu_malek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shaleni_batu_malek@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -72,7 +72,7 @@ variant: markdown
 <p>Mrs Tresa Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chin_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_yin@moe.edu.sg</a>
+<p><a href="mailto:lim_chin_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_yin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -89,7 +89,7 @@ variant: markdown
 <p>Ms Adeline Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:adeline_tan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_tan_a@moe.edu.sg</a>
+<p><a href="mailto:adeline_tan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_tan_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
