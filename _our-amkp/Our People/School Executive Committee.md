@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
 </div>
-<p><strong>2025 School Executive Committee</strong>
+<p><strong>School Executive Committee</strong>
 </p>
 <h5><strong>SCHOOL LEADERS</strong></h5>
 <p>Mr Muhammad Farizal Bin Umar Effendi/Principal : amkps@moe.edu.sg</p>
