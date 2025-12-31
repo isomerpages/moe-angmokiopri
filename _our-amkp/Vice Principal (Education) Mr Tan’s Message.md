@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Mr_Tan.jpg">
+</div>
 <p>I believe education is about helping students discover who they are and
 who they can become, giving them hope, confidence, and the skills to face
 the future. In a nurturing school environment, students should feel safe

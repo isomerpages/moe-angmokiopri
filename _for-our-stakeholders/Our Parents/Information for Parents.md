@@ -13,4 +13,3 @@ Please note that photographs and videos of students, parents or guardians taken 
 ![](/images/Posters_MIMS_SSPR_Guide_page_0001.jpg)
 
 ![](/images/Posters_MIMS_SSPR_Guide_page_0002.jpg)
-
