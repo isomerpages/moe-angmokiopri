@@ -18,6 +18,14 @@ sections:
       variant: center
       size: md
   - infopic:
+      title: Pri 1 School reopens on 2 Jan 2026
+      id: infopic
+      description: Nominate closes on 31st December 2025, 11.59 p.m.
+      button: Click to nominate
+      url: https://www.cta.nie.edu.sg/nominate
+      image: /images/schedule.png
+      alt: Image alt text
+  - infopic:
       title: President's Award for Teachers
       id: infopic
       description: Nominate closes on 9th January 2026, 12 pm
@@ -33,12 +41,4 @@ sections:
       url: https://go.gov.sg/oyea2026
       image: /images/2__OYEA.jpg
       description: Nominate closes on 9th January 2026, 12 pm
-  - infopic:
-      title: NIE Caring Teacher Award
-      id: infopic
-      description: Nominate closes on 31st December 2025, 11.59 p.m.
-      button: Click to nominate
-      url: https://www.cta.nie.edu.sg/nominate
-      image: /images/3__CTA_Poster.jpg
-      alt: Image alt text
 ---
