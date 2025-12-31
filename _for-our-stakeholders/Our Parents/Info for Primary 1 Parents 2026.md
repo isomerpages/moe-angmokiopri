@@ -29,9 +29,8 @@ session will cover challenges and adjustments children face, practical
 strategies to support your child's academic, social and emotional well-being,
 identifying signs of struggles with transition, and self-care tips for
 navigating this phase. We strongly encourage you to register for this talk
-using the <a href="/files/AMKPS_Empowering_your_child_to_thrive_in_Primary_One.pdf" rel="noopener nofollow" target="_blank">QR code found on the EDM</a>,
-which is organised in partnership with AllKin Family Service Centre. For
-enquiries about the talk, you may contact <a href="mailto:famforlife@allkin.org.sg" rel="noopener noreferrer nofollow" target="_blank">famforlife@allkin.org.sg</a>.</p>
+<a href="https://www.booking.gov.sg/public/services/yV6NWolk/events/wlbazpp6" rel="noopener nofollow" target="_blank">via the link</a>, which is organised in partnership with AllKin Family
+Service Centre. For enquiries about the talk, you may contact <a href="mailto:famforlife@allkin.org.sg" rel="noopener noreferrer nofollow" target="_blank">famforlife@allkin.org.sg</a>.</p>
 <p>The day will conclude with dismissal at 12.00pm, where parents/caregivers
 can pick up their child at the foyer, or children may leave via school
 bus or be collected by their student care centre.</p>
