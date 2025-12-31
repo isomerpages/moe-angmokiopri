@@ -45,4 +45,3 @@ to contact the school office. We look forward to welcoming you and your
 child on this exciting milestone.</p>
 <p>Warm regards,</p>
 <p>Ang Mo Kio Primary School</p>
-<p></p>
