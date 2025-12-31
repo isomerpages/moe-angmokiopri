@@ -18,6 +18,9 @@ both students and parents, followed by the Principal's Welcome Address
 at 8.20am. The programme includes curriculum sharing sessions, opportunities
 to meet your child's form teachers, and time to observe your child during
 recess at the canteen.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/schedule.png">
+</div>
 <p><strong>Families for Life Parenting Talk</strong>
 </p>
 <p>We would like to highlight the "<a href="/files/AMKPS_Empowering_your_child_to_thrive_in_Primary_One.pdf" rel="noopener nofollow" target="_blank">Empowering your child to thrive in P1</a>"
