@@ -44,3 +44,39 @@ to contact the school office. We look forward to welcoming you and your
 child on this exciting milestone.</p>
 <p>Warm regards,</p>
 <p>Ang Mo Kio Primary School</p>
+<p></p>
+<h4><strong>Primary 1 Orientation (21 Nov 2025) Information Available</strong></h4>
+<p>
+<br>Dear Parents/Guardians,</p>
+<p>We hope you found our Primary 1 Orientation session on 21 November 2025
+informative and helpful as you prepare for your child's exciting journey
+at Ang Mo Kio Primary School.</p>
+<p>For your reference, the Presentation Slides from the orientation and the
+P1 Orientation Information booklet are now available in the attachments
+below.</p>
+<p><strong><a href="/files/AMKP_P1_Orientation_Information_Booklet.pdf" rel="noopener nofollow" target="_blank">Presentation Slides from Orientation (21 Nov 25)</a></strong>
+</p>
+<p><strong><a href="/files/AMKP_P1_Orientation_Information_Booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Orientation Information Booklet for Parents/Guardians</a></strong>
+</p>
+<p>These resources contain comprehensive information about:</p>
+<p>• Our school's vision, mission and values
+<br>• How to prepare your child for Primary 1
+<br>• Building strong foundations in learning
+<br>• The Programme for Active Learning (PAL)
+<br>• School-home partnership and communication
+<br>• Important Day 1 information and schedule for 2 January 2026
+<br>• Uniform and book purchase arrangements
+<br>• Opportunities to join our Parent Support Group</p>
+<p>
+<br>Please take time to review these materials at your convenience and share
+the key points with your child as you prepare together for the start of
+the school year.</p>
+<p>Should you have any questions after reviewing the resources, please feel
+free to contact us at <a rel="noopener noreferrer nofollow" target="_blank">amkps@moe.edu.sg</a> or
+6452 0794.</p>
+<p>
+<br>We look forward to welcoming your child to the AMKP family!</p>
+<p>
+<br>Warm regards,
+<br>Ang Mo Kio Primary School</p>
+<p>&nbsp;</p>
