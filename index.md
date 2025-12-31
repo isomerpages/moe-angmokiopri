@@ -20,8 +20,7 @@ sections:
   - infopic:
       title: Pri 1 School reopens on 2 Jan 2026
       id: infopic
-      description: Nominate closes on 31st December 2025, 11.59 p.m.
-      button: Click to nominate
+      button: Click for details
       url: https://www.cta.nie.edu.sg/nominate
       image: /images/schedule.png
       alt: Image alt text
