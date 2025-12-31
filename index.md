@@ -21,7 +21,7 @@ sections:
       title: Pri 1 School reopens on 2 Jan 2026
       id: infopic
       button: Click for details
-      url: https://www.cta.nie.edu.sg/nominate
+      url: https://www.angmokiopri.moe.edu.sg/info-for-pri-1-parents-2026/
       image: /images/schedule.png
       alt: Image alt text
   - infopic:
