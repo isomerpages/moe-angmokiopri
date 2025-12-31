@@ -54,7 +54,7 @@ at Ang Mo Kio Primary School.</p>
 <p>For your reference, the Presentation Slides from the orientation and the
 P1 Orientation Information booklet are now available in the attachments
 below.</p>
-<p><a href="/files/21_Nov_2025_P1_Orientation_Briefing_Slides__Info_for_parents_.pdf" rel="noopener nofollow" target="_blank">Presentation Slides from Orientation (21 Nov 25)</a>
+<p><strong><a href="/files/21_Nov_2025_P1_Orientation_Briefing_Slides__Info_for_parents_.pdf" rel="noopener nofollow" target="_blank">Presentation Slides from Orientation (21 Nov 25)</a></strong>
 </p>
 <p><strong><a href="/files/AMKP_P1_Orientation_Information_Booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Orientation Information Booklet for Parents/Guardians</a></strong>
 </p>
