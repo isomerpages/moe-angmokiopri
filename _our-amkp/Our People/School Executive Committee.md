@@ -8,14 +8,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
 </div>
-<p><strong>2025 School Executive Committee</strong>
+<p><strong>School Executive Committee</strong>
 </p>
 <h5><strong>SCHOOL LEADERS</strong></h5>
 <p>Mr Muhammad Farizal Bin Umar Effendi/Principal : amkps@moe.edu.sg</p>
 <p>Ms Chen Yan Ting Nathalie/VP :<a href="mailto:amkps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amkps@moe.edu.sg</a>
 </p>
-<p>Mr Nicholas Tan/VP : amkps@moe.edu.sg</p>
-<p>Ms Alethea Liew/VPA : amkps@moe.edu.sg</p>
+<p>Mr Nicholas Tan/VP : <a href="mailto:amkps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amkps@moe.edu.sg</a>
+</p>
+<p>Ms Alethea Liew/VPA : <a href="mailto:amkps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amkps@moe.edu.sg</a>
+</p>
 <p><strong>INSTRUCTIONAL PROGRAMME HEADS</strong>
 </p>
 <table style="minWidth: 50px">
@@ -82,23 +84,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/12.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_Image_blank.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
