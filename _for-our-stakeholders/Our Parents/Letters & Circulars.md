@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
 </div>
-<p><strong>Letters &amp; Circulars</strong> (2025)</p>
+<p><strong>Letters &amp; Circulars</strong> (2026)</p>
 <h5>2025 Publication</h5>
 <p><strong><a href="/files/Letters and Circulars/2025 Letters/2025_P1_Orientation_Slides__Compressed_.pdf" rel="noopener nofollow" target="_blank">Click here for the P1 Orientation slides</a></strong>
 </p>
