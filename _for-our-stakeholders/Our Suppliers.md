@@ -143,6 +143,7 @@ AMOS WONG
 <p><strong>Daily School Bus Service&nbsp;</strong>
 </p>
 <p>(i.e. for sending students from home to school and vice versa)</p>
+<p>Rates for 2026</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -237,7 +238,7 @@ AMOS WONG
 </tr>
 </tbody>
 </table>
-<p>(updated Sept 2024)</p>
+<p></p>
 <p></p>
 <p>Please note that the indicative rates above reflect the mandated maximum
 service charge for the respective distances, and are inclusive of 9% GST.</p>
