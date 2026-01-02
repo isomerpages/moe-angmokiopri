@@ -105,7 +105,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_ying_yan_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_ying_yan_adeline@schools.gov.sg</a>
-<br><a href="mailto:tan_wei_ling_annette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_ling_annette@schools.gov.sg</a>
+</p><p><a href="mailto:tan_wei_ling_annette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_ling_annette@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -522,7 +522,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jex_nicholas_john_frederick@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jex_nicholas_john_frederick@schools.gov.sg</a>
-<br><a href="mailto: mailto:apiramee_e_subramaniam@schools.gov.sg" rel="noopener nofollow" target="_blank">apiramee_e_subramaniam@schools.gov.sg</a>
+</p><p><a href="mailto: mailto:apiramee_e_subramaniam@schools.gov.sg" rel="noopener nofollow" target="_blank">apiramee_e_subramaniam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
