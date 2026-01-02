@@ -29,7 +29,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_chun_wan_cavin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun_wan_cavin@schools.gov.sg</a>
-<br><a href="mailto:junisha_erat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junisha_erat@schools.gov.sg</a></p>
+</p><p><a href="mailto:junisha_erat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junisha_erat@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Yong Jia Amelia
+<p>Mdm Ng Yong Jia Amelia
 <br>Mdm Sarah Bee Binte Jakfar</p>
 </td>
 <td rowspan="1" colspan="1">
