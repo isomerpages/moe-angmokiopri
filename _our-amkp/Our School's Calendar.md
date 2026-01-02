@@ -9,4 +9,5 @@ description: ""
 </div>
 <h5>2026 School Calendar</h5>
 <p>Please refer to the links below for the school's termly calendar.</p>
-<p></p>
+<p><a href="/files/AMKP_Calendar_2026__for_Parents_Guardians__Term_1.pdf" rel="noopener nofollow" target="_blank">Term 1 Calendar 2026</a>
+</p>
