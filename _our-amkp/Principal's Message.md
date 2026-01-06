@@ -38,6 +38,6 @@ child can thrive and grow to their fullest potential.</p>
 <p>Let us continue to <strong>Rise and Shine as one strong AMKP family in 2026.</strong>
 </p>
 <p></p>
-<p>Sincerely,</p>
-<p>Mr. Muhammad Farizal
+<p>Sincerely,
+<br>Mr. Muhammad Farizal
 <br>Principal</p>
