@@ -3,7 +3,7 @@ title: Letters & Circulars
 permalink: /resources/parents/letters-n-circulars/
 description: ""
 third_nav_title: Our Parents
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -61,6 +61,30 @@ variant: markdown
 <p>
 <br>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h5><strong>2026 CCA Schedule</strong></h5>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Please refer to the links below for the school's CCA schedule.
+<br><a href="/files/Term_1_2026_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">Term 1 CCA Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5></h5>
 <p></p>
 <h5></h5>
