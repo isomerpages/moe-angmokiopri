@@ -9,7 +9,7 @@ third_nav_title: Our Staff
 <h3><strong>2025</strong></h3>
 <h4><strong><u>AMKP Outstanding Contribution Award (OCA) 2025</u></strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_OCA_Winners2.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_OCA_Winners3.gif">
 </div>
 <h4><strong><u>Associate of AST Award Recipients 2025</u></strong></h4>
 <table style="minWidth: 50px">
