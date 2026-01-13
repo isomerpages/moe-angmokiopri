@@ -242,5 +242,10 @@ adhere to the school rules.</p>
 major/serious offence.</p>
 </li>
 </ul>
-<p>For the complete list of Offences and Consequences, please refer to the <u>2025 Student Handbook Page 13-14.</u>
+<p>For the complete list of Offences and Consequences, please refer to the
+<a href="/files/2026_Student_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2026 Student Handbook</u>
+</a><u> (p.13 to p.15)</u>
 </p>
+<p></p>
+<p></p>
+<p></p>
