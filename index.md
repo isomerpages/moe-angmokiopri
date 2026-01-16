@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Joyful_Learner.gif
+      background: /images/Joyful_Learner__2_.gif
       key_highlights:
         - title: Letters & Circulars
           description: ""
