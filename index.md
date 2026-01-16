@@ -24,20 +24,4 @@ sections:
       url: https://www.angmokiopri.moe.edu.sg/info-for-pri-1-parents-2026/
       image: /images/schedule.png
       alt: Image alt text
-  - infopic:
-      title: President's Award for Teachers
-      id: infopic
-      description: Nominate closes on 9th January 2026, 12 pm
-      button: Click to nominate
-      url: https://form.gov.sg/68ae474d09f68097e77beda3
-      image: /images/1__PAT.jpg
-      alt: Image alt text
-  - infopic:
-      title: Outstanding Youth Education Award
-      id: infopic
-      button: Click to nominate
-      alt: Image alt text
-      url: https://go.gov.sg/oyea2026
-      image: /images/2__OYEA.jpg
-      description: Nominate closes on 9th January 2026, 12 pm
 ---
