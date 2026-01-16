@@ -27,12 +27,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="wee_liang_mei@moe.edu.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/03.png"></a>
-</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_Image_blank.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Ellene.png">
 </div>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="wee_liang_mei@moe.edu.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/03.png"></a>
 </td>
 </tr>
 <tr>
@@ -42,9 +42,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/09.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -84,13 +82,23 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Idham.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_Image_blank.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/12.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Aziana.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -178,7 +186,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Ariyanti.png">
+</div>
 </td>
 </tr>
 </tbody>
