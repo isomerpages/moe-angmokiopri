@@ -28,9 +28,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Ellene.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="wee_liang_mei@moe.edu.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/03.png"></a>
 </td>
@@ -84,6 +82,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Idham.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Aziana.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -93,9 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Aziana.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
