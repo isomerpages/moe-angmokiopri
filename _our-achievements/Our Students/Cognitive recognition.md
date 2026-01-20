@@ -1607,7 +1607,7 @@ courage and determination to realise their dreams.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Penterjemah Pintar 2024 2nd Place</strong></h4>
+<h4><strong>Penterjemah Pintar 2024 - 2nd Place</strong></h4>
 </td>
 </tr>
 <tr>
