@@ -12,8 +12,8 @@ sections:
         - title: Letters & Circulars
           description: ""
           url: https://www.angmokiopri.moe.edu.sg/resources/parents/letters-n-circulars/
-        - title: Meet-The-Parent
-          description: Links to MTP slides
+        - title: Parent Teacher Meeting (PTM)
+          description: Links to PTM slides
           url: https://www.angmokiopri.moe.edu.sg/parents/letters-and-circulars/meet-the-parents/
       variant: center
       size: md
