@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
+<h3><strong><u>2026</u></strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -57,6 +58,7 @@ third_nav_title: Our Students
 </tbody>
 </table>
 <p></p>
+<h3><strong><u>2025</u></strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1596,8 +1598,16 @@ courage and determination to realise their dreams.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<h3><strong><u>2024</u></strong></h3>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Penterjemah Pintar 2024 2nd Place</strong></h4>
+<h4><strong>Penterjemah Pintar 2024 - 2nd Place</strong></h4>
 </td>
 </tr>
 <tr>
