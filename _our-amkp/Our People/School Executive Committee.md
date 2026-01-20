@@ -80,35 +80,25 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Idham_edited.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Idham_edited2.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/12.png">
 </div>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Aziana_edited.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Aziana_edited2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/2026_blank.png">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -236,42 +226,42 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/28.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Cavin_Lee__new_.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/29.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/30.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Nooraisha__new_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Junisha__new_.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/31_YELLOW.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Yao_Feng__new_.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/32_BLUE.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Nooraisha__new2_.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Razif__new_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Suganthi__new_.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>STUDENT MANAGEMENT &amp; WELL-BEING</strong>
+<p><strong>PHYSICAL EDUCATION / ART / MUSIC</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
