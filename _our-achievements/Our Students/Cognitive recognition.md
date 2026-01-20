@@ -15,6 +15,57 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
+<h4><strong>Southeast Asian Mathematical Olympiad (SEAMO) 2026</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARIYA NANDI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ADHRIT NANDI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
 <h4><strong>Celebrating Our Innovation Programme (IvP) Achievements</strong></h4>
 </th>
 </tr>
