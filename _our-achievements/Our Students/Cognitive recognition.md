@@ -16,7 +16,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Southeast Asian Mathematical Olympiad (SEAMO) 2026 </strong>Extended Round (22 countries)</h4>
+<h4><strong>Southeast Asian Mathematical Olympiad (SEAMO) : </strong>Extended Round (22 countries)</h4>
 </th>
 </tr>
 <tr>
