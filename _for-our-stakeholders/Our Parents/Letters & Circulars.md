@@ -22,7 +22,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Please refer to the links below for the school's termly calendar.
-<br><a href="/files/AMKP_Calendar_2026__for_Parents_Guardians__Term_1.pdf" rel="noopener nofollow" target="_blank">Term 1 Calendar 2026</a>
+<br><a href="/files/Term_1_Calendar_2.pdf" rel="noopener nofollow" target="_blank">Term 1 Calendar 2026</a>
 </p>
 </td>
 </tr>
