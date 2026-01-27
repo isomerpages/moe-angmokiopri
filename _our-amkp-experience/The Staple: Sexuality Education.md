@@ -24,7 +24,7 @@ communities in Singapore on sexuality issues.</p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong> The Goals of Sexuality Education are:</strong>
+<p><strong>The Goals of Sexuality Education are:</strong>
 </p>
 </li>
 </ol>
@@ -50,7 +50,8 @@ and</p>
 <p>(d)&nbsp;Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>&nbsp;You may click here for more information on MOE Sexuality Education.</p>
+<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
 <p></p>
 <p><strong>Overview of Ang Mo Kio Primary School’s Sexuality Education Programme for 2026</strong>
 </p>
@@ -58,10 +59,10 @@ ones.</p>
 through the school curriculum. The content for Sexuality Education is grouped
 into five main themes: Human Development, Interpersonal Relationships,
 Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may
-click here for more information on the scope of Sexuality Education in
-the school curriculum.</p>
+click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener nofollow" target="_blank">here</a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
-<p><strong>5. </strong> The subjects that incorporate topics on sexuality
+<p><strong>5. </strong>The subjects that incorporate topics on sexuality
 include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
@@ -272,8 +273,8 @@ lessons, and/or supplementary Sexuality Education programmes by MOE-approved
 external providers.&nbsp;</p>
 <p><strong>9.</strong> Parents who wish to opt their children out of the Sexuality
 Education lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also available here. The completed
-opt-out form is to be submitted by 13 February 2026.</p>
+to parents at the start of the year and is also available <a href="https://form.gov.sg/6973259a7621e837ddaaa3aa" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 13 February 2026.</p>
 <p></p>
 <p><strong>10.</strong> Parents can contact the school at 64520794 or email
 to us at&nbsp;amkps@moe.edu.sg for a discussion or to seek clarification
