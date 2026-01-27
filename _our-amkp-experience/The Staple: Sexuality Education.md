@@ -67,7 +67,6 @@ include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)</p>
-<p></p>
 <p><strong>Sexuality Education Lessons</strong>
 </p>
 <p><strong>6.</strong> The upper primary years mark the onset of puberty.
