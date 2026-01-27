@@ -7,11 +7,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
 </div>
-<p><strong>Sexuality Education Programme</strong>
+<h4><strong>Sexuality Education Programme</strong></h4>
+<p><strong><u>Moe Sexuality Education in Schools</u></strong>
 </p>
-<p><strong>Moe Sexuality Education in Schools</strong>
-</p>
-<p><strong>1. Sexuality Education (SEd</strong>) in schools aims to enable
+<p>1. <strong>Sexuality Education (SEd</strong>) in schools aims to enable
 students to understand the physiological, social and emotional changes
 they experience as they mature, develop healthy and rewarding relationships
 with others, including those with members of the opposite sex, and make
@@ -24,8 +23,7 @@ communities in Singapore on sexuality issues.</p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>The Goals of Sexuality Education are:</strong>
-</p>
+<p>The<strong> Goals of Sexuality Education </strong>are:</p>
 </li>
 </ol>
 <p>(a)&nbsp;Support students in managing their physiological, social and
@@ -38,8 +36,7 @@ that are premised on the family as the basic unit of society.</p>
 <p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>The Key Messages of Sexuality Education are:</strong>
-</p>
+<p>The<strong> Key Messages of Sexuality Education </strong>are:</p>
 </li>
 </ol>
 <p>(a)&nbsp;Love and respect yourself as you love and respect others;</p>
@@ -53,47 +50,38 @@ ones.</p>
 <p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of Ang Mo Kio Primary School’s Sexuality Education Programme for 2026</strong>
-</p>
-<p><strong>4.</strong> Sexuality Education is delivered in a holistic manner
+<h4><strong><u>Overview of Ang Mo Kio Primary School’s Sexuality Education Programme for 2026</u></strong></h4>
+<p><strong>4. </strong>Sexuality Education is delivered in a holistic manner
 through the school curriculum. The content for Sexuality Education is grouped
 into five main themes: Human Development, Interpersonal Relationships,
 Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may
 click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
-<p></p>
 <p><strong>5. </strong>The subjects that incorporate topics on sexuality
 include:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
-(CCE)</p>
-<p><strong>Sexuality Education Lessons</strong>
-</p>
-<p><strong>6.</strong> The upper primary years mark the onset of puberty.
-With better nutrition and improved health care, children are reaching puberty
-at a younger age and have to grapple with physical, emotional and psychological
-changes in themselves. The implication is that our children are becoming
-biologically ready for sexual activity sooner without necessarily having
-the corresponding cognitive or emotional maturity to modulate their behaviours.
-Furthermore, our young are also exposed to a wide range of influences that
-could endanger health and undermine the integrity of the family. Our students
-require close guidance so that they can respond with discernment to the
-sexual messages in the media and other sources.</p>
-<p></p>
-<p><strong>7.</strong> Sexuality Education (SEd) lessons are taught as part
-of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will
-learn healthy ways to manage the physiological, social and emotional changes
-in their growing years. They learn to build healthy and rewarding relationships
+<p>(a) Science</p>
+<p>(b) Character and Citizenship Education (CCE)</p>
+<p>6. The upper primary years mark the onset of puberty. With better nutrition
+and improved health care, children are reaching puberty at a younger age
+and have to grapple with physical, emotional and psychological changes
+in themselves. The implication is that our children are becoming biologically
+ready for sexual activity sooner without necessarily having the corresponding
+cognitive or emotional maturity to modulate their behaviours. Furthermore,
+our young are also exposed to a wide range of influences that could endanger
+health and undermine the integrity of the family. Our students require
+close guidance so that they can respond with discernment to the sexual
+messages in the media and other sources.</p>
+<p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP)
+at Primary 5 and 6. Through these lessons, students will learn healthy
+ways to manage the physiological, social and emotional changes in their
+growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong>At Ang Mo Kio Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
-</p>
-<p><strong>2026 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>Primary 5</strong>
-</p>
+<p>At Ang Mo Kio Primary School, the following Sexuality Education lessons
+will be taught in 2026:</p>
+<h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -104,16 +92,20 @@ themselves safe from sexuality-related risks.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCE(FTGP) THEME</p>
+<p><strong>CCE(FTGP) THEME</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LESSON TITLE / DURATION</p>
+<p><strong>LESSON TITLE / DURATION</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lesson OVERVIEW</p>
+<p><strong>Lesson OVERVIEW</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TIME PERIOD</p>
+<p><strong>TIME PERIOD</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -196,11 +188,7 @@ so that the students will feel more comfortable during the discussions.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>2026 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>&nbsp;Primary 6</strong>
-</p>
+<h4><strong>Primary 6</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -211,16 +199,20 @@ so that the students will feel more comfortable during the discussions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCE(FTGP) THEME</p>
+<p><strong>CCE(FTGP) THEME</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LESSON TITLE / DURATION</p>
+<p><strong>LESSON TITLE / DURATION</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lesson Overview</p>
+<p><strong>Lesson Overview</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TIME PERIOD</p>
+<p><strong>TIME PERIOD</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -265,17 +257,17 @@ and learn to behave maturely towards each other.</p>
 </tbody>
 </table>
 <p></p>
-<p>Information for Parents</p>
-<p></p>
-<p><strong>8.</strong> Parents may opt their children out of Sexuality Education
+<p><strong><u>Information for Parents</u></strong>
+</p>
+<p><strong>8. </strong>Parents may opt their children out of Sexuality Education
 lessons, and/or supplementary Sexuality Education programmes by MOE-approved
 external providers.&nbsp;</p>
-<p><strong>9.</strong> Parents who wish to opt their children out of the Sexuality
-Education lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also available <a href="https://form.gov.sg/6973259a7621e837ddaaa3aa" rel="noopener nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 13 February 2026.</p>
-<p></p>
-<p><strong>10.</strong> Parents can contact the school at 64520794 or email
+<p><strong>9. </strong>Parents who wish to opt their children out of the
+Sexuality Education lessons need to complete an opt-out form. This form
+will be communicated to parents at the start of the year and is also available
+<a href="https://form.gov.sg/6973259a7621e837ddaaa3aa" rel="noopener nofollow" target="_blank">here</a>. The completed opt-out form is to be submitted by 13 February
+2026.</p>
+<p><strong>10. </strong>Parents can contact the school at 64520794 or email
 to us at&nbsp;amkps@moe.edu.sg for a discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
 <p></p>
