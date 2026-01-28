@@ -72,7 +72,7 @@ variant: markdown
 <p>Mrs Tresa Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chin_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_yin@schools.gov.sg</a>
+<p><a href="mailto:lim_chin_yin_tresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_yin_tresa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -89,7 +89,7 @@ variant: markdown
 <p>Ms Adeline Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:adeline_tan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_tan_a@schools.gov.sg</a>
+<p><a href="mailto:adeline_tan_an_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_tan_an_ting@schools.gov.sg</a>
 </p>
 </td>
 </tr>
