@@ -320,4 +320,46 @@ third_nav_title: Our Parents
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Class Engagement Slides</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/5_RS_FT_Slides_PTM_2026.pdf" rel="noopener nofollow" target="_blank">5 Resilience</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/5_RP_FT_Slides_PTM_2026.pdf" rel="noopener nofollow" target="_blank">5 Respect</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/5_IN_FT_Slides_PTM_2026.pdf" rel="noopener nofollow" target="_blank">5 Integrity</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/5_EN_FT_Slides_PTM_2026.pdf" rel="noopener nofollow" target="_blank">5 Excellence</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/5_CA_FT_Slides_PTM_2026.pdf" rel="noopener nofollow" target="_blank">5 Care</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
