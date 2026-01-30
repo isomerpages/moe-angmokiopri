@@ -23,18 +23,18 @@ third_nav_title: Our Parents
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p><a href="/files/1RS_Class_Engagement_Slides_2026.pdf" rel="noopener nofollow" target="_blank">1 Resilience</a>
+<td rowspan="1" colspan="1">
+<p><a href="/files/1RS_Class_Engagement_Slides_2026.pdf" rel="noopener nofollow" target="_blank">1 Resilience </a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/1RP_Class_Engagement_slides_2026.pdf" rel="noopener nofollow" target="_blank">1 Respect</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/1RB_Class_Engagement_slides_2026.pdf" rel="noopener nofollow" target="_blank">1 Responsibility</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/1RB_Class_Engagement_slides_2026.pdf" rel="noopener nofollow" target="_blank">1 Responsibility </a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
