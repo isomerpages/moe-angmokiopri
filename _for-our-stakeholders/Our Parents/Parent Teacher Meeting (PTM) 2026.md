@@ -363,7 +363,7 @@ third_nav_title: Our Parents
 </tbody>
 </table>
 <h4>Primary 6</h4>
-<p><a href="/files/PTM_1_2026_P6_YH_Sharing_final.pdf" rel="noopener nofollow" target="_blank">P6 YH Sharing </a>
+<p><a href="/files/PTM_1_2026_P6_YH_Sharing_final.pdf" rel="noopener nofollow" target="_blank">P6 YH Sharing</a>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
