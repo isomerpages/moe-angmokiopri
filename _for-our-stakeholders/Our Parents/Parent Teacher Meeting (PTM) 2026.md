@@ -277,4 +277,47 @@ third_nav_title: Our Parents
 </tr>
 </tbody>
 </table>
+<h4>Primary 5</h4>
+<p><a href="/files/PTM_1_2026_P5_YH_Sharing_Final.pdf" rel="noopener nofollow" target="_blank">P5 YH Sharing</a>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>IP Heads Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/1__2026_P5_PTM_English_Language.pdf" rel="noopener nofollow" target="_blank">English</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/3__2026_P5_PTM_Mathematics.pdf" rel="noopener nofollow" target="_blank">Mathematics</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/4__2026_P5_PTM_Science.pdf" rel="noopener nofollow" target="_blank">Science</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2__2026_P5_PTM_Mother_Tongue_Languages.pdf" rel="noopener nofollow" target="_blank">Mother Tongue</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
