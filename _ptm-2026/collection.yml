@@ -2,4 +2,5 @@ collections:
   ptm-2026:
     output: true
     order:
+      - Primary 2.md
       - Primary 1.md
