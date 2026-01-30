@@ -362,4 +362,49 @@ third_nav_title: Our Parents
 </tr>
 </tbody>
 </table>
+<h4>Primary 6</h4>
+<p><a href="/files/PTM_1_2026_P6_YH_Sharing_final.pdf" rel="noopener nofollow" target="_blank">P6 YH Sharing </a>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Class Engagement Slides</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FT_Slides_PTM_2026_P6_RS.pdf" rel="noopener nofollow" target="_blank">6 Resilience</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FT_Slides_PTM_2026_P6_RP.pdf" rel="noopener nofollow" target="_blank">6 Respect</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FT_Slides_PTM_2026_P6_IN.pdf" rel="noopener nofollow" target="_blank">6 Integrity</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FT_Slides_PTM_2026_P6_EN.pdf" rel="noopener nofollow" target="_blank">6 Excellence</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FT_Slides_PTM_2026_P6_CA.pdf" rel="noopener nofollow" target="_blank">6 Care</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
