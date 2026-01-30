@@ -407,4 +407,31 @@ third_nav_title: Our Parents
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Parenting Talk </strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/P2_Parenting_Talk_Support_Our_Children_at_Home.pdf" rel="noopener nofollow" target="_blank">P2 Parenting Talk (Support Our Children at Home)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="/files/P6_Parenting_Talk_Stress_Management.pdf" rel="noopener nofollow" target="_blank">P6 Parenting Talk (Stress Management)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
