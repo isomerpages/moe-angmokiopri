@@ -65,6 +65,8 @@ third_nav_title: Our Parents
 </tbody>
 </table>
 <h4>Primary 2</h4>
+<p><a href="/files/P2_Parenting_Talk_Support_Our_Children_at_Home.pdf" rel="noopener nofollow" target="_blank">P2 Parenting Talk (Support Our Children at Home)</a>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -365,6 +367,8 @@ third_nav_title: Our Parents
 <h4>Primary 6</h4>
 <p><a href="/files/PTM_1_2026_P6_YH_Sharing_final.pdf" rel="noopener nofollow" target="_blank">P6 YH Sharing</a>
 </p>
+<p><a href="/files/P6_Parenting_Talk_Stress_Management.pdf" rel="noopener nofollow" target="_blank">P6 Parenting Talk (Stress Management)</a>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -403,33 +407,6 @@ third_nav_title: Our Parents
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Parenting Talk </strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><a href="/files/P2_Parenting_Talk_Support_Our_Children_at_Home.pdf" rel="noopener nofollow" target="_blank">P2 Parenting Talk (Support Our Children at Home)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><a href="/files/P6_Parenting_Talk_Stress_Management.pdf" rel="noopener nofollow" target="_blank">P6 Parenting Talk (Stress Management)</a>
-</p>
 </td>
 </tr>
 </tbody>
