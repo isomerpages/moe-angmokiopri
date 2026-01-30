@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Our Parents
 ---
-<p>&lt;SITE UNDER UPDATE AND CONSTRUCTION&gt;</p>
+<h4><strong>Parent Teacher Meeting (PTM) 2026</strong></h4>
 <p><a href="/files/SL_s_Address__PTM_.pdf" rel="noopener nofollow" target="_blank">School Leader's Address</a>
 </p>
 <h4>Primary 1</h4>
