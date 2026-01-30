@@ -87,7 +87,7 @@ third_nav_title: Our Parents
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/FT_Slides_PTM_2026_P2_Integrity.pdf" rel="noopener nofollow" target="_blank">2 Integrity </a>
+<p><a href="/files/FT_Slides_PTM_2026_P2_Integrity.pdf" rel="noopener nofollow" target="_blank">2 Integrity</a>
 </p>
 </td>
 </tr>
@@ -106,7 +106,133 @@ third_nav_title: Our Parents
 </tr>
 </tbody>
 </table>
+<h4>Primary 3</h4>
 <p><a href="/files/PTM_1_2026_P3_AYH_Sharing_final.pdf" rel="noopener nofollow" target="_blank">P3 YH Sharing</a>
 </p>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>IP Heads Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/1__2026_P3_PTM_English_Language.pdf" rel="noopener nofollow" target="_blank">English</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/3__2026_P3_PTM_Mathematics.pdf" rel="noopener nofollow" target="_blank">Mathematics</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/4__2026_P3_PTM_Science.pdf" rel="noopener nofollow" target="_blank">Science</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2__2026_P3_PTM_Mother_Tongue_Languages.pdf" rel="noopener nofollow" target="_blank">Mother Tongue</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Class Engagement Slides</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FT_Slides_PTM_2026_P3_Resilience_final.pdf" rel="noopener nofollow" target="_blank">3 Resilience</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FT_Slides_PTM_2026_P3_Respect_final.pdf" rel="noopener nofollow" target="_blank">3 Respect</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FT_Slides_PTM_2026_P3_Integrity_final.pdf" rel="noopener nofollow" target="_blank">3 Integrity</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FT_Slides_PTM_2026_P3_EN_final.pdf" rel="noopener nofollow" target="_blank">3 Excellence</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FT_Slides__PTM_2026_P3_Care_final.pdf" rel="noopener nofollow" target="_blank">3 Care</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Primary 4</h4>
+<p><a href="/files/PTM_1_2026_P4_AYH_Sharing_final.pdf" rel="noopener nofollow" target="_blank">P4 YH Sharing</a>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>IP Heads Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/1__2026_P4_PTM_English_Language.pdf" rel="noopener nofollow" target="_blank">English</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/3__2026_P4_PTM_Mathematics.pdf" rel="noopener nofollow" target="_blank">Mathematics</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/4__2026_P4_PTM_Science.pdf" rel="noopener nofollow" target="_blank">Science</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2__2026_P4_PTM_Mother_Tongue_Languages.pdf" rel="noopener nofollow" target="_blank">Mother Tongue</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
