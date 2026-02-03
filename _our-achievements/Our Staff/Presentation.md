@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Our Staff
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banneramk.jpg">
+</div>
 <h4>Congratulation to all our staff on their achievements! We are proud of you!</h4>
 <h3>2025</h3>
 <p><strong><u>Staff Presentation</u></strong>
