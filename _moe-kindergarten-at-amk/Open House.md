@@ -6,17 +6,12 @@ variant: markdown
 ---
 >Open House
 
-#### 2025 MK Open House Registration
+#### 2026 MK Open House Registration
 
-MOE Kindergarten @ Ang Mo Kio is having our MK Open House on Saturday, 8 February 2025, from 8.30am to 12.30pm. Last walk-in is at 12.15pm. Keen to find out what MOE Kindergarten has to offer?
+MOE Kindergarten @ Ang Mo Kio is having our MK Open House on Saturday, 14 March 2026, from 9.00am. to 12.00pm. Last admission is at 11.45am. Keen to find out what MOE Kindergarten @ Ang Mo Kio has to offer?
 
-Find out more at the MK Open house!   Click the link [here](https://www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse) to register.
+Click the link [here](https://moekindergarten-angmokio2026.app.entry.gov.sg/form/25b2e779-92f1-46f9-94d5-ac6f19038276) to register for the 2026 Open House.
 
-We look forward to meeting you! Do feel free to call us at 6250 9029 or visit our website [here](https://www.angmokiopri.moe.edu.sg/moe-kindergarten-at-amk/about-us/).
+We look forward to meeting you!
 
-![](/images/MOE%20Kindergarten/2025MK_Open_House.jpg)
-
-
-![](/images/MOE%20Kindergarten/2023%20MK%20OH%20Flyer-1.png)
-
-Click [here](/files/MK/MKOH_2025_briefing_slides.pdf) to view MK Open House slides.
+![](/images/MOE%20Kindergarten/MK_2026_Poster.png)
