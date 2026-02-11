@@ -14,4 +14,4 @@ Click the link [here](https://moekindergarten-angmokio2026.app.entry.gov.sg/form
 
 We look forward to meeting you!
 
-![](/images/MOE%20Kindergarten/MK_Ang_Mo_Kio_OP_poster__2026_.png)
+![](/images/MOE%20Kindergarten/MK_Ang_Mo_Kio_OP_poster_3rd.png)
