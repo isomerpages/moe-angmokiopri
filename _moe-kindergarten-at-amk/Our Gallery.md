@@ -10,7 +10,7 @@ variant: tiptap
 <p><strong>Hari Raya Puasa Celebration</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/MK_website_rotating_Picture_Slideshow_Hari_Raya_Celebration.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/MK_website_rotating_Picture_Slideshow_Hari_Raya_Celebration__edited_.gif">
 </div>
 <p>This year’s Hari Raya celebration embraced the theme “Riang Ria Raya”,
 meaning <em>The Joyous Celebration of Hari Raya</em>. The celebration offered
