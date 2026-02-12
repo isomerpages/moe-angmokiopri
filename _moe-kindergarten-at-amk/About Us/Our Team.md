@@ -53,13 +53,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sutiana Binte Kamis</p>
+<p><strong>Ms Sutiana Binte Kamis</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language Teacher</p>
+<p><strong>English Language Teacher</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sutiana_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sutiana_Kamis@moe.edu.sg</a>
+<p><strong><a href="mailto:sutiana_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sutiana_Kamis@moe.edu.sg</a></strong>
 </p>
 </td>
 </tr>
@@ -149,13 +151,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Aruna Devi D/O Alaguraju</p>
+<p><strong>Ms Gopal Bhuvaneswari</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tamil Language Teacher</p>
+<p><strong>Tamil Language Teacher</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aruna_devi_alaguraju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Aruna_Devi_Alaguraju@moe.edu.sg</a>
+<p><a href="mailto: Gopal_Bhuvaneswari@moe.edu.sg" rel="noopener nofollow" target="_blank">Gopal_Bhuvaneswari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
