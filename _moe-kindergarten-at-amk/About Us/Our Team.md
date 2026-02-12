@@ -53,15 +53,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sutiana Binte Kamis</strong>
-</p>
+<p>Ms Filzah Zafirah Binte Abdul Ghafar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>English Language Teacher</strong>
-</p>
+<p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:sutiana_kamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sutiana_Kamis@moe.edu.sg</a></strong>
+<p><a href="mailto:filzah_zafirah_abdul_ghafar@moe.edu.sg" rel="noopener nofollow" target="_blank">filzah_zafirah_abdul_ghafar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Seng Hui Huang Valarie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: seng_hui_huang_valarie@moe.edu.sg" rel="noopener nofollow" target="_blank">seng_hui_huang_valarie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Alifah Ilyana Binte Kamsani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: nur_alifah_ilyana_kamsani@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_alifah_ilyana_kamsani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -151,12 +173,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Gopal Bhuvaneswari</strong>
-</p>
+<p>Ms Gopal Bhuvaneswari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tamil Language Teacher</strong>
-</p>
+<p>Tamil Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: Gopal_Bhuvaneswari@moe.edu.sg" rel="noopener nofollow" target="_blank">Gopal_Bhuvaneswari@moe.edu.sg</a>
