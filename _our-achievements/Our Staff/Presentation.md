@@ -9,6 +9,35 @@ third_nav_title: Our Staff
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/banneramk.jpg">
 </div>
 <h4>Congratulation to all our staff on their achievements! We are proud of you!</h4>
+<h3>2026</h3>
+<p><strong><u>Staff Presentation</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamad Riaz Sulaimi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher Leader Facilitator at the Beginning Teachers (BT) Symposium 2026</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>2025</h3>
 <p><strong><u>Staff Presentation</u></strong>
 </p>
