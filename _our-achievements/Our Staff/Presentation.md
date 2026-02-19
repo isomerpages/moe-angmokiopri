@@ -20,11 +20,20 @@ third_nav_title: Our Staff
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Mohamad Riaz Sulaimi</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Teacher Leader Facilitator at the Beginning Teachers (BT) Symposium 2026</p>
+<p><strong>Teacher Leader Facilitator at the Beginning Teachers (BT) Symposium 2026</strong>
+</p>
 </th>
 </tr>
 </tbody>
