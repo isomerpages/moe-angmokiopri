@@ -1,7 +1,7 @@
 ---
 title: Presentation
 permalink: /our-staff/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Our Staff
 ---
@@ -12,7 +12,6 @@ third_nav_title: Our Staff
 <h3>2026</h3>
 <p><strong><u>Staff Presentation</u></strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -21,20 +20,21 @@ third_nav_title: Our Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><strong>Teacher</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Event</p>
+<p><strong>Event</strong>
+</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mohamad Riaz Sulaimi</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Teacher Leader Facilitator at the Beginning Teachers (BT) Symposium 2026
-</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher Leader Facilitator at the Beginning Teachers (BT) Symposium 2026</p>
+</td>
 </tr>
 </tbody>
 </table>
