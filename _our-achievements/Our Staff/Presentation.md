@@ -32,7 +32,7 @@ third_nav_title: Our Staff
 <p>Mohamad Riaz Sulaimi</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Teacher Leader Facilitator at the Beginning Teachers (BT) Symposium 2026</strong>
+<p>Teacher Leader Facilitator at the Beginning Teachers (BT) Symposium 2026
 </p>
 </th>
 </tr>
