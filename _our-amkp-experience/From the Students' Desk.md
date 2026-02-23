@@ -1,80 +1,85 @@
 ---
 title: From the Students' Desk
 permalink: /from-the-students-desk/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<p>Dear fellow AMKPians,</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Dear fellow AMKPians,</strong>
+</p>
+<p>My name is Jiyoo Hong, and it was a great honour to serve as Student Council
+President of AMKP.</p>
+<p>Throughout my years in AMKP, I have not only grown academically, but also
+personally. The school has provided me with many opportunities to step
+out of my comfort zone, challenge myself, and develop skills that go beyond
+books and classroom. Each experience has shaped me into the person I am
+today.</p>
+<p>Those myriad of activities we experience, push us to persevere when faced
+with challenges and help us develop confidence in our abilities. Through
+these opportunities, I learned that growth happens when we dare to stretch
+ourselves.</p>
+<p>One such meaningful experience is being involved in programmes that allow
+us to give back to others. Initiatives like ASPIReaders provide students
+with the opportunity to mentor younger peers in their reading. Through
+guiding my juniors patiently and encouraging them, I have learnt the values
+of empathy, responsibility, and the joy of serving. These moments have
+reminded me that leadership begins with small acts of care.</p>
+<p>In addition to this, I have also had the experience of joining an innovation
+programme (IvP), and through this experience it has not only taught me
+to think of creative solutions to life's problems, but also equipped me
+with many skills such as creativity and perseverance that will certainly
+stand me in good stead in the future.</p>
+<p>Through the various commemorative events and celebrations which are an
+important part of my school experience, I have learnt to appreciate our
+diversity and witnessed how it strengthens our unity. Chinese New Year,
+Hari Raya, Deepavali, Racial Harmony Day and National Day celebrations
+are not simply festive events for me. Through performances, interactive
+booths, craft activities, quizzes and exhibitions, I have gained a deeper
+understanding of different cultures and traditions we cherish as a community.
+These shared experiences have also helped to bring us closer together as
+one AMKP family.</p>
+<p>The learning Journeys and P5 level camp have also yielded lasting memories
+and formed deep impressions in my heart and mind. From visiting iconic
+places such as Gardens by the Bay and the different heritage museums, to
+attending National Education Shows like the NDP and Chingay Parade with
+my fellow student councillors, the vibrancy of Singapore’s culture has
+come alive for me. Through our Primary 5 camp, the values of resilience,
+teamwork and independence were truly a lived experience, helping me grow
+both as a student and as a leader.</p>
+<p>Serving as Student Council President at AMKP will surely be one of the
+most meaningful chapters of my educational journey. In helping to organise
+school events and plan Values-in- Action activities for the elderly, I
+have gleaned that leadership is not about power — but service. It is about
+listening to different perspectives, representing voices, and working together
+towards a common vision which I hope will ultimately lead to a better tomorrow.</p>
+<p>Initially, I had my reservation about fulfilling this role well. However,
+with the guidance of my teachers and the support of my fellow student councillors,
+I have gained greater confidence and discovered my purpose through serving
+others. It is truly an honour to contribute.</p>
+<p>AMKP is more than just a school to me — it is a place where we Rise, Shine,
+and Grow. Thank you for the opportunities and lessons.</p>
+<p>As we move forward this year, I hope every AMKPian will cherish every
+experience, embrace every challenge, and make the most of the opportunities
+afforded them. Let us continue to support one another to Rise and Shine
+to become the best versions of ourselves!</p>
+<p><strong>Yours in service,<br></strong>Jiyoo Hong
+<br>Student Council President (2025-2026)</p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<p>My name is Hailey Tan from 6 Respect. Throughout the 6 years I have spent
-in AMKP, I’ve grown and learned a lot. With the many opportunities and
-programmes available here, I was certainly able to pick up new skills and
-learn valuable lessons in the course of my journey.</p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<p>The ASPIReaders programme which I was a part of, helps the younger students&nbsp;
-improve their reading skills. As a mentor, I was able to help my juniors
-read and understand the books they are reading. Through this program, I
-am not only able to help my juniors but also build bonds with them through
-the time spent together as they improve and develop a joy for reading.</p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p>Other examples are the various stretch programmes I have been involved
-in, include the E2K, Maths Olympiad, and Innovation programmes. These programmes
-have allowed AMKPians like myself, extend our learning beyond the regular
-syllabus, and as the intent suggests, stretch us to reach greater heights.</p>
-<p></p>
-<p>More broad-based programmess like our very own AMKP Kaleidoscope showcase
-provides an opportunity for students to showcase their talents; through
-performing items which pertain to&nbsp; PE, Music, Art, and English related
-exploits. This lets students showcase areas of themselves others may not
-otherwise have the opportunity to learn.</p>
-<p></p>
-<p>Other things I recall fondly in my time here include the unique Hari Raya,
-Deepavali, Chinese New Year, Racial Harmony and National Day celebrations!
-Students are engaged through the sampling of certain traditional programmes
-and activities. Learning about the festival come alive&nbsp; through presentations,
-hands-on activities like craft, food tasting, quizzes and exhibitions with
-the support of fellow student subject champions, teacher mentors and parent
-volunteers.</p>
-<p></p>
-<p>Lastly and most memorable are what all students look forward to: Learning
-Journeys! I had the opportunity to visit many places and exhibitions around
-Singapore, like Gardens by the Bay, the various heritage museums, and even
-attend National Education Shows, namely the NDP and Chingay! Level camps
-for Primary 5 and 6 cohorts are yet another example of how these excursions
-are intended to not just entertain but also grow beyond the confines of
-our classrooms.</p>
-<p></p>
-<p>The programmes designed by the school allows me to grow and develop both
-my soft and hard skills. I truly value and appreciate the opportunities
-that I have been given to rise beyond just knowledge within our books to
-experience learning through authentic settings.</p>
-<p></p>
-<p>As the president of the Student Council, I’ve also had additional opportunities
-others may not have had the privilege of experiencing - honing my leadership
-and teamwork skills, through the Values in Action (VIA) initiative we plan
-for the elderly which helps us contribute and serve beyond the school into
-our community. Through this initiative, we connect with members of the
-public and serve others thinking of others beyond ourselves. In addition
-to this, we also get to plan certain school events which include both celebrations
-and ceremonies thus strengthening our bonds and teamwork as a council.</p>
-<p></p>
-<p>At the start, I was unsure of my role as Student Council President and
-worried I wouldn’t be able to serve my peers adequately, but after going
-through various projects, I’ve grown and found a deep purpose and meaning
-in serving. I am better able to understand the importance of listening
-to everyone’s voice and seeking my fellow students’ feedback and suggestions.
-It has truly been an honor to serve others at AMKP.</p>
-<p></p>
-<p>I hope everyone has the chance to experience such a fulfilling and enriching
-time here. I also hope all AMKPians appreciate and enjoy the different
-programmes and learning opportunities AMKP has to offer.</p>
-<p></p>
-<p>After my years in AMKP, I hope the skills and values that I’ve learnt
-will be put to good use for many more years to come. Learning never stops,
-so I hope to continue to cultivate my leadership skills and be given the
-opportunity to serve wherever I may be. Let’s all continue to Rise and
-Shine to be the best version of ourselves!</p>
-<p></p>
-<p><strong>Yours sincerely</strong>,
-<br>Hailey Tan</p>
-Student Councillor President 2025
