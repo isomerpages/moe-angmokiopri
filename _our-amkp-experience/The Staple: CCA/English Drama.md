@@ -27,16 +27,14 @@ to enable them to in turn develop inventive ideas and to raise their self-confid
 </li>
 <li>
 <p>Ms Amirah Bte Mohd Ismail (Second IC)</p>
-</li>
-<li>
-<p>Mrs Pamela Thio</p>
+<p></p>
 </li>
 </ul>
 <p><strong>CCA Days and Timing</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Friday</strong>, 2.15 p.m. to 4.15 p.m.</p>
+<p><strong>Monday</strong>, 2.15 p.m. to 4.15 p.m.</p>
 <p></p>
 </li>
 </ul>
