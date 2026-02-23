@@ -28,3 +28,4 @@ The Makers Club CCA aims to ignite pupils’ interest in ICT in a fun and meanin
 * **Monday**, 2.15 p.m. to 4.15 p.m.
 ![](/images/robotics.jpg)
 ![](/images/MM.png)
+![](/images/Makers_Club__1.jpg)
