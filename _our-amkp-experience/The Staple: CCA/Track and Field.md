@@ -34,10 +34,10 @@ sessions.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Monday</strong>, 2.15 p.m. to 4.15 p.m. (<em>Selected students in competitive team</em>)</p>
+<p><strong>Monday</strong>, 2.15 p.m. to 4.15 p.m. (Mass CCA)</p>
 </li>
 <li>
-<p><strong>Friday</strong>, 2.15 p.m. to 4.15 p.m. (Mass CCA)</p>
+<p><strong>Wednesday</strong>, 2.15 p.m. to 4.15 p.m. (<em>Selected students in competitive team</em>)</p>
 </li>
 </ul>
 <p></p>
