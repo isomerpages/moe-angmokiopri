@@ -31,12 +31,15 @@ and confidence as collaborative team players.</p>
 <li>
 <p>Mr Goh Leng Huat (Second IC)</p>
 </li>
+<li>
+<p>Mdm Tan Mui Mui</p>
+</li>
 </ul>
 <p><strong>CCA Days and Timing</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Friday</strong>, 2.15 p.m. to 4.15 p.m.</p>
+<p><strong>Monday</strong>, 2.15 p.m. to 4.15 p.m.</p>
 </li>
 </ul>
 <p></p>
