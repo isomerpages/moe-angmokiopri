@@ -31,7 +31,7 @@ young learners.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Friday</strong>, 2.15 p.m. to 4.15 p.m.</p>
+<p><strong>Monday</strong>, 2.15 p.m. to 4.15 p.m.</p>
 </li>
 </ul>
 <p></p>

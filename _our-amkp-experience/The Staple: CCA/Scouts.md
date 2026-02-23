@@ -27,14 +27,17 @@ resilience.</p>
 <p>Miss Clara Tham Kar Ling (First IC)</p>
 </li>
 <li>
-<p>Md Tan Mui Mui (Second IC)</p>
+<p>Mr Tan Wee Eng (Second IC)</p>
+</li>
+<li>
+<p>Miss Wang Jing Wen</p>
 </li>
 </ul>
 <p><strong>CCA Days and Timing</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Friday</strong>, 2.15 p.m. to 4.15 p.m.</p>
+<p><strong>Monday</strong>, 2.15 p.m. to 4.15 p.m.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">

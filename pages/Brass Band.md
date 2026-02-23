@@ -2,7 +2,6 @@
 title: Brass Band
 permalink: /our-amkp-experience/the-staple-cca/brass-band/
 description: ""
-third_nav_title: "The Staple: CCA"
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
