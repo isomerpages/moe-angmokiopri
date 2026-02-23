@@ -31,20 +31,17 @@ and encourage them to pursue their passion in the aesthetics.</p>
 <p>Mdm Monica Leong Cai Lin (Second IC)</p>
 </li>
 <li>
-<p>Ms Tiffany Sarah Sebastian</p>
-</li>
-<li>
 <p>Mr Muralindran s/o Rajendran</p>
 </li>
 <li>
-<p>Mdm Shahida Binte Mohd Said</p>
+<p>Mdm Ariyanti Sukaimi</p>
 </li>
 </ul>
 <p><strong>CCA Days and Timing</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Friday</strong>, 2.15 p.m. to 4.15 p.m.</p>
+<p><strong>Monday</strong>, 2.15 p.m. to 4.15 p.m.</p>
 </li>
 </ul>
 <p></p>
