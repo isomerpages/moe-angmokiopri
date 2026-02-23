@@ -28,15 +28,18 @@ resilience, sportsmanship and a positive sense of self.</p>
 <li>
 <p>Ms Esheen Koh</p>
 </li>
+<li>
+<p>Ms Nur Fitri Faezah Binte Mohamed</p>
+</li>
 </ul>
 <p><strong>CCA Days and Timing</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Monday</strong>, 2.15 p.m. to 4.15 p.m. (<em>Selected students in competitive team</em>)</p>
+<p><strong>Monday</strong>, 2.15 p.m. to 4.15 p.m. (Mass CCA)</p>
 </li>
 <li>
-<p><strong>Friday</strong>, 2.15 p.m. to 4.15 p.m. (Mass CCA)</p>
+<p><strong>Wednesday</strong>, 2.15 p.m. to 4.15 p.m. (<em>Selected students in competitive team</em>)</p>
 </li>
 </ul>
 <p></p>
