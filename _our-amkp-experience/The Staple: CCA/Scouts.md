@@ -30,7 +30,7 @@ resilience.</p>
 <p>Mr Tan Wee Eng (Second IC)</p>
 </li>
 <li>
-<p>Wang Jing Wen (UT)</p>
+<p>Miss Wang Jing Wen</p>
 </li>
 </ul>
 <p><strong>CCA Days and Timing</strong>
