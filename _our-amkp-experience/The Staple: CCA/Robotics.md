@@ -6,7 +6,7 @@ third_nav_title: "The Staple: CCA"
 variant: markdown
 ---
 ![Sub-banner](/images/sub%20banner.jpg)
-&gt;**Robotics**
+&gt;**Robotics &amp; Makers Club**
 
 **<font size="5">About</font>**
 
@@ -15,11 +15,11 @@ The Robotics Club nurtures students’ creativity and innovation while equipping
 Using age-appropriate kits like LEGO Education SPIKE, they learn STEM (Science, Technology, Engineering, and Mathematics) concepts in a way that promotes curiosity, perseverance, and innovation. This helps students to develop a strong foundation in coding and problem-solving, preparing them for future technological advancements while making learning enjoyable. 
 
 **<font size="5">Teachers-in-Charge</font>**
-* Miss Nur Fitri Faezah Binte Mohamed (First IC)
+* Mr Chua Gim Sen Alan (First IC)
 * Mdm Tan Mui Ling Tabhita (Second IC)
-* Mr Chua Gim Sen Alan 
+*  
 
 **<font size="5">CCA Days and Timing</font>**
-* **Friday**, 2.15 p.m. to 4.15 p.m.
+* **Monday**, 2.15 p.m. to 4.15 p.m.
 ![](/images/robotics.jpg)
 ![](/images/MM.png)
