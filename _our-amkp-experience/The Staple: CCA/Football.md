@@ -27,20 +27,21 @@ excellence.</p>
 <p>Mr Eric Soh (Second IC)</p>
 </li>
 <li>
-<p>Mr Miguel Carlo Kung Yong Long</p>
+<p>Mdm Nor Aishah Binte Sa'ad</p>
 </li>
 <li>
-<p>Mdm Nor Aishah Binte Sa'ad</p>
+<p>Miss Nursyafiqah Binte Sawal</p>
+<p></p>
 </li>
 </ul>
 <p><strong>CCA Days and Timing</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Monday</strong>, 2.15 p.m. to 4.15 p.m. (<em>Selected students in competitive team</em>)</p>
+<p><strong>Monday</strong>, 2.15 p.m. to 4.15 p.m. (Mass CCA)</p>
 </li>
 <li>
-<p><strong>Friday</strong>, 2.15 p.m. to 4.15 p.m. (Mass CCA)</p>
+<p><strong>Wednesday</strong>, 2.15 p.m. to 4.15 p.m. (<em>Selected students in competitive team</em>)</p>
 </li>
 </ul>
 <p></p>
