@@ -1,7 +1,7 @@
 ---
 title: From the Students' Desk
 permalink: /from-the-students-desk/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <table style="minWidth: 75px">
@@ -12,20 +12,19 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<br>Dear fellow AMKPians,
-<br>
-<br>My name is Jiyoo Hong, and it was a great honour to serve as Student Council President of AMKP.
-<br>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<p>Dear fellow AMKPians,</p>
+<p>My name is <strong>Jiyoo Hong</strong>, and it was a great honour to serve
+as <strong>Student Council President of AMKP</strong>.</p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_4_00_31_PM.jpg">
 </div>
-</th>
+</td>
 </tr>
 <tr>
-<th rowspan="1" colspan="3">
+<td rowspan="1" colspan="3">
 <p>Throughout my years in AMKP, I have not only grown academically, but also
 personally. The school has provided me with many opportunities to step
 out of my comfort zone, challenge myself, and develop skills that go beyond
@@ -79,11 +78,11 @@ and Grow. Thank you for the opportunities and lessons.</p>
 experience, embrace every challenge, and make the most of the opportunities
 afforded them. Let us continue to support one another to Rise and Shine
 to become the best versions of ourselves!</p>
-<p>Yours in service,
-<br>Jiyoo Hong
-<br>Student Council President (2025-2026)</p>
 <p></p>
-</th>
+<p>Yours in service,</p>
+<p>Jiyoo Hong</p>
+<p>Student Council President (2025-2026)</p>
+</td>
 </tr>
 </tbody>
 </table>
