@@ -39,6 +39,10 @@ description: ""
 </p>
 <p><strong>Yours in service,<br>Jiyoo Hong <br>Student Council President (2025-2026)</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_23_at_4_00_31_PM.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
