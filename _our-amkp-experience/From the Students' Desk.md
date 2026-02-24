@@ -14,7 +14,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <p>Dear fellow AMKPians,</p>
-<p>My name is <strong>Jiyoo Hong</strong>, and it was a great honour to serve
+<p>My name is <strong>Jiyoo Hong</strong>, and it is a great honour to serve
 as <strong>Student Council President of AMKP</strong>.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,7 +68,7 @@ school events and plan Values-in- Action activities for the elderly, I
 have gleaned that leadership is not about power — but service. It is about
 listening to different perspectives, representing voices, and working together
 towards a common vision which I hope will ultimately lead to a better tomorrow.</p>
-<p>Initially, I had my reservation about fulfilling this role well. However,
+<p>Initially, I had my reservations about fulfilling this role well. However,
 with the guidance of my teachers and the support of my fellow student councillors,
 I have gained greater confidence and discovered my purpose through serving
 others. It is truly an honour to contribute.</p>
