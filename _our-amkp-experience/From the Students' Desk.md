@@ -78,12 +78,7 @@ and Grow. Thank you for the opportunities and lessons.</p>
 experience, embrace every challenge, and make the most of the opportunities
 afforded them. Let us continue to support one another to Rise and Shine
 to become the best versions of ourselves!</p>
-<p></p>
-<p>Yours in service,</p>
-<p>Jiyoo Hong</p>
-<p>Student Council President (2025-2026)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<br>Yours in service,
+<br>Jiyoo Hong
+<br>Student Council President (2025-2026)<br>
+</td></tr></tbody></table>
