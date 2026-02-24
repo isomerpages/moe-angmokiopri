@@ -13,9 +13,10 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Dear fellow AMKPians,</p>
-<p>My name is Jiyoo Hong, and it was a great honour to serve as Student Council
-President of AMKP.</p>
+<p><strong>Dear fellow AMKPians,</strong>
+</p>
+<p><strong>My name is Jiyoo Hong, and it was a great honour to serve as Student Council President of AMKP.</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
