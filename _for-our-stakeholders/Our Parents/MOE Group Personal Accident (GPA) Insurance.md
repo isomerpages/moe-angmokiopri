@@ -15,15 +15,15 @@ third_nav_title: Our Parents
 Plan for Students can be found on Income’s website at&nbsp;<a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.income.com.sg/studentgpa</u></a>
 </p>
 </li>
+<li>
+<p>Click <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">here</a> for
+the direct link for the claim form</p>
+</li>
 </ol>
 <h3>Product Fact Sheet</h3>
 <p>Please read the product fact sheet for the terms and conditions of the
 insurance coverage on the NTUC Income’s website by clicking the link below.</p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank"><u>https://studentgpa.incomegroupins.com.sg</u></a>
-</p>
-</li>
 <li>
 <p><a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/MOE+Student+Product+Fact+Sheet.pdf" rel="noopener nofollow" target="_blank">Produce Fact Sheet</a>
 </p>
