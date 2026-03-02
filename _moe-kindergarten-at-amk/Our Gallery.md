@@ -5,7 +5,24 @@ description: ""
 variant: tiptap
 ---
 <p>&gt; Our Gallery</p>
-<p></p>
+<h4>2026 Events</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/2026_CNY_Media.gif">
+</div>
+<p>The MK children, together with AMKP students and teachers, came together
+to celebrate Chinese New Year and joyfully usher in the Year of the Horse.</p>
+<p>The children looked wonderful in their traditional Chinese costumes and
+colourful outfits. They were thrilled to watch the exciting lion dance
+performance and enthusiastically took part in the lively sing-along session
+led by the primary school music teacher, Mr Yap.</p>
+<p>In class, the children created beautiful horse-themed crafts and learned
+about Chinese traditions and customs, as well as the festive treats enjoyed
+during Chinese New Year. One of the highlights was our K2 Chinese students
+presenting their handwritten calligraphy artwork to the school leaders,
+which they had carefully practised in class.</p>
+<p>It was truly a joyful day filled with cultural learning, celebration,
+and togetherness as our school community united to welcome the Year of
+the Horse.</p>
 <h4>2025 Events</h4>
 <p><strong>Hari Raya Puasa Celebration</strong>
 </p>
