@@ -2,7 +2,6 @@ collections:
   our-amkp:
     output: true
     order:
-      - Our Strategic Map.md
       - Principal's Message.md
       - Vice Principal (Education) Ms Chen's Message.md
       - Vice Principal (Education) Mr Tan’s Message.md
@@ -14,6 +13,7 @@ collections:
       - Our AMKP Promise/.keep
       - Our AMKP Promise/School Vision, Mission, Motto and Values.md
       - Our AMKP Promise/Desired Outcomes of AMKP Students.md
+      - Our Strategic Map.md
       - Our AMKPians' Promise.md
       - Our School Rules.md
       - Our People/.keep
