@@ -4,9 +4,6 @@ permalink: /vice-principal-administration/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_Liew2.png">
 </div>
