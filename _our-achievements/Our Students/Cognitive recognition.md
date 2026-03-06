@@ -15,7 +15,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Recipients of 2026 Raffles Scholarship </strong></h4>
+<h4><strong>Recipients of 2026 Raffles Scholarship</strong></h4>
 </th>
 </tr>
 <tr>
@@ -62,6 +62,7 @@ third_nav_title: Our Students
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
