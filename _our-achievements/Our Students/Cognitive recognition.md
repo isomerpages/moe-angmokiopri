@@ -7,6 +7,61 @@ third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <h3><strong><u>2026</u></strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Recipients of 2026 Raffles Scholarship </strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chua Wen Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jake Lim Jun Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Razan Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Hai Yien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Respect</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
