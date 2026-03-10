@@ -15,6 +15,70 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<h4>National Tamil Spelling Bee organised by MediaCorp 2025 - Semi Finalist</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VARATHAN ARCHSHUNE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAJALINGAM THIYAZHINI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAGULAN ARIVAZHAGAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEJAS SRINIVASAN KIRUPAHARI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JEYAKUMAR MAGIZH VADHANI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <h4><strong>Recipients of 2026 Raffles Scholarship</strong></h4>
 </th>
 </tr>
