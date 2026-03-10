@@ -15,7 +15,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4>National Tamil Spelling Bee organised by MediaCorp 2025 - Semi Finalist</h4>
+<h4><strong>National Tamil Spelling Bee organised by MediaCorp 2025 - Semi Finalist</strong></h4>
 </th>
 </tr>
 <tr>
