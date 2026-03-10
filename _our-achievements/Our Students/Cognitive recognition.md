@@ -68,6 +68,13 @@ third_nav_title: Our Students
 <p>4CA</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tamil.jpg">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
