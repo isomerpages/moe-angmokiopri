@@ -9,5 +9,7 @@ description: ""
 </div>
 <h5>2026 School Calendar</h5>
 <p>Please refer to the links below for the school's termly calendar.</p>
+<p><a href="/files/Term_2_Calendar_for_Parents__final_.pdf" rel="noopener nofollow" target="_blank">Term 2 Calendar 2026</a>
+</p>
 <p><a href="/files/Term_1_Calendar_2.pdf" rel="noopener nofollow" target="_blank">Term 1 Calendar 2026</a>
 </p>
