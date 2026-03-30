@@ -30,10 +30,31 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Valerie Chua Ruishan (Mrs Low)
+<br>Wellisa Leono Liaw
+<br>Monica Leong
+<br>Tan Wee Eng
+<br>Lee Jun Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presented at Teacher-Led Workshop (TLW): Infusing play pedagogy into the
+teaching and learning of Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mohamad Riaz Sulaimi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher Leader Facilitator at the Beginning Teachers (BT) Symposium 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
