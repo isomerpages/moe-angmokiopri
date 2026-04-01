@@ -763,7 +763,8 @@ variant: tiptap
 <p>Ms Wang Jing Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wang_jingwen_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_jingwen_c@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
