@@ -145,7 +145,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1 Care</strong>
 </p>
 </td>
@@ -169,6 +169,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mark Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chin_ting_onn_mark@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_ting_onn_mark@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>1 Courage</strong>
 </p>
@@ -186,7 +195,8 @@ variant: tiptap
 <p>Mdm Sarah Bee Binte Jakfar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sarah_bee_jakfar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_bee_jakfar@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
