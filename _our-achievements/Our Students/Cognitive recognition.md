@@ -29,17 +29,6 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NARANG SAANJH KAUR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2CA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>YONG XIN YING</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,7 +40,7 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WONG XIN NING</p>
+<p>XIE ZIRUI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6EN</p>
@@ -73,10 +62,21 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>XIE ZIRUI</p>
+<p>WONG XIN NING</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NARANG SAANJH KAUR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2CA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation Award</p>
