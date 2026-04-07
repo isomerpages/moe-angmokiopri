@@ -7,6 +7,8 @@ third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <h3><strong><u>2026</u></strong></h3>
+<h4><strong>Chinese Storytelling Competition by Teck Ghee CC</strong></h4>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -16,20 +18,82 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumnus_Image.png">
-</div>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Attainment</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p>NARANG SAANJH KAUR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YONG XIN YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Prize – Upper Primary Category</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG XIN NING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN SI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XIE ZIRUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="2">
+<p></p>
 <p>🌟 <strong>CELEBRATING OUR ALUMNUS</strong> 🌟</p>
 <p>We are incredibly proud of Harideertham Sri Vishodhan, our former student,
 who has achieved stellar results in the 2025 GCE 'O' Level Examination
@@ -47,18 +111,15 @@ Mathematics Olympiad and Singapore Junior Chemistry Olympiad in 2024</p>
 Harideertham will continue to shine and make a positive impact wherever
 he goes, exemplifying what it means to be a AMKP graduate - a leader with
 character and intellect. &nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumnus_Image.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
