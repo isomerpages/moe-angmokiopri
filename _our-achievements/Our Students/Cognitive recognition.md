@@ -7,6 +7,83 @@ third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <h3><strong><u>2026</u></strong></h3>
+<h4><strong>Chinese Storytelling Competition by Teck Ghee CC</strong></h4>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Attainment</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NARANG SAANJH KAUR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YONG XIN YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Prize – Upper Primary Category</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG XIN NING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN SI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XIE ZIRUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation Award</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
