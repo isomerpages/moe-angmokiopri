@@ -92,21 +92,8 @@ third_nav_title: Our Students
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="2" colspan="2">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumnus_Image.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>🌟 <strong>CELEBRATING OUR ALUMNUS</strong> 🌟</p>
 <p>We are incredibly proud of Harideertham Sri Vishodhan, our former student,
 who has achieved stellar results in the 2025 GCE 'O' Level Examination
@@ -124,18 +111,15 @@ Mathematics Olympiad and Singapore Junior Chemistry Olympiad in 2024</p>
 Harideertham will continue to shine and make a positive impact wherever
 he goes, exemplifying what it means to be a AMKP graduate - a leader with
 character and intellect. &nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumnus_Image.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
