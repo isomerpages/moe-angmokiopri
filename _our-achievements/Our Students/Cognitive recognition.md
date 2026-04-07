@@ -7,7 +7,6 @@ third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <h3><strong><u>2026</u></strong></h3>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
