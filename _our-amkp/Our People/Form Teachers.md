@@ -918,7 +918,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>6 Integrity</strong>
 </p>
 </td>
@@ -940,15 +940,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: nursyafiqah_sawal@schools.gov.sg" rel="noopener nofollow" target="_blank">nursyafiqah_sawal@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mark Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chin_ting_onn_mark@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_ting_onn_mark@schools.gov.sg</a>
 </p>
 </td>
 </tr>
