@@ -7,7 +7,141 @@ third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <h3><strong><u>2026</u></strong></h3>
-<h4><strong>Chinese Storytelling Competition by Teck Ghee CC</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>KATAPELLA 2026 organised by MLLPC - Participation</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of student</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR ZARA HUMAIRAH BINTE ABDULLAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAEK QAISH IMANY BIN ABDULLAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAARAH BINTE MUHAMMAD TAUFIQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD IMAN ARIQ BIN SARIMAN SAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PUTERI AYRA BINTE MUHAMMAD KAFI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AVNEET DEVI AMEETNASH RAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOHAMMAD ZAYNE ANAQI BIN MOHAMMAD ZACK DANIAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PUTRI NUR ADEEVA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR RIHANNA UM'MAIRAH BINTE ABDUL RASHID</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOHAMMAD ZAYYAN ARYAN BIN MOHAMMAD ZACK DANIAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHAZY SHADRYAN BIN MUHAMMAD SHAFIQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAYLA SHAQIILAH BINTE MUHAMMAD ISQANDAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KIREINA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AUZYNN SHAQUILLE BIN JASZRY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3RS</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -17,6 +151,11 @@ third_nav_title: Our Students
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="3">
+<h4><strong>Chinese Storytelling Competition by Teck Ghee CC</strong></h4>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
@@ -24,7 +163,7 @@ third_nav_title: Our Students
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Attainment</p>
+<p>Award</p>
 </th>
 </tr>
 <tr>
@@ -46,7 +185,7 @@ third_nav_title: Our Students
 <p>6EN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation Award</p>
+<p>Participation</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +196,7 @@ third_nav_title: Our Students
 <p>6EN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation Award</p>
+<p>Participation</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +207,7 @@ third_nav_title: Our Students
 <p>6EN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation Award</p>
+<p>Participation</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +218,7 @@ third_nav_title: Our Students
 <p>2CA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation Award</p>
+<p>Participation</p>
 </td>
 </tr>
 </tbody>
