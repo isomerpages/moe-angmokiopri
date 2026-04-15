@@ -15,7 +15,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>KATAPELLA 2026 Competition organised by MLLPC - Participation</strong></h4>
+<h4><strong>KATAPELLA 2026 organised by MLLPC - Participation</strong></h4>
 </th>
 </tr>
 <tr>
