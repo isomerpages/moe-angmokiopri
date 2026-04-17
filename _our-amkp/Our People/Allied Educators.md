@@ -3,7 +3,7 @@ title: Allied Educators
 permalink: /about-us/our-people/teaching-staff/allied-educators/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sub-banner" src="/images/sub%20banner.jpg">
@@ -59,12 +59,9 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>School Counsellor</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -102,12 +99,9 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Senior Student Welfare Officer</strong>
+<td rowspan="1" colspan="2">
+<p><strong>Senior Student Welfare Officer (Snr SWO)</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
