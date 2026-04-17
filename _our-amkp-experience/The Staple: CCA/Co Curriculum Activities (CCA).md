@@ -60,7 +60,7 @@ learn skills at a beginning level and/or improve on them.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Clubs and Societies</p>
+<p>ICT</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Physical Sports</p>
@@ -74,7 +74,7 @@ learn skills at a beginning level and/or improve on them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Robotics</p>
+<p>Infocomm Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Badminton</p>
@@ -88,7 +88,7 @@ learn skills at a beginning level and/or improve on them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maker Club</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball</p>
