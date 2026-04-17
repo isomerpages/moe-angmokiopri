@@ -60,7 +60,7 @@ learn skills at a beginning level and/or improve on them.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>ICT</p>
+<p>Clubs and Societies</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Physical Sports</p>
