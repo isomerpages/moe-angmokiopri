@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>School Counsellor</strong>
+<p><strong>Senior School Counsellor</strong>
 </p>
 </td>
 </tr>
@@ -74,11 +74,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><strong>School Counsellor</strong>
+</p>
 </td>
 </tr>
 <tr>
