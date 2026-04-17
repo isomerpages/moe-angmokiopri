@@ -103,7 +103,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Student Welfare Officer</strong>
+<p><strong>Senior Student Welfare Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
