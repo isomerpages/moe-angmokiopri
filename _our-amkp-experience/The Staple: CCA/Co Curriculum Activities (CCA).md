@@ -32,7 +32,7 @@ and deepen their sense of belonging to their CCA, AMKP and community.</p>
 in one CCA during his/her primary school years.</p>
 </li>
 <li>
-<p>Catering to diverse needs of our students: AMKP offers a total of 14 CCAs
+<p>Catering to diverse needs of our students: AMKP offers a total of 12 CCAs
 classified under four clusters (Clubs and Societies, Physical Sports, Uniformed
 Groups, and Visual and Performing Arts) to cater to the different strengths,
 talents and interests of our students.</p>
