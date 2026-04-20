@@ -97,7 +97,7 @@ learn skills at a beginning level and/or improve on them.</p>
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brass Band</p>
+<p>Choir</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ learn skills at a beginning level and/or improve on them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choir</p>
+<p>English Drama</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ learn skills at a beginning level and/or improve on them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Drama</p>
+<p>Modern Dance</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ learn skills at a beginning level and/or improve on them.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Modern Dance</p>
+<p></p>
 </td>
 </tr>
 <tr>
