@@ -7,6 +7,32 @@ variant: tiptap
 <p>&gt; Our Gallery</p>
 <h4>2026 Events</h4>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Hari_Raya.gif">
+</div>
+<p><strong>MK Celebrates Hari Raya: Little Hearts, Big Discoveries! 🌙✨</strong>
+</p>
+<p>Our youngest learners recently had their own special Hari Raya adventure,
+perfectly tailored for curious little minds!</p>
+<p>The excitement began days before the celebration as our teachers transformed
+our learning space into a dedicated culture corner, introducing our MK
+children to the beauty of Malay traditions and customs. On our celebration
+day, our children looked stunning in their traditional Malay costumes and
+festive outfits! They proudly joined our AMKP school community, watching
+captivating cultural performances with wide-eyed wonder, and some even
+took centre stage during the fashion parade.</p>
+<p></p>
+<p>Back in our MK space, the learning continued with hands-on fun! Our children
+crafted colourful keychains to take home as special mementos, while enjoying
+delicious traditional treats like pineapple tarts and dahlia cookies. The
+highlight was our festive photobooth, where giggles filled the air as children
+posed in their beautiful outfits, creating precious memories to treasure.</p>
+<p></p>
+<p>This celebration was more than just fun—it was about opening young hearts
+to different cultures and fostering community spirit. Watching our little
+ones embrace new traditions with such joy and curiosity made this Hari
+Raya truly unforgettable!</p>
+<h4></h4>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/2026_CNY_Media.gif">
 </div>
 <p>The MK children, together with AMKP students and teachers, came together
