@@ -30,6 +30,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Ariyanti Bte Sukaimi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Conducted workshop on “Use and Construction of Toolkit for TP1” for NIE
+ML Diplomas teachers</p>
+<p>&nbsp;</p>
+<p>Conducted Open Classroom session at Ang Mo Kio Primary School for NIE
+ML BA student teachers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Valerie Chua Ruishan (Mrs Low)
 <br>Wellisa Leono Liaw
 <br>Monica Leong
