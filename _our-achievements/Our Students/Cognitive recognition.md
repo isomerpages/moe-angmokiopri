@@ -15,6 +15,61 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<h4><strong>Inter-school Newsmaker Awards 2026 - Merit Award</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of student</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MESA DYLAN ELLIS REQUEJO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AMAR HUZAIFAH BIN IMRAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEN JIAYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photorcognition.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <h4><strong>KATAPELLA 2026 organised by MLLPC - Participation</strong></h4>
 </th>
 </tr>
