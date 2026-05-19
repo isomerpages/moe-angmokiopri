@@ -163,7 +163,7 @@ AMOS WONG
 </p>
 </th>
 <th rowspan="1" colspan="2">
-<p><strong>&gt;30 seater</strong>
+<p><strong>&gt;15 seater</strong>
 </p>
 </th>
 </tr>
