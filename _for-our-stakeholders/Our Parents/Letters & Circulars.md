@@ -75,6 +75,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Please refer to the links below for the school's CCA schedule.</p>
+<p></p>
+<p><a href="/files/Term_3_2026_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">Term 3 CCA Schedule</a>
+</p>
 <p><a href="/files/Term_2_2026_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">Term 2 CCA Schedule</a>
 <br><a href="/files/Term_1_2026_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">Term 1 CCA Schedule</a>
 </p>
