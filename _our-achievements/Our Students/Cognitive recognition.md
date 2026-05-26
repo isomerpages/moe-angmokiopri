@@ -15,6 +15,54 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<h4><strong>"Script It Right” National Competition 2026 organised by CPCLL - Merit Award</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of student</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE ZHI TING 李芷葶</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LI WEI 李唯</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HUANG MENG 黄檬</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <h4><strong>Inter-school Newsmaker Awards 2026 - Merit Award</strong></h4>
 </th>
 </tr>
