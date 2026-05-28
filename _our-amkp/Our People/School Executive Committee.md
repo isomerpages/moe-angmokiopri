@@ -240,14 +240,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Cavin_Lee__new_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChatGPT_Image_May_28__2026__10_14_20_AM.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ChatGPT_Image_May_28__2026__10_03_07_AM.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ChatGPT_Image_May_28__2026__10_03_07_AM.png">
 </div>
 </td>
 </tr>
@@ -267,14 +268,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/2026/Razif__new_.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/ChatGPT_Image_May_28__2026__10_12_33_AM.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ChatGPT_Image_May_28__2026__09_54_31_AM.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ChatGPT_Image_May_28__2026__09_54_31_AM.png">
 </div>
 </td>
 </tr>
