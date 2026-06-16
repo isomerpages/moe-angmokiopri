@@ -27,15 +27,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administration Manager/ICT</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Edmund Goh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Operations Manager</strong>
 </p>
 </td>
@@ -63,17 +54,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Corporate Support Officer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Michelle Pauline d/o Chellappan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Corporate Support Officer</strong>
-<br>
+<p><strong>Administrative Executive</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,7 +67,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Yoke Lian</p>
+<p>Ms Michelle Pauline d/o Chellappan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Corporate Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Yoke Lien</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +91,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -159,9 +148,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Murali Kumaran
-<br>
-</p>
+<p>Mr Murali Kumaran</p>
 </td>
 </tr>
 <tr>
