@@ -294,11 +294,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharinee Tevermuthu</p>
+<p>Mdm Mary Mah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharinee_tevermuthu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharinee_tevermuthu_a@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -351,12 +350,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kang Phay Jia Dawn
-<br>
-</p>
+<p>Mdm Tan Wei Ling Annette (Mrs Ong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mailto:kang_phay_jia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kang_phay_jia@schools.gov.sg</a>
+<p><a href="mailto:tan_wei_ling_annette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_ling_annette@schools.gov.sg</a>
 </p>
 </td>
 </tr>
