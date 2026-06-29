@@ -50,7 +50,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Please refer to the links below for the school's termly letter.
-<br><a href="/files/AMKP_Term_1_letter.pdf" rel="noopener nofollow" target="_blank">Term 1 Letter 2026</a>
+<br><a href="/files/AMKP_Term_3_letter.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter 2026</a>
+</p>
+<p></p>
+<p><a href="/files/AMKP_Term_2_letter.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter 2026</a>
+</p>
+<p></p>
+<p><a href="/files/AMKP_Term_1_letter.pdf" rel="noopener nofollow" target="_blank">Term 1 Letter 2026</a>
 </p>
 </td>
 </tr>
