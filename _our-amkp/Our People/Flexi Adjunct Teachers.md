@@ -42,14 +42,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Sharinee Tevermuthu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr. Woo Tuck Ming Alvin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,26 +98,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Irene Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms. Ang Ee Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MOE Kindergarten English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Grace Fu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LSP</p>
 </td>
 </tr>
 <tr>
@@ -142,14 +118,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Hilary Eric Nerva</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
 </td>
 </tr>
 <tr>
