@@ -7,7 +7,359 @@ third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <h3><strong><u>2026</u></strong></h3>
-<h4><strong>Asia Pacific Mathematical Olympiad for Primary School (APMOPS) </strong></h4>
+<h4><strong>Singapore Primary Science Olympiad (SPSO)</strong></h4>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xiong Jinxiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reyn Tan Le Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Roy Zheng Ronghui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wu Zhaoxun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Li Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Li Yun-Syuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Yu Ye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tejas Srinivasan Kirupahari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gabriel Alexander Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hoang Vo Bao San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Huang Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joel Lim Zhen Wey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kang Junu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kaung Zay Htet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Zhi Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nyein Chan Zay Aaron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rania Binte Afzainizam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Samuel Tatchapon Asher John</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Samuel Wong Tze Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shreya Anil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teng Wesley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Varathan Archshune</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yong Xin Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aira Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chiah Seng Kun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Haydon Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jake Lim Jun Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loh Hoi Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rishan Ajmal Manisseril</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shen Linfeng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Asia Pacific Mathematical Olympiad for Primary School (APMOPS)</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
