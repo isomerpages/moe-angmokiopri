@@ -6,6 +6,360 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
+<h4><strong><u>2026 SEMESTER 2 AMKP Model Student Award (CCA)</u></strong></h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>National School Games (NSG) 2026</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Football (Senior Boys)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYSER TAY YU CHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD AQIL' ZAIREL BIN MUHAMMAD ZAINAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOHAMMAD DANEYAL WASEEM BIN ABDULLAH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AQIL PUTRA BIN ABDUL RAHIM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEOW HONG KAI&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEONG HAO YU&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD HAIQAL HAKIMI BIN MUHAMMAD FAIZAL&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FADDRIYAN MIKHAIL BIN FATHURRAHMAN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN MARTIN MARSHAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AURON ALEXANDRE FERNANDEZ&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GARG ARGHYA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>K ASHER CYRUS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD ERIZAN BIN MUHAMMAD NAZRI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VELVENDHAN ARULVENDHAN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MAXIMILIAN LORENZ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton (Senior Boys)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DHRUV KOLLA &nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN HAO XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>THAM YU WEI, CAYDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHAO RUIJIE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAYDEN TEO YONG YUAN&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZWEL PYAE HTIKE @NATHAN ONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NOAH NUGRAHA BIN AMIR TEGUH PRAKOSO &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE GUO YUAN LUCIUS &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOHAMMAD ZEYAD ASLAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RYAN ALLY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEAM KAI RUI KENDRICK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZENITH KUAN &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KANISHKA KARUNAMOORTHY&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LI WEI&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAJALINGAM THIYAZHINI&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOK YU QINN &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG XIN YUE&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>THARANIKA KARUNANITHI&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ALISHA MARIE TAGALA SUNANDA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DAYANG NUR'ALISYAH AWANG MUHAMMAD SAIFUL AIZAT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HUANG ZIQI CHERRY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KALEEN TAN XIN TONG&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE-ANN LAI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN KE XIN VINCCI&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 INTEGRITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong><u>2025 SEMESTER 2 AMKP Model Student Award (CCA)</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>

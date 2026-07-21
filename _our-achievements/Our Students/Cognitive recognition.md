@@ -7,6 +7,1694 @@ third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <h3><strong><u>2026</u></strong></h3>
+<h4><strong>Singapore Primary Science Olympiad (SPSO)</strong></h4>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xiong Jinxiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reyn Tan Le Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Roy Zheng Ronghui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wu Zhaoxun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Li Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Li Yun-Syuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Yu Ye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tejas Srinivasan Kirupahari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gabriel Alexander Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hoang Vo Bao San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Huang Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joel Lim Zhen Wey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kang Junu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kaung Zay Htet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Zhi Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nyein Chan Zay Aaron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rania Binte Afzainizam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Samuel Tatchapon Asher John</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Samuel Wong Tze Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shreya Anil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teng Wesley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Varathan Archshune</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yong Xin Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aira Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chiah Seng Kun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Haydon Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jake Lim Jun Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loh Hoi Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rishan Ajmal Manisseril</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shen Linfeng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Asia Pacific Mathematical Olympiad for Primary School (APMOPS)</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LI SIH-YAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAWFA FARHEEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CA</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHAO LINGXI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CA</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JADEN WONG QI MENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CA</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OOI HAO WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CA</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG HAO CHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CA</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ANANYA SATHEESHKUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU KEYOU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KINSLEY LIEW KANG LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEAM KAI RUI KENDRICK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GABRIEL LOO QUAN HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KENDRICK LOO FENG KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAVADHIRAN S/O GANISON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEAH RUI ZHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WANG ZICHEN MARCUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KIM HYOYEON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ONG HAI YIEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HARITH ANAQI BIN MUHAMAD ATIQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JISHNU DEVANDRAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE YOON SUNG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAEL WONG ZHI LEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RS</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HENG TOK MENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RS</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIU YINUO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RS</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEOW JUN YU DARREN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RS</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TETTU KOMANDUR KAUSHAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RS</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTICIPATION</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Singapore and Asian Schools Math Olympiad (SASMO)</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SETHUN CHAANUK SENANAYAKE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NANDI ARIYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NANDI ADHRIT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIN JIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KENNETH CHAN GUANGZHE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU KEHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAN WADDY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM CHUAN YI ELIAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM KYLER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHOU SIQI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PHAM AN SON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XIONG CHENHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ILHAN ZIQRI BIN MUHAMMAD TAUFIQ AL-HAFIZ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAYDEN YUEN ZI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NGUYEN NGOC LAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JEYAKUMAR MAGIZH VADHANI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIN JIAHUI, JAZLYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ONG JOO YEE JOLIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA JIA JIE, CHESTER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MESA DYLAN ELLIS REQUEJO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SARAVANAN RAJAMANI AKSARAMAALYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DANIEL CRISTIAN HEIJCKERS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GARETH XU SHUNJIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ONG YUAN AN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEN YAQI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KAUSHALYA D/O SAKTHIVELAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KOH LI XIN, KERINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAI TIANSHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEN JIAYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOANG BAO ANH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYANK KUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DOMINIC XANDER FELIX LEON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIN JIAXU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PYAE HEIN KYAW</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAJVEER ALAGUR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AVNEET DEVI AMEETNASH RAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YU-EN RENEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU YIJUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>POON WAI HONG JORDASH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>REYN TAN LE XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VARATHAN ARCHSHUNE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEJAS SRINIVASAN KIRUPAHARI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU ZHAOXUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XIONG JINXIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG YU YE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ROY ZHENG RONGHUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ALLYSSA TAN XIN YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JOEL LIM ZHEN WEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KANG JUNU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LI YUN-SYUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RISHAN AJMAL MANISSERIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YADAV RIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAZMIN FARIHA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AMBAL MANI LISHANTH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIAH SENG KUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA WEN HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TENG WESLEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LI SIYING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAJALINGAM THIYAZHINI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAN HUANG JUN KEITH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NYEIN CHAN ZAY AARON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHEN LINFENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHEN LINXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY HAN YUN BRYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LI SIH-YAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GABRIEL LOO QUAN HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG YU EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CAO XINYUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHAO LINGXI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OOI HAO WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG HAO CHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEAH RUI ZHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TANGUTURI ABHIRAM KUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6-IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JADEN WONG QI MENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KIM HYOYEON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAEL WONG ZHI LEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TETTU KOMANDUR KAUSHAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAWFA FARHEEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ANANYA SATHEESHKUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU KEYOU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KINSLEY LIEW KANG LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEAM KAI RUI KENDRICK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KENDRICK LOO FENG KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAVADHIRAN S/O GANISON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WANG ZICHEN MARCUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ONG HAI YIEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HARITH ANAQI BIN MUHAMAD ATIQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JISHNU DEVANDRAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE YOON SUNG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HENG TOK MENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIU YINUO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEOW JUN YU DARREN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CERTIFICATE OF PARTICIPATION</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
