@@ -30,7 +30,7 @@ description: ""
 <p>Asia Cuisine (Halal Japanese/Korean/Western/noodles/rice etc)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 December 2025</p>
+<p>31 December 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal</p>
@@ -41,7 +41,7 @@ description: ""
 <p>Chinese Mixed Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 December 2025</p>
+<p>31 December 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Non-Halal</p>
