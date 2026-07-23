@@ -6,6 +6,130 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
+<h4><strong>2026 SEMESTER 1 - AMKP Model Student Award (Class)</strong></h4>
+<p><strong><u>Model Student Award (Class)</u></strong>
+</p>
+<p>The <strong>Model Student Award (Class)</strong> recognises students who
+consistently demonstrate the <strong>RISE Values</strong> of <strong>Resilience, Integrity, Service and Excellence</strong> in
+their everyday actions. They take responsibility for their learning, care
+for others, make wise choices and lead by positive example, inspiring those
+around them through their character and conduct. <strong>Congratulations to all our deserving recipients for being role models!</strong>
+</p>
+<p><strong><u>Model Student Award (CCA)</u></strong>
+</p>
+<p>The <strong>Model Student Award (CCA)</strong> recognises students who exemplify
+the <strong>RISE Values</strong> through their commitment and contributions
+in their CCAs. They demonstrate perseverance, teamwork, responsibility
+and a spirit of service, while encouraging others and making a positive
+impact within their CCA community. <strong>Congratulations to all our deserving recipients for their dedication and for making a positive difference in their CCAs!</strong>
+</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Primary 1</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Awardees (Semester 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 RESILIENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CELINE IVY THENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIA HIAO HUI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KATE CHAN YUNXI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KUMAR ADYANT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 RESPONSIBILITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BELLA FARHANA BINTE MUHAMMAD SAIFULDINIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 INTEGRITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOH KAI EN HANNAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ERIELLE SKYE DOMINGUEZ MORATA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 CARE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOW YAN ZI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RANVEER ALAGUR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 COURAGE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHU HANXI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MIRELLE LIEW LING RU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 EXCELLENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WEE YI XUAN SHERMAINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIEW TZE HOW</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+</div>
+<p></p>
+<p></p>
 <h4><strong><u>2025 SEMESTER 2 - AMKP Model Student Award (Class)</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
