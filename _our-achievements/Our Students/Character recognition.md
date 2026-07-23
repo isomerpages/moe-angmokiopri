@@ -6,6 +6,59 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
+<h4><strong><u>2026</u></strong></h4>
+<h4><strong>Singapore Silent Heroes Award 2026</strong></h4>
+<p>This award recognises students who quietly make a positive difference
+through their kindness, resilience and willingness to serve others without
+seeking recognition.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
+</div>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Lu Shiqi Shavelle<strong> </strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>6 Respect</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>For over two years, Shavelle has quietly served as a Peer Support Leader
+and Red Cross member, supporting her peers, leading by example and volunteering
+in both school and the community. Her compassion, reliability and willingness
+to help have made a lasting impact on those around her.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Siow Wen Zhen</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6 Integrity</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Wen Zhen serves with quiet dedication as a Peer Support Leader and MTL
+SEED buddy reader, patiently supporting younger students while always looking
+out for the well-being of her classmates. Her resilience, kindness and
+selfless service inspire others every day.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>2026 SEMESTER 1 - AMKP Model Student Award (Class)</strong></h4>
 <p><strong><u>Model Student Award (Class)</u></strong>
 </p>
@@ -538,12 +591,253 @@ impact within their CCA community. <strong>Congratulations to all our deserving 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture66.png">
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Model Student Award - CCA</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TABLE TENNIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TOH HENG HSUAN SOPHIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BASKETBALL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WONG ZHI KAI, ETHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BADMINTON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZENITH KUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FOOTBALL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GARG ARGHYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TRACK AND FIELD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HENG YING XUAN FAITH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RED CROSS YOUTH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LU SHIQI SHAVELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MODERN DANCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NADELLA THANMAYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHOIR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ARUN KRISHKARTHIKEYAN&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT CLUB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GABRIEL LOO QUAN HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ART &amp; CRAFTS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JESSIE TAY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL DRAMA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FREEDIA CHEOW JIE YU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCOUTS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHANG ENYANG DANIEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PictureCCA.png">
+</div>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>National School Games (NSG) Sportsmanship Award 2026</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sports Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Track &amp; Field Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XIE ZIRUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XU ZEMING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GARG ARGHYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Basketball</p>
+<p>Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KINSLEY LIEW KANG LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN ZI YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RS</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.png">
+</div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h4><strong><u>2025</u></strong></h4>
 <h4><strong><u>2025 SEMESTER 2 - AMKP Model Student Award (Class)</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
