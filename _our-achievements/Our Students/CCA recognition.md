@@ -21,7 +21,7 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Swimming (Junior Boys) </strong>
+<p><strong>Swimming (Junior Boys)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -148,7 +148,7 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Football (Senior Boys) </strong>
+<p><strong>Football (Senior Boys)</strong>
 </p>
 </td>
 </tr>
@@ -284,12 +284,9 @@ third_nav_title: Our Students
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Badminton (Senior Boys)</strong>
+<td rowspan="1" colspan="2">
+<p><strong>Badminton (Senior Boys &amp; Senior Girls)</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
