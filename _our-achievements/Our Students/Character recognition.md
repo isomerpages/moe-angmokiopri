@@ -65,16 +65,14 @@ selfless service inspire others every day.</p>
 consistently demonstrate the <strong>RISE Values</strong> of <strong>Resilience, Integrity, Service and Excellence</strong> in
 their everyday actions. They take responsibility for their learning, care
 for others, make wise choices and lead by positive example, inspiring those
-around them through their character and conduct. <strong>Congratulations to all our deserving recipients for being role models!</strong>
-</p>
+around them through their character and conduct.</p>
 <p><strong><u>Model Student Award (CCA)</u></strong>
 </p>
 <p>The <strong>Model Student Award (CCA)</strong> recognises students who exemplify
 the <strong>RISE Values</strong> through their commitment and contributions
 in their CCAs. They demonstrate perseverance, teamwork, responsibility
 and a spirit of service, while encouraging others and making a positive
-impact within their CCA community. <strong>Congratulations to all our deserving recipients for their dedication and for making a positive difference in their CCAs!</strong>
-</p>
+impact within their CCA community.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
