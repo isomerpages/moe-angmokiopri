@@ -6,6 +6,544 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
+<h4><strong>2026 SEMESTER 1 - AMKP Model Student Award (Class)</strong></h4>
+<p><strong><u>Model Student Award (Class)</u></strong>
+</p>
+<p>The <strong>Model Student Award (Class)</strong> recognises students who
+consistently demonstrate the <strong>RISE Values</strong> of <strong>Resilience, Integrity, Service and Excellence</strong> in
+their everyday actions. They take responsibility for their learning, care
+for others, make wise choices and lead by positive example, inspiring those
+around them through their character and conduct. <strong>Congratulations to all our deserving recipients for being role models!</strong>
+</p>
+<p><strong><u>Model Student Award (CCA)</u></strong>
+</p>
+<p>The <strong>Model Student Award (CCA)</strong> recognises students who exemplify
+the <strong>RISE Values</strong> through their commitment and contributions
+in their CCAs. They demonstrate perseverance, teamwork, responsibility
+and a spirit of service, while encouraging others and making a positive
+impact within their CCA community. <strong>Congratulations to all our deserving recipients for their dedication and for making a positive difference in their CCAs!</strong>
+</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Primary 1</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Awardees (Semester 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 RESILIENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CELINE IVY THENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIA HIAO HUI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KATE CHAN YUNXI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KUMAR ADYANT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 RESPONSIBILITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BELLA FARHANA BINTE MUHAMMAD SAIFULDINIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 INTEGRITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOH KAI EN HANNAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ERIELLE SKYE DOMINGUEZ MORATA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 CARE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOW YAN ZI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RANVEER ALAGUR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 COURAGE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHU HANXI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MIRELLE LIEW LING RU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 EXCELLENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WEE YI XUAN SHERMAINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIEW TZE HOW</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Primary 2</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Awardees (Semester 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 RESILIENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GAHARWAR AVIRAJ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IZAK YI JIE OEVREBOE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHAN ZIBAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MATYN PUTRA BIN ABDUL RAHIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 INTEGRITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YANG RUIYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WAHENOOR KAUR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 CARE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALEEYSA SHERYL NG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD ALMIR AZIZ BIN MUHAMMAD SHAIFUL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 EXCELLENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHAI ZOE SCARLETTE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LAKSHIV KARTHI RATHINAM</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture22.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Primary 3</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Awardees (Semester 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 RESILIENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LAU HONGYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AUZYNN SHAQUILLE BIN JASZRY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TRUONG HUU MINH TAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LAM SOENG JAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 INTEGRITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIM QIU SHAN CLOUDIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HE JIALIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 CARE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHOW YEE YAN CLARA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIN LEYU OLIVIA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 EXCELLENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG JING WEN JEAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KATHIRESAN S/O THIRUKUMARAN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture33.png">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Primary 4</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Awardees (Semester 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 RESILIENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN YU-EN RENEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AVNEET DEVI AMEETNASH RAM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AMAR HUZAIFAH BIN IMRAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GELLIDON FREYA VICTORIA RUNIO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 INTEGRITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FION TING XIN YUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAYYROV ASAF</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 CARE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALEXANDER LEE CHI SHIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NANDI ARIYA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 EXCELLENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONG YUAN AN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAARAH BINTE MUHAMMAD TAUFIQ</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture44.png">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Primary 5</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Awardees (Semester 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 RESILIENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOK YU QINN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOH HUI XIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOANG VO BAO SAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAMUEL TATCHAPON ASHER JOHN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 INTEGRITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HUANG MENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TENG WESLEY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 CARE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FREYJA LIN YI HARN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WONG XUE YING, ZELENE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 EXCELLENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEAH LIM XIN YU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONG JUN XIANG RIZKY</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture55.png">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Primary 6</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Awardees (Semester 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 RESILIENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HUANG ZIQI CHERRY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WU YUNCHEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 RESPECT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONG JIYOO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LU SHIQI SHAVELLE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 INTEGRITY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TANGUTURI ABHIRAM KUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUKESH GUHAN PILLAI GOBINATH PILLAI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 CARE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>INBARAJ VANITHARAJ SARVESH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CAO XINYUN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 EXCELLENCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHAO ZICHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KAELYN FOO SAMPAN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture66.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong><u>2025 SEMESTER 2 - AMKP Model Student Award (Class)</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
