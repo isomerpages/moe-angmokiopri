@@ -6,8 +6,135 @@ description: ""
 third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
-<h4><strong><u>2026 SEMESTER 2 AMKP Model Student Award (CCA)</u></strong></h4>
-<p></p>
+<h4><strong><u>2026</u></strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>National School Games (NSG) 2026</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Swimming (Junior Boys)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>50m (25m Butterfly and 25m Backstroke)</p>
+</li>
+<li>
+<p>50m (25m Backstroke and 25m Freestyle)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chen Jiayi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Artistic Gymnastics (Junior Girls)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Sum Ye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gabrielle Tan Xin Yue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement Pin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Li Yun Syuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievement Pin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Golf (Junior Boys)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chen Steven</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -16,7 +143,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>National School Games (NSG) 2026</strong></h4>
+<h4><strong>National School Games (NSG) 2026 - Participation</strong></h4>
 </th>
 </tr>
 <tr>
@@ -157,12 +284,9 @@ third_nav_title: Our Students
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Badminton (Senior Boys)</strong>
+<td rowspan="1" colspan="2">
+<p><strong>Badminton (Senior Boys &amp; Senior Girls)</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -358,8 +482,114 @@ third_nav_title: Our Students
 <p>6 INTEGRITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball (Senior Boys)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG ZHI KAI, ETHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KINSLEY LIEW KANG LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAYLEN TANG JUN LONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEE HAO BIN, JONATHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XIONG JINXIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WANG ZILI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN ZI YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HING YONG XIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DAS ARJUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIU YINUO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DE GUZMAN KENDRICK DARON AL-MOZAEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIU SHIXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-CA</p>
+</td>
+</tr>
 </tbody>
 </table>
+<h4><strong><u>2025</u></strong></h4>
 <h4><strong><u>2025 SEMESTER 2 AMKP Model Student Award (CCA)</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
