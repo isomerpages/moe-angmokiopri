@@ -35,13 +35,16 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Award</p>
+<p><strong>Award</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -63,13 +66,16 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Award</p>
+<p><strong>Award</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -113,13 +119,16 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Award</p>
+<p><strong>Award</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -135,6 +144,7 @@ third_nav_title: Our Students
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
