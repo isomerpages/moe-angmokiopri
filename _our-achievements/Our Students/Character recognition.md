@@ -75,7 +75,6 @@ in their CCAs. They demonstrate perseverance, teamwork, responsibility
 and a spirit of service, while encouraging others and making a positive
 impact within their CCA community. <strong>Congratulations to all our deserving recipients for their dedication and for making a positive difference in their CCAs!</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
