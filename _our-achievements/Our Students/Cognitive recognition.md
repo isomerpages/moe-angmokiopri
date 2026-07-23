@@ -2043,7 +2043,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Raffles Science Olympiad 2026</strong></h4>
+<h4><strong>Raffles Science Olympiad (RSO) 2026</strong></h4>
 </th>
 </tr>
 <tr>
@@ -2068,8 +2068,7 @@ third_nav_title: Our Students
 <p>5IN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Gold</strong>
-</p>
+<p>Gold</p>
 </td>
 </tr>
 <tr>
@@ -2080,8 +2079,7 @@ third_nav_title: Our Students
 <p>5RP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Merit</strong>
-</p>
+<p>Merit</p>
 </td>
 </tr>
 <tr>
