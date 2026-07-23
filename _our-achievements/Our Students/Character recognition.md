@@ -23,8 +23,7 @@ seeking recognition.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Lu Shiqi Shavelle<strong> </strong>
-</p>
+<p>Lu Shiqi Shavelle</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>6 Respect</p>
