@@ -2,7 +2,6 @@ collections:
   for-our-stakeholders:
     output: true
     order:
-      - Our Parents/Canteen Stall Menu.md
       - Our Parents/.keep
       - Our Parents/Info for Primary 1 Parents 2026.md
       - Our Parents/Photography and Videography.md
@@ -16,6 +15,7 @@ collections:
       - Our Parents/Education & Career Guidance.md
       - Our Parents/Parents Gateway.md
       - Our Parents/MOE Group Personal Accident (GPA) Insurance.md
+      - Our Parents/Canteen Stall Menu.md
       - Our Parents/Important Helplines.md
       - Our SAC.md
       - Our Staff.md
