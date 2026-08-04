@@ -288,7 +288,8 @@ variant: tiptap
 <p>Mdm Mary Mah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Mah_Bee_Hoon_Mary_A@schools.gov.sg" rel="" target="_self">mah_bee_hoon_mary_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -340,7 +341,8 @@ variant: tiptap
 <p>Ms Chellachami</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Chellachami_Anusuyadevi@schools.gov.sg" rel="" target="_self">chellachami_anusuyadevi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -370,7 +372,8 @@ variant: tiptap
 <p>Ms Maha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Mahalakshmi_Sangar@schools.gov.sg" rel="" target="_self">mahalakshmi_sangar@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -482,7 +485,8 @@ variant: tiptap
 <p>Ms Amanda Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Amanda_Poh_Hui_En@schools.gov.sg" rel="" target="_self">amanda_poh_hui_en@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -840,7 +844,8 @@ variant: tiptap
 <p>Ms Goh Chooi Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Goh_Chooi_Shan@schools.gov.sg" rel="" target="_self">goh_chooi_shan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
