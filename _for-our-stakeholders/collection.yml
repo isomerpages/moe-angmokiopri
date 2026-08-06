@@ -2,6 +2,7 @@ collections:
   for-our-stakeholders:
     output: true
     order:
+      - Our Parents/NEU PC PLUS Programme (Subsidised Computer).md
       - Our Parents/.keep
       - Our Parents/Info for Primary 1 Parents 2026.md
       - Our Parents/Photography and Videography.md
