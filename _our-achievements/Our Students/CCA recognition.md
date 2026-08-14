@@ -685,7 +685,8 @@ third_nav_title: Our Students
 </tr>
 </tbody>
 </table>
-<h4><strong><u>Model Student Award (CCA)</u></strong></h4>
+<h4><strong>2026 SEMESTER 1 - AMKP Model Student Award (CCA)</strong></h4>
+<p>Model Student Award (CCA)</p>
 <p>The <strong>Model Student Award (CCA)</strong> recognises students who exemplify
 the <strong>RISE Values</strong> through their commitment and contributions
 in their CCAs. They demonstrate perseverance, teamwork, responsibility
@@ -860,7 +861,7 @@ impact within their CCA community.</p>
 </table>
 <p></p>
 <h4><strong><u>2025</u></strong></h4>
-<h4><strong><u>2025 AMKP Model Student Award (CCA) - Semester 2</u></strong></h4>
+<h4><strong><u>2025 SEMESTER 2 - AMKP Model Student Award (CCA)</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
