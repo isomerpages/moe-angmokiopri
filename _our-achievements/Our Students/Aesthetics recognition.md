@@ -7,6 +7,509 @@ third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <h4><strong><u>2026</u></strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4>2026 Singapore Youth Festival Arts Presentation - Modern Dance - <strong>Certificate of Distinction</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOON YATI OO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEVELLE TAN HWEE SHUEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN JIA YUE JESSE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR ERYNNA BINTE MOHAMMAD SYAHRIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MISCHA KHAIROUL ADZMIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOI YU XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CLARICE GOH XIN YUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HUANG MENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAMESH TANVI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PHAM LY GIA AN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHARU SARAN MADESWARAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SELENA KAORI TEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHALLA MEENAKSHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NADELLA THANMAYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAEL WONG ZHI LEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAI MIN HUI, KAELYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SIM XIN TONG CHLOVELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEO MEI LI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RS</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4>2026 Singapore Youth Festival Arts Presentation - Choir - <strong>Certificate of Accomplishment</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FARHA HUMAIRA BINTE MOHAMMAD NOR HISHAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIN LEYU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HUANG SHIYING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SIM QIU SHAN CLOUDIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEO YU XIN ADELE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAI WEN XI, ELAINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MAWAR SAFIYYAH BINTE MAZZLAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PHUA JIA LER CHARLOTTE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIN JIAHUI, JAZLYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SWEE XUANYING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAMIKA LATRISHA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOHAMAD SOLIHIN BIN MOHAMAD YUSRAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GELLIDON FREYA VICTORIA RUNIO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PYAE HEIN KYAW</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU CHENG-YA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AVNEET DEVI AMEETNASH RAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU YIJUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ANNELIESE LEONG YA ANN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR AR'YANA BINTE MOHAMAD YUSRAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FOO SHI LOK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KINGSLEY LEE ZONG HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHARLIZE IHARA RESO GALLARDO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ALLYSSA TAN XIN YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHOH ZI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHONG KAI JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GILBERT DON ANTHONY RETORBAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIANG NING EN, JAYLEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HAYLEY TAN YU XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM HUI EN, TIFFANY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARUN KRISHKARTHIKEYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD SYARIF HIDAYATULLAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 CARE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG XIN NING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 EXCELLENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EMMA LIM BAO HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PRASANNA KANISHKA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 INTEGRITY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KIM HYOYEON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAJESH PRASANNA KUMAR ANALENA JOANNA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SIVANI D/O SURESH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYAZNIEZA ERLIEYA BINTE SHAHRULNIZAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 RESPECT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYE CHAN PHYU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 RESILIENCE</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
