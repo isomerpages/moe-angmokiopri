@@ -7,6 +7,46 @@ third_nav_title: Our Students
 ---
 <h4>Congratulations to all our students on their achievements! We are proud of you!</h4>
 <h4><strong><u>2026</u></strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4>SYF Youth Station Project, songwriting competition - <strong>Finalist</strong></h4>
+<p>Song Title: Crossroads</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hyoyeon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shavelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
