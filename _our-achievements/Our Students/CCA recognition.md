@@ -609,34 +609,88 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p></p>
+<h4><strong>National School Games (NSG) Sportsmanship Award 2026</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sports Event</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Awardee</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Track &amp; Field Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XIE ZIRUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>XU ZEMING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>GARG ARGHYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Basketball</p>
+<p>Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KINSLEY LIEW KANG LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN ZI YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.png">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4><strong><u>Model Student Award (CCA)</u></strong></h4>
+<p>The <strong>Model Student Award (CCA)</strong> recognises students who exemplify
+the <strong>RISE Values</strong> through their commitment and contributions
+in their CCAs. They demonstrate perseverance, teamwork, responsibility
+and a spirit of service, while encouraging others and making a positive
+impact within their CCA community.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -646,7 +700,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Model Student Award - CCA</strong></h4>
+<h4><strong>Model Student Award - CCA (Semester 1)</strong></h4>
 </th>
 </tr>
 <tr>
@@ -806,7 +860,7 @@ third_nav_title: Our Students
 </table>
 <p></p>
 <h4><strong><u>2025</u></strong></h4>
-<h4><strong><u>2025 SEMESTER 2 AMKP Model Student Award (CCA)</u></strong></h4>
+<h4><strong><u>2025 AMKP Model Student Award (CCA) - Semester 2</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
