@@ -15,6 +15,110 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<h4>2026 Singapore Youth Festival Celebrations Dance Extravaganza! Showcase</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOON YATI OO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEVELLE TAN HWEE SHUEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN JIA YUE JESSE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR ERYNNA BINTE MOHAMMAD SYAHRIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MISCHA KHAIROUL ADZMIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOI YU XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CLARICE GOH XIN YUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAMESH TANVI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PHAM LY GIA AN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHARU SARAN MADESWARAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-RS</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <h4>2026 Singapore Youth Festival Arts Presentation - Modern Dance - <strong>Certificate of Distinction</strong></h4>
 </th>
 </tr>
