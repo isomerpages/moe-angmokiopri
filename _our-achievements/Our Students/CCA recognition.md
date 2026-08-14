@@ -599,6 +599,174 @@ third_nav_title: Our Students
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Model Student Award - CCA</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TABLE TENNIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TOH HENG HSUAN SOPHIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BASKETBALL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WONG ZHI KAI, ETHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BADMINTON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZENITH KUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FOOTBALL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GARG ARGHYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TRACK AND FIELD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HENG YING XUAN FAITH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RED CROSS YOUTH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LU SHIQI SHAVELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MODERN DANCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NADELLA THANMAYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHOIR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ARUN KRISHKARTHIKEYAN&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT CLUB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GABRIEL LOO QUAN HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ART &amp; CRAFTS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JESSIE TAY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL DRAMA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FREEDIA CHEOW JIE YU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCOUTS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHANG ENYANG DANIEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PictureCCA.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong><u>2025</u></strong></h4>
 <h4><strong><u>2025 SEMESTER 2 AMKP Model Student Award (CCA)</u></strong></h4>
 <table style="minWidth: 75px">
