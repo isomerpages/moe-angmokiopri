@@ -15,7 +15,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4>SYF The Youth Station Project 2026 - <strong>Select Category</strong></h4>
+<h4>SYF 2026 The Youth Station Project Produced! - <strong>SELECT Category</strong></h4>
 <p>Song Title: Crossroads</p>
 </th>
 </tr>
@@ -31,7 +31,7 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hyoyeon</p>
+<p>Kim Hyoyeon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-RP</p>
@@ -39,7 +39,7 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shavelle</p>
+<p>Liu Shiqi Shavelle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-RP</p>
