@@ -15,7 +15,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4>SYF Youth Station Project, songwriting competition - <strong>Finalist</strong></h4>
+<h4>SYF Youth Station Project, songwriting competition - <strong>Select! Category</strong></h4>
 <p>Song Title: Crossroads</p>
 </th>
 </tr>
@@ -34,7 +34,7 @@ third_nav_title: Our Students
 <p>Hyoyeon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5</p>
+<p>P6-RP</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ third_nav_title: Our Students
 <p>Shavelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6</p>
+<p>P6-RP</p>
 </td>
 </tr>
 </tbody>
