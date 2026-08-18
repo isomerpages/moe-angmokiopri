@@ -15,7 +15,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Scouts Best Unit Competition 2025 - Frank Cooper Sand Award</strong></h4>
+<h4><strong>Scouts Best Unit Competition 2025 - Frank Cooper Sands Award</strong></h4>
 </td>
 </tr>
 <tr>
