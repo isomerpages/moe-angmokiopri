@@ -15,7 +15,7 @@ third_nav_title: Our Students
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4>SYF Youth Station Project, songwriting competition - <strong>Select! Category</strong></h4>
+<h4>SYF The Youth Station Project 2026 - <strong>Select Category</strong></h4>
 <p>Song Title: Crossroads</p>
 </th>
 </tr>
