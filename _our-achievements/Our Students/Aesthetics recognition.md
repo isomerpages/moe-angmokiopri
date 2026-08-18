@@ -31,7 +31,7 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hyoyeon</p>
+<p>Kim Hyoyeon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-RP</p>
@@ -39,7 +39,7 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shavelle</p>
+<p>Liu Shiqi Shavelle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6-RP</p>
