@@ -13,16 +13,9 @@ variant: tiptap
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MK (formal) Staff Photo 2026" src="/images/New_STAFF_FORMAL.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MK (Informal) Staff Photo 2026" src="/images/new_STAFF_FUN.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/2025_MK_Staff.jpg">
-</div>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
