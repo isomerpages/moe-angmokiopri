@@ -14,6 +14,111 @@ third_nav_title: Our Students
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="2">
+<h4>First Lego League (FLL) 2026 - Certificate of Participation</h4>
+<p>Robotics CCA</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YUEN TE CHIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TETTU KOMANDUR KAUSHAL&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MERWIN CHONG YI SAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LI SIH YAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HARITH ANAQI BIN MUHAMAD ATIQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KAUNG NYAN HEIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOANG VO BAO SAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG HAO CHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-CA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WANG ZICHEN MARCUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>REYN TAN LE XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-IN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="2">
 <h4><strong>Scouts Best Unit Competition 2025 - Frank Cooper Sands Award</strong></h4>
 </td>
@@ -268,7 +373,7 @@ third_nav_title: Our Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name </strong>
+<p><strong>Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
