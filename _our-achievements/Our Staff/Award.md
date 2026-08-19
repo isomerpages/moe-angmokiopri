@@ -9,6 +9,54 @@ third_nav_title: Our Staff
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/banneramk.jpg">
 </div>
 <h4>Congratulation to all our staff on their achievements! We are proud of you!</h4>
+<h3><strong>2026</strong></h3>
+<h4><strong><u>National Day Awards 2026</u></strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Recipient</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Valerie Chua Ruishan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation Medal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yim Keat Yee</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>The Long Service Medal, 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Mui Mui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ariyanti Btw Sukaimi</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h3><strong>2025</strong></h3>
 <h4><strong><u>AMKP Outstanding Contribution Award (OCA) 2025</u></strong></h4>
 <div class="isomer-image-wrapper">
