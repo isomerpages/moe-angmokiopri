@@ -29,9 +29,6 @@ and prepare our students for the future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Aim_Every_child__experiencing_the_wonder_of_art_and_music__uncovers_their_creative_spark_and_flourishes_into_a_confident__expressive_individual__enriching_the_world_around_them__Our_Approach_W.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="481" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXchfNx6GhTBYNtwZ4frP8gaOSk9FoiraRbYWTYYqo-rHrdX9amf4GoTh3HqZJE4XI_Vsi_3FK21jxz3rh_ouVHsXq_ObCahsDdCrolYH_b9XkDx4ZuCm_8dMW0Wumjcwxtx5D4bQw?key=p1WLlIUdYSGhwMYrSEfkkGU9">
-</div>
 <h4><strong>Enrich</strong></h4>
 <p>We deepen students' artistic experiences through curated programmes and
 valued partnerships. Our students engage with professional artists, experience
@@ -59,9 +56,6 @@ project supported by the National Arts Council)</p>
 <p>P5 Creative Bin Project (in partnership with Ang Mo Kio Town Council)</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="481" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRYgLSnhUeO2rHVcn5yb73eCCh_1oTxRDreA88ISmDdDWxgmTSfwfsox0wCntWjkGaNGfH1zZKUcOkqE_3APuvSoVroZyn0GQzxgTOrc8__ntFPI4mK52BoK5XGFqYVclSVSsG?key=p1WLlIUdYSGhwMYrSEfkkGU9">
-</div>
 <p></p>
 <h4><strong>Empower</strong></h4>
 <p>We nurture student leadership and develop artistic excellence through
@@ -97,9 +91,6 @@ to live presentations. The programme features both live and digital formats:</p>
 <li>
 <p>Makers@Recess activities</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="481" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdF6GOL1_7Qc1qRpTAhSAH_xsR9QEckxDTUzDIJ0oUbODLwAEKrbBlSeefd4uxkNwe4q66uumcoMpAhUMQ1QNzYAZ4VJ_L5G4HEnAwrxXF0caCAL1e4Dd2Dz5fcg4u1UZljKTLk?key=p1WLlIUdYSGhwMYrSEfkkGU9">
-</div><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/amkpkaleidoscope/about"><img style="margin-left:0px;margin-top:0px;" height="259" width="259" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdf7u9dsOzO25qZeZorWCq-2woBCAyPIah1LM-z7HBsneav9K6Itcl9KIHK4W0dP4TQzmK4h3lfnCqS86ySS-_sq4_P12UEuUcN6V9hkyuITVwAs1cvn1PUs5QXlxzfS_780jWmLg?key=p1WLlIUdYSGhwMYrSEfkkGU9"></a>
 <p></p>
 </li>
 </ul>
